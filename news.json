@@ -1,121 +1,214 @@
 {
-  "updated": "2026-10-22T00:21:53.103199+00:00",
+  "updated": "2026-10-22T01:15:23.630533+00:00",
   "articles": [
     {
-      "title": "台風 23日から沖縄先島諸島に接近",
-      "link": "https://news.yahoo.co.jp/pickup/6599654?source=rss"
+      "category": "主要",
+      "title": "社会人向け新教職課程 創設の方針",
+      "link": "https://news.yahoo.co.jp/pickup/6599664?source=rss",
+      "published": "10/22 09:35",
+      "source": "Yahoo!ニュース",
+      "summary": "文部科学省は、社会人が学校現場で働き、給与を得ながら教員免許を１年以内で取得できる教職課程を大学院に創設する方針を固めた。２０３０年度までの導入を目指す。大学院と教育委員会が協力してカリキュラムを作"
     },
     {
-      "title": "G7TV会議を首相欠席 与野党波紋",
-      "link": "https://news.yahoo.co.jp/pickup/6599660?source=rss"
-    },
-    {
-      "title": "PHPに欠陥 欧州各国でサイト遮断",
-      "link": "https://news.yahoo.co.jp/pickup/6599650?source=rss"
-    },
-    {
-      "title": "PHPの脆弱性 米OpenAIのAIで発見",
-      "link": "https://news.yahoo.co.jp/pickup/6599651?source=rss"
-    },
-    {
-      "title": "メタに約4兆円支払い命令 米地裁",
-      "link": "https://news.yahoo.co.jp/pickup/6599658?source=rss"
-    },
-    {
-      "title": "ヒマラヤ山脈 日本人2人が不明",
-      "link": "https://news.yahoo.co.jp/pickup/6599653?source=rss"
-    },
-    {
-      "title": "高橋塁 ゲイ公表までの葛藤を語る",
-      "link": "https://news.yahoo.co.jp/pickup/6599656?source=rss"
-    },
-    {
-      "title": "柳楽優弥 日曜劇場に初出演で主演",
-      "link": "https://news.yahoo.co.jp/pickup/6599655?source=rss"
-    },
-    {
-      "title": "武部農相に選挙運動員買収疑惑",
-      "link": "https://news.yahoo.co.jp/pickup/6599608?source=rss"
-    },
-    {
-      "title": "政権発足1年受け首相が意気込み",
-      "link": "https://news.yahoo.co.jp/pickup/6599586?source=rss"
-    },
-    {
-      "title": "復興相の事務所数 公選法違反疑い",
-      "link": "https://news.yahoo.co.jp/pickup/6599609?source=rss"
-    },
-    {
-      "title": "自民 衆院定数の削減幅を31で調整",
-      "link": "https://news.yahoo.co.jp/pickup/6599633?source=rss"
-    },
-    {
-      "title": "電気ガス料金 1～3月分の補助検討",
-      "link": "https://news.yahoo.co.jp/pickup/6599582?source=rss"
-    },
-    {
-      "title": "コンセントで感電 子供の事故注意",
-      "link": "https://news.yahoo.co.jp/pickup/6599610?source=rss"
-    },
-    {
-      "title": "EVの補助金引き下げ 27年1月から",
-      "link": "https://news.yahoo.co.jp/pickup/6599642?source=rss"
-    },
-    {
-      "title": "SpaceXとテスラ 経営統合を検討",
-      "link": "https://news.yahoo.co.jp/pickup/6599543?source=rss"
-    },
-    {
-      "title": "米ネトフリ純利益44%増 7～9月期",
-      "link": "https://news.yahoo.co.jp/pickup/6599584?source=rss"
-    },
-    {
-      "title": "フラット35 全国で不適正利用64件",
-      "link": "https://news.yahoo.co.jp/pickup/6599514?source=rss"
-    },
-    {
-      "title": "北海道職員が「就活セクハラ」か",
-      "link": "https://news.yahoo.co.jp/pickup/6599546?source=rss"
-    },
-    {
-      "title": "マック390円セット 全国販売開始",
-      "link": "https://news.yahoo.co.jp/pickup/6599592?source=rss"
-    },
-    {
-      "title": "Z世代人気の無人カフェ 拡大の訳",
-      "link": "https://news.yahoo.co.jp/pickup/6599548?source=rss"
-    },
-    {
-      "title": "カフェインレスコーヒー 市場拡大",
-      "link": "https://news.yahoo.co.jp/pickup/6599579?source=rss"
-    },
-    {
+      "category": "主要",
       "title": "情報抜き取りに15秒 悪用指摘のAI",
-      "link": "https://news.yahoo.co.jp/pickup/6599661?source=rss"
+      "link": "https://news.yahoo.co.jp/pickup/6599661?source=rss",
+      "published": "10/22 09:04",
+      "source": "Yahoo!ニュース",
+      "summary": "企業などへのサイバー攻撃での悪用が指摘されている中国語のＡＩ（人工知能）エージェント「ＡＲＴＥＸ（アルテックス）」について、ダミーサイトで攻撃性能をテストしたところ、脆弱（ぜいじゃく）性の診断から個"
     },
     {
+      "category": "主要",
+      "title": "G7TV会議を首相欠席 与野党波紋",
+      "link": "https://news.yahoo.co.jp/pickup/6599660?source=rss",
+      "published": "10/22 08:55",
+      "source": "Yahoo!ニュース",
+      "summary": "21日で政権発足から1年を迎えた高市早苗首相が今月2日の先進7カ国（G7）テレビ会議を欠席し、与野党に波紋を広げている。首相は回線接続のための業者の手配が間に合わなかったと釈明。事実なら緊急時に国際"
+    },
+    {
+      "category": "主要",
+      "title": "PHPの脆弱性 米OpenAIのAIで発見",
+      "link": "https://news.yahoo.co.jp/pickup/6599651?source=rss",
+      "published": "10/22 07:32",
+      "source": "Yahoo!ニュース",
+      "summary": "米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。「同様の発見は今後数カ月"
+    },
+    {
+      "category": "主要",
+      "title": "仕事探し困難「通信困窮」の実態",
+      "link": "https://news.yahoo.co.jp/pickup/6599665?source=rss",
+      "published": "10/22 09:46",
+      "source": "Yahoo!ニュース",
+      "summary": "現代の社会生活において、スマートフォンは欠かせない。だが料金滞納による強制解約を機に、住居や仕事探しが困難になり、路上生活などに転落する人々がいる。とりわけ就職氷河期世代の男性が陥りやすい「通信困窮"
+    },
+    {
+      "category": "主要",
+      "title": "准教授の発表 学生の卒論と酷似か",
+      "link": "https://news.yahoo.co.jp/pickup/6599667?source=rss",
+      "published": "10/22 09:59",
+      "source": "Yahoo!ニュース",
+      "summary": "広島県福山市の福山市立大教育学部の准教授が学生の卒業研究論文を自らの研究として学会の大会で発表した疑いがあることが21日、分かった。同大は事態を把握しており、准教授らに経緯を確認した上で処分も含めて"
+    },
+    {
+      "category": "主要",
+      "title": "韓国発大容量カフェ なぜ日本上陸",
+      "link": "https://news.yahoo.co.jp/pickup/6599666?source=rss",
+      "published": "10/22 09:48",
+      "source": "Yahoo!ニュース",
+      "summary": "2026年8月、“大容量・低価格”を売りにする韓国発のコーヒーチェーンが相次いで東京・新橋に進出した。商品によっては700mlから1リットルほどにもなるドリンクを、手頃な価格で提供するのが特徴だ。"
+    },
+    {
+      "category": "主要",
+      "title": "高橋塁 ゲイ公表までの葛藤を語る",
+      "link": "https://news.yahoo.co.jp/pickup/6599656?source=rss",
+      "published": "10/22 08:15",
+      "source": "Yahoo!ニュース",
+      "summary": "自身がゲイ（男性の同性愛者）であることをSNSで公表したバレーボール男子の高橋塁選手（26）=サントリーサンバーズ大阪=が単独インタビューに応じ、公表に至るまでの葛藤や思いを語った。日本のトップスポ"
+    },
+    {
+      "category": "社会",
+      "title": "武部農相に選挙運動員買収疑惑",
+      "link": "https://news.yahoo.co.jp/pickup/6599608?source=rss",
+      "published": "10/21 18:47",
+      "source": "Yahoo!ニュース",
+      "summary": "武部新・農水相（56）が2024年衆院選で運動員買収を行っていた疑いがあることが「 週刊文春 」の取材で分かった。"
+    },
+    {
+      "category": "社会",
+      "title": "台風 23日から沖縄先島諸島に接近",
+      "link": "https://news.yahoo.co.jp/pickup/6599654?source=rss",
+      "published": "10/22 07:38",
+      "source": "Yahoo!ニュース",
+      "summary": "大型で猛烈な台風30号は、今後沖縄の南を北西に進み、23日(金)から24日(土)にかけて非常に強い勢力で沖縄の先島諸島に接近する見込みです。暴風や高波、大雨に厳重な警戒が必要です。また、台風周辺の湿"
+    },
+    {
+      "category": "社会",
+      "title": "政権発足1年受け首相が意気込み",
+      "link": "https://news.yahoo.co.jp/pickup/6599586?source=rss",
+      "published": "10/21 15:44",
+      "source": "Yahoo!ニュース",
+      "summary": "高市総理は政権発足から1年を迎えたことを受け、「きょうから2年目の挑戦が始まる。目下の重要政策は、世界的な物価高を受けてのさらなる対策強化だ」と意気込みを語りました。"
+    },
+    {
+      "category": "社会",
+      "title": "復興相の事務所数 公選法違反疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6599609?source=rss",
+      "published": "10/21 19:15",
+      "source": "Yahoo!ニュース",
+      "summary": "細野豪志復興相（55）が2024年10月の衆院選で、公職選挙法で定められた上限を超える数の選挙事務所を設置していた疑いがあることが、「 週刊文春 」の取材でわかった。細野氏は選挙運動費用収支報告書を"
+    },
+    {
+      "category": "社会",
+      "title": "自民 衆院定数の削減幅を31で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6599633?source=rss",
+      "published": "10/22 02:42",
+      "source": "Yahoo!ニュース",
+      "summary": "自民党は与野党間で協議している衆院選挙制度改革を巡り、折衷案として衆院議員定数の削減幅を31議席とする調整に入った。早ければ22日に予定される政党間協議で各党へ提示する。複数の関係者が21日、明らか"
+    },
+    {
+      "category": "社会",
+      "title": "コンセントで感電 子供の事故注意",
+      "link": "https://news.yahoo.co.jp/pickup/6599610?source=rss",
+      "published": "10/21 19:17",
+      "source": "Yahoo!ニュース",
+      "summary": "コンセントに針金などの金属を差し込み感電するなどの事故が、9歳以下の子どもを中心に報告されているとして、国民生活センターが注意を呼びかけています。"
+    },
+    {
+      "category": "経済",
+      "title": "EVの補助金引き下げ 27年1月から",
+      "link": "https://news.yahoo.co.jp/pickup/6599642?source=rss",
+      "published": "10/21 23:37",
+      "source": "Yahoo!ニュース",
+      "summary": "経済産業省は10月21日、電気自動車（EV）などの購入を補助する「クリーンエネルギー自動車導入促進補助金（CEV補助金）」について、補助額を見直すと発表した。補助額を現在の6～8割ほどに抑える。20"
+    },
+    {
+      "category": "経済",
+      "title": "米ネトフリ純利益44%増 7～9月期",
+      "link": "https://news.yahoo.co.jp/pickup/6599584?source=rss",
+      "published": "10/21 14:50",
+      "source": "Yahoo!ニュース",
+      "summary": "【ニューヨーク共同】米動画配信大手ネットフリックスが20日発表した2026年7～9月期決算は、純利益が前年同期比44％増の36億6392万ドル（約5800億円）、売上高は12％増の128億7417万"
+    },
+    {
+      "category": "経済",
+      "title": "米メタ 7-9月期決算で26%増収",
+      "link": "https://news.yahoo.co.jp/pickup/6599663?source=rss",
+      "published": "10/22 09:28",
+      "source": "Yahoo!ニュース",
+      "summary": "【ニューヨーク時事】米メタ（旧フェイスブック）が21日発表した2026年7～9月期決算は、売上高が前年同期比26％増の646億ドル（約10兆2000億円）だった。"
+    },
+    {
+      "category": "経済",
+      "title": "マック390円セット 全国販売開始",
+      "link": "https://news.yahoo.co.jp/pickup/6599592?source=rss",
+      "published": "10/21 16:48",
+      "source": "Yahoo!ニュース",
+      "summary": "日本マクドナルドは21日、サイドメニューとドリンクMサイズのセットを390円で楽しめる「390ペア」の全国販売を始めた。単品購入と比べ最大250円お得になる。午後2時以降に提供し、休憩目的の利用客の"
+    },
+    {
+      "category": "経済",
+      "title": "Z世代人気の無人カフェ 拡大の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6599548?source=rss",
+      "published": "10/21 09:26",
+      "source": "Yahoo!ニュース",
+      "summary": "都心では「カフェ難民」という言葉がいわれるほど、待ち合わせや懇談場所としての人気カフェが取り合いとなっている。"
+    },
+    {
+      "category": "経済",
+      "title": "カフェインレスコーヒー 市場拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6599579?source=rss",
+      "published": "10/21 14:08",
+      "source": "Yahoo!ニュース",
+      "summary": "カフェインレス(デカフェ)コーヒーの市場が広がっている。この5年間でデカフェ豆の輸入量は約2倍に拡大した。"
+    },
+    {
+      "category": "AI・テクノロジー",
       "title": "PHPに重大欠陥 Webの7割で使用",
-      "link": "https://news.yahoo.co.jp/pickup/6599637?source=rss"
+      "link": "https://news.yahoo.co.jp/pickup/6599637?source=rss",
+      "published": "10/21 22:52",
+      "source": "Yahoo!ニュース",
+      "summary": "経済産業省が所管する独立行政法人の情報処理推進機構（IPA）は21日、ウェブページに使われているプログラミング言語「PHP」にシステムの重大な欠陥に当たる脆弱性が見つかったと発表した。同日深夜に公開"
     },
     {
+      "category": "AI・テクノロジー",
       "title": "コミックシーモア最大420万件流出",
-      "link": "https://news.yahoo.co.jp/pickup/6599646?source=rss"
+      "link": "https://news.yahoo.co.jp/pickup/6599646?source=rss",
+      "published": "10/22 06:22",
+      "source": "Yahoo!ニュース",
+      "summary": "ＮＴＴソルマーレは２１日、国内最大級の電子書籍ストア「コミックシーモア」への不正アクセスによる個人情報流出が、最大約４２０万件に上るとの調査結果を発表した。"
     },
     {
+      "category": "AI・テクノロジー",
       "title": "大食い動画規制の動き 投稿者動揺",
-      "link": "https://news.yahoo.co.jp/pickup/6599612?source=rss"
+      "link": "https://news.yahoo.co.jp/pickup/6599612?source=rss",
+      "published": "10/21 19:44",
+      "source": "Yahoo!ニュース",
+      "summary": "大量の料理を食べる様子を配信し人気を集める「大食い動画」を巡り、韓国の投稿者から「収益化を停止された」との報告が相次ぎ、日本の投稿者にも動揺が走った。背景にあるのは「摂食障害（摂食症）」を助長する恐"
     },
     {
+      "category": "AI・テクノロジー",
       "title": "下積み仕事はAIに 若手育成の今後",
-      "link": "https://news.yahoo.co.jp/pickup/6599563?source=rss"
+      "link": "https://news.yahoo.co.jp/pickup/6599563?source=rss",
+      "published": "10/21 13:50",
+      "source": "Yahoo!ニュース",
+      "summary": "「新人に任せる仕事が、もうない」。そんな声が現実になりつつある。米アンソロピックは10月16日、社内データを公表した。技術職の採用に占める若手の比率は、27％から9％に下がったという。ハーバード大学の"
     },
     {
+      "category": "AI・テクノロジー",
       "title": "「カーセンサーnet」情報漏えいか",
-      "link": "https://news.yahoo.co.jp/pickup/6599567?source=rss"
+      "link": "https://news.yahoo.co.jp/pickup/6599567?source=rss",
+      "published": "10/21 12:06",
+      "source": "Yahoo!ニュース",
+      "summary": "不正アクセス…「深くお詫び申し上げます」 リクルートは21日、同社が運営する中古車情報サイト『カーセンサーnet』と中古車販売店向け業務支援サービス『C-MATCH』に不正アクセスがあり、利用者や取"
     },
     {
+      "category": "AI・テクノロジー",
       "title": "フジ 番宣システムに不正アクセス",
-      "link": "https://news.yahoo.co.jp/pickup/6599561?source=rss"
+      "link": "https://news.yahoo.co.jp/pickup/6599561?source=rss",
+      "published": "10/21 11:32",
+      "source": "Yahoo!ニュース",
+      "summary": "フジテレビは20日、公式サイトを更新。同局の番組宣伝システムに対し第三者による不正アクセスが発生し、メディア関係者の個人情報が外部に流出した可能性があると発表した。"
     }
-  ]
+  ],
+  "errors": []
 }
