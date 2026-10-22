@@ -33,5 +33,5 @@ while any(groups.values()):
  for k,_ in FEEDS:
   if groups[k]:mixed.append(groups[k].pop(0))
 now=datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=9))).strftime('%Y-%m-%d %H:%M JST')
-path.write_text(json.dumps({'updated':now,'items':mixed,'errors':errors},ensure_ascii=False,indent=2),encoding='utf-8')
+path.write_text(json.dumps({'updated':now,'articles':mixed,'errors':errors},ensure_ascii=False,indent=2),encoding='utf-8')
 print('Saved',len(mixed),'articles; errors:',errors)
