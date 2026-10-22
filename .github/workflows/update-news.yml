@@ -1,0 +1,82 @@
+
+name: Update Japanese news
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Japanese news
+        run: |
+          python3 - <<'PY'
+          import urllib.request
+          import xml.etree.ElementTree as ET
+          import json
+          import datetime
+
+          feeds = [
+              "https://news.yahoo.co.jp/rss/topics/top-picks.xml",
+              "https://news.yahoo.co.jp/rss/topics/domestic.xml",
+              "https://news.yahoo.co.jp/rss/topics/business.xml",
+              "https://news.yahoo.co.jp/rss/topics/it.xml"
+          ]
+
+          articles = []
+          seen = set()
+
+          for feed in feeds:
+              try:
+                  req = urllib.request.Request(
+                      feed,
+                      headers={"User-Agent": "Mozilla/5.0"}
+                  )
+                  with urllib.request.urlopen(req, timeout=20) as response:
+                      root = ET.fromstring(response.read())
+
+                  for item in root.findall(".//item"):
+                      title = item.findtext("title", "").strip()
+                      link = item.findtext("link", "").strip()
+                      if title and title not in seen:
+                          seen.add(title)
+                          articles.append({
+                              "title": title,
+                              "link": link
+                          })
+              except Exception as e:
+                  print("Feed error:", feed, e)
+
+          if not articles:
+              raise RuntimeError("ニュースを取得できませんでした")
+
+          data = {
+              "updated": datetime.datetime.now(
+                  datetime.timezone.utc
+              ).isoformat(),
+              "articles": articles
+          }
+
+          with open("news.json", "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+
+          print("Saved", len(articles), "articles")
+          PY
+
+      - name: Commit news
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          git diff --cached --quiet || (
+            git commit -m "Update news" &&
+            git push
+          )
