@@ -1,13 +1,109 @@
 {
-  "updated": "2026-10-22T09:28:59.312166+00:00",
+  "updated": "2026-10-22T14:42:40.204271+00:00",
   "articles": [
     {
       "category": "主要",
+      "title": "初の核最終処分場の操業決定 北欧",
+      "link": "https://news.yahoo.co.jp/pickup/6599748?source=rss",
+      "published": "10/22 23:28",
+      "source": "Yahoo!ニュース",
+      "summary": "【ロンドン共同】フィンランド政府は22日、原発から出る高レベル放射性廃棄物（核のごみ）を処分するため同国で整備が進む最終処分場「オンカロ」に操業許可を出した。世界初の核のごみの最終処分場となる。地下"
+    },
+    {
+      "category": "社会",
+      "title": "発足1年の高市政権 麻生氏が評価",
+      "link": "https://news.yahoo.co.jp/pickup/6599724?source=rss",
+      "published": "10/22 19:11",
+      "source": "Yahoo!ニュース",
+      "summary": "自民党の麻生太郎副総裁は22日、自身が率いる麻生派会合で、発足から1年を迎えた高市早苗政権に関し「この1年、日本は間違いなく明るくなったと感じる」と評価した。"
+    },
+    {
+      "category": "経済",
+      "title": "関東でスガキヤ行列 愛知県民驚き",
+      "link": "https://news.yahoo.co.jp/pickup/6599726?source=rss",
+      "published": "10/22 19:44",
+      "source": "Yahoo!ニュース",
+      "summary": "ファストフードチェーン「スガキヤ」が関東に再進出したことが、話題になっている。10月15日、横浜市緑区の商業施設「カエデウォーク長津田」の2階フードコートに新店舗がオープン。約20年ぶりの関東出店に"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "漢字検定X「祭」の漢字間違える",
+      "link": "https://news.yahoo.co.jp/pickup/6599733?source=rss",
+      "published": "10/22 20:37",
+      "source": "Yahoo!ニュース",
+      "summary": "日本漢字能力検定協会の公式Xは10月20日、18日に投稿したAI画像の中に誤字があったと発表しました。「祭」の文字が間違えており、フォロワーの指摘により発覚。同協会では「誤字がございました。誠に申し"
+    },
+    {
+      "category": "スポーツ",
+      "title": "ドラフトで14歳を指名 実現した訳",
+      "link": "https://news.yahoo.co.jp/pickup/6599738?source=rss",
+      "published": "10/22 21:38",
+      "source": "Yahoo!ニュース",
+      "summary": "「新人選手」の定義には中学校も明記「プロ野球ドラフト会議 supported by リポビタンD」が22日、都内のホテルで行われ、巨人が育成5位で川崎市立向丘中の関蓮太郎捕手を指名した。U-15日本"
+    },
+    {
+      "category": "IT",
+      "title": "PHP脆弱性でいち早くサービス停止したコドモン　背景に「被害が出てからでは取り消せない」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002528/",
+      "published": "10/22 21:11",
+      "source": "ITmedia",
+      "summary": "保育・教育施設向けITサービス「コドモン」を運営するコドモンは10月22日、ITmedia NEWSの取材に対し、21日からの全サービス停止はPHPの「緊急」レベルの脆弱性2件への予防措置だったと明らかにした。不正アクセスや情報漏えいは確認されていないという。"
+    },
+    {
+      "category": "主要",
+      "title": "14歳を指名 巨人が育成プラン説明",
+      "link": "https://news.yahoo.co.jp/pickup/6599747?source=rss",
+      "published": "10/22 23:10",
+      "source": "Yahoo!ニュース",
+      "summary": "「プロ野球ドラフト会議supported by リポビタンD」が22日、都内のホテルで行われた。巨人は育成ドラフト5位で神奈川県川崎市立・向丘中に在学中の関蓮太郎捕手（14）を指名した。"
+    },
+    {
+      "category": "社会",
       "title": "台風30号 非常に強い勢力で沖縄へ",
       "link": "https://news.yahoo.co.jp/pickup/6599718?source=rss",
       "published": "10/22 18:04",
       "source": "Yahoo!ニュース",
       "summary": "大型で非常に強い台風30号は、あす23日(金)から24日(土)にかけて、石垣島など沖縄の先島諸島に近づく見込みです。その後、週明けには西日本に近づくおそれがあり、注意が必要です。"
+    },
+    {
+      "category": "経済",
+      "title": "王子コンテナーに公取委が勧告",
+      "link": "https://news.yahoo.co.jp/pickup/6599705?source=rss",
+      "published": "10/22 16:36",
+      "source": "Yahoo!ニュース",
+      "summary": "自社や顧客が所有する印版などを下請け業者に無償で保管させたとして、公正取引委員会は22日、王子ホールディングスのグループ会社で段ボール製造販売大手「王子コンテナー」（東京都中央区）の下請け法（現・中"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "カプコン 1177万件の情報漏えい",
+      "link": "https://news.yahoo.co.jp/pickup/6599723?source=rss",
+      "published": "10/22 18:54",
+      "source": "Yahoo!ニュース",
+      "summary": "クレジットカード情報は含まれず カプコンは22日、公式サイトを更新。同社が運営するオンライン会員サービス「CAPCOM ID」で、第三者による不正アクセスが発生し、情報の一部が外部に漏えいしたと発表"
+    },
+    {
+      "category": "スポーツ",
+      "title": "巨人 14歳の中学生を育成5位指名",
+      "link": "https://news.yahoo.co.jp/pickup/6599736?source=rss",
+      "published": "10/22 20:48",
+      "source": "Yahoo!ニュース",
+      "summary": "「プロ野球ドラフト会議 supported by リポビタンD」が22日に都内のホテルで行われた。巨人は育成5位指名で川崎市立向丘中学校の14歳・関蓮太郎捕手を指名した。"
+    },
+    {
+      "category": "IT",
+      "title": "PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表　混乱広げた企業を名指しで批判",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002525/",
+      "published": "10/22 18:29",
+      "source": "ITmedia",
+      "summary": "PHP脆弱性がこれほどまでに世間を騒がせたのは、その緊急性はもちろん、本来伏せておくべきだった情報の先出しが影響している。開発プロジェクトを支援するThe PHP Foundation（PHP財団）が経緯を公開した。"
+    },
+    {
+      "category": "主要",
+      "title": "三菱自 ホンダに車両供給で合意",
+      "link": "https://news.yahoo.co.jp/pickup/6599746?source=rss",
+      "published": "10/22 23:06",
+      "source": "Yahoo!ニュース",
+      "summary": "ホンダと三菱自動車は22日、三菱自がピックアップトラック「トライトン」をホンダに供給することで合意したと発表した。ホンダは東南アジア諸国連合（ASEAN）向けに2028年中に発売する予定。両社が検討"
     },
     {
       "category": "社会",
@@ -27,35 +123,35 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "PHPの脆弱性 10年以上発見されず",
-      "link": "https://news.yahoo.co.jp/pickup/6599674?source=rss",
-      "published": "10/22 11:33",
+      "title": "PHP脆弱性悪用の試み増 数百万件",
+      "link": "https://news.yahoo.co.jp/pickup/6599702?source=rss",
+      "published": "10/22 16:54",
       "source": "Yahoo!ニュース",
-      "summary": "（ブルームバーグ）:広く使われているオープンソースのプログラミング言語「PHP」に見つかった脆弱性を巡り、米政府当局は連邦機関や重要インフラへの影響を防ぐため、対応を進めている。ホワイトハウス当局者"
+      "summary": "Cloudflareのマシュー・プリンスCEOは10月22日10時25分ごろ、PHPの脆弱性「php2shell」を悪用しようとする通信が同社ネットワークで増えていると公式Xで報告した。公表前の10"
     },
     {
       "category": "スポーツ",
-      "title": "プロ野球ドラフト会議 SNSの反応",
-      "link": "https://news.yahoo.co.jp/pickup/6599708?source=rss",
-      "published": "10/22 17:01",
+      "title": "ドラフト会議 12球団の指名一覧",
+      "link": "https://news.yahoo.co.jp/pickup/6599734?source=rss",
+      "published": "10/22 20:43",
       "source": "Yahoo!ニュース",
-      "summary": "「リアルタイム検索」では、「プロ野球ドラフト会議」を巡るXの投稿をまとめて表示しています。"
+      "summary": "プロ野球・ドラフト会議、12球団の指名選手一覧。"
     },
     {
       "category": "IT",
-      "title": "カプコン、1177万件漏えい　不正アクセスで",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002523/",
-      "published": "10/22 17:24",
+      "title": "手のひらサイズの“宇宙AIデータセンター”？　JAXA後押しの国内新興が実現目指す　南極・高山での利用も視野",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002510/",
+      "published": "10/22 18:00",
       "source": "ITmedia",
-      "summary": "カプコンは10月22日、不正アクセスにより会員サービス「CAPCOM ID」の情報が1177万4247件漏えいしたと発表した。"
+      "summary": "宇宙で取得したデータをその場で小型のAIに処理させ、軽量化してから地上に下ろす──という仕組みの実現を目指す日本初ベンチャー、技術開発の進捗は。"
     },
     {
       "category": "主要",
-      "title": "ドラフト速報 12球団の指名は",
-      "link": "https://news.yahoo.co.jp/pickup/6599717?source=rss",
-      "published": "10/22 17:59",
+      "title": "免税制度変更へ「転売ヤー」防ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6599745?source=rss",
+      "published": "10/22 22:50",
       "source": "Yahoo!ニュース",
-      "summary": "プロ野球・ドラフト会議を速報する。"
+      "summary": "外国からの旅行客が消費税分を負担せずに買い物できる「免税制度」が、来月から変わります。"
     },
     {
       "category": "社会",
@@ -71,39 +167,39 @@
       "link": "https://news.yahoo.co.jp/pickup/6599679?source=rss",
       "published": "10/22 12:06",
       "source": "Yahoo!ニュース",
-      "summary": "ウェブサイトなどに使われるプログラミング言語「PHP」に重大な脆弱（ぜいじゃく）性が見つかり、金融機関が予防的な措置としてサービスを停止するなど、国内の企業・団体は対応に追われている。"
+      "summary": "ウェブサイトなどに使われるプログラミング言語「PHP」に重大な脆弱（ぜいじゃく）性が見つかった問題で、金融機関が予防的な措置としてサービスを停止するなど、国内の企業・団体は対応に追われた。"
     },
     {
       "category": "AI・テクノロジー",
-      "title": "情報抜き取りに15秒 悪用指摘のAI",
-      "link": "https://news.yahoo.co.jp/pickup/6599661?source=rss",
-      "published": "10/22 09:04",
+      "title": "PHPの脆弱性 10年以上発見されず",
+      "link": "https://news.yahoo.co.jp/pickup/6599674?source=rss",
+      "published": "10/22 11:33",
       "source": "Yahoo!ニュース",
-      "summary": "企業などへのサイバー攻撃での悪用が指摘されている中国語のＡＩ（人工知能）エージェント「ＡＲＴＥＸ（アルテックス）」について、ダミーサイトで攻撃性能をテストしたところ、脆弱（ぜいじゃく）性の診断から個"
+      "summary": "（ブルームバーグ）:広く使われているオープンソースのプログラミング言語「PHP」に見つかった脆弱性を巡り、米政府当局は連邦機関や重要インフラへの影響を防ぐため、対応を進めている。ホワイトハウス当局者"
     },
     {
       "category": "スポーツ",
-      "title": "織田翔希MLB挑戦表明 現地評価は",
-      "link": "https://news.yahoo.co.jp/pickup/6599682?source=rss",
-      "published": "10/22 12:48",
+      "title": "はなわ長男 プロレスデビュー決定",
+      "link": "https://news.yahoo.co.jp/pickup/6599731?source=rss",
+      "published": "10/22 20:31",
       "source": "Yahoo!ニュース",
-      "summary": "横浜高の織田翔希投手は、10月22日のドラフト会議で1位指名の競合が確実視されていた。だが、日本球界ではなく米国挑戦を表明した。最速157キロ右腕は、MLB球団からどう評価されているのか。 国際野球"
+      "summary": "◆全日本プロレス「旗揚げ記念シリーズ２０２６」（２２日、後楽園ホール） 全日本プロレスは２２日、後楽園ホールで「旗揚げ記念シリーズ２０２６」を開催した。"
     },
     {
       "category": "IT",
-      "title": "高市総理、サイバーセキュリティの本を出していた　しかも“PHP”から",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002522/",
-      "published": "10/22 17:09",
+      "title": "カプコン、1177万件漏えい　不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002523/",
+      "published": "10/22 17:24",
       "source": "ITmedia",
-      "summary": "「PHP」の緊急脆弱性でXでの注意喚起が話題になった高市早苗総理は、実はサイバーセキュリティの本を出版している。しかも版元は「PHP」だ。"
+      "summary": "カプコンは10月22日、不正アクセスにより会員サービス「CAPCOM ID」の情報が1177万4247件漏えいしたと発表した。"
     },
     {
       "category": "主要",
-      "title": "14歳の中学生が行方不明 大阪",
-      "link": "https://news.yahoo.co.jp/pickup/6599713?source=rss",
-      "published": "10/22 17:50",
+      "title": "大阪で14歳が行方不明 14日朝から",
+      "link": "https://news.yahoo.co.jp/pickup/6599744?source=rss",
+      "published": "10/22 22:43",
       "source": "Yahoo!ニュース",
-      "summary": "大阪市生野区に住む中学２年の男子生徒が今月１４日に自宅を出たのを最後に行方不明になっているとして、警察が情報提供を呼びかけています。"
+      "summary": "大阪市生野区の男子中学生が、14日朝に自宅を出てから行方不明になっていて、大阪府警が情報提供を求めています。"
     },
     {
       "category": "社会",
@@ -123,35 +219,35 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "PHPの脆弱性 米OpenAIのAIで発見",
-      "link": "https://news.yahoo.co.jp/pickup/6599651?source=rss",
-      "published": "10/22 07:32",
+      "title": "情報抜き取りに15秒 悪用指摘のAI",
+      "link": "https://news.yahoo.co.jp/pickup/6599661?source=rss",
+      "published": "10/22 09:04",
       "source": "Yahoo!ニュース",
-      "summary": "米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。「同様の発見は今後数カ月"
+      "summary": "企業などへのサイバー攻撃での悪用が指摘されている中国語のＡＩ（人工知能）エージェント「ＡＲＴＥＸ（アルテックス）」について、ダミーサイトで攻撃性能をテストしたところ、脆弱（ぜいじゃく）性の診断から個"
     },
     {
       "category": "スポーツ",
-      "title": "異例のドラフト1位公表ゼロ なぜ",
-      "link": "https://news.yahoo.co.jp/pickup/6599675?source=rss",
-      "published": "10/22 11:36",
+      "title": "指名にどよめき 織田表情変えず",
+      "link": "https://news.yahoo.co.jp/pickup/6599725?source=rss",
+      "published": "10/22 19:25",
       "source": "Yahoo!ニュース",
-      "summary": "２２日に行われるドラフト会議は、２０１３年以来１３年ぶりに１位指名選手を公表する球団がゼロのまま、当日を迎えることになった。異例の事態に至った背景を、アマ野球担当キャップの小島記者が読み解いた。"
+      "summary": "「プロ野球ドラフト会議 ｓｕｐｐｏｒｔｅｄ ｂｙ リポビタンＤ」（２２日、都内ホテル） プロ志望届を提出しながら米球界挑戦の意向を示していた横浜・織田翔希投手に対し、巨人が１位指名した。会場は「えー"
     },
     {
       "category": "IT",
-      "title": "豪州でAI「Claude」に保育施設銃撃を予告したら逮捕　弁護側「耳感染症でストレス」",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002517/",
-      "published": "10/22 15:44",
+      "title": "高市総理、サイバーセキュリティの本を出していた　しかも“PHP”から",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002522/",
+      "published": "10/22 17:09",
       "source": "ITmedia",
-      "summary": "オーストラリア・シドニー在住の29歳の男が、生成人工知能（AI）「Claude」とのチャットで保育施設での銃乱射を予告したとして逮捕・起訴された。豪紙シドニー・モーニング・ヘラルドが19日報じた。"
+      "summary": "「PHP」の緊急脆弱性でXでの注意喚起が話題になった高市早苗総理は、実はサイバーセキュリティの本を出版している。しかも版元は「PHP」だ。"
     },
     {
       "category": "主要",
-      "title": "巨人 横浜高・織田を強行1位指名",
-      "link": "https://news.yahoo.co.jp/pickup/6599711?source=rss",
-      "published": "10/22 17:34",
+      "title": "ドラフト会議 主な指名漏れ選手",
+      "link": "https://news.yahoo.co.jp/pickup/6599741?source=rss",
+      "published": "10/22 22:18",
       "source": "Yahoo!ニュース",
-      "summary": "＜プロ野球ドラフト会議＞◇22日 「プロ野球ドラフト会議 supported byリポビタンD」が22日、午後4時50分から行われた。"
+      "summary": "「プロ野球ドラフト会議 supported by リポビタンD」が22日、都内のホテルで行われ、育成も含めた全指名が終了。日体大の153キロ右腕、仙台育英の主砲らが名前を呼ばれなかった。"
     },
     {
       "category": "社会",
@@ -171,19 +267,51 @@
     },
     {
       "category": "AI・テクノロジー",
+      "title": "PHPの脆弱性 米OpenAIのAIで発見",
+      "link": "https://news.yahoo.co.jp/pickup/6599651?source=rss",
+      "published": "10/22 07:32",
+      "source": "Yahoo!ニュース",
+      "summary": "米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。「同様の発見は今後数カ月"
+    },
+    {
+      "category": "スポーツ",
+      "title": "巨人 横浜高・織田を強行1位指名",
+      "link": "https://news.yahoo.co.jp/pickup/6599711?source=rss",
+      "published": "10/22 17:34",
+      "source": "Yahoo!ニュース",
+      "summary": "＜プロ野球ドラフト会議＞◇22日 「プロ野球ドラフト会議 supported byリポビタンD」が22日、午後4時50分から行われた。"
+    },
+    {
+      "category": "IT",
+      "title": "豪州でAI「Claude」に保育施設銃撃を予告したら逮捕　弁護側「耳感染症でストレス」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002517/",
+      "published": "10/22 15:44",
+      "source": "ITmedia",
+      "summary": "オーストラリア・シドニー在住の29歳の男が、生成人工知能（AI）「Claude」とのチャットで保育施設での銃乱射を予告したとして逮捕・起訴された。豪紙シドニー・モーニング・ヘラルドが19日報じた。"
+    },
+    {
+      "category": "主要",
+      "title": "PHP巡り一般ユーザーは対策必要?",
+      "link": "https://news.yahoo.co.jp/pickup/6599728?source=rss",
+      "published": "10/22 20:07",
+      "source": "Yahoo!ニュース",
+      "summary": "プログラミング言語「PHP」の深刻な欠陥（脆弱性）が大騒ぎになっている。その「対策」として、SNSでは自宅のWi-Fiを切る、スマホの電源を落とす、全サイトのパスワードを変えるといった「自衛策」が広が"
+    },
+    {
+      "category": "社会",
+      "title": "社会人向け新教職課程 創設の方針",
+      "link": "https://news.yahoo.co.jp/pickup/6599664?source=rss",
+      "published": "10/22 09:35",
+      "source": "Yahoo!ニュース",
+      "summary": "文部科学省は、社会人が学校現場で働き、給与を得ながら教員免許を１年以内で取得できる教職課程を大学院に創設する方針を固めた。２０３０年度までの導入を目指す。大学院と教育委員会が協力してカリキュラムを作"
+    },
+    {
+      "category": "AI・テクノロジー",
       "title": "コミックシーモア最大420万件流出",
       "link": "https://news.yahoo.co.jp/pickup/6599646?source=rss",
       "published": "10/22 06:22",
       "source": "Yahoo!ニュース",
       "summary": "ＮＴＴソルマーレは２１日、国内最大級の電子書籍ストア「コミックシーモア」への不正アクセスによる個人情報流出が、最大約４２０万件に上るとの調査結果を発表した。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "高橋塁 ゲイ公表までの葛藤を語る",
-      "link": "https://news.yahoo.co.jp/pickup/6599656?source=rss",
-      "published": "10/22 08:15",
-      "source": "Yahoo!ニュース",
-      "summary": "自身がゲイ（男性の同性愛者）であることをSNSで公表したバレーボール男子の高橋塁選手（26）=サントリーサンバーズ大阪=が単独インタビューに応じ、公表に至るまでの葛藤や思いを語った。日本のトップスポ"
     },
     {
       "category": "IT",
@@ -195,43 +323,11 @@
     },
     {
       "category": "主要",
-      "title": "PHP脆弱性悪用の試み増 数百万件",
-      "link": "https://news.yahoo.co.jp/pickup/6599702?source=rss",
-      "published": "10/22 16:54",
+      "title": "衆院比例議席巡り サンラグ式とは",
+      "link": "https://news.yahoo.co.jp/pickup/6599716?source=rss",
+      "published": "10/22 20:03",
       "source": "Yahoo!ニュース",
-      "summary": "Cloudflareのマシュー・プリンスCEOは10月22日10時25分ごろ、PHPの脆弱性「php2shell」を悪用しようとする通信が同社ネットワークで増えていると公式Xで報告した。公表前の10"
-    },
-    {
-      "category": "社会",
-      "title": "社会人向け新教職課程 創設の方針",
-      "link": "https://news.yahoo.co.jp/pickup/6599664?source=rss",
-      "published": "10/22 09:35",
-      "source": "Yahoo!ニュース",
-      "summary": "文部科学省は、社会人が学校現場で働き、給与を得ながら教員免許を１年以内で取得できる教職課程を大学院に創設する方針を固めた。２０３０年度までの導入を目指す。大学院と教育委員会が協力してカリキュラムを作"
-    },
-    {
-      "category": "経済",
-      "title": "仕事探し困難「通信困窮」の実態",
-      "link": "https://news.yahoo.co.jp/pickup/6599665?source=rss",
-      "published": "10/22 09:46",
-      "source": "Yahoo!ニュース",
-      "summary": "現代の社会生活において、スマートフォンは欠かせない。だが料金滞納による強制解約を機に、住居や仕事探しが困難になり、路上生活などに転落する人々がいる。とりわけ就職氷河期世代の男性が陥りやすい「通信困窮"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "PHPに重大欠陥 Webの7割で使用",
-      "link": "https://news.yahoo.co.jp/pickup/6599637?source=rss",
-      "published": "10/21 22:52",
-      "source": "Yahoo!ニュース",
-      "summary": "経済産業省が所管する独立行政法人の情報処理推進機構（IPA）は21日、ウェブページに使われているプログラミング言語「PHP」にシステムの重大な欠陥に当たる脆弱性が見つかったと発表した。同日深夜に公開"
-    },
-    {
-      "category": "スポーツ",
-      "title": "大谷は手術回避へ 編成本部長明言",
-      "link": "https://news.yahoo.co.jp/pickup/6599647?source=rss",
-      "published": "10/22 06:35",
-      "source": "Yahoo!ニュース",
-      "summary": "ドジャースのアンドリュー・フリードマン編成本部長（４９）と、ブランドン・ゴームズＧＭ（４２）が２１日（日本時間２２日）、米カリフォルニア州ロサンゼルスの本拠地・ドジャースタジアム内でシーズン総括会見"
+      "summary": "自民党は衆院定数削減の折衷案として、削減幅を31に縮め、比例の議席配分をドント式からサンラグ式に改める案を示す方針と報じられている。サンラグ式は中小政党に議席が回りやすいとされる。サンラグ式とはいった"
     },
     {
       "category": "IT",
@@ -242,46 +338,6 @@
       "summary": "プログラミング言語「PHP」の「緊急」レベルの脆弱性2件を巡り、海外では政府サイトを予防的に停止する動きが相次いだ。オランダは行政ポータルや認証基盤「DigiD」まで止め、フィンランドは政府の公開向けネットサービスを全て停止した。"
     },
     {
-      "category": "主要",
-      "title": "王子コンテナーに公取委が勧告",
-      "link": "https://news.yahoo.co.jp/pickup/6599705?source=rss",
-      "published": "10/22 16:36",
-      "source": "Yahoo!ニュース",
-      "summary": "自社や顧客が所有する印版などを下請け業者に無償で保管させたとして、公正取引委員会は22日、王子ホールディングスのグループ会社で段ボール製造販売大手「王子コンテナー」（東京都中央区）の下請け法（現・中"
-    },
-    {
-      "category": "社会",
-      "title": "G7TV会議を首相欠席 与野党波紋",
-      "link": "https://news.yahoo.co.jp/pickup/6599660?source=rss",
-      "published": "10/22 08:55",
-      "source": "Yahoo!ニュース",
-      "summary": "21日で政権発足から1年を迎えた高市早苗首相が今月2日の先進7カ国（G7）テレビ会議を欠席し、与野党に波紋を広げている。首相は回線接続のための業者の手配が間に合わなかったと釈明。事実なら緊急時に国際"
-    },
-    {
-      "category": "経済",
-      "title": "米メタ 7-9月期決算で26%増収",
-      "link": "https://news.yahoo.co.jp/pickup/6599663?source=rss",
-      "published": "10/22 09:28",
-      "source": "Yahoo!ニュース",
-      "summary": "【ニューヨーク時事】米メタ（旧フェイスブック）が21日発表した2026年7～9月期決算は、売上高が前年同期比26％増の646億ドル（約10兆2000億円）だった。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "大食い動画規制の動き 投稿者動揺",
-      "link": "https://news.yahoo.co.jp/pickup/6599612?source=rss",
-      "published": "10/21 19:44",
-      "source": "Yahoo!ニュース",
-      "summary": "大量の料理を食べる様子を配信し人気を集める「大食い動画」を巡り、韓国の投稿者から「収益化を停止された」との報告が相次ぎ、日本の投稿者にも動揺が走った。背景にあるのは「摂食障害（摂食症）」を助長する恐"
-    },
-    {
-      "category": "スポーツ",
-      "title": "異例 阪神・上本打撃コーチが退団",
-      "link": "https://news.yahoo.co.jp/pickup/6599645?source=rss",
-      "published": "10/22 06:12",
-      "source": "Yahoo!ニュース",
-      "summary": "阪神・上本博紀打撃コーチ（４０）が今季限りで退団することが２１日、分かった。クライマックスシリーズ最終ステージで敗退した１７日のＤｅＮＡ戦の試合後に球団に申し入れていた。"
-    },
-    {
       "category": "IT",
       "title": "「侵入経路塞いだが、バックドアから……」不正アクセス105時間の攻防、分単位で報告　防災メールのアルカディア",
       "link": "https://www.itmedia.co.jp/news/article/2610/20/2000002426/",
@@ -290,52 +346,12 @@
       "summary": "公表資料によると、攻撃者は不正アクセスを始めてから約10時間後、サービス間ログイン用のシークレットキーを含む設定ファイルを取得。総当たり攻撃を仕掛けて内部情報を取得した。"
     },
     {
-      "category": "主要",
-      "title": "玉川徹氏 ホームレス巡る発言謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6599690?source=rss",
-      "published": "10/22 13:54",
-      "source": "Yahoo!ニュース",
-      "summary": "元テレビ朝日の玉川徹氏が２２日、テレビ朝日「羽鳥慎一モーニングショー」で、ホームレスの人への不適切発言があったとして謝罪した。"
-    },
-    {
-      "category": "社会",
-      "title": "自民 衆院定数の削減幅を31で調整",
-      "link": "https://news.yahoo.co.jp/pickup/6599633?source=rss",
-      "published": "10/22 02:42",
-      "source": "Yahoo!ニュース",
-      "summary": "自民党は与野党間で協議している衆院選挙制度改革を巡り、折衷案として衆院議員定数の削減幅を31議席とする調整に入った。早ければ22日に予定される政党間協議で各党へ提示する。複数の関係者が21日、明らか"
-    },
-    {
-      "category": "経済",
-      "title": "マック390円セット 全国販売開始",
-      "link": "https://news.yahoo.co.jp/pickup/6599592?source=rss",
-      "published": "10/21 16:48",
-      "source": "Yahoo!ニュース",
-      "summary": "日本マクドナルドは21日、サイドメニューとドリンクMサイズのセットを390円で楽しめる「390ペア」の全国販売を始めた。単品購入と比べ最大250円お得になる。午後2時以降に提供し、休憩目的の利用客の"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "下積み仕事はAIに 若手育成の今後",
-      "link": "https://news.yahoo.co.jp/pickup/6599563?source=rss",
-      "published": "10/21 13:50",
-      "source": "Yahoo!ニュース",
-      "summary": "「新人に任せる仕事が、もうない」。そんな声が現実になりつつある。米アンソロピックは10月16日、社内データを公表した。技術職の採用に占める若手の比率は、27％から9％に下がったという。ハーバード大学の"
-    },
-    {
       "category": "IT",
       "title": "認証局eMudhraの中間証明書、秘密鍵が「数ミリ秒」で復元可能な脆弱性　大手各社が緊急遮断",
       "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002444/",
       "published": "10/22 14:58",
       "source": "ITmedia",
       "summary": "インドの認証局eMudhraの中間証明書8件で、秘密鍵が第三者でも瞬時に復元可能な状態だったと判明した。悪用されればWebサイトのなりすましが可能になる。主要Webブラウザは遮断し悪用は確認されていないが、失効検証機能が標準で働かない非ブラウザ環境向けにGo開発チームなどが緊急修正を配布した。"
-    },
-    {
-      "category": "主要",
-      "title": "米 サウジの大使館員らに退避命令",
-      "link": "https://news.yahoo.co.jp/pickup/6599688?source=rss",
-      "published": "10/22 13:27",
-      "source": "Yahoo!ニュース",
-      "summary": "【ワシントン、カイロ共同】米国務省のピゴット報道官は21日、サウジアラビアにある米大使館の一部職員と家族に退避命令を出したとX（旧ツイッター）で明らかにした。イエメンの親イラン武装組織フーシ派がサウ"
     },
     {
       "category": "IT",
@@ -416,30 +432,6 @@
       "published": "10/22 09:43",
       "source": "ITmedia",
       "summary": "Metaの7?9月期決算は、売上高が26％増の646億ドルと伸長した一方、若者のSNS利用を巡る州司法長官らとの巨額和解費用を計上したことで営業利益は37％減となった。AIエージェント「Muse」は利用者が1000万人を突破。無議決権株の創設による実質的な株式分割も発表した。"
-    },
-    {
-      "category": "IT",
-      "title": "Tesla決算、営業益56％減　FSD契約は67％増の174万件　SpaceX合併は「昨日すべて話した」とマスク氏",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002488/",
-      "published": "10/22 09:02",
-      "source": "ITmedia",
-      "summary": "Teslaの7?9月期決算は、売上高が前年並みの280億ドル、純利益は43％減の7.8億ドルとなった。SI研究開発費の急増や株式報酬が利益を圧迫した。一方、FSD有効契約は67％増と伸長し、Cybercabによる無人タクシーも稼働を開始した。注目のSpaceXとの合併についてマスク氏は新規の言及を避けた。"
-    },
-    {
-      "category": "IT",
-      "title": "Adobeそっくり「ArtCraft」の動画編集ツールを試す　AIで挙動を再現した“クローンソフト”はアリなのか",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002485/",
-      "published": "10/22 08:43",
-      "source": "ITmedia",
-      "summary": "Photoshop、Premiere、Excel――定番ソフトをAIで“そっくり”に作り直す動きが出てきた。米ArtCraftの動画編集ソフト「FilmCraft」は、ソースを流用せず、仕様と挙動の解析だけでPremiereを再実装したという。試すと、未完成ながらダッキングや字幕まで備える。ソースを盗まないクローンは、ソフト業界と消費者に何をもたらすのか。"
-    },
-    {
-      "category": "IT",
-      "title": "Meta、Cambridge Analytica問題巡る訴訟で250億ドルの支払い命令",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002484/",
-      "published": "10/22 07:39",
-      "source": "ITmedia",
-      "summary": "ニューメキシコ州の裁判所はFacebookを巡るCAスキャンダルの訴訟でMetaに対し250億ドル（約3兆9500億円）の民事制裁金支払いを命じた。陪審が個人情報の取り扱いやヘイトスピーチ対応に関する虚偽説明など約4390万件の故意の違反を認定。企業への金銭的制裁として米国史上最大級となる。"
     }
   ],
   "errors": [
