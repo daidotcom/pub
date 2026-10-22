@@ -35,7 +35,11 @@ async function load() {
     articles = valid;
     idx = 0;
     show();
-    $('message').textContent = '最終取得: ' + (data.updated || '不明') +
+    const fetched = new Date(data.updated);
+    const fetchedText = Number.isNaN(fetched.getTime()) ? '不明' :
+      fetched.toLocaleString('ja-JP', {timeZone: 'Asia/Tokyo'}) + '（日本時間）';
+    const delayed = Date.now() - fetched.getTime() > 90 * 60 * 1000;
+    $('message').textContent = (delayed ? '更新に遅れがあります。 ' : '') + '最終取得: ' + fetchedText +
       ' ／ 概要・抜粋を表示しています。見出しをタップすると全文を開きます。';
   } catch (error) {
     if (articles.length) {
@@ -67,7 +71,10 @@ $('speed').onchange = event => {
   $('progress').style.width = '0%';
 };
 $('refresh').onclick = load;
-document.addEventListener('visibilitychange', () => { last = Date.now(); });
+document.addEventListener('visibilitychange', () => {
+  last = Date.now();
+  if (!document.hidden) load();
+});
 setInterval(() => {
   const now = Date.now(), delta = Math.min(now - last, 1000);
   last = now;

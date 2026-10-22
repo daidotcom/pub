@@ -9,7 +9,7 @@ on:
       - .github/workflows/update-news.yml
   workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "17,47 * * * *"
 
 permissions:
   contents: write

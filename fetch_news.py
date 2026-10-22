@@ -63,7 +63,8 @@ def excerpt(value):
     return text[:240] + ('…' if len(text) > 240 else '')
 
 
-def parse_feed(payload, category, source):
+def parse_feed(payload, category, source, now=None):
+    now = now or datetime.datetime.now(datetime.timezone.utc)
     root = ET.fromstring(payload)
     articles = []
     nodes = [node for node in root.iter() if node.tag.rsplit('}', 1)[-1] == 'item']
@@ -77,6 +78,10 @@ def parse_feed(payload, category, source):
             continue
         try:
             date = email.utils.parsedate_to_datetime(fields.get('pubDate', ''))
+            if date.tzinfo is None:
+                date = date.replace(tzinfo=datetime.timezone.utc)
+            if now - date > datetime.timedelta(hours=48) or date - now > datetime.timedelta(hours=1):
+                continue
             published = date.astimezone(datetime.timezone(datetime.timedelta(hours=9))).strftime('%m/%d %H:%M')
         except (ValueError, TypeError, AttributeError):
             published = ''
@@ -87,6 +92,7 @@ def parse_feed(payload, category, source):
         raise ValueError('Feed contains no supported articles (root=' + root.tag +
                          ', links=' + str([n.text for n in root.iter()
                                            if n.tag.rsplit('}', 1)[-1] == 'link'][:3]) + ')')
+    articles.sort(key=lambda article: article['published'], reverse=True)
     return articles
 
 

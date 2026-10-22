@@ -53,5 +53,18 @@ class FeedTests(unittest.TestCase):
             news.parse_feed(b'<rss><channel/></rss>', 'IT', 'ITmedia')
 
 
+class FreshnessTests(unittest.TestCase):
+    def test_old_items_are_excluded_and_new_items_sorted(self):
+        now = news.datetime.datetime(2026, 10, 22, 9, tzinfo=news.datetime.timezone.utc)
+        items = ''
+        for title, date in [('old', 'Sat, 08 Aug 2026 10:00:00 GMT'),
+                            ('recent', 'Thu, 22 Oct 2026 08:00:00 GMT'),
+                            ('newest', 'Thu, 22 Oct 2026 09:00:00 GMT')]:
+            items += ('<item><title>' + title + '</title><link>https://news.web.nhk/' + title +
+                      '</link><pubDate>' + date + '</pubDate></item>')
+        articles = news.parse_feed(('<rss><channel>' + items + '</channel></rss>').encode(), '総合', 'NHK', now)
+        self.assertEqual([a['title'] for a in articles], ['newest', 'recent'])
+
+
 if __name__ == '__main__':
     unittest.main()
