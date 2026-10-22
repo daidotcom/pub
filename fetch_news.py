@@ -16,7 +16,8 @@ FEEDS = [
     ('経済', 'Yahoo!ニュース', ['https://news.yahoo.co.jp/rss/topics/business.xml']),
     ('AI・テクノロジー', 'Yahoo!ニュース', ['https://news.yahoo.co.jp/rss/topics/it.xml']),
     ('スポーツ', 'Yahoo!ニュース', ['https://news.yahoo.co.jp/rss/topics/sports.xml']),
-    ('総合', 'NHK', ['https://news.web.nhk/newsweb/rss/all.xml',
+    ('総合', 'NHK', ['https://news.web.nhk/rss/news/cat0.xml',
+                   'https://news.web.nhk/newsweb/rss/all.xml',
                    'https://www3.nhk.or.jp/rss/news/cat0.xml']),
     ('IT', 'ITmedia', ['https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml']),
 ]
@@ -65,21 +66,27 @@ def excerpt(value):
 def parse_feed(payload, category, source):
     root = ET.fromstring(payload)
     articles = []
-    for item in root.findall('.//item')[:20]:
-        title = item.findtext('title', '').strip()
-        link = item.findtext('link', '').strip()
+    nodes = [node for node in root.iter() if node.tag.rsplit('}', 1)[-1] == 'item']
+    for item in nodes[:20]:
+        fields = {child.tag.rsplit('}', 1)[-1]: child.text or '' for child in item}
+        title = fields.get('title', '').strip()
+        link = fields.get('link', '').strip()
+        if link.startswith('http://'):
+            link = 'https://' + link[len('http://'):]
         if not title or not allowed_link(link, source):
             continue
         try:
-            date = email.utils.parsedate_to_datetime(item.findtext('pubDate', ''))
+            date = email.utils.parsedate_to_datetime(fields.get('pubDate', ''))
             published = date.astimezone(datetime.timezone(datetime.timedelta(hours=9))).strftime('%m/%d %H:%M')
         except (ValueError, TypeError, AttributeError):
             published = ''
         articles.append({'category': category, 'title': title, 'link': link,
                          'published': published, 'source': source,
-                         'summary': excerpt(item.findtext('description', ''))})
+                         'summary': excerpt(fields.get('description', ''))})
     if not articles:
-        raise ValueError('Feed contains no supported articles')
+        raise ValueError('Feed contains no supported articles (root=' + root.tag +
+                         ', links=' + str([n.text for n in root.iter()
+                                           if n.tag.rsplit('}', 1)[-1] == 'link'][:3]) + ')')
     return articles
 
 
