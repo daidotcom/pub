@@ -1,4 +1,4 @@
-"""Download Yahoo News headlines and the short descriptions supplied by articles."""
+"""Collect Japanese news and short publisher-provided descriptions."""
 import datetime
 import email.utils
 import json
@@ -7,13 +7,80 @@ import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import urlparse
+from itertools import zip_longest
 
 FEEDS = [
-    ('主要', 'https://news.yahoo.co.jp/rss/topics/top-picks.xml'),
-    ('社会', 'https://news.yahoo.co.jp/rss/topics/domestic.xml'),
-    ('経済', 'https://news.yahoo.co.jp/rss/topics/business.xml'),
-    ('AI・テクノロジー', 'https://news.yahoo.co.jp/rss/topics/it.xml'),
+    ('主要', 'Yahoo!ニュース', ['https://news.yahoo.co.jp/rss/topics/top-picks.xml']),
+    ('社会', 'Yahoo!ニュース', ['https://news.yahoo.co.jp/rss/topics/domestic.xml']),
+    ('経済', 'Yahoo!ニュース', ['https://news.yahoo.co.jp/rss/topics/business.xml']),
+    ('AI・テクノロジー', 'Yahoo!ニュース', ['https://news.yahoo.co.jp/rss/topics/it.xml']),
+    ('スポーツ', 'Yahoo!ニュース', ['https://news.yahoo.co.jp/rss/topics/sports.xml']),
+    ('総合', 'NHK', ['https://news.web.nhk/newsweb/rss/all.xml',
+                   'https://www3.nhk.or.jp/rss/news/cat0.xml']),
+    ('IT', 'ITmedia', ['https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml']),
 ]
+
+
+def allowed_link(link, source):
+    parsed = urlparse(link)
+    hostname = parsed.hostname or ''
+    domains = {'Yahoo!ニュース': ('news.yahoo.co.jp',),
+               'NHK': ('nhk.or.jp', 'web.nhk'),
+               'ITmedia': ('itmedia.co.jp',)}[source]
+    return parsed.scheme == 'https' and any(
+        hostname == domain or hostname.endswith('.' + domain) for domain in domains)
+
+
+class PlainTextParser(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.parts = []
+        self.ignored = 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in ('script', 'style'):
+            self.ignored += 1
+        elif tag in ('br', 'p', 'div', 'li'):
+            self.parts.append(' ')
+
+    def handle_endtag(self, tag):
+        if tag in ('script', 'style'):
+            self.ignored = max(0, self.ignored - 1)
+        elif tag in ('p', 'div', 'li'):
+            self.parts.append(' ')
+
+    def handle_data(self, data):
+        if not self.ignored:
+            self.parts.append(data)
+
+
+def excerpt(value):
+    parser = PlainTextParser()
+    parser.feed(value)
+    text = ' '.join(''.join(parser.parts).split())
+    return text[:240] + ('…' if len(text) > 240 else '')
+
+
+def parse_feed(payload, category, source):
+    root = ET.fromstring(payload)
+    articles = []
+    for item in root.findall('.//item')[:20]:
+        title = item.findtext('title', '').strip()
+        link = item.findtext('link', '').strip()
+        if not title or not allowed_link(link, source):
+            continue
+        try:
+            date = email.utils.parsedate_to_datetime(item.findtext('pubDate', ''))
+            published = date.astimezone(datetime.timezone(datetime.timedelta(hours=9))).strftime('%m/%d %H:%M')
+        except (ValueError, TypeError, AttributeError):
+            published = ''
+        articles.append({'category': category, 'title': title, 'link': link,
+                         'published': published, 'source': source,
+                         'summary': excerpt(item.findtext('description', ''))})
+    if not articles:
+        raise ValueError('Feed contains no supported articles')
+    return articles
 
 
 class DescriptionParser(HTMLParser):
@@ -40,11 +107,13 @@ def download(url):
 
 
 def add_summary(article):
+    if article.get('summary'):
+        return article
     try:
         parser = DescriptionParser()
         parser.feed(download(article['link']).decode('utf-8'))
         summary = parser.og_description or parser.description
-        article['summary'] = summary[:240] + ('…' if len(summary) > 240 else '')
+        article['summary'] = excerpt(summary)
     except Exception as error:
         # A missing summary must not discard an otherwise usable headline.
         print('Summary unavailable:', article['link'], type(error).__name__)
@@ -53,25 +122,26 @@ def add_summary(article):
 
 
 def main():
-    articles, seen, errors = [], set(), []
-    for category, url in FEEDS:
-        try:
-            root = ET.fromstring(download(url))
-            for item in root.findall('.//item')[:20]:
-                title = item.findtext('title', '').strip()
-                link = item.findtext('link', '').strip()
-                if not title or not link.startswith('https://news.yahoo.co.jp/') or title in seen:
-                    continue
-                seen.add(title)
-                try:
-                    date = email.utils.parsedate_to_datetime(item.findtext('pubDate', ''))
-                    published = date.astimezone(datetime.timezone(datetime.timedelta(hours=9))).strftime('%m/%d %H:%M')
-                except (ValueError, TypeError, AttributeError):
-                    published = ''
-                articles.append({'category': category, 'title': title, 'link': link,
-                                 'published': published, 'source': 'Yahoo!ニュース'})
-        except Exception as error:
-            errors.append(f'{category}: {error}')
+    groups, seen, errors = [], set(), []
+    for category, source, urls in FEEDS:
+        failures = []
+        for url in urls:
+            try:
+                batch = parse_feed(download(url), category, source)
+                unique = []
+                for article in batch:
+                    if article['title'] not in seen:
+                        seen.add(article['title'])
+                        unique.append(article)
+                groups.append(unique)
+                print(source, category, len(unique), 'articles', flush=True)
+                break
+            except Exception as error:
+                failures.append(f'{url}: {error}')
+        else:
+            errors.append(f'{source} / {category}: ' + '; '.join(failures))
+    # Mix feeds so sports and the added publishers appear early in rotation.
+    articles = [article for row in zip_longest(*groups) for article in row if article]
     if not articles:
         raise SystemExit('No news feeds available: ' + str(errors))
     with ThreadPoolExecutor(max_workers=4) as pool:

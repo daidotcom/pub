@@ -28,5 +28,30 @@ class SummaryTests(unittest.TestCase):
             self.assertEqual(news.add_summary({'link': 'https://news.yahoo.co.jp/pickup/test'})['summary'], 'あ' * 240 + '…')
 
 
+class FeedTests(unittest.TestCase):
+    def test_nhk_itmedia_and_sports_with_feed_descriptions(self):
+        for source, category, link in [
+            ('NHK', '総合', 'https://news.web.nhk/newsweb/na/na-k1001'),
+            ('ITmedia', 'IT', 'https://www.itmedia.co.jp/news/articles/2610/22/news1.html'),
+            ('Yahoo!ニュース', 'スポーツ', 'https://news.yahoo.co.jp/pickup/123')]:
+            payload = ('<rss><channel><item><title>ニュース</title><link>' + link +
+                       '</link><description>&lt;p&gt;記事の概要 &amp;amp; 詳細&lt;/p&gt;</description>'
+                       '</item></channel></rss>').encode()
+            with self.subTest(source=source):
+                article = news.parse_feed(payload, category, source)[0]
+                self.assertEqual(article['summary'], '記事の概要 & 詳細')
+                self.assertEqual(article['source'], source)
+                self.assertEqual(article['category'], category)
+                with patch.object(news, 'download') as download:
+                    self.assertEqual(news.add_summary(article), article)
+                    download.assert_not_called()
+
+    def test_unrelated_domains_and_empty_feeds_are_rejected(self):
+        for link in ['https://itmedia.co.jp.evil.example/a', 'javascript:alert(1)']:
+            self.assertFalse(news.allowed_link(link, 'ITmedia'))
+        with self.assertRaises(ValueError):
+            news.parse_feed(b'<rss><channel/></rss>', 'IT', 'ITmedia')
+
+
 if __name__ == '__main__':
     unittest.main()

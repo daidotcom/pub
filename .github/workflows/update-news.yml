@@ -2,6 +2,11 @@
 name: Update Japanese news
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - fetch_news.py
+      - .github/workflows/update-news.yml
   workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"

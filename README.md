@@ -18,8 +18,10 @@ Run `python3 fetch_news.py` to refresh `news.json`. The same script runs in
 GitHub Actions every 30 minutes (scheduled runs may be delayed).
 
 Each entry in `articles` contains `title`, `link`, `category`, `published`,
-`source`, and `summary`. Summaries are short descriptions supplied by Yahoo!
-News article pages, not generated text or full articles. If an article has no
+`source`, and `summary`. Sources include Yahoo! News (including sports), NHK, and ITmedia.
+Summaries use descriptions supplied by RSS feeds or article pages, not
+generated text or full articles. Feeds are interleaved so sports and each
+publisher appear early in the rotation. If an article has no
 available description, the page keeps its headline and offers the original
 article link. Headlines and summaries rotate together, with a default interval
 of 10 seconds and 5/10/15/20-second controls.
