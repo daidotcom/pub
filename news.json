@@ -1,29 +1,77 @@
 {
-  "updated": "2026-10-23T06:04:39.136938+00:00",
+  "updated": "2026-10-23T11:45:25.374897+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "中継 G監督就任の松井秀喜氏会見",
-      "link": "https://news.yahoo.co.jp/pickup/6599804?source=rss",
-      "published": "10/23 15:01",
+      "title": "迷惑行為「ショウリンジ」相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6599857?source=rss",
+      "published": "10/23 20:40",
       "source": "Yahoo!ニュース",
-      "summary": "巨人の新監督に就任すると報じられている松井秀喜氏の記者会見を中継。"
+      "summary": "「ショウリンジ」と叫んで交番のガラスを割ったり、爆竹を投げ込んだりする迷惑行為が各地で相次いでいる。それらの様子を撮った動画が「少林寺レーシング」と称してSNSで広がっており、大阪府警は23日、7～"
     },
     {
       "category": "社会",
-      "title": "村上龍氏死去 デビュー作で芥川賞",
-      "link": "https://news.yahoo.co.jp/pickup/6599807?source=rss",
-      "published": "10/23 14:33",
+      "title": "夢叶った 比残留2世にパスポート",
+      "link": "https://news.yahoo.co.jp/pickup/6599850?source=rss",
+      "published": "10/23 19:13",
       "source": "Yahoo!ニュース",
-      "summary": "作家の村上龍さんが１７日に亡くなったことが２３日、分かった。７４歳。幻冬舎が発表した。"
+      "summary": "太平洋戦争の激戦地フィリピンに取り残され、戦後80年あまりを経て日本国籍を取得した“残留日本人”の女性に、日本のパスポートが交付されました。"
     },
     {
       "category": "経済",
-      "title": "笹かまメーカー相次ぐ倒産 背景",
-      "link": "https://news.yahoo.co.jp/pickup/6599782?source=rss",
-      "published": "10/23 10:37",
+      "title": "滋賀銀と池田泉州HD 経営統合へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599846?source=rss",
+      "published": "10/23 18:48",
       "source": "Yahoo!ニュース",
-      "summary": "宮城を代表する味「笹かまぼこ」の製造現場で危機感が広がっている。昨年以降、県内の中小規模の老舗かまぼこメーカーで倒産が相次いだ。輸入すり身の高騰に、供給量の落ち込み……。背景を探ると、笹かまを取り巻"
+      "summary": "滋賀銀行と、池田泉州銀行（大阪市）を傘下に置く池田泉州ホールディングス（HD）が経営統合する方向で調整していることが23日、分かった。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "意図しないFX取引 損害600万円超",
+      "link": "https://news.yahoo.co.jp/pickup/6599841?source=rss",
+      "published": "10/23 18:24",
+      "source": "Yahoo!ニュース",
+      "summary": "GMOインターネットが運営するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、「身に覚えのない取引で現金を失った」と訴える顧客が相次いでいる。取引口座のパスワードなどが不正に利"
+    },
+    {
+      "category": "スポーツ",
+      "title": "競歩池田の資格停止処分 取り消し",
+      "link": "https://news.yahoo.co.jp/pickup/6599858?source=rss",
+      "published": "10/23 20:41",
+      "source": "Yahoo!ニュース",
+      "summary": "スポーツ仲裁裁判所（ＣＡＳ）は２３日、競歩で２１年東京五輪銀メダリストの池田向希（２８）＝旭化成＝が２５年２月にアンチ・ドーピング規定違反で２３年６月２０日以降の記録の取り消し、およびメダル剥奪、４"
+    },
+    {
+      "category": "IT",
+      "title": "タイムズカー、3000円の見舞金支払いへ　免許証画像漏えいの146万件対象　55億円の特損計上",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002558/",
+      "published": "10/23 19:05",
+      "source": "ITmedia",
+      "summary": "パーク24は10月23日、グループ会社のタイムズモビリティ（東京都品川区）が運営するカーシェアリングサービス「タイムズカー」で9月に発覚した個人情報漏えいを巡り、一部利用者に3000円相当の見舞金を渡すと発表した。"
+    },
+    {
+      "category": "主要",
+      "title": "生徒が「指導死」教諭を懲戒免職",
+      "link": "https://news.yahoo.co.jp/pickup/6599854?source=rss",
+      "published": "10/23 19:29",
+      "source": "Yahoo!ニュース",
+      "summary": "県立高校柔道部の男子生徒が2024年に自殺し、ことし4月に第三者委員会から部活動の「指導死」と認定された問題で、県教育委員会は23日、当時この県立高校に勤務していた54歳の男性教諭の懲戒免職処分を発"
+    },
+    {
+      "category": "社会",
+      "title": "日本政府 露拘束の記者へセーター",
+      "link": "https://news.yahoo.co.jp/pickup/6599834?source=rss",
+      "published": "10/23 17:55",
+      "source": "Yahoo!ニュース",
+      "summary": "ロシア当局が北海道新聞の記者をスパイ容疑で拘束してから、23日で10日間が経過したが、日本政府が求める領事面会は同日正午時点で実現していない。在ロシア日本大使館員は22日、前日に続きモスクワの拘置所"
+    },
+    {
+      "category": "経済",
+      "title": "パルグループ創業 井上英隆氏死去",
+      "link": "https://news.yahoo.co.jp/pickup/6599843?source=rss",
+      "published": "10/23 18:33",
+      "source": "Yahoo!ニュース",
+      "summary": "パルグループホールディングス創業者の井上英隆（いのうえ・ひでたか）さんが10月19日に死去した。91歳だった。通夜と告別式は近親者によって執り行われた。後日「お別れの会」を開く。"
     },
     {
       "category": "AI・テクノロジー",
@@ -35,91 +83,43 @@
     },
     {
       "category": "スポーツ",
-      "title": "巨人新監督に松井秀喜氏 Xの反応",
-      "link": "https://news.yahoo.co.jp/pickup/6599798?source=rss",
-      "published": "10/23 12:23",
+      "title": "松井氏 新コーチ1人だけ声かけた",
+      "link": "https://news.yahoo.co.jp/pickup/6599831?source=rss",
+      "published": "10/23 17:33",
       "source": "Yahoo!ニュース",
-      "summary": "「松井秀喜氏」に関するX上の投稿を表示しています。"
+      "summary": "巨人の新監督に就任した球団ＯＢの松井秀喜氏（５２）＝ヤンキースＧＭ付特別アドバイザー＝が２３日、都内のホテルで会見を行った。"
     },
     {
       "category": "IT",
-      "title": "デジタル庁、公式サイトへの問い合わせ最大1万3000件漏えいか　Web制作ツール「Studio」不正アクセスで",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002543/",
-      "published": "10/23 14:05",
+      "title": "「チケット当選」装う詐欺メールが急増中──イープラスやローチケ、ぴあかたる手口　フィッシングの専門家に対策を聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002557/",
+      "published": "10/23 18:40",
       "source": "ITmedia",
-      "summary": "デジタル庁は10月22日、Webサイト制作サービス「Studio」への不正アクセスにより、同庁サイトの問い合わせフォームに入力した氏名やメールアドレスなど最大1万3323件が漏えいした可能性があると発表した。"
+      "summary": "イープラスを装い、チケットの抽選に当選したとして支払いを迫る偽メールがXで拡散している。ローチケやチケットぴあをかたる同種のメールも10月に入って相次いでいる。フィッシング対策協議会によると、イープラスをかたるフィッシングの報告は直近1カ月で約6.5倍に増えた。"
     },
     {
       "category": "主要",
-      "title": "本当の理由言わず退職 なぜ深刻か",
-      "link": "https://news.yahoo.co.jp/pickup/6599809?source=rss",
-      "published": "10/23 14:54",
+      "title": "巨人が織田指名 松井氏もビックリ",
+      "link": "https://news.yahoo.co.jp/pickup/6599847?source=rss",
+      "published": "10/23 19:21",
       "source": "Yahoo!ニュース",
-      "summary": "「どうせ言っても変わらない」。そう諦めた社員は、何も言わずに辞めていく。Job総研の調査では、人事評価に不満を感じたことがある人は73.0％。そのうち69.2％は会社に不満を伝えていない。理由の最多は"
+      "summary": "巨人は２３日、新監督として球団ＯＢで大リーグ・ヤンキースなどでも活躍した松井秀喜氏（５２）が就任すると発表した。松井氏は東京都内のホテルで山口寿一オーナーとともに会見した。背番号は「９０」、契約期間"
     },
     {
       "category": "社会",
-      "title": "マリオ生みの親 宮本氏に文化勲章",
-      "link": "https://news.yahoo.co.jp/pickup/6599789?source=rss",
-      "published": "10/23 11:46",
+      "title": "燃料油補助の見直し検討 首相指示",
+      "link": "https://news.yahoo.co.jp/pickup/6599832?source=rss",
+      "published": "10/23 17:39",
       "source": "Yahoo!ニュース",
-      "summary": "政府は23日、文化勲章について発表し、任天堂のゲームデザイナーで取締役フェローの宮本茂氏が選ばれました。ゲーム業界からの受章は初めてです。"
+      "summary": "高市総理大臣は23日、ガソリンなどの補助について「財政負担への懸念から段階的な見直しや出口戦略を考えるべきとの指摘をいただいてきた」とした上で、「今後の支援のあり方について検討するよう経済産業大臣に"
     },
     {
       "category": "経済",
-      "title": "「PHP」暮らし直撃 徹夜の社員も",
-      "link": "https://news.yahoo.co.jp/pickup/6599772?source=rss",
-      "published": "10/23 08:58",
+      "title": "Airbnb「過度な家事要求」禁止へ",
+      "link": "https://news.yahoo.co.jp/pickup/6599839?source=rss",
+      "published": "10/23 18:15",
       "source": "Yahoo!ニュース",
-      "summary": "世界中のウェブサイトのおよそ7割が利用しているというプログラミング言語「PHP」に重大なぜい弱性が見つかった問題。身近なサービスなどが次々と、メンテナンスのために停止する事態となっています。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "デジ庁HPの問い合わせ内容漏洩か",
-      "link": "https://news.yahoo.co.jp/pickup/6599763?source=rss",
-      "published": "10/23 07:41",
-      "source": "Yahoo!ニュース",
-      "summary": "デジタル庁は22日夜、ホームページの問い合わせフォームに入力された内容など最大1万3000件余りが外部に流出した可能性があると発表しました。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "巨人監督に松井氏 長嶋氏との約束",
-      "link": "https://news.yahoo.co.jp/pickup/6599796?source=rss",
-      "published": "10/23 12:10",
-      "source": "Yahoo!ニュース",
-      "summary": "巨人の来季監督に、球団OBでヤンキースなどでも活躍した松井秀喜氏（52）が就任することが23日、分かった。日米507本塁打の希代のスラッガーは12年限りで現役を引退後、春季キャンプで臨時コーチを務め"
-    },
-    {
-      "category": "IT",
-      "title": "PayPay、「免許証画像で本人確認」廃止　ICチップ読み取りに統一",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002540/",
-      "published": "10/23 12:59",
-      "source": "ITmedia",
-      "summary": "運転免許証かマイナンバーカードのICチップをユーザーがスマートフォンで読み取り、本人確認申請する方法に統一する。"
-    },
-    {
-      "category": "主要",
-      "title": "仏デモ 一部暴徒化した2つの要因",
-      "link": "https://news.yahoo.co.jp/pickup/6599793?source=rss",
-      "published": "10/23 14:14",
-      "source": "Yahoo!ニュース",
-      "summary": "パリでは10月21日、2日連続の夜間外出禁止令が発令された。9月末に始まった高校生のデモの一部が暴徒化し、飲食店や商店などへの襲撃が増え、負傷者も続出しているためだ。略奪の盗品がネットに出品された事例"
-    },
-    {
-      "category": "社会",
-      "title": "復興相 事務所数を巡り報告書訂正",
-      "link": "https://news.yahoo.co.jp/pickup/6599788?source=rss",
-      "published": "10/23 11:41",
-      "source": "Yahoo!ニュース",
-      "summary": "細野豪志復興相（衆院静岡5区）は23日の記者会見で、2024年衆院選の選挙運動費用収支報告書を訂正したと明らかにした。本来は記載対象にならない連絡所にかかった費用を「事務的なミスで記載した」と説明。"
-    },
-    {
-      "category": "経済",
-      "title": "食料品消費税1% 買い物は変わるか",
-      "link": "https://news.yahoo.co.jp/pickup/6599768?source=rss",
-      "published": "10/23 08:32",
-      "source": "Yahoo!ニュース",
-      "summary": "食料品の消費税が下がったら、いつもの総菜を少し上質なものに変えるだろうか。それとも、買い替えを先延ばしにしていた家電や、家族旅行にお金を回すだろうか。"
+      "summary": "（CNN） 民泊仲介大手Airbnb（エアビーアンドビー）は22日、滞在終了時にホストがゲストに求めることのできる作業を減らすよう規則を改定した。これに伴い、宿泊客が食器洗いを行う必要はなくなる。"
     },
     {
       "category": "AI・テクノロジー",
@@ -131,43 +131,43 @@
     },
     {
       "category": "スポーツ",
-      "title": "松井秀喜氏 巨人の新監督に就任へ",
-      "link": "https://news.yahoo.co.jp/pickup/6599785?source=rss",
-      "published": "10/23 11:13",
+      "title": "松井氏就任の経緯 Gオーナー語る",
+      "link": "https://news.yahoo.co.jp/pickup/6599826?source=rss",
+      "published": "10/23 16:49",
       "source": "Yahoo!ニュース",
-      "summary": "巨人の新監督に、OBの松井秀喜氏（52）が就任することが分かった。23日午後に会見を行う。1990～2000年代、4番に君臨し本塁打を量産。ヤンキースなどメジャーでも活躍し、日米通算507本塁打を放"
+      "summary": "巨人は２３日、新監督として球団ＯＢで大リーグ・ヤンキースなどでも活躍した松井秀喜氏（５２）が就任すると発表した。松井氏は東京都内のホテルで山口寿一オーナーとともに会見した。"
     },
     {
       "category": "IT",
-      "title": "令和12年度からの教科書、「紙」と「デジタル」組み合わせ　文科相指針案",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002537/",
-      "published": "10/23 12:07",
+      "title": "11月中に「ホワイトハッカー」のチームを立ち上げへ　サイバー攻撃に対抗　赤沢経産相",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002556/",
+      "published": "10/23 17:51",
       "source": "ITmedia",
-      "summary": "文部科学省は10月22日、令和12年度から正式な教科書となるデジタル教科書について、全ての学年で紙とデジタルを組み合わせた「ハイブリッド形式」を基本とする「大臣指針案」を有識者会議に示した。「完全デジタル」の教科書は小学5年生以上の一部の教科に限定する。"
+      "summary": "赤沢亮正経済産業相は23日の閣議後記者会見で、国内でサイバー攻撃による被害が相次いでいることを踏まえ、サイバー攻撃とその防御に詳しいエンジニア「ホワイトハッカー」を集めた対策チームを11月中に立ち上げる方針を明らかにした。"
     },
     {
       "category": "主要",
-      "title": "台風接近 沖縄～関東は大雨の恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6599802?source=rss",
-      "published": "10/23 13:33",
+      "title": "高峰登山で不明2邦人か 遺体発見",
+      "link": "https://news.yahoo.co.jp/pickup/6599853?source=rss",
+      "published": "10/23 19:17",
       "source": "Yahoo!ニュース",
-      "summary": "大型で強い台風30号は24日(土)にかけて石垣島や宮古島など先島諸島にかなり接近するでしょう。先島諸島では暴風や高波、大雨に厳重な警戒が必要です。その後、台風は次第に温帯低気圧に変わりながら西日本や"
+      "summary": "【バンコク共同】ネパール政府当局者は23日、ガンガプルナ西峰（標高7140メートル）で同日朝、2人の遺体を発見したと明らかにした。登山中の日本人男性2人が15日から行方不明になっており、当局者はこの"
     },
     {
       "category": "社会",
-      "title": "「学生」の自殺者数 減少傾向なし",
-      "link": "https://news.yahoo.co.jp/pickup/6599781?source=rss",
-      "published": "10/23 10:04",
+      "title": "村上龍氏死去 デビュー作で芥川賞",
+      "link": "https://news.yahoo.co.jp/pickup/6599807?source=rss",
+      "published": "10/23 14:33",
       "source": "Yahoo!ニュース",
-      "summary": "自殺する人について厚生労働省が分析した結果、小中高生を含む学生は、去年までの20年間で減少傾向になかったことが分かりました。"
+      "summary": "作家の村上龍さんが１７日に亡くなったことが２３日、分かった。７４歳。幻冬舎が発表した。"
     },
     {
       "category": "経済",
-      "title": "大成建設・鹿島 国交省が処分方針",
-      "link": "https://news.yahoo.co.jp/pickup/6599759?source=rss",
-      "published": "10/23 07:16",
+      "title": "パーク24 流出の146万人に見舞金",
+      "link": "https://news.yahoo.co.jp/pickup/6599823?source=rss",
+      "published": "10/23 16:59",
       "source": "Yahoo!ニュース",
-      "summary": "リニア中央新幹線の建設工事をめぐる談合事件を受け、国土交通省は大成建設と鹿島の2社を建設業法にもとづく営業停止処分にする方針を固めた。23日にも発表する。2社は11月7日から来年3月6日までの4カ月"
+      "summary": "不正アクセスを受け、運転免許証の画像を含む個人情報が流出したカーシェアリングサービス「タイムズカー」をめぐり、運営会社を傘下に置く「パーク24」は23日、被害者への対応などを発表した。本人確認画像の"
     },
     {
       "category": "AI・テクノロジー",
@@ -179,43 +179,43 @@
     },
     {
       "category": "スポーツ",
-      "title": "早大無念 プロ志望全員が指名漏れ",
-      "link": "https://news.yahoo.co.jp/pickup/6599771?source=rss",
-      "published": "10/23 08:44",
+      "title": "巨人新監督に松井秀喜氏 背番号90",
+      "link": "https://news.yahoo.co.jp/pickup/6599817?source=rss",
+      "published": "10/23 16:08",
       "source": "Yahoo!ニュース",
-      "summary": "「プロ野球ドラフト会議 supported by リポビタンD」「プロ野球ドラフト会議 supported by リポビタンD」が22日、都内のホテルで行われた。プロ志望届を5人が提出していた早大か"
+      "summary": "プロ野球・巨人は23日に都内で会見を開き、新監督に松井秀喜氏（52）が就任することを発表した。松井氏は会見冒頭で「これからジャイアンツが新たな黄金時代が訪れるよう、今日ここからスタートしていきたいと"
     },
     {
       "category": "IT",
-      "title": "「AIでエンジニア派遣は不要になる」のか？　各社に肌感を聞いた　求められる人材、明確に変化",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002527/",
-      "published": "10/23 12:07",
+      "title": "佐川への不正アクセス、最大5323万件の個人情報流出か　9月末のサイバー攻撃で続報",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002553/",
+      "published": "10/23 17:38",
       "source": "ITmedia",
-      "summary": "生成AIがコードを書く時代、エンジニア派遣は不要になるのか。10月21～23日に幕張メッセで開催中の「Japan IT Week 秋 2026」には、派遣・紹介サービスを手掛ける企業が複数出展。エンジニア派遣の需要について、疑問を各社にぶつけてみた。"
+      "summary": "佐川急便は10月23日、9月30日に公表した「お荷物問い合わせサービス」への不正アクセスについて、最大約5323万件の個人情報が外部に流出した可能性があると明らかにした。10月1日には個人情報流出の可能性を発表していたが、今回の第5報で対象件数が判明。あわせて、停止していた荷物追跡サービスも23日に再開した。"
     },
     {
       "category": "主要",
-      "title": "マンション修繕会議 業者潜入発覚",
-      "link": "https://news.yahoo.co.jp/pickup/6599799?source=rss",
-      "published": "10/23 13:14",
+      "title": "鎮西寿々歌のX 不正アクセス被害",
+      "link": "https://news.yahoo.co.jp/pickup/6599851?source=rss",
+      "published": "10/23 19:13",
       "source": "Yahoo!ニュース",
-      "summary": "マンションの大規模修繕工事を巡って工事業者が部屋を購入し、住民として修繕の会議へ潜入するケースが相次いで発覚しています。東京湾岸エリアのタワーマンションでも同様の事態が起きていて、内部情報のリークを"
+      "summary": "復旧に向けて対応中 アイドルグループ・FRUITS ZIPPERは23日、メンバーである鎮西寿々歌のXアカウントが第三者による不正アクセスを受けていることをグループ公式Xで報告した。"
     },
     {
       "category": "社会",
-      "title": "生活保護利用者の車保有 緩和検討",
-      "link": "https://news.yahoo.co.jp/pickup/6599765?source=rss",
-      "published": "10/23 07:49",
+      "title": "作家・村上龍さん死去 74歳",
+      "link": "https://news.yahoo.co.jp/pickup/6599801?source=rss",
+      "published": "10/23 13:05",
       "source": "Yahoo!ニュース",
-      "summary": "生活保護利用者の車保有の要件について、厚生労働省は、未就学児を育てるひとり親世帯で緩和する方向で検討に入った。車がなければ就労や子育てが難しい地域で見直す考えだ。車を使えないことで働く時間が制限され"
+      "summary": "17日に自宅で 作家の村上龍さんが17日、死去した。74歳だった。幻冬舎BOOKSが23日、公式Xで発表した。"
     },
     {
       "category": "経済",
-      "title": "三菱自 ホンダに車両供給で合意",
-      "link": "https://news.yahoo.co.jp/pickup/6599746?source=rss",
-      "published": "10/22 23:06",
+      "title": "回転喫茶店の人気再燃 若者が続々",
+      "link": "https://news.yahoo.co.jp/pickup/6599818?source=rss",
+      "published": "10/23 16:26",
       "source": "Yahoo!ニュース",
-      "summary": "ホンダと三菱自動車は22日、三菱自がピックアップトラック「トライトン」をホンダに供給することで合意したと発表した。ホンダは東南アジア諸国連合（ASEAN）向けに2028年中に発売する予定。両社が検討"
+      "summary": "バブルの崩壊とともに次々と閉鎖されていた回転レストランですが、昭和レトロブームの影響もあり、今、若者が続々と訪れて劇的な復活を遂げている所もあるということです。"
     },
     {
       "category": "AI・テクノロジー",
@@ -227,35 +227,43 @@
     },
     {
       "category": "スポーツ",
-      "title": "織田翔希 米挑戦の葛藤と母との絆",
-      "link": "https://news.yahoo.co.jp/pickup/6599764?source=rss",
-      "published": "10/23 07:48",
+      "title": "早大無念 プロ志望全員が指名漏れ",
+      "link": "https://news.yahoo.co.jp/pickup/6599771?source=rss",
+      "published": "10/23 08:44",
       "source": "Yahoo!ニュース",
-      "summary": "野球人にとっての“運命の一日”、ドラフト会議。今年最大の目玉として早くから注目された高校ナンバーワン投手、横浜高校の織田翔希（18）はドラフト会議の1週間前に会見を開き、アメリカへの挑戦を表明した。"
+      "summary": "「プロ野球ドラフト会議 supported by リポビタンD」「プロ野球ドラフト会議 supported by リポビタンD」が22日、都内のホテルで行われた。プロ志望届を5人が提出していた早大か"
     },
     {
       "category": "IT",
-      "title": "“あいまいな指示”を入力されたAIは安全なコーディングができない？　香港科技大などが調査",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
-      "published": "10/23 12:00",
+      "title": "メール配信サービスの契約者情報全て漏えい　横浜市やJR四国などに影響　ラクス子会社に不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002551/",
+      "published": "10/23 17:32",
       "source": "ITmedia",
-      "summary": "香港科技大学などに所属する研究者らが7月に発表した論文「Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions」は、あいまいな指示を受けたコーディングAIがどのような振る舞いをみせるかを調査した研究報告だ。"
+      "summary": "クラウドサービスを手掛けるラクスは10月21日、子会社のラクスライトクラウド（東京都渋谷区）が提供するメール配信サービス「ブラストメール」に対する不正アクセスが発生し、顧客情報が外部に流出したと発表した。全契約者の登録情報に加え、一部契約者のメール配信先リストなども漏えい。横浜市やJR四国など、サービスを企業や自治体からも影響の発表が相次いでいる。"
     },
     {
       "category": "主要",
-      "title": "交通違反反則金 スマホ納付の懸念",
-      "link": "https://news.yahoo.co.jp/pickup/6599800?source=rss",
-      "published": "10/23 13:11",
+      "title": "物価上昇2%到達判断の公算大 日銀",
+      "link": "https://news.yahoo.co.jp/pickup/6599845?source=rss",
+      "published": "10/23 18:37",
       "source": "Yahoo!ニュース",
-      "summary": "警察庁が来年7月以降を目処に交通違反の反則金のキャッシュレス納付を導入すると発表し、話題となっています。警察官が交付する青切符にQRコードが印刷されており、スマートフォンなどで読み取り、QRコード決済"
+      "summary": "日本銀行は、物価上昇率が目標の2%に事実上到達したとの見解を30日に初めて示す公算が大きい。今後の金融政策の重点が、物価の2%への「押し上げ」から2%の「定着」に転換する節目となる。日銀は政策金利の"
+    },
+    {
+      "category": "社会",
+      "title": "生活保護利用者の車保有 緩和検討",
+      "link": "https://news.yahoo.co.jp/pickup/6599765?source=rss",
+      "published": "10/23 07:49",
+      "source": "Yahoo!ニュース",
+      "summary": "生活保護利用者の車保有の要件について、厚生労働省は、未就学児を育てるひとり親世帯で緩和する方向で検討に入った。車がなければ就労や子育てが難しい地域で見直す考えだ。車を使えないことで働く時間が制限され"
     },
     {
       "category": "経済",
-      "title": "免税制度変更へ「転売ヤー」防ぐ",
-      "link": "https://news.yahoo.co.jp/pickup/6599745?source=rss",
-      "published": "10/22 22:50",
+      "title": "佐川急便で情報流出 最大5323万件",
+      "link": "https://news.yahoo.co.jp/pickup/6599819?source=rss",
+      "published": "10/23 16:12",
       "source": "Yahoo!ニュース",
-      "summary": "外国からの旅行客が消費税分を負担せずに買い物できる「免税制度」が、来月から変わります。"
+      "summary": "佐川急便は、「お荷物問い合わせサービス」が不正アクセスを受けた問題で、流出した可能性のある個人情報が最大でおよそ5323万件にのぼると発表しました。"
     },
     {
       "category": "AI・テクノロジー",
@@ -275,19 +283,27 @@
     },
     {
       "category": "IT",
-      "title": "1000万のWebサイトで「生きたAPIキー」が大量に“丸見え”状態？　大手銀行やインフラの鍵も　米スタンフォード大などが調査",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002515/",
-      "published": "10/23 12:00",
+      "title": "HIS子会社、約14万人の個人情報流出の可能性　委託先のラクスライトクラウドに不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002549/",
+      "published": "10/23 16:10",
       "source": "ITmedia",
-      "summary": "米スタンフォード大学などに所属する研究者らが発表した論文「Keys on Doormats: Exposed API Credentials on the Web」は、Web上の1000万サイトを調査し、本来秘匿にすべき「APIキー」（APIを利用する際の配布元が発行する許可証となる秘密のパスワード）が大量に露出している実態を発表した研究報告だ。"
+      "summary": "旅行大手エイチ・アイ・エス（HIS）の子会社で、「変なホテル」などを展開するH.I.S.ホテルホールディングスは10月22日、同社のメールマガジン配信を手掛ける外部の企業が不正アクセスを受け、ホテル会員約14万人分の個人情報が流出した可能性があると発表した。同社によると、不正アクセスを受けたのはメール配信サービス「ブラストメール」などを手掛けるラクスライトクラウドだという。"
     },
     {
       "category": "主要",
-      "title": "作家・村上龍さん死去 74歳",
-      "link": "https://news.yahoo.co.jp/pickup/6599801?source=rss",
-      "published": "10/23 13:05",
+      "title": "作家の小林信彦さんが死去 93歳",
+      "link": "https://news.yahoo.co.jp/pickup/6599842?source=rss",
+      "published": "10/23 18:26",
       "source": "Yahoo!ニュース",
-      "summary": "17日に自宅で 作家の村上龍さんが17日、死去した。74歳だった。幻冬舎BOOKSが23日、公式Xで発表した。"
+      "summary": "小説やコラム、映画評論など多方面で活躍した作家の小林信彦（こばやし・のぶひこ）さんが19日、多臓器不全のため死去した。93歳。葬儀は近親者で行った。喪主は長女、佐々木眞理（ささき・まり）さん。"
+    },
+    {
+      "category": "経済",
+      "title": "本当の理由言わず退職 なぜ深刻か",
+      "link": "https://news.yahoo.co.jp/pickup/6599809?source=rss",
+      "published": "10/23 14:54",
+      "source": "Yahoo!ニュース",
+      "summary": "「どうせ言っても変わらない」。そう諦めた社員は、何も言わずに辞めていく。Job総研の調査では、人事評価に不満を感じたことがある人は73.0％。そのうち69.2％は会社に不満を伝えていない。理由の最多は"
     },
     {
       "category": "AI・テクノロジー",
@@ -307,19 +323,19 @@
     },
     {
       "category": "IT",
-      "title": "「Muse」日本で提供開始　MetaのAIエージェント、メルカリやマネフォ、ぴあと連携へ",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002535/",
-      "published": "10/23 10:33",
+      "title": "teppay、本人確認はなぜマイナンバーカードだけ？　JR東に理由を聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002547/",
+      "published": "10/23 15:56",
       "source": "ITmedia",
-      "summary": "ユーザーに代わり、メール送信や旅行の予約などさまざまなタスクを進めるエージェント。Gmailなど既に連携済みのサービスに加え、日本では今後、メルカリ、マネーフォワード ME、チケットぴあのサービスと連携する予定だ。"
+      "summary": "JR東日本のコード決済「teppay」は、本人確認に使える書類がマイナンバーカードのみで、運転免許証やパスポートには対応しない。その理由を同社に聞いた。"
     },
     {
       "category": "主要",
-      "title": "NYセントラルパークの馬車廃止へ",
-      "link": "https://news.yahoo.co.jp/pickup/6599787?source=rss",
-      "published": "10/23 11:39",
+      "title": "台風30号 24日にかけ先島諸島接近",
+      "link": "https://news.yahoo.co.jp/pickup/6599838?source=rss",
+      "published": "10/23 18:14",
       "source": "Yahoo!ニュース",
-      "summary": "アメリカ・ニューヨークの観光名所、セントラルパーク名物の馬車が廃止されることになりました。ニューヨーク市議会は22日、セントラルパークの馬車を2028年6月までに廃止する法案を賛成多数で可決しました"
+      "summary": "大型で非常に強い台風30号は、今日23日(金)16時現在、与那国島の南南東を北上しています。24日(土)にかけて非常に強い勢力で先島諸島にかなり接近する見込みで、沖縄地方では、線状降水帯が発生し、大"
     },
     {
       "category": "AI・テクノロジー",
@@ -328,6 +344,78 @@
       "published": "10/22 07:32",
       "source": "Yahoo!ニュース",
       "summary": "米OpenAIは10月21日（現地時間）、同日に修正版が公開されたオープンソースのプログラミング言語「PHP」の脆弱性について、OpenAIのAIモデルで発見したと発表した。「同様の発見は今後数カ月"
+    },
+    {
+      "category": "IT",
+      "title": "クリスタ、脆弱性対応で一部サービス「予告なく停止」の可能性　データの事前ダウンロード呼び掛け",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002546/",
+      "published": "10/23 15:27",
+      "source": "ITmedia",
+      "summary": "CLIP STUDIO PAINTの利用はできるが、クラウド上の作品の同期や、「CLIP STUDIO ASSETS」での素材の購入などができなくなる可能性がある。"
+    },
+    {
+      "category": "IT",
+      "title": "日経新聞への不正アクセスで日経BPの利用者情報も約80万件漏えい　テレ東などにも影響か",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002544/",
+      "published": "10/23 15:09",
+      "source": "ITmedia",
+      "summary": "うち約5万件は、氏名、メールアドレス、住所、電話番号、生年月日のいずれかを含む。"
+    },
+    {
+      "category": "IT",
+      "title": "デジタル庁、公式サイトへの問い合わせ最大1万3000件漏えいか　Web制作ツール「Studio」不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002543/",
+      "published": "10/23 14:05",
+      "source": "ITmedia",
+      "summary": "デジタル庁は10月22日、Webサイト制作サービス「Studio」への不正アクセスにより、同庁サイトの問い合わせフォームに入力した氏名やメールアドレスなど最大1万3323件が漏えいした可能性があると発表した。"
+    },
+    {
+      "category": "IT",
+      "title": "PayPay、「免許証画像で本人確認」廃止　ICチップ読み取りに統一",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002540/",
+      "published": "10/23 12:59",
+      "source": "ITmedia",
+      "summary": "運転免許証かマイナンバーカードのICチップをユーザーがスマートフォンで読み取り、本人確認申請する方法に統一する。"
+    },
+    {
+      "category": "IT",
+      "title": "令和12年度からの教科書、「紙」と「デジタル」組み合わせ　文科相指針案",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002537/",
+      "published": "10/23 12:07",
+      "source": "ITmedia",
+      "summary": "文部科学省は10月22日、令和12年度から正式な教科書となるデジタル教科書について、全ての学年で紙とデジタルを組み合わせた「ハイブリッド形式」を基本とする「大臣指針案」を有識者会議に示した。「完全デジタル」の教科書は小学5年生以上の一部の教科に限定する。"
+    },
+    {
+      "category": "IT",
+      "title": "「AIでエンジニア派遣は不要になる」のか？　各社に肌感を聞いた　求められる人材、明確に変化",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002527/",
+      "published": "10/23 12:07",
+      "source": "ITmedia",
+      "summary": "生成AIがコードを書く時代、エンジニア派遣は不要になるのか。10月21～23日に幕張メッセで開催中の「Japan IT Week 秋 2026」には、派遣・紹介サービスを手掛ける企業が複数出展。エンジニア派遣の需要について、疑問を各社にぶつけてみた。"
+    },
+    {
+      "category": "IT",
+      "title": "“あいまいな指示”を入力されたAIは安全なコーディングができない？　香港科技大などが調査",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002513/",
+      "published": "10/23 12:00",
+      "source": "ITmedia",
+      "summary": "香港科技大学などに所属する研究者らが7月に発表した論文「Coding Agents Are Guessing: Measuring Action-Boundary Violations in Underspecified DevOps Instructions」は、あいまいな指示を受けたコーディングAIがどのような振る舞いをみせるかを調査した研究報告だ。"
+    },
+    {
+      "category": "IT",
+      "title": "1000万のWebサイトで「生きたAPIキー」が大量に“丸見え”状態？　大手銀行やインフラの鍵も　米スタンフォード大などが調査",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002515/",
+      "published": "10/23 12:00",
+      "source": "ITmedia",
+      "summary": "米スタンフォード大学などに所属する研究者らが発表した論文「Keys on Doormats: Exposed API Credentials on the Web」は、Web上の1000万サイトを調査し、本来秘匿にすべき「APIキー」（APIを利用する際の配布元が発行する許可証となる秘密のパスワード）が大量に露出している実態を発表した研究報告だ。"
+    },
+    {
+      "category": "IT",
+      "title": "「Muse」日本で提供開始　MetaのAIエージェント、メルカリやマネフォ、ぴあと連携へ",
+      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002535/",
+      "published": "10/23 10:33",
+      "source": "ITmedia",
+      "summary": "ユーザーに代わり、メール送信や旅行の予約などさまざまなタスクを進めるエージェント。Gmailなど既に連携済みのサービスに加え、日本では今後、メルカリ、マネーフォワード ME、チケットぴあのサービスと連携する予定だ。"
     },
     {
       "category": "IT",
@@ -360,78 +448,6 @@
       "published": "10/23 07:45",
       "source": "ITmedia",
       "summary": "Microsoftは、中国連携の攻撃者「Storm-0940」がオープンソースのAI侵入テストツール「ARTEX」で攻撃を自動化し、世界で数百の組織を標的にしていると発表した。ConnectWise経由で顧客のMicrosoft 365に侵入した事例も同グループと分析。管理者権限奪取まで3時間未満の例もあり、注意を呼び掛けている。"
-    },
-    {
-      "category": "IT",
-      "title": "PHP2Shell、公表4日前に悪用の試み　「公表日より前にさかのぼって調査を」とAmazon",
-      "link": "https://www.itmedia.co.jp/news/article/2610/23/2000002530/",
-      "published": "10/23 07:03",
-      "source": "ITmedia",
-      "summary": "Amazonの脅威調査チームは、PHPの緊急脆弱性「PHP2Shell」を悪用する試みを公表4日前にハニーポットで検知したと発表した。公開後は悪用が急拡大。AIによる攻撃コード作成の加速を指摘し、対応期限の時間単位での管理や公表前への調査遡及など前提の見直しを呼び掛けた。"
-    },
-    {
-      "category": "IT",
-      "title": "PHP脆弱性でいち早くサービス停止したコドモン　背景に「被害が出てからでは取り消せない」",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002528/",
-      "published": "10/22 21:11",
-      "source": "ITmedia",
-      "summary": "保育・教育施設向けITサービス「コドモン」を運営するコドモンは10月22日、ITmedia NEWSの取材に対し、21日からの全サービス停止はPHPの「緊急」レベルの脆弱性2件への予防措置だったと明らかにした。不正アクセスや情報漏えいは確認されていないという。"
-    },
-    {
-      "category": "IT",
-      "title": "PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表　混乱広げた企業を名指しで批判",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002525/",
-      "published": "10/22 18:29",
-      "source": "ITmedia",
-      "summary": "PHP脆弱性がこれほどまでに世間を騒がせたのは、その緊急性はもちろん、本来伏せておくべきだった情報の先出しが影響している。開発プロジェクトを支援するThe PHP Foundation（PHP財団）が経緯を公開した。"
-    },
-    {
-      "category": "IT",
-      "title": "手のひらサイズの“宇宙AIデータセンター”？　JAXA後押しの国内新興が実現目指す　南極・高山での利用も視野",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002510/",
-      "published": "10/22 18:00",
-      "source": "ITmedia",
-      "summary": "宇宙で取得したデータをその場で小型のAIに処理させ、軽量化してから地上に下ろす──という仕組みの実現を目指す日本初ベンチャー、技術開発の進捗は。"
-    },
-    {
-      "category": "IT",
-      "title": "カプコン、1177万件漏えい　不正アクセスで",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002523/",
-      "published": "10/22 17:24",
-      "source": "ITmedia",
-      "summary": "カプコンは10月22日、不正アクセスにより会員サービス「CAPCOM ID」の情報が1177万4247件漏えいしたと発表した。"
-    },
-    {
-      "category": "IT",
-      "title": "高市総理、サイバーセキュリティの本を出していた　しかも“PHP”から",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002522/",
-      "published": "10/22 17:09",
-      "source": "ITmedia",
-      "summary": "「PHP」の緊急脆弱性でXでの注意喚起が話題になった高市早苗総理は、実はサイバーセキュリティの本を出版している。しかも版元は「PHP」だ。"
-    },
-    {
-      "category": "IT",
-      "title": "豪州でAI「Claude」に保育施設銃撃を予告したら逮捕　弁護側「耳感染症でストレス」",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002517/",
-      "published": "10/22 15:44",
-      "source": "ITmedia",
-      "summary": "オーストラリア・シドニー在住の29歳の男が、生成人工知能（AI）「Claude」とのチャットで保育施設での銃乱射を予告したとして逮捕・起訴された。豪紙シドニー・モーニング・ヘラルドが19日報じた。"
-    },
-    {
-      "category": "IT",
-      "title": "PHP「緊急」脆弱性悪用の試み、数百万件に　CloudflareのCEOが報告",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002516/",
-      "published": "10/22 15:30",
-      "source": "ITmedia",
-      "summary": "公表後45分で数万件、2時間以内に数十万件に跳ね上がり、その後、数百万件に達したという。"
-    },
-    {
-      "category": "IT",
-      "title": "PHP脆弱性、海外では“政府サイトごと停止”も　オランダの電子認証やWikipedia関連サービスなどにも影響",
-      "link": "https://www.itmedia.co.jp/news/article/2610/22/2000002514/",
-      "published": "10/22 15:21",
-      "source": "ITmedia",
-      "summary": "プログラミング言語「PHP」の「緊急」レベルの脆弱性2件を巡り、海外では政府サイトを予防的に停止する動きが相次いだ。オランダは行政ポータルや認証基盤「DigiD」まで止め、フィンランドは政府の公開向けネットサービスを全て停止した。"
     }
   ],
   "errors": [
