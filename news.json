@@ -1,21 +1,165 @@
 {
-  "updated": "2026-10-28T02:20:40.490267+00:00",
+  "updated": "2026-10-28T09:00:33.513800+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "auメール障害 全国で利用しづらく",
-      "link": "https://news.yahoo.co.jp/pickup/6600391?source=rss",
-      "published": "10/28 11:04",
+      "title": "日本S速報 ソフトバンクvs.DeNA",
+      "link": "https://news.yahoo.co.jp/pickup/6600432?source=rss",
+      "published": "10/28 17:56",
       "source": "Yahoo!ニュース",
-      "summary": "KDDIは10月28日午前6時から、au、UQ mobileのキャリアメール「auメールサービス」が、全国で利用できないまたは利用しづらい状況になっていると発表した。午前7時10分時点で障害は継続し"
+      "summary": "プロ野球日本シリーズ第4戦 ソフトバンクvs.DeNAを速報する。"
     },
     {
       "category": "社会",
-      "title": "安保3文書で「拒否力」防衛の柱に",
-      "link": "https://news.yahoo.co.jp/pickup/6600361?source=rss",
-      "published": "10/28 07:04",
+      "title": "衆院比例定数 31減案で自維国合意",
+      "link": "https://news.yahoo.co.jp/pickup/6600428?source=rss",
+      "published": "10/28 14:25",
       "source": "Yahoo!ニュース",
-      "summary": "政府は、年内に改定する国家安全保障戦略など安保３文書で、日本への攻撃をしかける国があっても作戦目的を達成させないようにする「拒否力」の考え方を防衛力整備の柱に位置づける方向で調整に入った。侵攻作戦を"
+      "summary": "衆議院の議員定数削減をめぐり、比例代表で31議席を削減する案について、自民党と日本維新の会、国民民主党、3党の実務者が合意しました。"
+    },
+    {
+      "category": "経済",
+      "title": "飲食店 テイクアウトに慎重な理由",
+      "link": "https://news.yahoo.co.jp/pickup/6600420?source=rss",
+      "published": "10/28 13:34",
+      "source": "Yahoo!ニュース",
+      "summary": "食料品の消費税が下がれば、テイクアウトを始める飲食店が増え、売上回復につながる。そう考えている方も多いのではないでしょうか。政府も外食支援として、テイクアウトの導入補助を検討しています。しかし、需要が"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "KDDIメールサービス通信障害 復旧",
+      "link": "https://news.yahoo.co.jp/pickup/6600431?source=rss",
+      "published": "10/28 15:32",
+      "source": "Yahoo!ニュース",
+      "summary": "KDDIのメールサービスに通信障害が発生していましたが、28日午後1時40分に復旧しました。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "Bプレミア 大阪が初の降格決定",
+      "link": "https://news.yahoo.co.jp/pickup/6600443?source=rss",
+      "published": "10/28 17:20",
+      "source": "Yahoo!ニュース",
+      "summary": "10月28日、Bリーグは2028－29シーズンのBプレミアライセンス継続資格認定に関する審査結果を発表。大阪エヴェッサへのライセンス不交付を決定し、同シーズンからBプレミアを離れることが確定した。2"
+    },
+    {
+      "category": "IT",
+      "title": "「対策を後回しにしたサーバが軒並み狙われている」　相次ぐ不正アクセスにラックCTOが警鐘",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002675/",
+      "published": "10/28 17:19",
+      "source": "ITmedia",
+      "summary": "不正アクセスが相次ぐ中、ラックの倉持浩明CTOは「KDDI SUMMIT 2026」に登壇。被害対応の現場の実態として、脆弱性診断などを後回しにしたシステムが狙われていると指摘した。AIで攻撃が高速化する今、自社の都合ではなく攻撃者の視点で基本対策を見直す必要性を訴えた。"
+    },
+    {
+      "category": "主要",
+      "title": "岡田武史氏 JFA副会長を電撃辞任",
+      "link": "https://news.yahoo.co.jp/pickup/6600455?source=rss",
+      "published": "10/28 17:54",
+      "source": "Yahoo!ニュース",
+      "summary": "10月24日付で退任、「スポーツマンとして受け入れることができず」決断 日本サッカー協会（JFA）は10月28日、岡田武史氏が10月24日をもって副会長を辞任したことを発表した。岡田氏は「熟慮を重ね"
+    },
+    {
+      "category": "社会",
+      "title": "NHKがIP活用などに注力へ 中計案",
+      "link": "https://news.yahoo.co.jp/pickup/6600409?source=rss",
+      "published": "10/28 12:51",
+      "source": "Yahoo!ニュース",
+      "summary": "NHKは27日、2027～29年度の中期経営計画案を発表した。受信料収入のさらなる減少を見込む一方、知的財産（IP）の活用などに力を入れることで、各年度の事業収入は26年度予算と同規模の約6200億"
+    },
+    {
+      "category": "経済",
+      "title": "増える正社員の副業 実状とリスク",
+      "link": "https://news.yahoo.co.jp/pickup/6600415?source=rss",
+      "published": "10/28 13:11",
+      "source": "Yahoo!ニュース",
+      "summary": "「副業は小遣い稼ぎ」という時代は終わりつつある。パーソル総合研究所の大規模調査では、正社員の副業実施率は11.0％。過去最高だ。ここでいう副業とは、現金収入を伴う本業以外の仕事を指す。さらに副業経験者"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "GMOへの「劇場型」攻撃 狙いは",
+      "link": "https://news.yahoo.co.jp/pickup/6600424?source=rss",
+      "published": "10/28 14:14",
+      "source": "Yahoo!ニュース",
+      "summary": "GMOインターネットグループがサイバー攻撃を受け、顧客情報の公開とランサムウエア攻撃を行うと予告を受けていた問題です。27日正午に期限を迎え、その後、GMO側は“顧客や自社に関する情報と称するもの”"
+    },
+    {
+      "category": "スポーツ",
+      "title": "日本ハム 森本稀哲氏が2軍監督に",
+      "link": "https://news.yahoo.co.jp/pickup/6600441?source=rss",
+      "published": "10/28 16:41",
+      "source": "Yahoo!ニュース",
+      "summary": "球団発表 日本ハムは28日、森本稀哲1軍外野守備走塁コーチが来季から2軍監督を務めると発表した。"
+    },
+    {
+      "category": "IT",
+      "title": "「推しがそばにいる日常」を　ソニー、5万円台の裸眼3Dディスプレイ　アニメ公式コンテンツに対応",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002670/",
+      "published": "10/28 16:06",
+      "source": "ITmedia",
+      "summary": "ホロモデルに対応し、「アニメの公式キャラクターを中心とした3Dデジタルフィギュアを手軽に鑑賞できる」。"
+    },
+    {
+      "category": "主要",
+      "title": "キッチンタイマーを回収 TDR運営",
+      "link": "https://news.yahoo.co.jp/pickup/6600444?source=rss",
+      "published": "10/28 17:11",
+      "source": "Yahoo!ニュース",
+      "summary": "東京ディズニーリゾートを運営するオリエンタルランドはキッチンタイマー6449個を回収すると発表しました。"
+    },
+    {
+      "category": "社会",
+      "title": "東京・近畿で木枯らし1号 気象庁",
+      "link": "https://news.yahoo.co.jp/pickup/6600406?source=rss",
+      "published": "10/28 12:43",
+      "source": "Yahoo!ニュース",
+      "summary": "気象庁は今日28日、東京地方と近畿地方で「木枯らし1号」が吹いたと発表しました。ともに昨年の11月3日より6日早い発表です。日本付近は西高東低の冬型の気圧配置となり、冷たい北寄りの風が強まりました。"
+    },
+    {
+      "category": "経済",
+      "title": "1600日超通う客も 名古屋発・大黒",
+      "link": "https://news.yahoo.co.jp/pickup/6600402?source=rss",
+      "published": "10/28 11:59",
+      "source": "Yahoo!ニュース",
+      "summary": "■名古屋で増殖中「大黒」はどんな店？ 名古屋で働いている筆者は、駅の近くで「立呑み 焼きとん 大黒」(以下、大黒)の看板をよく見かける。最初は気にも留めなかったが、名古屋駅にも栄にも金山にも、この"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "GMOを攻撃した集団のサイト停止",
+      "link": "https://news.yahoo.co.jp/pickup/6600397?source=rss",
+      "published": "10/28 11:34",
+      "source": "Yahoo!ニュース",
+      "summary": "GMOインターネットのシステムがサイバー攻撃を受けた事件で、GMOに身代金を要求していたハッカー集団のウェブサイトが停止させられたことが分かりました。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "阪神ドラ3常深 珍しい名字に悩み",
+      "link": "https://news.yahoo.co.jp/pickup/6600422?source=rss",
+      "published": "10/28 13:58",
+      "source": "Yahoo!ニュース",
+      "summary": "阪神からドラフト３位で指名された、常深颯大投手（２２）＝大経大＝が２７日、大阪市内の同大で指名あいさつを受けた。手元の見えづらいフォームから最速１４９キロの直球と５種類の変化球を操る、兵庫県小野市出"
+    },
+    {
+      "category": "IT",
+      "title": "資さんうどん、従業員の退職理由などが外部から閲覧可能に　委託先の勤怠システムに設定不備",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002667/",
+      "published": "10/28 15:02",
+      "source": "ITmedia",
+      "summary": "うどんチェーン「資さんうどん」を運営する資さんは10月27日、委託先が運用する勤怠管理システムの設定不備で、従業員と退職者の個人情報が外部から閲覧可能になっていた可能性があると発表した。一部のケースでは、退職理由も対象に含まれる。"
+    },
+    {
+      "category": "主要",
+      "title": "呼吸器具抜き妻を殺害疑い 夫逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6600442?source=rss",
+      "published": "10/28 16:55",
+      "source": "Yahoo!ニュース",
+      "summary": "老人ホームで寝たきりの妻の呼吸器具を引き抜いて殺害したとして、千葉県警は28日、千葉市美浜区幸町1丁目の無職の男（75）を殺人容疑で逮捕し、発表した。調べに対し「これ以上妻に苦しみを与えたくない。妻"
+    },
+    {
+      "category": "社会",
+      "title": "大阪維新代表 無投票で吉村氏3選",
+      "link": "https://news.yahoo.co.jp/pickup/6600400?source=rss",
+      "published": "10/28 11:47",
+      "source": "Yahoo!ニュース",
+      "summary": "任期満了に伴う地域政党「大阪維新の会」の代表選が28日、告示された。吉村洋文代表（大阪府知事）以外に立候補の届け出はなく、無投票で吉村氏の3選が決まった。11月7日に開かれる党の全体会議で正式に承認"
     },
     {
       "category": "経済",
@@ -27,43 +171,43 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "Siri AIが日本語対応 使い勝手は",
-      "link": "https://news.yahoo.co.jp/pickup/6600371?source=rss",
-      "published": "10/28 08:24",
+      "title": "サイバー攻撃 サイト経由型が急増",
+      "link": "https://news.yahoo.co.jp/pickup/6600375?source=rss",
+      "published": "10/28 08:36",
       "source": "Yahoo!ニュース",
-      "summary": "9月に登場した「iPhone 18 Pro/Pro Max」に合わせて導入されたiOS 27では、AI機能のApple Intelligenceが大幅に強化されている。その目玉になっているが、AIア"
+      "summary": "企業へのサイバー攻撃が相次ぐ中、外部から利用できるウェブサイトやアプリのシステムを経由して攻撃するケースが急増していることが分かった。"
     },
     {
       "category": "スポーツ",
-      "title": "大金星 英4部がアーセナルを撃破",
-      "link": "https://news.yahoo.co.jp/pickup/6600383?source=rss",
-      "published": "10/28 09:33",
+      "title": "レイズ 延長12回逆転サヨナラ勝ち",
+      "link": "https://news.yahoo.co.jp/pickup/6600421?source=rss",
+      "published": "10/28 13:39",
       "source": "Yahoo!ニュース",
-      "summary": "[10.27 カラバオ杯4回戦 フリートウッド 1-1(PK5-3) アーセナル] カラバオカップ(英リーグ杯)は27日に4回戦を行った。フリートウッド・タウン(4部)とアーセナルの対戦は、1-1で"
+      "summary": "ワールドシリーズ第4戦が27日（日本時間28日）、トロピカーナ・フィールドで行われ、タンパベイ・レイズがミルウォーキー・ブルワーズに4-3で延長12回逆転サヨナラ勝利。シリーズ成績を1勝3敗とし、逆"
     },
     {
       "category": "IT",
-      "title": "IDCFクラウドのランサム被害、OSSの脆弱性悪用される　サーバ内データ流出なし　再発防止へSBOM化",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002655/",
-      "published": "10/28 10:13",
+      "title": "Anthropic、独自の“創薬活動”に着手　社員1人のバイオ企業を買収、小児難病の治療薬研究を進める",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002661/",
+      "published": "10/28 13:07",
       "source": "ITmedia",
-      "summary": "IDCFクラウドポータル」の認証システムで使用していたOSSの脆弱性が悪用され、侵入の起点となった。"
+      "summary": "米Anthropicは10月27日（現地時間）、小児の希少な筋ジストロフィーなどを対象に、自社で創薬活動を進めていると発表した。社員1人でAI「Claude」を使い外部11の研究機関と実験を進めてきた企業を買収し、研究を引き継いだ。"
     },
     {
       "category": "主要",
-      "title": "ドラフト117番目に指名 涙の18歳",
-      "link": "https://news.yahoo.co.jp/pickup/6600389?source=rss",
-      "published": "10/28 10:35",
+      "title": "熊本の老舗サウナ被災 復活の軌跡",
+      "link": "https://news.yahoo.co.jp/pickup/6600440?source=rss",
+      "published": "10/28 16:49",
       "source": "Yahoo!ニュース",
-      "summary": "ソフトバンクから育成ドラフト6巡目に指名された高川学園・木下 全身の力が一気に抜けていった。22日に「プロ野球ドラフト会議 supported by リポビタンD」が開かれ、2025年夏から3季連続"
+      "summary": "2026年7月の熊本地震で被災した老舗サウナ。10年前の地震に新型コロナと、幾度も苦境に直面しながら再起してきた店主の男性だが、今回ばかりは「めちゃくちゃな状態で、もうダメかも」と心が折れかけていた"
     },
     {
       "category": "社会",
-      "title": "農相の関連団体 計85万円の不記載",
-      "link": "https://news.yahoo.co.jp/pickup/6600346?source=rss",
-      "published": "10/27 22:26",
+      "title": "安保3文書で「拒否力」防衛の柱に",
+      "link": "https://news.yahoo.co.jp/pickup/6600361?source=rss",
+      "published": "10/28 07:04",
       "source": "Yahoo!ニュース",
-      "summary": "武部新農水相（56）の政党支部が関連団体に支出した交付金を巡り、総額約85万円の不記載があることが「週刊文春」の取材で分かった。政治資金規正法違反の虚偽記載に当たる疑いがある。"
+      "summary": "政府は、年内に改定する国家安全保障戦略など安保３文書で、日本への攻撃をしかける国があっても作戦目的を達成させないようにする「拒否力」の考え方を防衛力整備の柱に位置づける方向で調整に入った。侵攻作戦を"
     },
     {
       "category": "経済",
@@ -75,91 +219,43 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "GMO攻撃 被害者は「恐怖しか」",
-      "link": "https://news.yahoo.co.jp/pickup/6600364?source=rss",
-      "published": "10/28 07:40",
+      "title": "Siri AIが日本語対応 使い勝手は",
+      "link": "https://news.yahoo.co.jp/pickup/6600371?source=rss",
+      "published": "10/28 08:24",
       "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループへのサイバー攻撃をめぐり、27日正午、攻撃者のものとみられるサイトに漏えいした可能性のある個人情報が公開されました。"
+      "summary": "9月に登場した「iPhone 18 Pro/Pro Max」に合わせて導入されたiOS 27では、AI機能のApple Intelligenceが大幅に強化されている。その目玉になっているが、AIア"
     },
     {
       "category": "スポーツ",
-      "title": "橋上秀樹氏がG残留 フロント入り",
-      "link": "https://news.yahoo.co.jp/pickup/6600369?source=rss",
-      "published": "10/28 08:15",
+      "title": "ドラフト117番目に指名 涙の18歳",
+      "link": "https://news.yahoo.co.jp/pickup/6600389?source=rss",
+      "published": "10/28 10:35",
       "source": "Yahoo!ニュース",
-      "summary": "今季途中から監督代行として巨人を率いた橋上秀樹氏（６０）が、編成本部長代理としてフロント入りして球団に残留することが２７日、分かった。オフェンスチーフコーチとして開幕し、阿部前監督の辞任を受けて交流"
+      "summary": "ソフトバンクから育成ドラフト6巡目に指名された高川学園・木下 全身の力が一気に抜けていった。22日に「プロ野球ドラフト会議 supported by リポビタンD」が開かれ、2025年夏から3季連続"
     },
     {
       "category": "IT",
-      "title": "GMO、不正アクセス実行犯の手がかりに懸賞金　1億5000万円規模",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
-      "published": "10/28 10:08",
+      "title": "顧客も巻き込むサイバー脅迫　GMO攻撃が問う企業の防御と国の対処、被害の連鎖どう断つ",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002660/",
+      "published": "10/28 12:42",
       "source": "ITmedia",
-      "summary": "GMOインターネットグループが、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、事態を解明する情報に総額100万ドル（約1億5000万円）の報奨金を支払う懸賞金制度を始めると発表した。"
+      "summary": "ネットサービス大手、GMOインターネットグループへの不正アクセス問題は10月27日、攻撃者からとみられる声明と、利用者情報とされるデータがネット上で公開されるなど、新たな段階に入った。人工知能（AI）を用いたサイバー攻撃が本格化しており、防御におけるAIの活用や、政府による攻撃拠点の無害化が求められている。"
     },
     {
       "category": "主要",
-      "title": "速報WS ブルワーズ勝てば世界一",
-      "link": "https://news.yahoo.co.jp/pickup/6600388?source=rss",
-      "published": "10/28 10:20",
+      "title": "日米防衛相 中国抑止へ協力で一致",
+      "link": "https://news.yahoo.co.jp/pickup/6600438?source=rss",
+      "published": "10/28 16:41",
       "source": "Yahoo!ニュース",
-      "summary": "ワールドシリーズ 4回戦 タンパベイ・レイズvs.ミルウォーキー・ブルワーズを速報する。"
+      "summary": "【セブ共同】小泉進次郎防衛相は28日、訪問先のフィリピン中部セブでヘグセス米国防長官と会談した。中国抑止を念頭に置き、日本の南西諸島から台湾、フィリピンを結ぶ「第1列島線」の防衛体制構築に向けた協力"
     },
     {
       "category": "社会",
-      "title": "副首都 要件満たせば4道府県指定",
-      "link": "https://news.yahoo.co.jp/pickup/6600343?source=rss",
-      "published": "10/27 21:56",
+      "title": "農相の関連団体 計85万円の不記載",
+      "link": "https://news.yahoo.co.jp/pickup/6600346?source=rss",
+      "published": "10/27 22:26",
       "source": "Yahoo!ニュース",
-      "summary": "大規模災害などの際に東京の首都機能を代替する副首都を巡り、木原官房長官は北海道、愛知、大阪、福岡の4道府県について、必要な要件を満たせばすべて指定されるとの認識を示しました。"
-    },
-    {
-      "category": "経済",
-      "title": "タマゴなど高値 家計でどう対策",
-      "link": "https://news.yahoo.co.jp/pickup/6600384?source=rss",
-      "published": "10/28 09:59",
-      "source": "Yahoo!ニュース",
-      "summary": "農林水産省は、全国470店舗を対象に毎月実施している食肉や卵などの小売価格調査について、最新の調査結果を公表しました。公表された食品価格の最新動向によると、かつて「物価の優等生」と呼ばれていた卵の価格"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "GMO不正アクセス 警視庁が捜査",
-      "link": "https://news.yahoo.co.jp/pickup/6600351?source=rss",
-      "published": "10/27 23:14",
-      "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループの外国為替証拠金取引（FX）向けサービスへの不正アクセス問題で、警視庁が不正アクセス禁止法違反容疑などで捜査していることが27日、捜査関係者への取材で分かった。同庁はGM"
-    },
-    {
-      "category": "スポーツ",
-      "title": "DeNA監督「まだ終わっていない」",
-      "link": "https://news.yahoo.co.jp/pickup/6600360?source=rss",
-      "published": "10/28 06:53",
-      "source": "Yahoo!ニュース",
-      "summary": "＜日本シリーズ：ソフトバンク2－1DeNA＞◇第3戦◇27日◇みずほペイペイドーム DeNAが逆転サヨナラ負けで3連敗を喫し、ソフトバンクに日本一へ王手をかけられた。延長10回1死、ホセ・ルイーズ投"
-    },
-    {
-      "category": "IT",
-      "title": "AndurilとQualcomm、米国製PC「BlueChip」を発表　Snapdragon X搭載、2027年に受注開始へ",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002653/",
-      "published": "10/28 09:48",
-      "source": "ITmedia",
-      "summary": "Anduril IndustriesとQualcommは、米国製コンピュータ製造基盤の再構築を目指す製品ライン「BlueChip」を共同発表した。第1弾として「Snapdragon X」シリーズ搭載ノートPCを開発し、2027年に受注を開始する。筐体や基板組み立てを国内で行い、海外供給網への依存脱却を図る。"
-    },
-    {
-      "category": "主要",
-      "title": "自民 衆院比例で「統一名簿」提案",
-      "link": "https://news.yahoo.co.jp/pickup/6600379?source=rss",
-      "published": "10/28 09:09",
-      "source": "Yahoo!ニュース",
-      "summary": "自民党は27日、与野党による選挙制度改革に関する会合で、衆院議員定数の31減に加え、比例区での「統一名簿方式」や、中国、四国両ブロックの統合を新たに提案した。自民はこの案をもとに、28日に意見集約を"
-    },
-    {
-      "category": "社会",
-      "title": "北日本 今季一番強い寒気襲来へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600325?source=rss",
-      "published": "10/27 18:28",
-      "source": "Yahoo!ニュース",
-      "summary": "あす２８日（水）は北日本の上空に今シーズン一番の強い寒気が流れ込んでくるでしょう。平年より１０度以上低い所もありそうで、１０月としては過去最強クラスの寒気ともいえる強さです。この影響で、北日本では初雪"
+      "summary": "武部新農水相（56）の政党支部が関連団体に支出した交付金を巡り、総額約85万円の不記載があることが「週刊文春」の取材で分かった。政治資金規正法違反の虚偽記載に当たる疑いがある。"
     },
     {
       "category": "経済",
@@ -171,11 +267,11 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "GMO 被害者に最大300万円見舞金",
-      "link": "https://news.yahoo.co.jp/pickup/6600341?source=rss",
-      "published": "10/27 21:34",
+      "title": "GMO攻撃 被害者は「恐怖しか」",
+      "link": "https://news.yahoo.co.jp/pickup/6600364?source=rss",
+      "published": "10/28 07:40",
       "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループは27日、「お名前.com デスクトップクラウド」への不正アクセス問題で、情報が公開されてしまった場合は、利用者にお見舞金として上限300万円で特別お見舞金を支払うと発表"
+      "summary": "GMOインターネットグループへのサイバー攻撃をめぐり、27日正午、攻撃者のものとみられるサイトに漏えいした可能性のある個人情報が公開されました。"
     },
     {
       "category": "スポーツ",
@@ -187,27 +283,27 @@
     },
     {
       "category": "IT",
-      "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
-      "published": "10/28 08:55",
+      "title": "GMO不正アクセスの犯人サイト、ドメイン停止を確認",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002659/",
+      "published": "10/28 12:22",
       "source": "ITmedia",
-      "summary": "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した。AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明。Metaは自社チップ開発と外部調達の両輪でインフラを強化する。"
+      "summary": "今後、同様のサイトが新たに開設された場合も、「確認次第、直ちにテイクダウンに向けた対応を行う」としている。"
     },
     {
       "category": "主要",
-      "title": "線路を車走行 電車衝突し女性死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6600378?source=rss",
-      "published": "10/28 09:02",
+      "title": "つるされた鉄の棒が直撃 意識不明",
+      "link": "https://news.yahoo.co.jp/pickup/6600437?source=rss",
+      "published": "10/28 16:27",
       "source": "Yahoo!ニュース",
-      "summary": "２７日午後１０時２０分頃、神奈川県藤沢市亀井野の小田急江ノ島線の線路内で電車と軽乗用車が衝突した。軽乗用車を運転していたとみられる高齢女性はその場で死亡が確認された。"
+      "summary": "北海道伊達市の鉄筋会社の作業場で、強風にあおられて動いたクレーンからつるされていた鉄の棒の束が、高齢の男性に当たる事故がありました。男性は意識不明の状態で病院に運ばれています。"
     },
     {
       "category": "社会",
-      "title": "武部農相 選挙運動費報告「訂正」",
-      "link": "https://news.yahoo.co.jp/pickup/6600308?source=rss",
-      "published": "10/27 15:55",
+      "title": "副首都 要件満たせば4道府県指定",
+      "link": "https://news.yahoo.co.jp/pickup/6600343?source=rss",
+      "published": "10/27 21:56",
       "source": "Yahoo!ニュース",
-      "summary": "武部新農林水産相は27日の衆院農林水産委員会で、選挙時に無償車上運動員として登録したカメラマンに報酬を支払っていたと週刊文春に報じられた問題を巡り、実際には車に乗った事実はないとして、選挙運動費用収"
+      "summary": "大規模災害などの際に東京の首都機能を代替する副首都を巡り、木原官房長官は北海道、愛知、大阪、福岡の4道府県について、必要な要件を満たせばすべて指定されるとの認識を示しました。"
     },
     {
       "category": "経済",
@@ -219,6 +315,30 @@
     },
     {
       "category": "AI・テクノロジー",
+      "title": "GMO不正アクセス 警視庁が捜査",
+      "link": "https://news.yahoo.co.jp/pickup/6600351?source=rss",
+      "published": "10/27 23:14",
+      "source": "Yahoo!ニュース",
+      "summary": "GMOインターネットグループの外国為替証拠金取引（FX）向けサービスへの不正アクセス問題で、警視庁が不正アクセス禁止法違反容疑などで捜査していることが27日、捜査関係者への取材で分かった。同庁はGM"
+    },
+    {
+      "category": "IT",
+      "title": "システム障害でカード決済が1日停止→客が取る行動は……スイス国立銀行が約2400店を調査",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002613/",
+      "published": "10/28 12:00",
+      "source": "ITmedia",
+      "summary": "スイス国立銀行などに所属する研究者らが発表した論文「Cash saves the day: How cash infrastructure enhances resilience during a card payment system outage」は、小売店でシステム障害が起きてカード決済が使えなくなった場合における消費者の行動を分析した研究報告だ。"
+    },
+    {
+      "category": "主要",
+      "title": "自ら車のタイヤ交換 走行中に脱落",
+      "link": "https://news.yahoo.co.jp/pickup/6600433?source=rss",
+      "published": "10/28 15:58",
+      "source": "Yahoo!ニュース",
+      "summary": "北海道小樽市で2026年10月28日、軽乗用車の左前タイヤが走行中に外れる事故がありました。"
+    },
+    {
+      "category": "AI・テクノロジー",
       "title": "So-netなど258万件超が漏えい",
       "link": "https://news.yahoo.co.jp/pickup/6600338?source=rss",
       "published": "10/27 20:46",
@@ -226,12 +346,68 @@
       "summary": "ソニーネットワークコミュニケーションズは10月27日、インターネット接続サービス「So-net」の会員データベースが外部から不正アクセスを受け、個人情報が漏えいしたと発表した。10月19日に不正アク"
     },
     {
-      "category": "スポーツ",
-      "title": "DeNA神里 松葉づえで球場を後に",
-      "link": "https://news.yahoo.co.jp/pickup/6600354?source=rss",
-      "published": "10/27 23:51",
-      "source": "Yahoo!ニュース",
-      "summary": "◆ＳＭＢＣ日本シリーズ２０２６第３戦 ソフトバンク２×―１ＤｅＮＡ＝延長１０回＝（２７日・みずほＰａｙＰａｙ） ７回から右翼の守備に入っていたＤｅＮＡ・神里和毅外野手（３２）が負傷交代した。"
+      "category": "IT",
+      "title": "AI音声の詐欺電話、6人に1人が応じる可能性　だまされやすい手口とは　米ハーバード大やMetaが4100人で検証",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002612/",
+      "published": "10/28 12:00",
+      "source": "ITmedia",
+      "summary": "米ハーバード大学や米Metaなどに所属する研究者らが発表した論文「Evaluating AI Models’ Capability to Automate Voice Phishing Attacks」は、AIによる詐欺電話によってどれくらい騙されるかを調査した研究報告だ。"
+    },
+    {
+      "category": "IT",
+      "title": "「エアコンをつけるほどではない日」のデスクワークは足元で対策　温風・涼風を出せる山善のフットレストを試す",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002646/",
+      "published": "10/28 12:00",
+      "source": "ITmedia",
+      "summary": "デスクの下に置いたサブウーファーを、いつの間にか足置きにしていました。足を少し高いところに置けるだけで、なかなか具合がいいのです。そこで試したのが、温風と涼風を出せる山善のフットレスト「足もとホット＆クール」。温冷機能が目当てだったはずが、机の下に置いてみて分かったのは、少し違う良さでした。"
+    },
+    {
+      "category": "IT",
+      "title": "ヤクルト本社サイト、不正アクセスで停止中　顧客情報への影響は「調査中」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002657/",
+      "published": "10/28 11:17",
+      "source": "ITmedia",
+      "summary": "不正アクセスを受けてメンテナンス中と知らせる掲示は、26日午後7時付で掲載。約40時間たった28日午前11時時点でも同じ表示が続いている。"
+    },
+    {
+      "category": "IT",
+      "title": "Discord、公開サーバの会話をGoogle検索などの対象に　プライバシーへの懸念も",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002656/",
+      "published": "10/28 11:07",
+      "source": "ITmedia",
+      "summary": "Discordは、一部の公開サーバーにおける会話をWeb検索の対象にすると発表した。11月中旬からAI要約を公開し、12月中旬から投稿本文も検索可能にする。情報検索性を高める狙いだが、プライバシーやAI学習への利用懸念も噴出。日本は初期設定でオンとなるため、除外には設定変更が必要だ。"
+    },
+    {
+      "category": "IT",
+      "title": "IDCFクラウドのランサム被害、OSSの脆弱性悪用される　サーバ内データ流出なし　再発防止へSBOM化",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002655/",
+      "published": "10/28 10:13",
+      "source": "ITmedia",
+      "summary": "IDCFクラウドポータル」の認証システムで使用していたOSSの脆弱性が悪用され、侵入の起点となった。"
+    },
+    {
+      "category": "IT",
+      "title": "GMO、不正アクセス実行犯の手がかりに懸賞金　1億5000万円規模",
+      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002642/",
+      "published": "10/28 10:08",
+      "source": "ITmedia",
+      "summary": "GMOインターネットグループが、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、事態を解明する情報に総額100万ドル（約1億5000万円）の報奨金を支払う懸賞金制度を始めると発表した。"
+    },
+    {
+      "category": "IT",
+      "title": "AndurilとQualcomm、米国製PC「BlueChip」を発表　Snapdragon X搭載、2027年に受注開始へ",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002653/",
+      "published": "10/28 09:48",
+      "source": "ITmedia",
+      "summary": "Anduril IndustriesとQualcommは、米国製コンピュータ製造基盤の再構築を目指す製品ライン「BlueChip」を共同発表した。第1弾として「Snapdragon X」シリーズ搭載ノートPCを開発し、2027年に受注を開始する。筐体や基板組み立てを国内で行い、海外供給網への依存脱却を図る。"
+    },
+    {
+      "category": "IT",
+      "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
+      "published": "10/28 08:55",
+      "source": "ITmedia",
+      "summary": "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した。AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明。Metaは自社チップ開発と外部調達の両輪でインフラを強化する。"
     },
     {
       "category": "IT",
@@ -242,46 +418,6 @@
       "summary": "原因は調査中。音声通話とデータ通信は問題なく利用できる。"
     },
     {
-      "category": "主要",
-      "title": "米大統領「AI」名称禁止する方針",
-      "link": "https://news.yahoo.co.jp/pickup/6600376?source=rss",
-      "published": "10/28 08:49",
-      "source": "Yahoo!ニュース",
-      "summary": "アメリカのトランプ大統領は「AI＝人工知能」の名称の使用を禁止する方針を明らかにしました。"
-    },
-    {
-      "category": "社会",
-      "title": "浜岡原発差し止め裁判 請求却下",
-      "link": "https://news.yahoo.co.jp/pickup/6600307?source=rss",
-      "published": "10/27 15:43",
-      "source": "Yahoo!ニュース",
-      "summary": "静岡県御前崎市にある浜岡原子力発電所をめぐり弁護士らが運転差し止めを求めていた裁判で、静岡地裁は10月27日、原告の訴えを「却下」する判決を言い渡しました。"
-    },
-    {
-      "category": "経済",
-      "title": "たまごの平均価格 最高値を更新",
-      "link": "https://news.yahoo.co.jp/pickup/6600331?source=rss",
-      "published": "10/27 19:20",
-      "source": "Yahoo!ニュース",
-      "summary": "全国の小売店で販売された、たまごの平均価格が最高値を更新しました。また、輸入牛肉と鶏もも肉の価格も最高値に並びました。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "GMO攻撃者「個人情報毎日公開」",
-      "link": "https://news.yahoo.co.jp/pickup/6600302?source=rss",
-      "published": "10/27 14:38",
-      "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループの提供するサービスがサイバー攻撃を受けた問題で、ハッカー集団は正午すぎ、新たに声明を発表し、GMOが交渉に応じなかったとして、1人の個人情報を公開しました。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "大坂なおみ鶴柄衣装で登場 大歓声",
-      "link": "https://news.yahoo.co.jp/pickup/6600318?source=rss",
-      "published": "10/27 17:45",
-      "source": "Yahoo!ニュース",
-      "summary": "◆テニス ▽東レ・パンパシフィック・オープン第２日（２７日、東京・有明コロシアム） 大坂なおみが奇抜なファッションを披露した。"
-    },
-    {
       "category": "IT",
       "title": "Apple、M6搭載の14インチ「MacBook Pro」発表　AI性能向上、33万9800円から",
       "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002649/",
@@ -290,52 +426,12 @@
       "summary": "Appleは、新型チップ「M6」を搭載した14インチ「MacBook Pro」を発表した。M6はCPU・GPUともに12コアで、AI処理やグラフィックス性能が向上。Wi-Fi 7対応や最大24時間のバッテリー駆動を実現した。日本での販売価格は33万9800円からで、11月6日発売の予定だ。"
     },
     {
-      "category": "主要",
-      "title": "サイバー攻撃 サイト経由型が急増",
-      "link": "https://news.yahoo.co.jp/pickup/6600375?source=rss",
-      "published": "10/28 08:36",
-      "source": "Yahoo!ニュース",
-      "summary": "企業へのサイバー攻撃が相次ぐ中、外部から利用できるウェブサイトやアプリのシステムを経由して攻撃するケースが急増していることが分かった。"
-    },
-    {
-      "category": "社会",
-      "title": "モンゴル火災 政府が専門家派遣へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600304?source=rss",
-      "published": "10/27 14:59",
-      "source": "Yahoo!ニュース",
-      "summary": "モンゴルで発生した草原火災を巡り、政府は復旧に向けて森林や環境保護分野の専門家を現地に派遣する方針です。"
-    },
-    {
-      "category": "経済",
-      "title": "ミセス×ガスト企画で持ち去り被害",
-      "link": "https://news.yahoo.co.jp/pickup/6600320?source=rss",
-      "published": "10/27 18:06",
-      "source": "Yahoo!ニュース",
-      "summary": "ファミリーレストラン「ガスト」と、3人組バンド「Mrs. GREEN APPLE」の藤澤涼架さんによるコラボレーション企画が10月22日からスタートしました。藤澤さんが考案したオリジナルメニューが提"
-    },
-    {
       "category": "IT",
       "title": "Google DeepMind、ワールドモデル「Genie 4」発表　音声や会話もリアルタイム生成、Geminiと連携",
       "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002648/",
       "published": "10/28 06:53",
       "source": "ITmedia",
       "summary": "Google DeepMindは、対話型の仮想世界をリアルタイム生成するAI「Genie 4」を発表した。映像品質や物理演算が向上し、環境音や会話音声の同時生成に対応。人物の自然な動作やテキストによる環境操作が可能となった。まずは研究プレビューとして提供し、順次「Google AI Ultra」加入者等へ展開する。"
-    },
-    {
-      "category": "主要",
-      "title": "遺跡発掘中 土砂に埋もれ女性死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6600373?source=rss",
-      "published": "10/28 08:27",
-      "source": "Yahoo!ニュース",
-      "summary": "27日午前、越谷市の西浦遺跡で発掘作業をしていた女性1人が土砂に埋もれて死亡しました。"
-    },
-    {
-      "category": "経済",
-      "title": "ニデック 創業者ら9人を提訴へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600319?source=rss",
-      "published": "10/27 17:45",
-      "source": "Yahoo!ニュース",
-      "summary": "京都市に本社があるモーター大手の「ニデック」はきょう＝27日、会計不正の問題を受けて創業者の永守重信氏をはじめ、歴代社長５人を含む旧役員９人に対し、損害賠償を求める訴えを起こすことを決定したと明らか"
     },
     {
       "category": "IT",
@@ -352,94 +448,6 @@
       "published": "10/27 19:48",
       "source": "ITmedia",
       "summary": "ソニーネットワークコミュニケーションズは10月27日、「So-net」の会員データベースが第三者による不正アクセスを受け、すでに退会した元会員の情報を含む約259万件の会員情報が漏えいしたと発表した一部のメールサービスでは、約5万4000件のメールアドレスとパスワードの漏えいも確認したという。"
-    },
-    {
-      "category": "IT",
-      "title": "GMO、攻撃者の公開情報に「アクセスは絶対に控えて」　悪質な拡散者には法的措置を準備",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002640/",
-      "published": "10/27 17:58",
-      "source": "ITmedia",
-      "summary": "GMOインターネットグループは10月27日、「お名前.com デスクトップクラウド」への不正アクセスを巡り、攻撃者が公開した情報と称するものにアクセスしないよう呼び掛けた。"
-    },
-    {
-      "category": "IT",
-      "title": "GMO、攻撃者による情報公開を確認　顧客データ含むか調査中　追加の見舞金も検討",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002630/",
-      "published": "10/27 16:40",
-      "source": "ITmedia",
-      "summary": "GMOインターネットグループは10月27日、FX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、攻撃者とみられる人物による、顧客に関する情報らしきものの公開を、同日午後0時30分に確認したと発表した。"
-    },
-    {
-      "category": "IT",
-      "title": "タイムズカー、お見舞金3000円の算定基準は？　パーク24に聞いた",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002627/",
-      "published": "10/27 16:34",
-      "source": "ITmedia",
-      "summary": "パーク24は、カーシェアリングサービス「タイムズカー」の情報漏えいを受けて対象者に支払う3000円相当のお見舞金について、利用者が取り得る対応やそれに伴う負担などを総合的に勘案して金額を設定したと、ITmedia NEWSの取材に回答した。"
-    },
-    {
-      "category": "IT",
-      "title": "専門AIで肌カウンセリング、ファンケルが新サービス　チャットと顔画像解析で",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002629/",
-      "published": "10/27 16:24",
-      "source": "ITmedia",
-      "summary": "ファンケルは10月27日、肌専門の人工知能（AI）を使った肌のカウンセリングサービスを始めた。スマートフォンなどで、同社の公式アプリから無料で利用できる。"
-    },
-    {
-      "category": "IT",
-      "title": "GMO、ランサム被害にあった顧客に新しいPC提供へ　犯行グループは1人の顧客情報公開か",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002624/",
-      "published": "10/27 14:19",
-      "source": "ITmedia",
-      "summary": "顧客から預かって既に解析を終えた端末からは、10月27日午前11時59時点で、ランサムウェアを含むマルウェアは確認していないという。"
-    },
-    {
-      "category": "IT",
-      "title": "政府、サイバー攻撃の「緊急対策パッケージ」来週中に策定へ　高市首相がサイバー閣僚会議の初会合で指示",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002620/",
-      "published": "10/27 12:18",
-      "source": "ITmedia",
-      "summary": "政府は10月26日、「サイバーセキュリティに関する関係閣僚会議」の初会合を首相官邸で開いた。高市早苗首相は、企業への攻撃で大規模な情報漏えいが相次いでいるとして、来週中をめどに政府の「緊急対策パッケージ」を取りまとめるよう各大臣に指示した。"
-    },
-    {
-      "category": "IT",
-      "title": "貨物の搬送車両で自動運転「レベル4」　福岡空港、国内3カ所目",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002619/",
-      "published": "10/27 12:09",
-      "source": "ITmedia",
-      "summary": "日本航空と福岡国際空港は10月26日、貨物コンテナを運搬する「トーイングトラクター」で「レベル4」の自動運転を始めた。国内では成田、羽田に続き3カ所目。"
-    },
-    {
-      "category": "IT",
-      "title": "メアドを検索→AIで“その人専用フィッシングメール”を生成する手法、クリック率が約2.7倍に　7000人以上で実験",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002550/",
-      "published": "10/27 12:00",
-      "source": "ITmedia",
-      "summary": "ドイツのベルリン工科大学などに所属する研究者らが発表した論文「A Large-Scale Study of Personalized Phishing using Large Language Models」は、AIが生成するスピアフィッシング攻撃の有効性を検証した研究報告だ。"
-    },
-    {
-      "category": "IT",
-      "title": "「若手はAI使うな」は“老害”なのか？　新人教育で「AI禁止」した企業の1年後",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002585/",
-      "published": "10/27 12:00",
-      "source": "ITmedia",
-      "summary": "約1年前、新人教育を目的にAI禁止施策を採用したいえらぶGROUP。現在の状況は……？"
-    },
-    {
-      "category": "IT",
-      "title": "「自分の個人情報が漏えいした……どうすれば？」　IPAが対処法公開",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002617/",
-      "published": "10/27 11:51",
-      "source": "ITmedia",
-      "summary": "メールアドレスや電話番号、住所、氏名が漏えいした場合は、突然届くメールやSMSは基本的にすべて詐欺の偽メールだと考えて、無視して削除するよう呼び掛けた。"
-    },
-    {
-      "category": "IT",
-      "title": "GMO、PCのバックアップと電源オフ呼びかけ　VPS利用者に　きょう正午の攻撃予告受け",
-      "link": "https://www.itmedia.co.jp/news/article/2610/27/2000002616/",
-      "published": "10/27 11:32",
-      "source": "ITmedia",
-      "summary": "GMOインターネットグループは10月27日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、利用者に対し、同日正午までにPCのデータをバックアップした上で、電源を切るよう呼び掛けた。攻撃者とみられる人物から、同時刻に顧客情報の公開とランサムウェア攻撃を行うとの予告を受けたとしている。"
     }
   ],
   "errors": [
