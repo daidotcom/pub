@@ -1,13 +1,61 @@
 {
-  "updated": "2026-10-28T21:09:09.097776+00:00",
+  "updated": "2026-10-29T01:01:08.052763+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "千葉県で震度5弱 津波の心配なし",
-      "link": "https://news.yahoo.co.jp/pickup/6600489?source=rss",
-      "published": "10/29 00:19",
+      "title": "タッチ対応「MacBook Pro」発表",
+      "link": "https://news.yahoo.co.jp/pickup/6600509?source=rss",
+      "published": "10/29 09:12",
       "source": "Yahoo!ニュース",
-      "summary": "29日午前0時7分頃、千葉県北東部を震源とするマグニチュード5.4の地震が発生し、千葉県で最大震度5弱を観測しました。この地震による津波の心配はありません。"
+      "summary": "Appleは10月29日、新型「MacBook Pro」を発表した。11月6日発売予定で、価格は499,800円より。"
+    },
+    {
+      "category": "社会",
+      "title": "盗撮「カメレオンカメラ」巧妙化",
+      "link": "https://news.yahoo.co.jp/pickup/6600512?source=rss",
+      "published": "10/29 09:35",
+      "source": "Yahoo!ニュース",
+      "summary": "盗撮の検挙件数が、近年増加しています。警察庁によると、2021年には5019件だった検挙件数が、2025年には9237件と約1.8倍になっているのです。"
+    },
+    {
+      "category": "経済",
+      "title": "米FRBが政策金利を据え置き",
+      "link": "https://news.yahoo.co.jp/pickup/6600510?source=rss",
+      "published": "10/29 09:13",
+      "source": "Yahoo!ニュース",
+      "summary": "米連邦準備制度理事会（FRB）は28日の連邦公開市場委員会（FOMC）で、政策金利を3・75～4・0％に維持することを決めた。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "GMO懸賞金 6hで113件の情報提供",
+      "link": "https://news.yahoo.co.jp/pickup/6600483?source=rss",
+      "published": "10/28 22:44",
+      "source": "Yahoo!ニュース",
+      "summary": "サイバー攻撃を受けているGMOインターナショナルは、犯人特定などに向け懸賞金を設けた後、6時間で113件の情報提供があったことを明らかにしました。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "FW塩貝が2発&後藤も2発 ドイツ杯",
+      "link": "https://news.yahoo.co.jp/pickup/6600513?source=rss",
+      "published": "10/29 09:35",
+      "source": "Yahoo!ニュース",
+      "summary": "塩貝と鈴木がスタメン出場 現地10月28日に開催された開催のDFBポカール２回戦で、塩貝健人が所属するドイツ２部のヴォルフスブルクと、鈴木唯人、後藤啓介、山本理仁、ミオ・バックハウス（長田澪）を擁す"
+    },
+    {
+      "category": "IT",
+      "title": "「ツイキャス」不正アクセスで停止　復旧までに「相応の時間」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002692/",
+      "published": "10/29 08:56",
+      "source": "ITmedia",
+      "summary": "ツイキャスのサーバに第三者による不正アクセスが行われた形跡を確認した。"
+    },
+    {
+      "category": "主要",
+      "title": "大谷 選手会選出のMVP受賞ならず",
+      "link": "https://news.yahoo.co.jp/pickup/6600508?source=rss",
+      "published": "10/29 09:06",
+      "source": "Yahoo!ニュース",
+      "summary": "米大リーグ選手会は28日（日本時間29日）、選手間投票で決定する「プレーヤーズ・チョイス・アワード」各賞を発表。カブスのピート・クロウアームストロング外野手がメジャー全体のMVPにあたる「プレーヤー"
     },
     {
       "category": "社会",
@@ -19,6 +67,54 @@
     },
     {
       "category": "経済",
+      "title": "「千鳥饅頭」千鳥屋本家が破産へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600474?source=rss",
+      "published": "10/28 21:24",
+      "source": "Yahoo!ニュース",
+      "summary": "銘菓「千鳥饅頭（まんじゅう）」などで知られ民事再生法を申請していた菓子製造販売「千鳥屋本家」（福岡県飯塚市）が、福岡地裁から再生手続きの廃止決定を受けたことが28日、分かった。東京商工リサーチ福岡支"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "KDDIメールサービス通信障害 復旧",
+      "link": "https://news.yahoo.co.jp/pickup/6600431?source=rss",
+      "published": "10/28 15:32",
+      "source": "Yahoo!ニュース",
+      "summary": "KDDIのメールサービスに通信障害が発生していましたが、28日午後1時40分に復旧しました。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "楽天 小笠原道大氏をコーチ招へい",
+      "link": "https://news.yahoo.co.jp/pickup/6600495?source=rss",
+      "published": "10/29 07:19",
+      "source": "Yahoo!ニュース",
+      "summary": "楽天が元巨人の小笠原道大氏（５３）、今季までオリックスでヘッドコーチを務めた波留敏夫氏（５６）、元オリックスの増井浩俊氏（４２）、ハヤテ監督の赤堀元之氏（５６）を来季のコーチとして招へいすることが２"
+    },
+    {
+      "category": "IT",
+      "title": "Microsoft、7?9月期は19％増収　Azureは48％増、AI需要が成長けん引",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002691/",
+      "published": "10/29 08:19",
+      "source": "ITmedia",
+      "summary": "Microsoftの7?9月期決算は、売上高が前年同期比19％増、純利益が32％増と好調だった。事業部門を2つに再編し、クラウド主体の部門でAzureが48％増と成長が加速。CopilotやAI開発基盤の利用も拡大する一方、次期は設備投資を500億ドル超に引き上げる見通し。"
+    },
+    {
+      "category": "主要",
+      "title": "プーチン氏 マスク氏は本物の天才",
+      "link": "https://news.yahoo.co.jp/pickup/6600507?source=rss",
+      "published": "10/29 08:46",
+      "source": "Yahoo!ニュース",
+      "summary": "（ブルームバーグ）:ロシアのプーチン大統領は、米ロ間の政治的緊張が続くなかでも、低軌道衛星ネットワークを巡り、宇宙開発企業スペースXを率いるイーロン・マスク氏や他の米国のパートナーと調整を進めている"
+    },
+    {
+      "category": "社会",
+      "title": "日独首脳会談 経済安保で共同宣言",
+      "link": "https://news.yahoo.co.jp/pickup/6600479?source=rss",
+      "published": "10/28 22:06",
+      "source": "Yahoo!ニュース",
+      "summary": "高市早苗首相は28日、ドイツのメルツ首相と首相官邸で会談した。 覇権主義的な行動を強める中国や、ウクライナ侵攻を続けるロシアの動向について協議し、経済・防衛分野の協力拡大を確認。人工知能（AI）など"
+    },
+    {
+      "category": "経済",
       "title": "プルデンシャル 新たな不正事案",
       "link": "https://news.yahoo.co.jp/pickup/6600452?source=rss",
       "published": "10/28 18:07",
@@ -27,11 +123,107 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "GMO懸賞金 6hで113件の情報提供",
-      "link": "https://news.yahoo.co.jp/pickup/6600483?source=rss",
-      "published": "10/28 22:44",
+      "title": "GMOへの「劇場型」攻撃 狙いは",
+      "link": "https://news.yahoo.co.jp/pickup/6600424?source=rss",
+      "published": "10/28 14:14",
       "source": "Yahoo!ニュース",
-      "summary": "サイバー攻撃を受けているGMOインターナショナルは、犯人特定などに向け懸賞金を設けた後、6時間で113件の情報提供があったことを明らかにしました。"
+      "summary": "GMOインターネットグループがサイバー攻撃を受け、顧客情報の公開とランサムウエア攻撃を行うと予告を受けていた問題です。27日正午に期限を迎え、その後、GMO側は“顧客や自社に関する情報と称するもの”"
+    },
+    {
+      "category": "スポーツ",
+      "title": "天心参戦の路上プロレス 一転中止",
+      "link": "https://news.yahoo.co.jp/pickup/6600492?source=rss",
+      "published": "10/29 06:24",
+      "source": "Yahoo!ニュース",
+      "summary": "プロボクサーの那須川天心（２８）＝帝拳＝が主催するイベント「天心祭」（３１日＆１１月１日、千葉・松戸中央公園）で、１日目の夜に予定されていた路上プロレスが中止となった。ＴＥＡＭ ＴＥＮＳＨＩＮが２８"
+    },
+    {
+      "category": "IT",
+      "title": "Google、「Gemini 4 Carbon」発表　「Argon」公開から2週間、サイバー防御能力などを強化",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002690/",
+      "published": "10/29 07:13",
+      "source": "ITmedia",
+      "summary": "Googleは、フロンティアAIモデル「Gemini 4 Carbon」を発表した。サイバーセキュリティや長時間に及ぶ自律作業能力を強化し、ベンチマーク首位を獲得。ハルシネーションや不正操作への耐性も向上させた。まず一部のサイバー防御組織に限定提供し、順次公開範囲を広げる方針だ。"
+    },
+    {
+      "category": "主要",
+      "title": "教員「特別免許」の基準明確化へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600506?source=rss",
+      "published": "10/29 08:39",
+      "source": "Yahoo!ニュース",
+      "summary": "文部科学省は、教員免許を持たなくても専門的な知識や経験を持つ社会人を教員として採用する「特別免許状」制度に関し、免許の授与基準を明確化する。"
+    },
+    {
+      "category": "社会",
+      "title": "武部農相 衆院選の人件費巡り疑惑",
+      "link": "https://news.yahoo.co.jp/pickup/6600466?source=rss",
+      "published": "10/28 20:01",
+      "source": "Yahoo!ニュース",
+      "summary": "武部新農水相（56）が衆院選のウグイス嬢や運転手らの人件費を巡り、総額450万円にのぼる裏金を作っていた疑いがあることが「 週刊文春 」の取材で分かった。政治資金規正法違反の疑いがある。"
+    },
+    {
+      "category": "経済",
+      "title": "キッチンタイマーを回収 TDR運営",
+      "link": "https://news.yahoo.co.jp/pickup/6600444?source=rss",
+      "published": "10/28 17:11",
+      "source": "Yahoo!ニュース",
+      "summary": "東京ディズニーリゾートを運営するオリエンタルランドはキッチンタイマー6449個を回収すると発表しました。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "サイバー攻撃 サイト経由型が急増",
+      "link": "https://news.yahoo.co.jp/pickup/6600375?source=rss",
+      "published": "10/28 08:36",
+      "source": "Yahoo!ニュース",
+      "summary": "企業へのサイバー攻撃が相次ぐ中、外部から利用できるウェブサイトやアプリのシステムを経由して攻撃するケースが急増していることが分かった。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "巨人ヘッドCに高橋由伸氏決定",
+      "link": "https://news.yahoo.co.jp/pickup/6600491?source=rss",
+      "published": "10/29 06:09",
+      "source": "Yahoo!ニュース",
+      "summary": "巨人のヘッドコーチに球団ＯＢで元監督の高橋由伸氏（５１）が就任することが２８日、分かった。松井秀喜新監督（５２）を支える参謀役として有力候補に挙がっていたが、この日までに決定。監督を１８年まで務めて"
+    },
+    {
+      "category": "IT",
+      "title": "Apple、初のタッチ対応「MacBook Pro」発表　新型OLED搭載、国内価格は49万9800円から",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002689/",
+      "published": "10/29 06:32",
+      "source": "ITmedia",
+      "summary": "Appleは、Mac初のタッチ操作に対応した新型「MacBook Pro」を発表した。タンデムOLED採用の「PROLED XDRディスプレイ」やDynamic Islandを搭載し、14インチと16インチで展開。チップはM5 Pro／Maxを採用し、大幅な薄型・軽量化を実現した。11月6日発売で49万9800円から。"
+    },
+    {
+      "category": "主要",
+      "title": "本や雑誌発売日 大阪も1日遅れに",
+      "link": "https://news.yahoo.co.jp/pickup/6600504?source=rss",
+      "published": "10/29 08:34",
+      "source": "Yahoo!ニュース",
+      "summary": "出版社から書店に本を卸す出版取次の業界団体「日本出版取次協会」が今夏、一部地域で書籍や雑誌の発売日を遅らせる提案を始めた。大都市圏の大阪府などでも発売日が遅れるという。複数の関係者への取材でわかった"
+    },
+    {
+      "category": "社会",
+      "title": "衆院比例31削減案 識者の見解",
+      "link": "https://news.yahoo.co.jp/pickup/6600453?source=rss",
+      "published": "10/28 19:52",
+      "source": "Yahoo!ニュース",
+      "summary": "国民民主党は28日、自民党が示した比例代表31削減などの衆院選挙制度修正案に賛成を決めた。注意すべきは議席削減に加えて、比例中国・四国両ブロックの統合、比例議席の配分方式変更、復活当選の基準厳格化等が"
+    },
+    {
+      "category": "経済",
+      "title": "飲食店 テイクアウトに慎重な理由",
+      "link": "https://news.yahoo.co.jp/pickup/6600420?source=rss",
+      "published": "10/28 13:34",
+      "source": "Yahoo!ニュース",
+      "summary": "食料品の消費税が下がれば、テイクアウトを始める飲食店が増え、売上回復につながる。そう考えている方も多いのではないでしょうか。政府も外食支援として、テイクアウトの導入補助を検討しています。しかし、需要が"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "Siri AIが日本語対応 使い勝手は",
+      "link": "https://news.yahoo.co.jp/pickup/6600371?source=rss",
+      "published": "10/28 08:24",
+      "source": "Yahoo!ニュース",
+      "summary": "9月に登場した「iPhone 18 Pro/Pro Max」に合わせて導入されたiOS 27では、AI機能のApple Intelligenceが大幅に強化されている。その目玉になっているが、AIア"
     },
     {
       "category": "スポーツ",
@@ -51,251 +243,11 @@
     },
     {
       "category": "主要",
-      "title": "DeNA球団社長 筒香&牧の去就言及",
-      "link": "https://news.yahoo.co.jp/pickup/6600488?source=rss",
-      "published": "10/28 23:44",
+      "title": "多くで今季一冷え込み 東京10℃台",
+      "link": "https://news.yahoo.co.jp/pickup/6600505?source=rss",
+      "published": "10/29 08:20",
       "source": "Yahoo!ニュース",
-      "summary": "＜日本シリーズ：ソフトバンク4－2DeNA＞◇第4戦◇28日◇みずほペイペイドーム DeNAの今季の戦いが幕を閉じた。パ・リーグ王者のソフトバンクに4連敗で終戦。リーグ3位からの下克上日本一を成し遂"
-    },
-    {
-      "category": "社会",
-      "title": "日独首脳会談 経済安保で共同宣言",
-      "link": "https://news.yahoo.co.jp/pickup/6600479?source=rss",
-      "published": "10/28 22:06",
-      "source": "Yahoo!ニュース",
-      "summary": "高市早苗首相は28日、ドイツのメルツ首相と首相官邸で会談した。 覇権主義的な行動を強める中国や、ウクライナ侵攻を続けるロシアの動向について協議し、経済・防衛分野の協力拡大を確認。人工知能（AI）など"
-    },
-    {
-      "category": "経済",
-      "title": "キッチンタイマーを回収 TDR運営",
-      "link": "https://news.yahoo.co.jp/pickup/6600444?source=rss",
-      "published": "10/28 17:11",
-      "source": "Yahoo!ニュース",
-      "summary": "東京ディズニーリゾートを運営するオリエンタルランドはキッチンタイマー6449個を回収すると発表しました。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "KDDIメールサービス通信障害 復旧",
-      "link": "https://news.yahoo.co.jp/pickup/6600431?source=rss",
-      "published": "10/28 15:32",
-      "source": "Yahoo!ニュース",
-      "summary": "KDDIのメールサービスに通信障害が発生していましたが、28日午後1時40分に復旧しました。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "日本シリーズMVPにSB正木智也",
-      "link": "https://news.yahoo.co.jp/pickup/6600482?source=rss",
-      "published": "10/28 22:26",
-      "source": "Yahoo!ニュース",
-      "summary": "◆ＳＭＢＣ日本シリーズ２０２６第４戦 ソフトバンク４―２ＤｅＮＡ（２８日・みずほＰａｙＰａｙ） ソフトバンクの正木智也外野手が「ＳＭＢＣ日本シリーズ２０２６」のＭＶＰに輝いた。今シリーズは４試合全て"
-    },
-    {
-      "category": "IT",
-      "title": "NEC、委託先の情報漏えいで謝罪　「セキュリティ事業を手掛ける企業として反省」",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002686/",
-      "published": "10/28 20:32",
-      "source": "ITmedia",
-      "summary": "NECの雨宮邦和副社長兼CFOは、10月28日の第2四半期決算説明会で、委託先を経由したセキュリティインシデントについて謝罪した。AIやIT、ネットワークまで含めたセキュリティの支援を、DX事業「BluStellar」のメニューとして提供していく方針も示した。"
-    },
-    {
-      "category": "主要",
-      "title": "医療用麻薬紛失と発表 水戸の病院",
-      "link": "https://news.yahoo.co.jp/pickup/6600487?source=rss",
-      "published": "10/28 23:35",
-      "source": "Yahoo!ニュース",
-      "summary": "水戸済生会総合病院（水戸市）は28日、緊急手術に使用する医療用の麻薬を紛失したと発表した。医療廃棄物を回収するなどしているが、見つかっていない。病院は22日、保健所に麻薬事故届を提出し、26日に茨城"
-    },
-    {
-      "category": "社会",
-      "title": "武部農相 衆院選の人件費巡り疑惑",
-      "link": "https://news.yahoo.co.jp/pickup/6600466?source=rss",
-      "published": "10/28 20:01",
-      "source": "Yahoo!ニュース",
-      "summary": "武部新農水相（56）が衆院選のウグイス嬢や運転手らの人件費を巡り、総額450万円にのぼる裏金を作っていた疑いがあることが「 週刊文春 」の取材で分かった。政治資金規正法違反の疑いがある。"
-    },
-    {
-      "category": "経済",
-      "title": "飲食店 テイクアウトに慎重な理由",
-      "link": "https://news.yahoo.co.jp/pickup/6600420?source=rss",
-      "published": "10/28 13:34",
-      "source": "Yahoo!ニュース",
-      "summary": "食料品の消費税が下がれば、テイクアウトを始める飲食店が増え、売上回復につながる。そう考えている方も多いのではないでしょうか。政府も外食支援として、テイクアウトの導入補助を検討しています。しかし、需要が"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "GMOへの「劇場型」攻撃 狙いは",
-      "link": "https://news.yahoo.co.jp/pickup/6600424?source=rss",
-      "published": "10/28 14:14",
-      "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループがサイバー攻撃を受け、顧客情報の公開とランサムウエア攻撃を行うと予告を受けていた問題です。27日正午に期限を迎え、その後、GMO側は“顧客や自社に関する情報と称するもの”"
-    },
-    {
-      "category": "スポーツ",
-      "title": "痛恨4連敗 DeNA相川監督ぼうぜん",
-      "link": "https://news.yahoo.co.jp/pickup/6600478?source=rss",
-      "published": "10/28 21:39",
-      "source": "Yahoo!ニュース",
-      "summary": "◇28日 SMBC日本シリーズ第4戦 ソフトバンク4―2DeNA（みずほペイペイドーム） DeNAは逆転負けし、4戦4敗で2年ぶりの日本一には届かなかった。"
-    },
-    {
-      "category": "IT",
-      "title": "Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
-      "published": "10/28 18:48",
-      "source": "ITmedia",
-      "summary": ""
-    },
-    {
-      "category": "主要",
-      "title": "スペインで列車衝突 64人死亡か",
-      "link": "https://news.yahoo.co.jp/pickup/6600486?source=rss",
-      "published": "10/28 22:57",
-      "source": "Yahoo!ニュース",
-      "summary": "Emma Pinedo Victoria Waldersee David Latona Guillermo Martinez Michael Francis Gore[マドリード／ウルダ（スペイン）"
-    },
-    {
-      "category": "社会",
-      "title": "衆院比例31削減案 識者の見解",
-      "link": "https://news.yahoo.co.jp/pickup/6600453?source=rss",
-      "published": "10/28 19:52",
-      "source": "Yahoo!ニュース",
-      "summary": "国民民主党は28日、自民党が示した比例代表31削減などの衆院選挙制度修正案に賛成を決めた。注意すべきは議席削減に加えて、比例中国・四国両ブロックの統合、比例議席の配分方式変更、復活当選の基準厳格化等が"
-    },
-    {
-      "category": "経済",
-      "title": "増える正社員の副業 実状とリスク",
-      "link": "https://news.yahoo.co.jp/pickup/6600415?source=rss",
-      "published": "10/28 13:11",
-      "source": "Yahoo!ニュース",
-      "summary": "「副業は小遣い稼ぎ」という時代は終わりつつある。パーソル総合研究所の大規模調査では、正社員の副業実施率は11.0％。過去最高だ。ここでいう副業とは、現金収入を伴う本業以外の仕事を指す。さらに副業経験者"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "GMOを攻撃した集団のサイト停止",
-      "link": "https://news.yahoo.co.jp/pickup/6600397?source=rss",
-      "published": "10/28 11:34",
-      "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットのシステムがサイバー攻撃を受けた事件で、GMOに身代金を要求していたハッカー集団のウェブサイトが停止させられたことが分かりました。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "レアル エムバペの騒動で謝罪声明",
-      "link": "https://news.yahoo.co.jp/pickup/6600471?source=rss",
-      "published": "10/28 21:14",
-      "source": "Yahoo!ニュース",
-      "summary": "クラブが公式発表 スペイン1部レアル・マドリードは10月28日、所属するフランス代表FWキリアン・エンバペの最近の発言に関して、中国の人々に対する謝罪声明を発表した。"
-    },
-    {
-      "category": "IT",
-      "title": "「対策を後回しにしたサーバが軒並み狙われている」　相次ぐ不正アクセスにラックCTOが警鐘",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002675/",
-      "published": "10/28 17:19",
-      "source": "ITmedia",
-      "summary": "不正アクセスが相次ぐ中、ラックの倉持浩明CTOは「KDDI SUMMIT 2026」に登壇。被害対応の現場の実態として、脆弱性診断などを後回しにしたシステムが狙われていると指摘した。AIで攻撃が高速化する今、自社の都合ではなく攻撃者の視点で基本対策を見直す必要性を訴えた。"
-    },
-    {
-      "category": "主要",
-      "title": "村上龍さん死去 番組Pが語る素顔",
-      "link": "https://news.yahoo.co.jp/pickup/6600481?source=rss",
-      "published": "10/28 22:28",
-      "source": "Yahoo!ニュース",
-      "summary": "作家の村上龍さんが10月17日に逝去していたことが分かった。享年74。今年3月に『カンブリア宮殿』（テレ東系）を引退してから、約7カ月後のことだった。"
-    },
-    {
-      "category": "社会",
-      "title": "29日朝 各地で今季一番の冷え込み",
-      "link": "https://news.yahoo.co.jp/pickup/6600461?source=rss",
-      "published": "10/28 18:51",
-      "source": "Yahoo!ニュース",
-      "summary": "冬型の気圧配置の影響で、きょう（水）は全国的に風が強まり、気象庁は東京地方と近畿地方で「木枯らし1号」が吹いたと発表しました。"
-    },
-    {
-      "category": "経済",
-      "title": "1600日超通う客も 名古屋発・大黒",
-      "link": "https://news.yahoo.co.jp/pickup/6600402?source=rss",
-      "published": "10/28 11:59",
-      "source": "Yahoo!ニュース",
-      "summary": "■名古屋で増殖中「大黒」はどんな店？ 名古屋で働いている筆者は、駅の近くで「立呑み 焼きとん 大黒」(以下、大黒)の看板をよく見かける。最初は気にも留めなかったが、名古屋駅にも栄にも金山にも、この"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "サイバー攻撃 サイト経由型が急増",
-      "link": "https://news.yahoo.co.jp/pickup/6600375?source=rss",
-      "published": "10/28 08:36",
-      "source": "Yahoo!ニュース",
-      "summary": "企業へのサイバー攻撃が相次ぐ中、外部から利用できるウェブサイトやアプリのシステムを経由して攻撃するケースが急増していることが分かった。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "ソフトバンクが2年連続日本一",
-      "link": "https://news.yahoo.co.jp/pickup/6600472?source=rss",
-      "published": "10/28 20:43",
-      "source": "Yahoo!ニュース",
-      "summary": "「SMBC日本シリーズ2026」第4戦（4勝先取）、福岡ソフトバンクホークス対横浜DeNAベイスターズが28日、みずほPayPayドーム福岡で行われ、ソフトバンクが4-2で逆転勝利。3試合連続の逆転"
-    },
-    {
-      "category": "IT",
-      "title": "「推しがそばにいる日常」を　ソニー、5万円台の裸眼3Dディスプレイ　アニメ公式コンテンツに対応",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002670/",
-      "published": "10/28 16:06",
-      "source": "ITmedia",
-      "summary": "ホロモデルに対応し、「アニメの公式キャラクターを中心とした3Dデジタルフィギュアを手軽に鑑賞できる」。"
-    },
-    {
-      "category": "主要",
-      "title": "検察側が異例の求刑訂正 地検謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6600477?source=rss",
-      "published": "10/28 21:44",
-      "source": "Yahoo!ニュース",
-      "summary": "鹿児島県伊仙町佐弁で２０２４年１１月、保育士の女性＝当時（５５）＝が自宅で殺害された事件で、殺人と住居侵入、銃刀法違反の罪に問われた県内の無職男（１９）の裁判員裁判は２８日、鹿児島地裁（小泉満理子裁"
-    },
-    {
-      "category": "社会",
-      "title": "日米防衛相 中国抑止へ協力で一致",
-      "link": "https://news.yahoo.co.jp/pickup/6600438?source=rss",
-      "published": "10/28 16:41",
-      "source": "Yahoo!ニュース",
-      "summary": "【セブ共同】小泉進次郎防衛相は28日、訪問先のフィリピン中部セブでヘグセス米国防長官と会談した。中国抑止を念頭に置き、日本の南西諸島から台湾、フィリピンを結ぶ「第1列島線」の防衛体制構築に向けた協力"
-    },
-    {
-      "category": "経済",
-      "title": "不正アクセス GMOの急成長に影",
-      "link": "https://news.yahoo.co.jp/pickup/6600390?source=rss",
-      "published": "10/28 10:33",
-      "source": "Yahoo!ニュース",
-      "summary": "ＧＭＯインターネットのＦＸ（外国為替証拠金）取引用クラウドサービスが不正アクセスを受けた問題は、同社グループの経営にも大きな影を落としている。国内有数のＩＴ企業としてサイバーセキュリティーにも注力し"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "Siri AIが日本語対応 使い勝手は",
-      "link": "https://news.yahoo.co.jp/pickup/6600371?source=rss",
-      "published": "10/28 08:24",
-      "source": "Yahoo!ニュース",
-      "summary": "9月に登場した「iPhone 18 Pro/Pro Max」に合わせて導入されたiOS 27では、AI機能のApple Intelligenceが大幅に強化されている。その目玉になっているが、AIア"
-    },
-    {
-      "category": "スポーツ",
-      "title": "岡田武史氏 JFA副会長を電撃辞任",
-      "link": "https://news.yahoo.co.jp/pickup/6600455?source=rss",
-      "published": "10/28 17:54",
-      "source": "Yahoo!ニュース",
-      "summary": "10月24日付で退任、「スポーツマンとして受け入れることができず」決断 日本サッカー協会（JFA）は10月28日、岡田武史氏が10月24日をもって副会長を辞任したことを発表した。岡田氏は「熟慮を重ね"
-    },
-    {
-      "category": "IT",
-      "title": "資さんうどん、従業員の退職理由などが外部から閲覧可能に　委託先の勤怠システムに設定不備",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002667/",
-      "published": "10/28 15:02",
-      "source": "ITmedia",
-      "summary": "うどんチェーン「資さんうどん」を運営する資さんは10月27日、委託先が運用する勤怠管理システムの設定不備で、従業員と退職者の個人情報が外部から閲覧可能になっていた可能性があると発表した。一部のケースでは、退職理由も対象に含まれる。"
-    },
-    {
-      "category": "主要",
-      "title": "「千鳥饅頭」千鳥屋本家が破産へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600474?source=rss",
-      "published": "10/28 21:24",
-      "source": "Yahoo!ニュース",
-      "summary": "銘菓「千鳥饅頭（まんじゅう）」などで知られ民事再生法を申請していた菓子製造販売「千鳥屋本家」（福岡県飯塚市）が、福岡地裁から再生手続きの廃止決定を受けたことが28日、分かった。東京商工リサーチ福岡支"
+      "summary": "きょう(木)は日差しの届くところが多いですが、天気は下り坂でしょう。夕方から傘が必要なところがありそうです。気温は、日中は上がり寒さの和らぐところが多いでしょう。しかし、関東は昼間も肌寒さが続いて、"
     },
     {
       "category": "社会",
@@ -307,11 +259,11 @@
     },
     {
       "category": "経済",
-      "title": "昆布・かつお節が高騰 飲食店悲鳴",
-      "link": "https://news.yahoo.co.jp/pickup/6600385?source=rss",
-      "published": "10/28 10:00",
+      "title": "増える正社員の副業 実状とリスク",
+      "link": "https://news.yahoo.co.jp/pickup/6600415?source=rss",
+      "published": "10/28 13:11",
       "source": "Yahoo!ニュース",
-      "summary": "冬が一歩ずつ近づきつつある中で恋しくなるのが、グツグツと煮込まれる鍋料理。しかし今、店を悩ませているのは、だしをとるために不可欠な昆布の高騰です。"
+      "summary": "「副業は小遣い稼ぎ」という時代は終わりつつある。パーソル総合研究所の大規模調査では、正社員の副業実施率は11.0％。過去最高だ。ここでいう副業とは、現金収入を伴う本業以外の仕事を指す。さらに副業経験者"
     },
     {
       "category": "AI・テクノロジー",
@@ -323,11 +275,75 @@
     },
     {
       "category": "スポーツ",
-      "title": "阪神ドラ3常深 珍しい名字に悩み",
-      "link": "https://news.yahoo.co.jp/pickup/6600422?source=rss",
-      "published": "10/28 13:58",
+      "title": "痛恨4連敗 DeNA相川監督ぼうぜん",
+      "link": "https://news.yahoo.co.jp/pickup/6600478?source=rss",
+      "published": "10/28 21:39",
       "source": "Yahoo!ニュース",
-      "summary": "阪神からドラフト３位で指名された、常深颯大投手（２２）＝大経大＝が２７日、大阪市内の同大で指名あいさつを受けた。手元の見えづらいフォームから最速１４９キロの直球と５種類の変化球を操る、兵庫県小野市出"
+      "summary": "◇28日 SMBC日本シリーズ第4戦 ソフトバンク4―2DeNA（みずほペイペイドーム） DeNAは逆転負けし、4戦4敗で2年ぶりの日本一には届かなかった。"
+    },
+    {
+      "category": "IT",
+      "title": "NEC、委託先の情報漏えいで謝罪　「セキュリティ事業を手掛ける企業として反省」",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002686/",
+      "published": "10/28 20:32",
+      "source": "ITmedia",
+      "summary": "NECの雨宮邦和副社長兼CFOは、10月28日の第2四半期決算説明会で、委託先を経由したセキュリティインシデントについて謝罪した。AIやIT、ネットワークまで含めたセキュリティの支援を、DX事業「BluStellar」のメニューとして提供していく方針も示した。"
+    },
+    {
+      "category": "主要",
+      "title": "DeNA筒香 海外FA権行使を検討",
+      "link": "https://news.yahoo.co.jp/pickup/6600497?source=rss",
+      "published": "10/29 07:37",
+      "source": "Yahoo!ニュース",
+      "summary": "◆ＳＭＢＣ日本シリーズ２０２６第４戦 ソフトバンク４―２ＤｅＮＡ（２８日・みずほＰａｙＰａｙ） ＤｅＮＡの筒香嘉智内野手（３５））が海外ＦＡ権の行使を検討していることが２８日、分かった。"
+    },
+    {
+      "category": "経済",
+      "title": "1600日超通う客も 名古屋発・大黒",
+      "link": "https://news.yahoo.co.jp/pickup/6600402?source=rss",
+      "published": "10/28 11:59",
+      "source": "Yahoo!ニュース",
+      "summary": "■名古屋で増殖中「大黒」はどんな店？ 名古屋で働いている筆者は、駅の近くで「立呑み 焼きとん 大黒」(以下、大黒)の看板をよく見かける。最初は気にも留めなかったが、名古屋駅にも栄にも金山にも、この"
+    },
+    {
+      "category": "IT",
+      "title": "Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
+      "published": "10/28 18:48",
+      "source": "ITmedia",
+      "summary": ""
+    },
+    {
+      "category": "主要",
+      "title": "GMO脅迫サイト 国が遮断を要請",
+      "link": "https://news.yahoo.co.jp/pickup/6600494?source=rss",
+      "published": "10/29 06:55",
+      "source": "Yahoo!ニュース",
+      "summary": "GMOインターネットの関連サービスが不正アクセスを受けた問題で、総務省が、顧客のものとされる個人情報が公開されたサイトを遮断（ブロッキング）するよう、業界団体を通じて通信事業者に要請していたことがわ"
+    },
+    {
+      "category": "IT",
+      "title": "「対策を後回しにしたサーバが軒並み狙われている」　相次ぐ不正アクセスにラックCTOが警鐘",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002675/",
+      "published": "10/28 17:19",
+      "source": "ITmedia",
+      "summary": "不正アクセスが相次ぐ中、ラックの倉持浩明CTOは「KDDI SUMMIT 2026」に登壇。被害対応の現場の実態として、脆弱性診断などを後回しにしたシステムが狙われていると指摘した。AIで攻撃が高速化する今、自社の都合ではなく攻撃者の視点で基本対策を見直す必要性を訴えた。"
+    },
+    {
+      "category": "IT",
+      "title": "「推しがそばにいる日常」を　ソニー、5万円台の裸眼3Dディスプレイ　アニメ公式コンテンツに対応",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002670/",
+      "published": "10/28 16:06",
+      "source": "ITmedia",
+      "summary": "ホロモデルに対応し、「アニメの公式キャラクターを中心とした3Dデジタルフィギュアを手軽に鑑賞できる」。"
+    },
+    {
+      "category": "IT",
+      "title": "資さんうどん、従業員の退職理由などが外部から閲覧可能に　委託先の勤怠システムに設定不備",
+      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002667/",
+      "published": "10/28 15:02",
+      "source": "ITmedia",
+      "summary": "うどんチェーン「資さんうどん」を運営する資さんは10月27日、委託先が運用する勤怠管理システムの設定不備で、従業員と退職者の個人情報が外部から閲覧可能になっていた可能性があると発表した。一部のケースでは、退職理由も対象に含まれる。"
     },
     {
       "category": "IT",
@@ -336,22 +352,6 @@
       "published": "10/28 13:07",
       "source": "ITmedia",
       "summary": "米Anthropicは10月27日（現地時間）、小児の希少な筋ジストロフィーなどを対象に、自社で創薬活動を進めていると発表した。社員1人でAI「Claude」を使い外部11の研究機関と実験を進めてきた企業を買収し、研究を引き継いだ。"
-    },
-    {
-      "category": "主要",
-      "title": "水卜アナ 気象予報士試験に合格",
-      "link": "https://news.yahoo.co.jp/pickup/6600462?source=rss",
-      "published": "10/28 19:02",
-      "source": "Yahoo!ニュース",
-      "summary": "日本テレビの水卜麻美アナウンサーが２８日、自身のＳＮＳを更新し、気象予報士試験に合格したことを公表した。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "So-netなど258万件超が漏えい",
-      "link": "https://news.yahoo.co.jp/pickup/6600338?source=rss",
-      "published": "10/27 20:46",
-      "source": "Yahoo!ニュース",
-      "summary": "ソニーネットワークコミュニケーションズは10月27日、インターネット接続サービス「So-net」の会員データベースが外部から不正アクセスを受け、個人情報が漏えいしたと発表した。10月19日に不正アク"
     },
     {
       "category": "IT",
@@ -424,38 +424,6 @@
       "published": "10/28 10:08",
       "source": "ITmedia",
       "summary": "GMOインターネットグループが、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、事態を解明する情報に総額100万ドル（約1億5000万円）の報奨金を支払う懸賞金制度を始めると発表した。"
-    },
-    {
-      "category": "IT",
-      "title": "AndurilとQualcomm、米国製PC「BlueChip」を発表　Snapdragon X搭載、2027年に受注開始へ",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002653/",
-      "published": "10/28 09:48",
-      "source": "ITmedia",
-      "summary": "Anduril IndustriesとQualcommは、米国製コンピュータ製造基盤の再構築を目指す製品ライン「BlueChip」を共同発表した。第1弾として「Snapdragon X」シリーズ搭載ノートPCを開発し、2027年に受注を開始する。筐体や基板組み立てを国内で行い、海外供給網への依存脱却を図る。"
-    },
-    {
-      "category": "IT",
-      "title": "NVIDIAとAMD、MetaとのAI分野での提携拡大を発表　「Muse」の強化や次世代インフラ構築で協力",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002651/",
-      "published": "10/28 08:55",
-      "source": "ITmedia",
-      "summary": "NVIDIAとAMDは、MetaとのAI分野における戦略的提携拡大をそれぞれ発表した。AIエージェント「Muse」の開発・運用支援や次世代インフラ構築で協力し、Metaへの出資（NVIDIAが30億ドル、AMDが10億ドル）も表明。Metaは自社チップ開発と外部調達の両輪でインフラを強化する。"
-    },
-    {
-      "category": "IT",
-      "title": "auメールで朝から障害　全国で利用しづらい状況に",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002650/",
-      "published": "10/28 07:51",
-      "source": "ITmedia",
-      "summary": "原因は調査中。音声通話とデータ通信は問題なく利用できる。"
-    },
-    {
-      "category": "IT",
-      "title": "Apple、M6搭載の14インチ「MacBook Pro」発表　AI性能向上、33万9800円から",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002649/",
-      "published": "10/28 07:30",
-      "source": "ITmedia",
-      "summary": "Appleは、新型チップ「M6」を搭載した14インチ「MacBook Pro」を発表した。M6はCPU・GPUともに12コアで、AI処理やグラフィックス性能が向上。Wi-Fi 7対応や最大24時間のバッテリー駆動を実現した。日本での販売価格は33万9800円からで、11月6日発売の予定だ。"
     }
   ],
   "errors": [
