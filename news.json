@@ -1,8 +1,24 @@
 {
-  "updated": "2026-10-29T19:54:36.804175+00:00",
+  "updated": "2026-10-29T23:58:07.153898+00:00",
   "articles": [
     {
       "category": "主要",
+      "title": "情報漏えい 4月以降延べ2.6億人分",
+      "link": "https://news.yahoo.co.jp/pickup/6600644?source=rss",
+      "published": "10/30 08:51",
+      "source": "Yahoo!ニュース",
+      "summary": "不正アクセスによる個人情報の漏洩（ろうえい）が今年4月以降、のべ約2億6千万人分にのぼることが個人情報保護委員会のまとめでわかった。10月は、16日までにすでに830件の不正アクセスの報告があり、突"
+    },
+    {
+      "category": "社会",
+      "title": "全国的に大気不安定 急な雷雨注意",
+      "link": "https://news.yahoo.co.jp/pickup/6600646?source=rss",
+      "published": "10/30 08:56",
+      "source": "Yahoo!ニュース",
+      "summary": "今日30日は全国的に大気の状態が不安定になり、局地的には激しい雨が降るでしょう。晴れ間の出る所も、急な雨や雷雨に注意が必要です。関東から北海道は昨日29日より気温が高く、寒さが和らぐでしょう。"
+    },
+    {
+      "category": "経済",
       "title": "欧州中銀 2会合ぶり金利据え置き",
       "link": "https://news.yahoo.co.jp/pickup/6600623?source=rss",
       "published": "10/29 23:57",
@@ -10,12 +26,92 @@
       "summary": "【ロンドン時事】欧州中央銀行（ECB）は29日、ユーロ圏の金融政策を協議する定例理事会を開き、政策金利を2会合ぶりに据え置くことを決めた。"
     },
     {
-      "category": "社会",
-      "title": "高市首相のX投稿800件超 傾向は",
-      "link": "https://news.yahoo.co.jp/pickup/6600604?source=rss",
-      "published": "10/29 21:04",
+      "category": "AI・テクノロジー",
+      "title": "コミックシーモア 一部再開を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6600574?source=rss",
+      "published": "10/29 17:34",
       "source": "Yahoo!ニュース",
-      "summary": "高市早苗首相は昨年10月21日の就任以来、情報発信にX（旧ツイッター）を多用してきた。確認できる投稿は今月20日までの1年間で計867件に上る。経済をはじめとする政策や自民党のアピールが多い半面、論"
+      "summary": "電子書籍配信サービス「コミックシーモア」は29日、公式Xを更新。購入済み作品や読み放題サービスのウェブブラウザでの閲覧・利用など一部サービスを再開すると発表した。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "日本ハム・宮西 投手コーチ兼任へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600637?source=rss",
+      "published": "10/30 08:28",
+      "source": "Yahoo!ニュース",
+      "summary": "日本ハムの宮西尚生投手（４１）が来季から１軍投手コーチを兼任することが２９日、分かった。この日、エスコンで球団と話し合いを行い、正式に受諾した。３０日からのエスコン秋季キャンプで指導を開始していく。"
+    },
+    {
+      "category": "IT",
+      "title": "OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002735/",
+      "published": "10/30 08:24",
+      "source": "ITmedia",
+      "summary": "OpenAIは、AIの振る舞い指針「Model Spec」の改定版を公開した。全体を5つの価値観に沿って再構成し、メモリや会話履歴の適切な扱い、エージェント自律動作時の人間による監督への服従などを規定。一方で人格設定や詳細な文体規定の大半を削除し、モデル呼称を「the assistant」から「GPT」に改めた。"
+    },
+    {
+      "category": "主要",
+      "title": "DeNA 川島慶三氏コーチ招へいへ",
+      "link": "https://news.yahoo.co.jp/pickup/6600641?source=rss",
+      "published": "10/30 08:26",
+      "source": "Yahoo!ニュース",
+      "summary": "ＤｅＮＡが来季の新コーチとして、今季までオリックスで打撃コーチを務めた川島慶三氏（４３）を招へいすることが２９日、分かった。近日中に発表される。担当部門は現在調整中で、就任２年目となる相川亮二監督（"
+    },
+    {
+      "category": "社会",
+      "title": "ガソリン補助金 12月から段階縮小",
+      "link": "https://news.yahoo.co.jp/pickup/6600631?source=rss",
+      "published": "10/30 07:29",
+      "source": "Yahoo!ニュース",
+      "summary": "高市早苗首相は29日、ガソリンなど燃料油価格の急騰を抑える補助金について、12月から段階的に縮小すると表明した。"
+    },
+    {
+      "category": "経済",
+      "title": "天丼てんや 2カ月連続で客約1割減",
+      "link": "https://news.yahoo.co.jp/pickup/6600612?source=rss",
+      "published": "10/29 22:14",
+      "source": "Yahoo!ニュース",
+      "summary": "「庶民の味方」として親しまれてきた天丼チェーン「天丼てんや」で、客離れが進んでいる。2026年8月の既存店客数が前年同月比9.4％減、9月は10.9％減と、2か月連続で約1割落ち込む異常事態となって"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "四足歩行モビリティ 実用化の壁",
+      "link": "https://news.yahoo.co.jp/pickup/6600552?source=rss",
+      "published": "10/29 15:22",
+      "source": "Yahoo!ニュース",
+      "summary": "頭のない四足歩行モビリティが、人を乗せて岩だらけの山道を駆け抜ける――壮大な映像で世間に強いインパクトを与えた川崎重工の「CORLEO（コルレオ）」は、2025年の大阪・関西万博で披露されたのをきっ"
+    },
+    {
+      "category": "スポーツ",
+      "title": "清水隆行氏 巨人打撃コーチ就任へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600626?source=rss",
+      "published": "10/30 06:24",
+      "source": "Yahoo!ニュース",
+      "summary": "巨人の打撃コーチに球団ＯＢの清水隆行氏（５３）が就任することが２９日、分かった。打撃コーチを務めた１５年以来、来季１２年ぶりの球団復帰となる。０２年に最多安打のタイトルに輝き、松井秀喜新監督、ヘッド"
+    },
+    {
+      "category": "IT",
+      "title": "ウクライナで拡散するAI偽情報　「本物の映像」をどう証明するか、AIと戦争が変えた「C2PA」の意義",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002734/",
+      "published": "10/30 08:02",
+      "source": "ITmedia",
+      "summary": "偽物を見破る技術として期待されたC2PAだが、生成AIが本物と見分けの付かない映像を生む今、その役割は裏返りつつある。戦時下のウクライナで公共放送が直面した偽情報の“本当の狙い”と、そこで下した決断。そして放送波に載せられない日本の放送が抱える課題。Media Provenance Summit Tokyo 2026で見えた、C2PAの現在地を整理する。"
+    },
+    {
+      "category": "主要",
+      "title": "ピアニスト反田被告 楽団社長退任",
+      "link": "https://news.yahoo.co.jp/pickup/6600636?source=rss",
+      "published": "10/30 08:12",
+      "source": "Yahoo!ニュース",
+      "summary": "道路交通法違反（速度超過）で29日に有罪判決を受けたピアニストの反田恭平被告（32）が、奈良を拠点に自ら率いるオーケストラの運営会社の社長を同日付で退いた。同社がホームページ（HP）で発表した。今後"
+    },
+    {
+      "category": "社会",
+      "title": "電気ガス代補助 12月-来年2月実施",
+      "link": "https://news.yahoo.co.jp/pickup/6600608?source=rss",
+      "published": "10/29 21:52",
+      "source": "Yahoo!ニュース",
+      "summary": "高市首相は２９日、中東情勢の緊迫化を踏まえた負担軽減策として、１２月～来年２月使用分の電気・ガス代を補助する考えを表明した。標準的な家庭で計７０００円程度の負担減が見込めるとした。ガソリン補助金につ"
     },
     {
       "category": "経済",
@@ -27,11 +123,11 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "コミックシーモア 一部再開を発表",
-      "link": "https://news.yahoo.co.jp/pickup/6600574?source=rss",
-      "published": "10/29 17:34",
+      "title": "GMOサイバー攻撃 捜査の焦点は",
+      "link": "https://news.yahoo.co.jp/pickup/6600531?source=rss",
+      "published": "10/29 13:56",
       "source": "Yahoo!ニュース",
-      "summary": "電子書籍配信サービス「コミックシーモア」は29日、公式Xを更新。購入済み作品や読み放題サービスのウェブブラウザでの閲覧・利用など一部サービスを再開すると発表した。"
+      "summary": "GMOへのサイバー攻撃で、身代金を要求していたハッカーの脅迫サイトが閉鎖されました。GMOは犯人特定につながる情報に総額約1億5000万円の懸賞金を設けており、約6時間で113件の情報が寄せられたとい"
     },
     {
       "category": "スポーツ",
@@ -51,19 +147,19 @@
     },
     {
       "category": "主要",
-      "title": "元HKT48・朝長美桜 今は寿司職人",
-      "link": "https://news.yahoo.co.jp/pickup/6600622?source=rss",
-      "published": "10/29 23:49",
+      "title": "名古屋で母娘刺され重傷か 男逃走",
+      "link": "https://news.yahoo.co.jp/pickup/6600638?source=rss",
+      "published": "10/30 08:05",
       "source": "Yahoo!ニュース",
-      "summary": "「お誕生日に寿司学校をプレゼントするから、通ってみない?」。夫からそう誘われた元HKT48の朝長美桜（28）は、最初は冗談だと思っていた。魚をさばいたこともなかった彼女が、いまは週1回、寿司店のカウ"
+      "summary": "名古屋市東区の市営住宅で29日夜、女性2人が血を流してケガをしているのが見つかりました。女性1人が「息子に刺された」と説明していて、警察が殺人未遂事件として捜査しています。"
     },
     {
       "category": "社会",
-      "title": "作家の如月美樹さん 今年9月死去",
-      "link": "https://news.yahoo.co.jp/pickup/6600587?source=rss",
-      "published": "10/29 18:41",
+      "title": "高市首相のX投稿800件超 傾向は",
+      "link": "https://news.yahoo.co.jp/pickup/6600604?source=rss",
+      "published": "10/29 21:04",
       "source": "Yahoo!ニュース",
-      "summary": "「私この度、王国騎士団独身寮の家政婦をすることになりました」シリーズで知られる作家の如月美樹さんが、今年9月に死去したことが分かった。ティーンズラブ小説レーベル「eロマンスロイヤル」や、KADOKA"
+      "summary": "高市早苗首相は昨年10月21日の就任以来、情報発信にX（旧ツイッター）を多用してきた。確認できる投稿は今月20日までの1年間で計867件に上る。経済をはじめとする政策や自民党のアピールが多い半面、論"
     },
     {
       "category": "経済",
@@ -75,19 +171,19 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "四足歩行モビリティ 実用化の壁",
-      "link": "https://news.yahoo.co.jp/pickup/6600552?source=rss",
-      "published": "10/29 15:22",
+      "title": "GMO社長「犯人特定の有力情報」",
+      "link": "https://news.yahoo.co.jp/pickup/6600536?source=rss",
+      "published": "10/29 12:58",
       "source": "Yahoo!ニュース",
-      "summary": "頭のない四足歩行モビリティが、人を乗せて岩だらけの山道を駆け抜ける――壮大な映像で世間に強いインパクトを与えた川崎重工の「CORLEO（コルレオ）」は、2025年の大阪・関西万博で披露されたのをきっ"
+      "summary": "GMOインターネットグループに対する不正アクセス問題で、同社の熊谷正寿社長は29日、自身のX（旧ツイッター）で「犯人の特定につながる有力な情報を入手した」と投稿した。社外からの情報提供に加え、同社の"
     },
     {
       "category": "スポーツ",
-      "title": "高校サッカー穴あき誤審 判定覆る",
-      "link": "https://news.yahoo.co.jp/pickup/6600592?source=rss",
-      "published": "10/29 19:28",
+      "title": "槙野監督が訴え 誤審とJFA認める",
+      "link": "https://news.yahoo.co.jp/pickup/6600606?source=rss",
+      "published": "10/29 21:28",
       "source": "Yahoo!ニュース",
-      "summary": "第105回全国高校サッカー選手権大会の東京B代表を決める大会（都2次予選）の準々決勝で、誤審騒動が起きて物議を醸していた問題で、判定が覆った。東京都高体連サッカー専門部が29日、公式ホームページを更"
+      "summary": "29日、Jリーグと日本サッカー協会（JFA）が、「レフェリング環境向上に向けた取り組みについて」と題したメディアブリーフィングを東京都内で開催した。"
     },
     {
       "category": "IT",
@@ -99,67 +195,19 @@
     },
     {
       "category": "主要",
-      "title": "梨泰院事故4年で追悼式 160人犠牲",
-      "link": "https://news.yahoo.co.jp/pickup/6600615?source=rss",
-      "published": "10/29 23:02",
+      "title": "株価崩れない「ホンダ」の強み",
+      "link": "https://news.yahoo.co.jp/pickup/6600635?source=rss",
+      "published": "10/30 08:04",
       "source": "Yahoo!ニュース",
-      "summary": "【ソウル共同】韓国ソウルの繁華街・梨泰院で日本人2人を含む160人（関連死含む）が亡くなった雑踏事故から29日で4年となり、ソウル中心部の光化門広場で、政府や遺族団体などが共同で追悼式を開いた。娘を"
+      "summary": "相場の調整をよそに年初来高値を付けたホンダ。株式市場が評価するのは、足元の収益と次の事業だ。※あのニュースはどんな業界に影響するのか、あの企業の株価が動いたのはなぜか……。連載「ニュースで読み解く！"
     },
     {
       "category": "社会",
-      "title": "パニック障害と向き合う 29歳の今",
-      "link": "https://news.yahoo.co.jp/pickup/6600543?source=rss",
-      "published": "10/29 13:48",
+      "title": "作家の如月美樹さん 今年9月死去",
+      "link": "https://news.yahoo.co.jp/pickup/6600587?source=rss",
+      "published": "10/29 18:41",
       "source": "Yahoo!ニュース",
-      "summary": "モデルやDJとして活躍する松本優さん（29）。関西弁でハキハキしゃべる、一見して楽しいお姉さんだが、実は家庭の事情で幼少期から祖父母に育てられ、中学では不安症により不登校を経験した。今もパニック障害"
-    },
-    {
-      "category": "経済",
-      "title": "上半期世界販売 スズキが国内2位",
-      "link": "https://news.yahoo.co.jp/pickup/6600585?source=rss",
-      "published": "10/29 18:21",
-      "source": "Yahoo!ニュース",
-      "summary": "自動車大手8社は29日、2026年度上半期（4～9月）の世界販売台数を発表した。インドで販売を伸ばしたスズキがホンダを抜き、トヨタ自動車に次ぐ国内2位に浮上した。前年同期は4位だった。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "GMOサイバー攻撃 捜査の焦点は",
-      "link": "https://news.yahoo.co.jp/pickup/6600531?source=rss",
-      "published": "10/29 13:56",
-      "source": "Yahoo!ニュース",
-      "summary": "GMOへのサイバー攻撃で、身代金を要求していたハッカーの脅迫サイトが閉鎖されました。GMOは犯人特定につながる情報に総額約1億5000万円の懸賞金を設けており、約6時間で113件の情報が寄せられたとい"
-    },
-    {
-      "category": "スポーツ",
-      "title": "槙野監督に2試合出場停止と罰金",
-      "link": "https://news.yahoo.co.jp/pickup/6600586?source=rss",
-      "published": "10/29 18:31",
-      "source": "Yahoo!ニュース",
-      "summary": "槙野監督の処分が決定 藤枝MYFCは10月29日、Jリーグ規律委員会において、槙野智章監督に対する2試合の出場停止（ベンチ入り停止）および罰金10万円の処分が決定したことを発表した。"
-    },
-    {
-      "category": "IT",
-      "title": "楽天カード、本人認証をワンタイムパスワードに統一　27年2月から順次",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002729/",
-      "published": "10/29 18:57",
-      "source": "ITmedia",
-      "summary": ""
-    },
-    {
-      "category": "主要",
-      "title": "天丼てんや 2カ月連続で客約1割減",
-      "link": "https://news.yahoo.co.jp/pickup/6600612?source=rss",
-      "published": "10/29 22:14",
-      "source": "Yahoo!ニュース",
-      "summary": "「庶民の味方」として親しまれてきた天丼チェーン「天丼てんや」で、客離れが進んでいる。2026年8月の既存店客数が前年同月比9.4％減、9月は10.9％減と、2か月連続で約1割落ち込む異常事態となって"
-    },
-    {
-      "category": "社会",
-      "title": "衆院比例議席減 自維国が正式合意",
-      "link": "https://news.yahoo.co.jp/pickup/6600526?source=rss",
-      "published": "10/29 12:01",
-      "source": "Yahoo!ニュース",
-      "summary": "自民、日本維新の会、国民民主の３党は２９日午前、衆院議員定数（４６５）を比例選のみで３１議席削減することで正式に合意した。関連法案を今国会に共同提出するため、作業を加速させることも確認した。"
+      "summary": "「私この度、王国騎士団独身寮の家政婦をすることになりました」シリーズで知られる作家の如月美樹さんが、今年9月に死去したことが分かった。ティーンズラブ小説レーベル「eロマンスロイヤル」や、KADOKA"
     },
     {
       "category": "経済",
@@ -171,43 +219,43 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "GMO社長「犯人特定の有力情報」",
-      "link": "https://news.yahoo.co.jp/pickup/6600536?source=rss",
-      "published": "10/29 12:58",
+      "title": "タッチ対応「MacBook Pro」発表",
+      "link": "https://news.yahoo.co.jp/pickup/6600509?source=rss",
+      "published": "10/29 09:12",
       "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループに対する不正アクセス問題で、同社の熊谷正寿社長は29日、自身のX（旧ツイッター）で「犯人の特定につながる有力な情報を入手した」と投稿した。社外からの情報提供に加え、同社の"
+      "summary": "Appleは10月29日、新型「MacBook Pro」を発表した。11月6日発売予定で、価格は499,800円より。"
     },
     {
       "category": "スポーツ",
-      "title": "日本一翌日 SB緒方理貢が戦力外",
-      "link": "https://news.yahoo.co.jp/pickup/6600576?source=rss",
-      "published": "10/29 17:47",
+      "title": "楽天 高卒1年目の大栄を戦力外",
+      "link": "https://news.yahoo.co.jp/pickup/6600596?source=rss",
+      "published": "10/29 20:36",
       "source": "Yahoo!ニュース",
-      "summary": "ソフトバンクは29日、緒方理貢外野手（28）に対し、来季の契約を結ばないことを伝えた。"
+      "summary": "楽天は29日、渡辺 翔太投手（26歳・北九州-九州産業大）、古賀 康誠投手（22歳・下関国際）、石原 彪捕手（28歳・京都翔英）、大栄 利哉捕手（19歳・学法石川）、入江 大樹内野手（24歳・仙台育"
     },
     {
       "category": "IT",
-      "title": "グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か　下4桁は40万枚分",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002716/",
-      "published": "10/29 17:52",
+      "title": "楽天カード、本人認証をワンタイムパスワードに統一　27年2月から順次",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002729/",
+      "published": "10/29 18:57",
       "source": "ITmedia",
-      "summary": "カード決済ページに不正プログラム設置され、顧客2800人のカード名義人名、カード番号（全16桁）、有効期限、セキュリティコードが漏えいした可能性があるという。"
+      "summary": ""
     },
     {
       "category": "主要",
-      "title": "ネパール高峰で発見の2遺体は邦人",
-      "link": "https://news.yahoo.co.jp/pickup/6600609?source=rss",
-      "published": "10/29 21:56",
+      "title": "ナップザック 中高生になぜ人気",
+      "link": "https://news.yahoo.co.jp/pickup/6600634?source=rss",
+      "published": "10/30 07:49",
       "source": "Yahoo!ニュース",
-      "summary": "【ニューデリー共同】在ネパール日本大使館は29日、ネパール中部のガンガプルナ西峰（標高7140メートル）で23日に見つかった2人の遺体がいずれも日本人男性だと確認したと明らかにした。登頂を目指してい"
+      "summary": "今10代、20代に人気の ナップザック。リュックではなく、なぜナップザックが人気なのか。重い荷物を入れて長時間背負い続けた場合の体への負担など整形外科医で北里大学医療衛生学部教授の高平尚伸さんにお話"
     },
     {
       "category": "社会",
-      "title": "燃料油補助 予算累計10兆円超に",
-      "link": "https://news.yahoo.co.jp/pickup/6600518?source=rss",
-      "published": "10/29 10:13",
+      "title": "パニック障害と向き合う 29歳の今",
+      "link": "https://news.yahoo.co.jp/pickup/6600543?source=rss",
+      "published": "10/29 13:48",
       "source": "Yahoo!ニュース",
-      "summary": "ガソリン代など燃料油価格を抑えるための予算措置が、累計で10兆円を超える見通しとなったことがJNNの取材で分かりました。"
+      "summary": "モデルやDJとして活躍する松本優さん（29）。関西弁でハキハキしゃべる、一見して楽しいお姉さんだが、実は家庭の事情で幼少期から祖父母に育てられ、中学では不安症により不登校を経験した。今もパニック障害"
     },
     {
       "category": "経済",
@@ -219,19 +267,59 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "タッチ対応「MacBook Pro」発表",
-      "link": "https://news.yahoo.co.jp/pickup/6600509?source=rss",
-      "published": "10/29 09:12",
+      "title": "GMO脅迫サイト 国が遮断を要請",
+      "link": "https://news.yahoo.co.jp/pickup/6600494?source=rss",
+      "published": "10/29 06:55",
       "source": "Yahoo!ニュース",
-      "summary": "Appleは10月29日、新型「MacBook Pro」を発表した。11月6日発売予定で、価格は499,800円より。"
+      "summary": "GMOインターネットの関連サービスが不正アクセスを受けた問題で、総務省が、顧客のものとされる個人情報が公開されたサイトを遮断（ブロッキング）するよう、業界団体を通じて通信事業者に要請していたことがわ"
     },
     {
       "category": "スポーツ",
-      "title": "大坂なおみ 世界144位18歳に完敗",
-      "link": "https://news.yahoo.co.jp/pickup/6600575?source=rss",
-      "published": "10/29 17:42",
+      "title": "高校サッカー穴あき誤審 判定覆る",
+      "link": "https://news.yahoo.co.jp/pickup/6600592?source=rss",
+      "published": "10/29 19:28",
       "source": "Yahoo!ニュース",
-      "summary": "「テニス女子・東レ・パンパシフィック・オープン」（２９日、有明コロシアム） ２回戦が行われ、世界１９位の大坂なおみ（フリー）は、同１４４位のミア・ポハンコバ（１８）＝スロバキア＝に３－６、５－７で敗"
+      "summary": "第105回全国高校サッカー選手権大会の東京B代表を決める大会（都2次予選）の準々決勝で、誤審騒動が起きて物議を醸していた問題で、判定が覆った。東京都高体連サッカー専門部が29日、公式ホームページを更"
+    },
+    {
+      "category": "IT",
+      "title": "グッスマ、顧客の2800人のカード番号全16桁＋セキュリティコードなど流出か　下4桁は40万枚分",
+      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002716/",
+      "published": "10/29 17:52",
+      "source": "ITmedia",
+      "summary": "カード決済ページに不正プログラム設置され、顧客2800人のカード名義人名、カード番号（全16桁）、有効期限、セキュリティコードが漏えいした可能性があるという。"
+    },
+    {
+      "category": "主要",
+      "title": "パトリック・スチュワート氏死去",
+      "link": "https://news.yahoo.co.jp/pickup/6600630?source=rss",
+      "published": "10/30 07:22",
+      "source": "Yahoo!ニュース",
+      "summary": "英俳優のパトリック・スチュワートさんが２８日（日本時間２９日）にアルツハイマー病とレビー小体型認知症との闘病の末、米カリフォルニア州ロサンゼルスの自宅で死去した。スチュワートさんのＸアカウントで代理"
+    },
+    {
+      "category": "社会",
+      "title": "衆院比例議席減 自維国が正式合意",
+      "link": "https://news.yahoo.co.jp/pickup/6600526?source=rss",
+      "published": "10/29 12:01",
+      "source": "Yahoo!ニュース",
+      "summary": "自民、日本維新の会、国民民主の３党は２９日午前、衆院議員定数（４６５）を比例選のみで３１議席削減することで正式に合意した。関連法案を今国会に共同提出するため、作業を加速させることも確認した。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "GMOへの「劇場型」攻撃 狙いは",
+      "link": "https://news.yahoo.co.jp/pickup/6600424?source=rss",
+      "published": "10/28 14:14",
+      "source": "Yahoo!ニュース",
+      "summary": "GMOインターネットグループがサイバー攻撃を受け、顧客情報の公開とランサムウエア攻撃を行うと予告を受けていた問題です。27日正午に期限を迎え、その後、GMO側は“顧客や自社に関する情報と称するもの”"
+    },
+    {
+      "category": "スポーツ",
+      "title": "槙野監督に2試合出場停止と罰金",
+      "link": "https://news.yahoo.co.jp/pickup/6600586?source=rss",
+      "published": "10/29 18:31",
+      "source": "Yahoo!ニュース",
+      "summary": "槙野監督の処分が決定 藤枝MYFCは10月29日、Jリーグ規律委員会において、槙野智章監督に対する2試合の出場停止（ベンチ入り停止）および罰金10万円の処分が決定したことを発表した。"
     },
     {
       "category": "IT",
@@ -243,11 +331,11 @@
     },
     {
       "category": "主要",
-      "title": "電気ガス代補助 12月-来年2月実施",
-      "link": "https://news.yahoo.co.jp/pickup/6600608?source=rss",
-      "published": "10/29 21:52",
+      "title": "八田與一容疑者の鮮明な写真公開",
+      "link": "https://news.yahoo.co.jp/pickup/6600624?source=rss",
+      "published": "10/30 06:12",
       "source": "Yahoo!ニュース",
-      "summary": "高市首相は２９日、中東情勢の緊迫化を踏まえた負担軽減策として、１２月～来年２月使用分の電気・ガス代を補助する考えを表明した。標準的な家庭で計７０００円程度の負担減が見込めるとした。ガソリン補助金につ"
+      "summary": "大分県別府市で4年前に起きた大学生ひき逃げ殺傷事件で、重要指名手配されている八田與一容疑者（30）の「新たな写真」が公開されました。公開されたのは、事件があった2022年に撮影された25歳当時の鮮明"
     },
     {
       "category": "社会",
@@ -258,30 +346,6 @@
       "summary": "盗撮の検挙件数が、近年増加しています。警察庁によると、2021年には5019件だった検挙件数が、2025年には9237件と約1.8倍になっているのです。"
     },
     {
-      "category": "経済",
-      "title": "新型パジェロ予約受注 年度目標超",
-      "link": "https://news.yahoo.co.jp/pickup/6600522?source=rss",
-      "published": "10/29 11:18",
-      "source": "Yahoo!ニュース",
-      "summary": "新型「パジェロ」の国内価格とグレード構成が明らかに三菱自動車は10月29日、新型クロスカントリーSUV「パジェロ」を2026年12月17日（木）から発売すると発表した。国内では「SUPER EXCE"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "GMO脅迫サイト 国が遮断を要請",
-      "link": "https://news.yahoo.co.jp/pickup/6600494?source=rss",
-      "published": "10/29 06:55",
-      "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットの関連サービスが不正アクセスを受けた問題で、総務省が、顧客のものとされる個人情報が公開されたサイトを遮断（ブロッキング）するよう、業界団体を通じて通信事業者に要請していたことがわ"
-    },
-    {
-      "category": "スポーツ",
-      "title": "杉谷拳士氏 米エンタメ野球選手に",
-      "link": "https://news.yahoo.co.jp/pickup/6600530?source=rss",
-      "published": "10/29 12:53",
-      "source": "Yahoo!ニュース",
-      "summary": "元日本ハムの杉谷拳士氏（35）が29日、自身のSNSを更新し、米国の人気野球エンターテインメントチーム「サバンナ・バナナズ」からドラフト指名され、現役復帰すると発表した。2022年シーズン限りで現役"
-    },
-    {
       "category": "IT",
       "title": "ローソン・郵便局が「ドローン基地」に　回線はStarlinkで　ドローンインフラを急ピッチで作るKDDI",
       "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002723/",
@@ -290,52 +354,12 @@
       "summary": "KDDIスマートドローンは10月28日、ビジネスイベント「KDDI SUMMIT 2026」でドローンの全国展開に向けた取り組みを紹介した。物流や地域の見守り、インフラ点検、災害対応などを人に代わって担う「空のAI労働力」の実現を目指す。"
     },
     {
-      "category": "主要",
-      "title": "槙野監督が訴え 誤審とJFA認める",
-      "link": "https://news.yahoo.co.jp/pickup/6600606?source=rss",
-      "published": "10/29 21:28",
-      "source": "Yahoo!ニュース",
-      "summary": "29日、Jリーグと日本サッカー協会（JFA）が、「レフェリング環境向上に向けた取り組みについて」と題したメディアブリーフィングを東京都内で開催した。"
-    },
-    {
-      "category": "社会",
-      "title": "教員「特別免許」の基準明確化へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600506?source=rss",
-      "published": "10/29 08:39",
-      "source": "Yahoo!ニュース",
-      "summary": "文部科学省は、教員免許を持たなくても専門的な知識や経験を持つ社会人を教員として採用する「特別免許状」制度に関し、免許の授与基準を明確化する。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "KDDIメールサービス通信障害 復旧",
-      "link": "https://news.yahoo.co.jp/pickup/6600431?source=rss",
-      "published": "10/28 15:32",
-      "source": "Yahoo!ニュース",
-      "summary": "KDDIのメールサービスに通信障害が発生していましたが、28日午後1時40分に復旧しました。"
-    },
-    {
       "category": "IT",
       "title": "ANAの予約情報に不正アクセス、JALと同じ委託先経由で　個人情報をのぞき見た痕跡も",
       "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002722/",
       "published": "10/29 16:37",
       "source": "ITmedia",
       "summary": "全日本空輸（ANA）は10月29日、Amadeusが提供する旅客サービスシステムへの不正アクセスで、一部顧客の個人情報を第三者が参照した形跡があると発表した。同じシステムを使う日本航空も28日、約9万2000人分の予約情報への不正アクセスを公表している。"
-    },
-    {
-      "category": "主要",
-      "title": "楽天 高卒1年目の大栄を戦力外",
-      "link": "https://news.yahoo.co.jp/pickup/6600596?source=rss",
-      "published": "10/29 20:36",
-      "source": "Yahoo!ニュース",
-      "summary": "楽天は29日、渡辺 翔太投手（26歳・北九州-九州産業大）、古賀 康誠投手（22歳・下関国際）、石原 彪捕手（28歳・京都翔英）、大栄 利哉捕手（19歳・学法石川）、入江 大樹内野手（24歳・仙台育"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "GMOへの「劇場型」攻撃 狙いは",
-      "link": "https://news.yahoo.co.jp/pickup/6600424?source=rss",
-      "published": "10/28 14:14",
-      "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループがサイバー攻撃を受け、顧客情報の公開とランサムウエア攻撃を行うと予告を受けていた問題です。27日正午に期限を迎え、その後、GMO側は“顧客や自社に関する情報と称するもの”"
     },
     {
       "category": "IT",
@@ -424,22 +448,6 @@
       "published": "10/29 10:30",
       "source": "ITmedia",
       "summary": "不正アクセス騒動と同時に物議を醸す、GMOインターネットグループ・熊谷正寿代表による発信。危機管理広報の観点からその妥当性を考える。"
-    },
-    {
-      "category": "IT",
-      "title": "SNSでバズった?四足歩行モビリティ?は本当に実現する？　川崎重工の開発者が「山で四つんばい」になって見えてきたもの",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002677/",
-      "published": "10/29 10:14",
-      "source": "ITmedia",
-      "summary": "人を乗せて山を駆ける四本脚の乗り物は実現するのか。万博で脚光を浴びた川崎重工「CORLEO」が2035年の製品化へ動き出した。開発者自ら山を四つんばいで歩き、目指すは「人馬一体」の乗り心地だ。"
-    },
-    {
-      "category": "IT",
-      "title": "Oracle CloudがGoogle TPU導入へ　2027年に提供を開始",
-      "link": "https://www.itmedia.co.jp/news/article/2610/28/2000002681/",
-      "published": "10/29 10:12",
-      "source": "ITmedia",
-      "summary": ""
     }
   ],
   "errors": [
