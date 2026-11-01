@@ -1,13 +1,157 @@
 {
-  "updated": "2026-11-01T02:17:03.608114+00:00",
+  "updated": "2026-11-01T09:24:50.031494+00:00",
   "articles": [
     {
       "category": "主要",
+      "title": "すみれ 父への「怒り」手放すまで",
+      "link": "https://news.yahoo.co.jp/pickup/6600963?source=rss",
+      "published": "11/01 17:55",
+      "source": "Yahoo!ニュース",
+      "summary": "7歳で母とともにハワイへ移住し、その後、両親の離婚を経験した、俳優・歌手のすみれさん。子ども時代はいじめにあうなどつらい経験もありましたが、母・松原千明さんから注がれた愛情は、今も心に残っていると話"
+    },
+    {
+      "category": "社会",
+      "title": "高市政権「脱リフレ」するか注目",
+      "link": "https://news.yahoo.co.jp/pickup/6600965?source=rss",
+      "published": "11/01 17:55",
+      "source": "Yahoo!ニュース",
+      "summary": "高市早苗政権が金融緩和と積極的な財政出動を志向する「リフレ政策」から脱却するかどうかが注目されている。米国の懸念を背景に、政府はリフレ政策の否定に躍起になっているものの、金融市場では額面通りに受け止"
+    },
+    {
+      "category": "経済",
+      "title": "渋滞最大で3時間 いろは坂で実験",
+      "link": "https://news.yahoo.co.jp/pickup/6600969?source=rss",
+      "published": "11/01 18:10",
+      "source": "Yahoo!ニュース",
+      "summary": "毎年、紅葉シーズンに大渋滞が起きる日光「いろは坂」。緩和に向け、県が社会実験を行いました。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "給食巡る投稿炎上 後悔ないと市議",
+      "link": "https://news.yahoo.co.jp/pickup/6600942?source=rss",
+      "published": "11/01 14:31",
+      "source": "Yahoo!ニュース",
+      "summary": "ある日突然、自分の投稿が炎上した――。SNS社会では誰もが隣り合わせるリスクだ。バッシングの炎はときに、思いもよらないきっかけで、不条理に燃え上がる。2025年に「ハラル給食を推進した」とデマを流さ"
+    },
+    {
+      "category": "スポーツ",
+      "title": "エムバペとキティ謝罪 中国の怒り",
+      "link": "https://news.yahoo.co.jp/pickup/6600970?source=rss",
+      "published": "11/01 18:14",
+      "source": "Yahoo!ニュース",
+      "summary": "（CNN） 仏サッカー界のスター、キリアン・エムバペと、「ハローキティ」を手がける日本の企業。この二者に共通点などあるのだろうか？"
+    },
+    {
+      "category": "IT",
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "published": "11/01 08:31",
+      "source": "ITmedia",
+      "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。"
+    },
+    {
+      "category": "主要",
+      "title": "個人でライブ主催 吉本が契約終了",
+      "link": "https://news.yahoo.co.jp/pickup/6600962?source=rss",
+      "published": "11/01 17:27",
+      "source": "Yahoo!ニュース",
+      "summary": "吉本興業が1日、公式サイトを更新。ナイチンゲールダンス・ヤスとのマネジメント契約終了を伝えた。"
+    },
+    {
+      "category": "社会",
+      "title": "米国産ジャガイモ 国会論点に浮上",
+      "link": "https://news.yahoo.co.jp/pickup/6600947?source=rss",
+      "published": "11/01 15:10",
+      "source": "Yahoo!ニュース",
+      "summary": "政府が検討する米国産生鮮ジャガイモ輸入解禁に対し、野党各党は慎重姿勢を鮮明にしている。病害虫の侵入や価格競争といった国内農家の懸念を背景に、今国会の論点の一つに浮上。高市政権が米国からの市場開放圧力"
+    },
+    {
+      "category": "経済",
+      "title": "個人情報は必要? 企業の漏洩対策",
+      "link": "https://news.yahoo.co.jp/pickup/6600932?source=rss",
+      "published": "11/01 13:32",
+      "source": "Yahoo!ニュース",
+      "summary": "ハンバーガーを1つ注文するのに、生年月日や性別、氏名は本当に必要なのだろうか。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "バイナンス被害 北朝鮮関与とFBI",
+      "link": "https://news.yahoo.co.jp/pickup/6600906?source=rss",
+      "published": "11/01 09:56",
+      "source": "Yahoo!ニュース",
+      "summary": "【ワシントン＝杉本康士】米連邦捜査局（FBI）は10月31日、暗号資産（仮想通貨）取引大手バイナンスからの巨額盗難事件について、北朝鮮が関与していたと発表した。バイナンスは被害額を推計約63億ドル（"
+    },
+    {
+      "category": "スポーツ",
+      "title": "天皇賞秋 ダノンデサイルがV",
+      "link": "https://news.yahoo.co.jp/pickup/6600957?source=rss",
+      "published": "11/01 16:07",
+      "source": "Yahoo!ニュース",
+      "summary": "◇第174回天皇賞・秋（2026年11月1日 東京芝2000メートル） 3歳馬と古馬のトップクラスが東京芝2000メートルで激突するG1「第174回天皇賞・秋」が1日、東京競馬場で行われ、戸崎圭太（"
+    },
+    {
+      "category": "IT",
+      "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
+      "published": "10/31 19:02",
+      "source": "ITmedia",
+      "summary": "総務省が10月27日付で、GMOインターネットへの不正アクセス問題を巡り、攻撃者のものとみられるWebサイトの「ブロッキング」を通信事業者に要請していたことが、朝日新聞や読売新聞などの報道で分かった。"
+    },
+    {
+      "category": "主要",
+      "title": "松井監督 野球教室で豪快アーチ",
+      "link": "https://news.yahoo.co.jp/pickup/6600959?source=rss",
+      "published": "11/01 16:37",
+      "source": "Yahoo!ニュース",
+      "summary": "巨人・松井秀喜新監督（52）が1日、神奈川県内で野球教室を開催した。"
+    },
+    {
+      "category": "社会",
+      "title": "台風 小笠原諸島は影響長引く恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6600944?source=rss",
+      "published": "11/01 14:46",
+      "source": "Yahoo!ニュース",
+      "summary": "非常に強い台風31号は小笠原近海で動きが遅くなっています。小笠原諸島では6日(金)頃まで高波など影響が長引くでしょう。台風の進路によっては小笠原諸島では5日(木)頃は雨や風が強まる恐れもあります。台"
+    },
+    {
+      "category": "経済",
       "title": "長すぎベルト「落ち感」引き出す",
       "link": "https://news.yahoo.co.jp/pickup/6600919?source=rss",
       "published": "11/01 11:12",
       "source": "Yahoo!ニュース",
       "summary": "まるでサイズが合っていないかのように、長く垂らす「超ロングベルト」がおしゃれテクニックに加わりました。あえてサイズを切り詰めないで、端をたっぷり余らせるという逆転の発想。余ったベルトは無造作に遊ばせて"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "GMO攻撃者 被害者サイト開設か",
+      "link": "https://news.yahoo.co.jp/pickup/6600897?source=rss",
+      "published": "11/01 08:55",
+      "source": "Yahoo!ニュース",
+      "summary": "GMOインターネットグループへの不正アクセス問題で、被害者同士の情報共有をうたって立ち上げられたサイトと、犯行声明を載せていたサイトに、設計図に当たる「ソースコード」の構成など多くの共通点があること"
+    },
+    {
+      "category": "スポーツ",
+      "title": "伊藤大海 ポスティング申請へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600950?source=rss",
+      "published": "11/01 15:35",
+      "source": "Yahoo!ニュース",
+      "summary": "日本ハムは1日、伊藤大海投手（29）がポスティングシステムを利用したメジャー挑戦することを容認し、手続きを開始したと発表した。日本ハムでの同システムの利用は、23年の上沢以来7人目。残留を含めて熟考"
+    },
+    {
+      "category": "IT",
+      "title": "Binanceの約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か",
+      "link": "https://www.itmedia.co.jp/news/article/2610/31/2000002775/",
+      "published": "10/31 07:13",
+      "source": "ITmedia",
+      "summary": "Binanceから約60億ドルの暗号資産が流出した事件で、TRM LabsとChainalysisは北朝鮮のサイバー集団「TraderTraitor」の関与を指摘した。過去最大規模の被害に対し、盗難資産の分散洗浄が進む一方、当局や発行元による迅速な資産凍結も進められている。"
+    },
+    {
+      "category": "主要",
+      "title": "米中間選挙 事前投票が過去最多",
+      "link": "https://news.yahoo.co.jp/pickup/6600955?source=rss",
+      "published": "11/01 16:06",
+      "source": "Yahoo!ニュース",
+      "summary": "今月3日に投開票されるアメリカ中間選挙で、これまでに事前投票を済ませた有権者が5200万人を超え、過去最多となりました。"
     },
     {
       "category": "社会",
@@ -27,35 +171,27 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "GMO攻撃者 被害者サイト開設か",
-      "link": "https://news.yahoo.co.jp/pickup/6600897?source=rss",
-      "published": "11/01 08:55",
+      "title": "クラブツーリズム 432万件流出か",
+      "link": "https://news.yahoo.co.jp/pickup/6600875?source=rss",
+      "published": "10/31 23:04",
       "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループへの不正アクセス問題で、被害者同士の情報共有をうたって立ち上げられたサイトと、犯行声明を載せていたサイトに、設計図に当たる「ソースコード」の構成など多くの共通点があること"
+      "summary": "旅行大手のクラブツーリズムは外部からの不正アクセスを受け、400万件を超える個人情報が漏洩（ろうえい）した恐れがあると発表しました。"
     },
     {
       "category": "スポーツ",
-      "title": "オリ 三木・前楽天監督がHC就任",
-      "link": "https://news.yahoo.co.jp/pickup/6600909?source=rss",
-      "published": "11/01 10:09",
+      "title": "全日本駅伝 早稲田大が大会新でV",
+      "link": "https://news.yahoo.co.jp/pickup/6600938?source=rss",
+      "published": "11/01 14:06",
       "source": "Yahoo!ニュース",
-      "summary": "オリックスは1日、前楽天監督の三木肇氏（49）が1軍ヘッドコーチ、前楽天打撃コーチの下園辰哉氏（41）が1軍打撃コーチに就任することを発表した。背番号は三木新ヘッドコーチが「88」、下園新打撃コーチ"
-    },
-    {
-      "category": "IT",
-      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
-      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-      "published": "11/01 08:31",
-      "source": "ITmedia",
-      "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。"
+      "summary": "■秩父宮賜杯 第58回全日本大学駅伝対校選手権大会（1日、名古屋市熱田神宮西門前～三重県・伊勢市伊勢神宮内宮宇治橋前）“学生3大駅伝”（出雲、全日本、箱根）の第2戦、全日本大学駅伝が行われ早稲田大が"
     },
     {
       "category": "主要",
-      "title": "福岡市長選 政令市最多13人立候補",
-      "link": "https://news.yahoo.co.jp/pickup/6600918?source=rss",
-      "published": "11/01 11:00",
+      "title": "アマゾン奥地で相次ぐ 子の異変",
+      "link": "https://news.yahoo.co.jp/pickup/6600956?source=rss",
+      "published": "11/01 16:00",
       "source": "Yahoo!ニュース",
-      "summary": "任期満了に伴う福岡市長選が1日告示され、午前10時までに新顔13人が立候補を届け出た。政令指定市の市長選としては過去最多の人数。立候補を見送った高島宗一郎市長（52）による4期16年の市政運営の継承"
+      "summary": "熱帯雨林が広がるアマゾン奥地で、相次いで子どもたちの異変が見つかっています。先住民の集落を訪ね、何が起きているのか報告します。"
     },
     {
       "category": "社会",
@@ -75,35 +211,27 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "クラブツーリズム 432万件流出か",
-      "link": "https://news.yahoo.co.jp/pickup/6600875?source=rss",
-      "published": "10/31 23:04",
+      "title": "身代金ウイルス 送金後追加要求も",
+      "link": "https://news.yahoo.co.jp/pickup/6600846?source=rss",
+      "published": "10/31 18:27",
       "source": "Yahoo!ニュース",
-      "summary": "旅行大手のクラブツーリズムは外部からの不正アクセスを受け、400万件を超える個人情報が漏洩（ろうえい）した恐れがあると発表しました。"
+      "summary": "身代金目的でデータを暗号化するウイルス「ランサムウエア」の被害が急増している。"
     },
     {
       "category": "スポーツ",
-      "title": "フォーエバーヤング 連覇ならず",
-      "link": "https://news.yahoo.co.jp/pickup/6600893?source=rss",
-      "published": "11/01 08:18",
+      "title": "槙野監督処分 判定巡りJ2藤枝声明",
+      "link": "https://news.yahoo.co.jp/pickup/6600937?source=rss",
+      "published": "11/01 13:53",
       "source": "Yahoo!ニュース",
-      "summary": "◆第４３回ブリーダーズＣクラシック・Ｇ１（現地時間１０月３１日、米国キーンランド競馬場・ダート２０００メートル） 新たな金字塔を打ち立てることはできなかった。坂井瑠星騎手＝栗東・矢作芳人厩舎＝騎乗で"
-    },
-    {
-      "category": "IT",
-      "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
-      "published": "10/31 19:02",
-      "source": "ITmedia",
-      "summary": "総務省が10月27日付で、GMOインターネットへの不正アクセス問題を巡り、攻撃者のものとみられるWebサイトの「ブロッキング」を通信事業者に要請していたことが、朝日新聞や読売新聞などの報道で分かった。"
+      "summary": "藤枝MYFCは1日、10月24日のJ2第13節・徳島ヴォルティス戦の判定に対するクラブの考えを公表した。"
     },
     {
       "category": "主要",
-      "title": "大学駅伝 GPS機器トラブルで謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6600912?source=rss",
-      "published": "11/01 10:26",
+      "title": "「ドパ親」に頭を抱える家族 背景",
+      "link": "https://news.yahoo.co.jp/pickup/6600953?source=rss",
+      "published": "11/01 15:29",
       "source": "Yahoo!ニュース",
-      "summary": "◆全日本大学駅伝（１日、名古屋市熱田神宮西門前スタート～三重・伊勢市伊勢神宮内宮宇治橋前ゴール＝８区間１０６・８キロ） 全日本大学駅伝の大会公式サイトでリアルタイムの位置情報を表示するサービスで異変"
+      "summary": "近年、子どもがSNS動画やスマホゲームなどに依存する「ドパガキ」という言葉が注目を集める一方で、高齢の親がYouTubeに没頭するという、いわば「ドパ親」とも呼ぶべきケースが増加し、トラブルに発展す"
     },
     {
       "category": "社会",
@@ -123,35 +251,27 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "身代金ウイルス 送金後追加要求も",
-      "link": "https://news.yahoo.co.jp/pickup/6600846?source=rss",
-      "published": "10/31 18:27",
+      "title": "投げ銭に計4億円 投げる側の心理",
+      "link": "https://news.yahoo.co.jp/pickup/6600831?source=rss",
+      "published": "10/31 17:00",
       "source": "Yahoo!ニュース",
-      "summary": "身代金目的でデータを暗号化するウイルス「ランサムウエア」の被害が急増している。"
+      "summary": "スマホ1台で誰でも配信や視聴ができるライブ配信サービスの普及とともに、「投げ銭（ギフティング）」市場が広がっている。応援目的の少額課金にとどまらず、数千万円から数億円という巨額の資金が投じられるケー"
     },
     {
       "category": "スポーツ",
-      "title": "広島 田中広輔氏のコーチ就任発表",
-      "link": "https://news.yahoo.co.jp/pickup/6600888?source=rss",
-      "published": "11/01 07:41",
+      "title": "「しょまりん」デビュー戦は4位",
+      "link": "https://news.yahoo.co.jp/pickup/6600925?source=rss",
+      "published": "11/01 12:10",
       "source": "Yahoo!ニュース",
-      "summary": "広島は１０月３１日、昨季限りで現役引退した田中広輔氏（３７）が来季から内野守備走塁コーチに就任すると発表した。１、２軍は未定。このほどマツダ内の球団事務所で会見を行った田中氏は「強いチームは、特に二"
-    },
-    {
-      "category": "IT",
-      "title": "Binanceの約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か",
-      "link": "https://www.itmedia.co.jp/news/article/2610/31/2000002775/",
-      "published": "10/31 07:13",
-      "source": "ITmedia",
-      "summary": "Binanceから約60億ドルの暗号資産が流出した事件で、TRM LabsとChainalysisは北朝鮮のサイバー集団「TraderTraitor」の関与を指摘した。過去最大規模の被害に対し、盗難資産の分散洗浄が進む一方、当局や発行元による迅速な資産凍結も進められている。"
+      "summary": "「フィギュアスケート・東日本選手権」（１日、ＡＬＳＯＫぐんまアイスアリーナ） アイスダンスのフリーダンス（ＦＤ）が行われ、男子２大会連続五輪メダリストの宇野昌磨と、１６年世界ジュニア選手権女王の本田"
     },
     {
       "category": "主要",
-      "title": "GK鈴木彩艶 痛恨のオウンゴール",
-      "link": "https://news.yahoo.co.jp/pickup/6600913?source=rss",
-      "published": "11/01 10:25",
+      "title": "岩手で熊出没急減 ブナ豊作影響か",
+      "link": "https://news.yahoo.co.jp/pickup/6600940?source=rss",
+      "published": "11/01 14:10",
       "source": "Yahoo!ニュース",
-      "summary": "アストン・ヴィラはドローアストン・ヴィラの日本代表GK鈴木彩艶は好セーブを連発するも、痛いミスを犯してしまった。"
+      "summary": "岩手県内で今秋、ツキノワグマの出没件数が減少している。秋は冬眠に向けて餌を探し回るため活動が盛んになるが、９月の出没件数は前年同月から８割減少。前年度に５人が亡くなるなどした人身被害も８月末を最後に"
     },
     {
       "category": "社会",
@@ -171,102 +291,6 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "投げ銭に計4億円 投げる側の心理",
-      "link": "https://news.yahoo.co.jp/pickup/6600831?source=rss",
-      "published": "10/31 17:00",
-      "source": "Yahoo!ニュース",
-      "summary": "スマホ1台で誰でも配信や視聴ができるライブ配信サービスの普及とともに、「投げ銭（ギフティング）」市場が広がっている。応援目的の少額課金にとどまらず、数千万円から数億円という巨額の資金が投じられるケー"
-    },
-    {
-      "category": "スポーツ",
-      "title": "島田麻央SP首位 今季世界最高点",
-      "link": "https://news.yahoo.co.jp/pickup/6600885?source=rss",
-      "published": "11/01 07:38",
-      "source": "Yahoo!ニュース",
-      "summary": "◆フィギュアスケート グランプリシリーズ第２戦 スケートカナダ 第２日（１０月３１日、ケロウナ） 女子ショートプログラム（ＳＰ）が行われ、世界ジュニア選手権４連覇など無敗で今季シニアに転向した島田麻"
-    },
-    {
-      "category": "IT",
-      "title": "「低評価でキャラが悲しげな目」　モスバーガーのアンケートがSNSで話題　運営会社に狙いを聞いた",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002767/",
-      "published": "10/30 18:05",
-      "source": "ITmedia",
-      "summary": "モスバーガーの顧客アンケートで、評価する数字に応じてキャラクターの表情が変わる画面設計がX上で話題だ。好意的な反応が目立つ一方、「回答者の評価に影響するのではないか」と懸念する声もみられる。どのような狙いで採用したのか。モスバーガーを運営するモスフードサービスに聞いた。"
-    },
-    {
-      "category": "主要",
-      "title": "共和党 トランプ氏から離反相次ぐ",
-      "link": "https://news.yahoo.co.jp/pickup/6600904?source=rss",
-      "published": "11/01 09:58",
-      "source": "Yahoo!ニュース",
-      "summary": "アメリカの中間選挙まで、あと3日。新旧の大統領が応酬を繰り広げる中、共和党内ではトランプ大統領と距離を置く動きが加速しています。（サタデーステーション10月31日OA）"
-    },
-    {
-      "category": "社会",
-      "title": "第2青函トンネル構想浮上 国交省",
-      "link": "https://news.yahoo.co.jp/pickup/6600828?source=rss",
-      "published": "10/31 16:10",
-      "source": "Yahoo!ニュース",
-      "summary": "北海道と本州を結ぶ青函トンネルと並行する「第2青函トンネル」構想が、国土交通省内で浮上していることが31日、分かった。井林辰憲国交相が9月の内閣改造前に提出した役職希望アンケートで、推進したいと明記"
-    },
-    {
-      "category": "経済",
-      "title": "古着「オールドユニクロ」とは",
-      "link": "https://news.yahoo.co.jp/pickup/6600869?source=rss",
-      "published": "10/31 22:00",
-      "source": "Yahoo!ニュース",
-      "summary": "ヴィンテージロレックスやバンドTの次は、ユニクロなのか? いま、かつて大量生産されたユニクロの服が「オールドユニクロ」と呼ばれ、古着として見直されている。古着市場では、2000年前後のフリースが90"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "北が関与か バイナンス巡り米調査",
-      "link": "https://news.yahoo.co.jp/pickup/6600772?source=rss",
-      "published": "10/31 10:10",
-      "source": "Yahoo!ニュース",
-      "summary": "【ニューヨーク、ワシントン共同】トランプ米大統領は30日、不正アクセスによる暗号資産（仮想通貨）取引大手バイナンスの巨額盗難事件を巡り、北朝鮮の関与を調べていると明らかにした。ホワイトハウスで、北朝"
-    },
-    {
-      "category": "スポーツ",
-      "title": "路上プロレス一転中止 天心が説明",
-      "link": "https://news.yahoo.co.jp/pickup/6600876?source=rss",
-      "published": "10/31 23:02",
-      "source": "Yahoo!ニュース",
-      "summary": "プロボクシングWBA、WBC、IBF世界バンタム級3位の那須川天心（28）＝帝拳＝が企画して主催する「天心祭」が31日、地元の千葉・松戸市の松戸中央公園で開幕した。盆踊りなどを行う秋祭りで、午前11"
-    },
-    {
-      "category": "IT",
-      "title": "セガのスマホゲーム「チェンクロ」、セキュリティ問題で1?2カ月の長期メンテ　13年続く長寿タイトル",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002768/",
-      "published": "10/30 18:00",
-      "source": "ITmedia",
-      "summary": "セガが運営するスマホRPG「チェインクロニクル」で、10月23日から緊急メンテナンスが続いている。同社は30日、一部システムでセキュリティ上の問題を確認したため、少なくとも1?2カ月、メンテナンスが続く見通しだと発表した。"
-    },
-    {
-      "category": "主要",
-      "title": "バイナンス被害 北朝鮮関与とFBI",
-      "link": "https://news.yahoo.co.jp/pickup/6600906?source=rss",
-      "published": "11/01 09:56",
-      "source": "Yahoo!ニュース",
-      "summary": "【ワシントン＝杉本康士】米連邦捜査局（FBI）は10月31日、暗号資産（仮想通貨）取引大手バイナンスからの巨額盗難事件について、北朝鮮が関与していたと発表した。バイナンスは被害額を推計約63億ドル（"
-    },
-    {
-      "category": "社会",
-      "title": "政府「副首都」推進本部を設置",
-      "link": "https://news.yahoo.co.jp/pickup/6600780?source=rss",
-      "published": "10/31 10:44",
-      "source": "Yahoo!ニュース",
-      "summary": "「副首都」構想の関連法がきょう（30日）施行されたことを受け、政府は高市総理を本部長とする「副首都整備推進本部」を設置しました。"
-    },
-    {
-      "category": "経済",
-      "title": "ブラックフライデー 先行セールも",
-      "link": "https://news.yahoo.co.jp/pickup/6600845?source=rss",
-      "published": "10/31 17:56",
-      "source": "Yahoo!ニュース",
-      "summary": "米国発祥の大型商戦「ブラックフライデー」が早くも熱を帯びている。11月下旬の本格化に先駆け、一部の流通大手は10月末からフライングセールを開始した。物価高で消費者の財布のひもが固くなる中、各社はクー"
-    },
-    {
-      "category": "AI・テクノロジー",
       "title": "AI生成曲検知 JASRACが導入検討",
       "link": "https://news.yahoo.co.jp/pickup/6600711?source=rss",
       "published": "10/30 19:41",
@@ -275,147 +299,27 @@
     },
     {
       "category": "スポーツ",
-      "title": "森保監督 槙野監督の処分に言及",
-      "link": "https://news.yahoo.co.jp/pickup/6600835?source=rss",
-      "published": "10/31 17:01",
+      "title": "GK鈴木彩艶 痛恨のオウンゴール",
+      "link": "https://news.yahoo.co.jp/pickup/6600913?source=rss",
+      "published": "11/01 10:25",
       "source": "Yahoo!ニュース",
-      "summary": "森保監督が岡山とFC東京の一戦を現地で視察 サッカー日本代表を率いる森保一監督は10月31日、J1リーグ第13節のファジアーノ岡山とFC東京の一戦を現地で視察。試合後に囲み取材でサンフレッチェ広島時"
-    },
-    {
-      "category": "IT",
-      "title": "「ITノウハウ持つ人材少なく」　PHP脆弱性問題、31市町村でサイト一時停止継続",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002766/",
-      "published": "10/30 17:38",
-      "source": "ITmedia",
-      "summary": "プログラミング言語「PHP」に重大な脆弱（ぜいじゃく）性が見つかった問題で、少なくとも全国31市町村がWebサイトの公開を一時停止・縮小していることが10月30日、分かった。"
+      "summary": "アストン・ヴィラはドローアストン・ヴィラの日本代表GK鈴木彩艶は好セーブを連発するも、痛いミスを犯してしまった。"
     },
     {
       "category": "主要",
-      "title": "中国 台湾周辺海底ケーブル探査か",
-      "link": "https://news.yahoo.co.jp/pickup/6600895?source=rss",
-      "published": "11/01 08:34",
+      "title": "緊急事態条項の創設巡り賛否 見解",
+      "link": "https://news.yahoo.co.jp/pickup/6600935?source=rss",
+      "published": "11/01 14:04",
       "source": "Yahoo!ニュース",
-      "summary": "台湾周辺で今年５月以降、中国の調査船４隻が特定の海域で不自然な行動を繰り返し、その行動範囲が台湾などに接続される国際海底ケーブルの敷設ルートに近接していたことがわかった。米台を拠点とする地理空間情報"
-    },
-    {
-      "category": "社会",
-      "title": "発達障害増加 支援学校の教員不足",
-      "link": "https://news.yahoo.co.jp/pickup/6600753?source=rss",
-      "published": "10/31 08:11",
-      "source": "Yahoo!ニュース",
-      "summary": "障害児らが通う特別支援学校で、教員不足が深刻化している。文部科学省が今年公表した調査結果では、教員の定数に対する不足人数の割合（不足率）は直近４年間で３倍近くに増加した。発達障害のある子どもが増えて"
+      "summary": "日本国憲法公布から3日で80年を迎える。 首都直下地震や南海トラフ地震などの大規模災害が想定される中、対応策の一つとして政府の権限を一時的に強化する緊急事態条項を憲法に明記すべきか議論が続く。迅速な"
     },
     {
       "category": "経済",
-      "title": "大企業出身のシニア採用 落とし穴",
-      "link": "https://news.yahoo.co.jp/pickup/6600808?source=rss",
-      "published": "10/31 14:01",
+      "title": "古着「オールドユニクロ」とは",
+      "link": "https://news.yahoo.co.jp/pickup/6600869?source=rss",
+      "published": "10/31 22:00",
       "source": "Yahoo!ニュース",
-      "summary": "「大手メーカーで部長まで務めた方だから」 期待を込めて、社内でも最高水準の年収を提示して迎え入れた。しかし、入社してしばらくたっても、目立った成果が出てこない。席に座って社内資料を読み込んでいるか、"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "暗号資産取引大手に不正侵入か",
-      "link": "https://news.yahoo.co.jp/pickup/6600689?source=rss",
-      "published": "10/30 15:43",
-      "source": "Yahoo!ニュース",
-      "summary": "【ラスベガス共同】暗号資産（仮想通貨）取引大手のバイナンスは29日、外部から不正アクセスされ、約63億ドル（約1兆円）相当の暗号資産が影響を受けたと発表した。30億ドル分を凍結したといい、残りが実際"
-    },
-    {
-      "category": "IT",
-      "title": "無印良品、不正アクセスで最大2726万件の会員情報漏えいか　退会済みのユーザーも対象",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002756/",
-      "published": "10/30 15:18",
-      "source": "ITmedia",
-      "summary": "「無印良品」を展開する良品計画は、同社が運営する「MUJIアプリ」の顧客情報が最大約2726万件流出した可能性があると発表した。退会済みの利用者の情報も含まれる。会員向けセール「無印良品週間」の開催期間中の公表となった。"
-    },
-    {
-      "category": "主要",
-      "title": "新田真剣佑が改名 前田真剣佑に",
-      "link": "https://news.yahoo.co.jp/pickup/6600884?source=rss",
-      "published": "11/01 07:26",
-      "source": "Yahoo!ニュース",
-      "summary": "俳優の新田真剣佑（29）が「前田真剣佑」に改名することを31日、自身のインスタグラムのストーリーズで発表した。"
-    },
-    {
-      "category": "社会",
-      "title": "e-Taxかたる不審メール 相談急増",
-      "link": "https://news.yahoo.co.jp/pickup/6600745?source=rss",
-      "published": "10/31 07:39",
-      "source": "Yahoo!ニュース",
-      "summary": "国税庁や電子申告・納税システム「イータックス」をかたる不審なメールに関する電話相談が、９月下旬から同庁や全国の国税局で急増していることがわかった。１日に１０件程度だった相談件数が２０００件を超えた日"
-    },
-    {
-      "category": "IT",
-      "title": "松屋のアプリに不正アクセス、約238万件の個人情報が漏えい　停止中の補償も予定",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002753/",
-      "published": "10/30 14:17",
-      "source": "ITmedia",
-      "summary": "松屋フーズホールディングスは10月30日、公式アプリの管理システムへの不正アクセスで、約238万件の個人情報が漏えいしたと発表した。アプリ会員には、サービス停止期間中の補償をする予定という。"
-    },
-    {
-      "category": "IT",
-      "title": "イオン、フィジカルAIで物流改革　配送拠点の自動化率5割達成　深刻な人手不足に対応",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002751/",
-      "published": "10/30 13:24",
-      "source": "ITmedia",
-      "summary": "イオンとロボット制御ソフトのMujin（ムジン）は10月29日、人工知能（AI）で機械を自律的に動かす「フィジカルAI」を搭載したロボットを活用する配送拠点「イオン川口東XD（クロスドック）」（埼玉県川口市）を報道陣に公開した。"
-    },
-    {
-      "category": "IT",
-      "title": "誤訳で“違う製品”を作りかけた？　ベトナム工場への指示書、通訳よりGeminiの方が伝わったワケ",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002699/",
-      "published": "10/30 13:00",
-      "source": "ITmedia",
-      "summary": "グローバルニッチは高い技術力を持つ一方で、知名度が実力に比べて劣り、ITを駆使して海外でのブランディングや販売に生かしていることも多い。この連載では、こうした企業のIT戦略をインタビューで深堀りする。今回は搬送ロボットなど産業機械の製造・販売を手掛けるニチエツを取り上げる。"
-    },
-    {
-      "category": "IT",
-      "title": "「本会議場にタブレット持ち込み可能に」自民の提言案にチームみらい安野党首「うおおおおお」",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002747/",
-      "published": "10/30 12:59",
-      "source": "ITmedia",
-      "summary": "本会議場へのタブレット端末の持ち込みを認める一方、質疑者や答弁者などは外部からの干渉を防ぐため、通信機能を搭載した端末は認めないという。"
-    },
-    {
-      "category": "IT",
-      "title": "暗号資産取引所Binance、ハッキングで約1兆円の被害か　入出金を全面停止",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002749/",
-      "published": "10/30 12:52",
-      "source": "ITmedia",
-      "summary": "暗号資産取引所で世界最大手のBinanceは10月30日、セキュリティ上の問題で推定約63億ドルの被害が出たと発表した。初期調査では、エンジニアのノートPCを起点に攻撃者が不正な出金を実行した可能性があるという。"
-    },
-    {
-      "category": "IT",
-      "title": "Meta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002684/",
-      "published": "10/30 12:00",
-      "source": "ITmedia",
-      "summary": "イスラエルのテルアビブ大学に所属する研究者らが発表した論文「Watch and Crack: Password Inference from Smart-Glasses Video」は、スマートグラスで撮影された指の動きから、パスワードを解読する手法を実証した研究報告だ。"
-    },
-    {
-      "category": "IT",
-      "title": "PHP脆弱性でいち早くサービス停止、コドモン経営判断の舞台裏　実はオンラインイベントの真っ最中だった",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002720/",
-      "published": "10/30 12:00",
-      "source": "ITmedia",
-      "summary": "多くの情報セキュリティ担当者が対応に追われ、今なお爪痕が残るプログラミング言語「PHP」の脆弱性。いち早くサービス停止を判断し、注目を浴びたコドモンに、当時の判断について聞いた。"
-    },
-    {
-      "category": "IT",
-      "title": "“AI面接官”は人間より内定を出しやすい？　定着率も18％増　約7万人で実験",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002683/",
-      "published": "10/30 12:00",
-      "source": "ITmedia",
-      "summary": "米カーネギーメロン大学などに所属する研究者らが発表した論文「Voice AI in Firms: A Natural Field Experiment on Automated Job Interviews」は、AI面接が内定率や入社後の定着率にどう影響するのかを調査した研究報告だ。"
-    },
-    {
-      "category": "IT",
-      "title": "AIが突き崩す「不動産価格の壁」　なぜマンションに定価がないのか",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002733/",
-      "published": "10/30 12:00",
-      "source": "ITmedia",
-      "summary": "不動産の「ミステリー」を専門家がわかりやすく読み解き、AIをはじめITを活用した不動産の近未来を探る。第7回は「なぜ不動産には一律の価格がないのか」「AIは不動産価格をどう変えるのか」を深掘りする。"
+      "summary": "ヴィンテージロレックスやバンドTの次は、ユニクロなのか? いま、かつて大量生産されたユニクロの服が「オールドユニクロ」と呼ばれ、古着として見直されている。古着市場では、2000年前後のフリースが90"
     }
   ],
   "errors": [
