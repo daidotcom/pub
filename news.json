@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-01T20:51:51.105630+00:00",
+  "updated": "2026-11-02T00:48:30.986064+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "38歳で余命宣告 子への優しいうそ",
-      "link": "https://news.yahoo.co.jp/pickup/6601003?source=rss",
-      "published": "11/01 23:53",
+      "title": "内定者2年間入社しなくてOK 狙い",
+      "link": "https://news.yahoo.co.jp/pickup/6601025?source=rss",
+      "published": "11/02 09:21",
       "source": "Yahoo!ニュース",
-      "summary": "8歳と5歳、二人の子を育てていた38歳のある日、乳がん「ステージ4」と診断「薬がなければ、余命は1年」。8歳と5歳、2人の子を抱えワンオペ育児に励んでいた女性は、38歳のある日、突然乳がん「ステージ"
+      "summary": "新卒採用で企業から内定が出た学生は、大学（大学院）を卒業した翌月の4月に入社するのが一般的だ。だが、そんな「あたり前」を変えようとする企業がある。化粧品会社「シロ」は2028年度の新卒採用から「イン"
     },
     {
       "category": "社会",
-      "title": "高市政権「脱リフレ」するか注目",
-      "link": "https://news.yahoo.co.jp/pickup/6600965?source=rss",
-      "published": "11/01 17:55",
+      "title": "内閣の支持率64.9%に上昇 JNN",
+      "link": "https://news.yahoo.co.jp/pickup/6601017?source=rss",
+      "published": "11/02 07:58",
       "source": "Yahoo!ニュース",
-      "summary": "高市早苗政権が金融緩和と積極的な財政出動を志向する「リフレ政策」から脱却するかどうかが注目されている。米国の懸念を背景に、政府はリフレ政策の否定に躍起になっているものの、金融市場では額面通りに受け止"
+      "summary": "最新のJNNの世論調査で、高市内閣の支持率が、前回の調査から1.9ポイント上昇して64.9%でした。一方、「支持しない」と答えた人は前回から1.4ポイント下落して32.5%でした。"
     },
     {
       "category": "経済",
-      "title": "みんなで大家さん 悔やむ出資者も",
-      "link": "https://news.yahoo.co.jp/pickup/6600993?source=rss",
-      "published": "11/01 21:37",
+      "title": "金型の無償保管 公取委勧告が急増",
+      "link": "https://news.yahoo.co.jp/pickup/6601015?source=rss",
+      "published": "11/02 07:44",
       "source": "Yahoo!ニュース",
-      "summary": "高利回りをアピールして約２０００億円を集めた不動産投資商品「みんなで大家さん」を運用・販売する２社が事業許可取り消しの行政処分を受け、出資者の間で憤りや困惑が広がっている。１９９５年に制度化された不"
+      "summary": "部品製造などに使われる「金型」を、元請けの会社が下請け事業者に無償で保管させる行為をめぐり、公正取引委員会が、元請け側に対し下請法（現・中小受託取引適正化法）違反だとして勧告を出すケースが急増してい"
     },
     {
       "category": "AI・テクノロジー",
@@ -35,35 +35,131 @@
     },
     {
       "category": "スポーツ",
-      "title": "青学・原監督 早大は「過去最強」",
-      "link": "https://news.yahoo.co.jp/pickup/6600987?source=rss",
-      "published": "11/01 21:02",
+      "title": "島田麻央 GPデビュー戦で優勝",
+      "link": "https://news.yahoo.co.jp/pickup/6601010?source=rss",
+      "published": "11/02 07:20",
       "source": "Yahoo!ニュース",
-      "summary": "「全日本大学駅伝」（１日、熱田神宮～伊勢神宮、８区間＝１０６・８キロ） 大学３大駅伝の第２戦が行われ、関東勢最下位１１位からの巻き返しを狙った青学大は４位に終わり、８年ぶり３度目の優勝はならず、６年"
+      "summary": "＜フィギュアスケート：グランプリ（GP）シリーズ第2戦スケートカナダ＞◇1日（日本時間2日）◇ケロウナ・プロスペラ・プレイス◇女子フリー 【ケロウナ（カナダ）＝藤塚大輔】島田麻央（18＝木下グループ"
     },
     {
       "category": "IT",
-      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
-      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-      "published": "11/01 08:31",
+      "title": "Google、宇宙のTPUから初のAI応答を受信　「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002779/",
+      "published": "11/02 08:59",
       "source": "ITmedia",
-      "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。"
+      "summary": "Googleは、宇宙AIデータセンター構想「Project Suncatcher」の試作衛星に搭載したTPUから、AIによる最初の応答を受信したと発表した。軌道上のオープンモデル「Gemma 4」にプロンプトを送信し、応答を確認した。今後は宇宙空間でのTPUの動作評価試験を進める。"
     },
     {
       "category": "主要",
-      "title": "生命起源巡る理論 定説覆る可能性",
-      "link": "https://news.yahoo.co.jp/pickup/6600999?source=rss",
-      "published": "11/01 23:44",
+      "title": "米大統領 接戦州集会で最後の訴え",
+      "link": "https://news.yahoo.co.jp/pickup/6601024?source=rss",
+      "published": "11/02 08:58",
       "source": "Yahoo!ニュース",
-      "summary": "（CNN） 数十億年前の地球において、生命誕生のきっかけとして彗星（すいせい）が重要な役割を果たしたとする一般的な説が崩れる可能性が出てきた。新たなコンピューター・シミュレーションの結果が、数十年に"
+      "summary": "【ワシントン＝本間英士】トランプ米大統領は1日、3日の中間選挙を直前に控え、中西部アイオワ州で対面集会を開催した。トランプ氏はこの日、カンザス州でも演説し、対面集会を締めくくる。いずれも連邦上院選の"
     },
     {
       "category": "社会",
-      "title": "米国産ジャガイモ 国会論点に浮上",
-      "link": "https://news.yahoo.co.jp/pickup/6600947?source=rss",
-      "published": "11/01 15:10",
+      "title": "防災庁発足 防災・災害時の司令塔",
+      "link": "https://news.yahoo.co.jp/pickup/6601011?source=rss",
+      "published": "11/02 07:21",
       "source": "Yahoo!ニュース",
-      "summary": "政府が検討する米国産生鮮ジャガイモ輸入解禁に対し、野党各党は慎重姿勢を鮮明にしている。病害虫の侵入や価格競争といった国内農家の懸念を背景に、今国会の論点の一つに浮上。高市政権が米国からの市場開放圧力"
+      "summary": "政府の防災・災害対応の司令塔機能を担う防災庁が2日、発足した。"
+    },
+    {
+      "category": "経済",
+      "title": "望月衣塑子記者の対談本 回収へ",
+      "link": "https://news.yahoo.co.jp/pickup/6600996?source=rss",
+      "published": "11/01 21:59",
+      "source": "Yahoo!ニュース",
+      "summary": "朝日新聞出版は1日、東京新聞記者の望月衣塑子氏と思想家の内田樹氏の共著で9月に刊行した新書「常識なき世界を生き延びるために」の回収を決めたと発表した。2日以降、書店などに協力を依頼し、順次、回収作業"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "GMO攻撃 北朝鮮系のハッカーか",
+      "link": "https://news.yahoo.co.jp/pickup/6600991?source=rss",
+      "published": "11/01 21:18",
+      "source": "Yahoo!ニュース",
+      "summary": "GMOインターネットグループが、一連の不正アクセスの攻撃側に北朝鮮系のハッカー集団がいる可能性が高いと分析していることが1日、関係者への取材で分かった。マルウエア（悪意あるソフト）の特徴など攻撃者の"
+    },
+    {
+      "category": "スポーツ",
+      "title": "松井裕樹 パドレス残留を決断",
+      "link": "https://news.yahoo.co.jp/pickup/6601006?source=rss",
+      "published": "11/02 06:29",
+      "source": "Yahoo!ニュース",
+      "summary": "米大リーグ、パドレスの松井裕樹投手（31）が、今オフに保有する契約破棄権（オプトアウト）を行使せず、残留を決断したことが1日、分かった。2024年から5年総額2800万ドル（約44億1200万円）の"
+    },
+    {
+      "category": "IT",
+      "title": "FBI、Binanceからの60億ドル超の暗号資産窃盗は北朝鮮「TraderTraitor」の犯行と発表",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002778/",
+      "published": "11/02 07:28",
+      "source": "ITmedia",
+      "summary": "FBIは、暗号資産取引所Binanceから60億ドル超の暗号資産が盗まれた事件を北朝鮮のサイバー攻撃活動「TraderTraitor」による犯行と発表した。FBIなどは民間事業者に資金洗浄の阻止を要請。なお、Binance Japanは日本の顧客資産は安全に保管されていると報告し、影響はないとしている。"
+    },
+    {
+      "category": "主要",
+      "title": "住宅火災 焼け跡から3人の遺体",
+      "link": "https://news.yahoo.co.jp/pickup/6601022?source=rss",
+      "published": "11/02 08:48",
+      "source": "Yahoo!ニュース",
+      "summary": "2日午前2時40分ごろ、滋賀県甲賀市甲賀町大原中の男性（89）方から出火、木造平屋建て住宅が焼けた。甲賀広域行政組合消防本部によると、焼け跡から3人の遺体が見つかった。滋賀県警甲賀署が身元の確認を進"
+    },
+    {
+      "category": "社会",
+      "title": "早期流産で仕事中涙 有休取り崩し",
+      "link": "https://news.yahoo.co.jp/pickup/6601009?source=rss",
+      "published": "11/02 07:08",
+      "source": "Yahoo!ニュース",
+      "summary": "営業先に向かって、一人、車を運転していた時だった。無意識に涙が流れた。「そのまま妊娠していたら、今ごろ何週だったかな」――。"
+    },
+    {
+      "category": "経済",
+      "title": "みんなで大家さん 悔やむ出資者も",
+      "link": "https://news.yahoo.co.jp/pickup/6600993?source=rss",
+      "published": "11/01 21:37",
+      "source": "Yahoo!ニュース",
+      "summary": "高利回りをアピールして約２０００億円を集めた不動産投資商品「みんなで大家さん」を運用・販売する２社が事業許可取り消しの行政処分を受け、出資者の間で憤りや困惑が広がっている。１９９５年に制度化された不"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "「家族系」配信 相次ぐ収益化停止",
+      "link": "https://news.yahoo.co.jp/pickup/6600981?source=rss",
+      "published": "11/01 20:07",
+      "source": "Yahoo!ニュース",
+      "summary": "子どもや家族の日常を配信する「家族系YouTuber」が人気を集め、将来なりたい職業の上位にも動画配信者が入る一方で、未成年の動画出演やプライバシー保護、出演によって得た収益の扱いをめぐる議論が世界"
+    },
+    {
+      "category": "スポーツ",
+      "title": "西武・高橋光成が海外FAを決断",
+      "link": "https://news.yahoo.co.jp/pickup/6601004?source=rss",
+      "published": "11/02 06:08",
+      "source": "Yahoo!ニュース",
+      "summary": "西武・高橋光成投手（29）が今年5月に取得した海外フリーエージェント（FA）権を行使することが1日、球界関係者の話で分かった。近日中に意向を表明する。"
+    },
+    {
+      "category": "IT",
+      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
+      "published": "11/02 07:00",
+      "source": "ITmedia",
+      "summary": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。"
+    },
+    {
+      "category": "主要",
+      "title": "スペイン事故 邦人1人の死亡確認",
+      "link": "https://news.yahoo.co.jp/pickup/6601023?source=rss",
+      "published": "11/02 08:45",
+      "source": "Yahoo!ニュース",
+      "summary": "スペイン中部で先月28日に、列車同士が衝突して69人が死亡した事故で、スペイン当局は1日、日本人1人の死亡が確認されたと発表しました。"
+    },
+    {
+      "category": "社会",
+      "title": "農相政治団体 寄付3000万円不記載",
+      "link": "https://news.yahoo.co.jp/pickup/6601002?source=rss",
+      "published": "11/01 23:25",
+      "source": "Yahoo!ニュース",
+      "summary": "武部新農水相（56）の政治団体が、総額3000万円を超える虚偽記載をしていたことが「週刊文春」の取材で分かった。政治資金規正法違反の疑いがある。"
     },
     {
       "category": "経済",
@@ -83,35 +179,35 @@
     },
     {
       "category": "スポーツ",
-      "title": "松井監督 児童へ「夢持ち続けて」",
-      "link": "https://news.yahoo.co.jp/pickup/6600989?source=rss",
-      "published": "11/01 20:56",
+      "title": "青学・原監督 早大は「過去最強」",
+      "link": "https://news.yahoo.co.jp/pickup/6600987?source=rss",
+      "published": "11/01 21:02",
       "source": "Yahoo!ニュース",
-      "summary": "プロ野球・巨人の新監督に就任した松井秀喜氏（52）が1日、神奈川県内で小学4〜6年生を対象とした野球教室を開催。抽選で選ばれた40人が参加し、松井氏は守備や打撃の指導を行ったほか、子どもたちからの質"
+      "summary": "「全日本大学駅伝」（１日、熱田神宮～伊勢神宮、８区間＝１０６・８キロ） 大学３大駅伝の第２戦が行われ、関東勢最下位１１位からの巻き返しを狙った青学大は４位に終わり、８年ぶり３度目の優勝はならず、６年"
     },
     {
       "category": "IT",
-      "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道",
-      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
-      "published": "10/31 19:02",
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "published": "11/01 08:31",
       "source": "ITmedia",
-      "summary": "総務省が10月27日付で、GMOインターネットへの不正アクセス問題を巡り、攻撃者のものとみられるWebサイトの「ブロッキング」を通信事業者に要請していたことが、朝日新聞や読売新聞などの報道で分かった。"
+      "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。"
     },
     {
       "category": "主要",
-      "title": "農相政治団体 寄付3000万円不記載",
-      "link": "https://news.yahoo.co.jp/pickup/6601002?source=rss",
-      "published": "11/01 23:25",
+      "title": "佐藤輝ら交渉へ ポスティング公示",
+      "link": "https://news.yahoo.co.jp/pickup/6601021?source=rss",
+      "published": "11/02 08:34",
       "source": "Yahoo!ニュース",
-      "summary": "武部新農水相（56）の政治団体が、総額3000万円を超える虚偽記載をしていたことが「週刊文春」の取材で分かった。政治資金規正法違反の疑いがある。"
+      "summary": "【ロサンゼルス共同】米大リーグ機構は1日、プロ野球からポスティングシステムでメジャー移籍を目指す阪神の佐藤輝明内野手（27）、西武の平良海馬投手（26）、日本ハムの伊藤大海投手（29）を全30球団に"
     },
     {
       "category": "社会",
-      "title": "台風 小笠原諸島は影響長引く恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6600944?source=rss",
-      "published": "11/01 14:46",
+      "title": "高市政権「脱リフレ」するか注目",
+      "link": "https://news.yahoo.co.jp/pickup/6600965?source=rss",
+      "published": "11/01 17:55",
       "source": "Yahoo!ニュース",
-      "summary": "非常に強い台風31号は小笠原近海で動きが遅くなっています。小笠原諸島では6日(金)頃まで高波など影響が長引くでしょう。台風の進路によっては小笠原諸島では5日(木)頃は雨や風が強まる恐れもあります。台"
+      "summary": "高市早苗政権が金融緩和と積極的な財政出動を志向する「リフレ政策」から脱却するかどうかが注目されている。米国の懸念を背景に、政府はリフレ政策の否定に躍起になっているものの、金融市場では額面通りに受け止"
     },
     {
       "category": "経済",
@@ -139,27 +235,27 @@
     },
     {
       "category": "IT",
-      "title": "Binanceの約1兆円流出、北朝鮮ハッカー集団「TraderTraitor」の犯行か",
-      "link": "https://www.itmedia.co.jp/news/article/2610/31/2000002775/",
-      "published": "10/31 07:13",
+      "title": "総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道",
+      "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002765/",
+      "published": "10/31 19:02",
       "source": "ITmedia",
-      "summary": "Binanceから約60億ドルの暗号資産が流出した事件で、TRM LabsとChainalysisは北朝鮮のサイバー集団「TraderTraitor」の関与を指摘した。過去最大規模の被害に対し、盗難資産の分散洗浄が進む一方、当局や発行元による迅速な資産凍結も進められている。"
+      "summary": "総務省が10月27日付で、GMOインターネットへの不正アクセス問題を巡り、攻撃者のものとみられるWebサイトの「ブロッキング」を通信事業者に要請していたことが、朝日新聞や読売新聞などの報道で分かった。"
     },
     {
       "category": "主要",
-      "title": "「ぼざろ」新作映画制作 来年公開",
-      "link": "https://news.yahoo.co.jp/pickup/6601000?source=rss",
-      "published": "11/01 23:14",
+      "title": "私立高の学校納付金2倍 NGO調査",
+      "link": "https://news.yahoo.co.jp/pickup/6601019?source=rss",
+      "published": "11/02 08:21",
       "source": "Yahoo!ニュース",
-      "summary": "テレビアニメ『ぼっち・ざ・ろっく！』（略称：ぼざろ）の新作映画『映画ぼっち・ざ・ろっく！ 星のあしあと』（配給：ANIMEC）が制作されることが決定し、2027年に公開されることが発表された。"
+      "summary": "私立高校に通う生徒の家庭が負担する施設維持費や冷暖房費などの「学校納付金」の平均額が2026年度は約14万7千円で、約7万3千円だった25年度の約2倍となったことが2日までに分かった。非政府組織（N"
     },
     {
       "category": "社会",
-      "title": "緊急事態条項の創設巡り賛否 見解",
-      "link": "https://news.yahoo.co.jp/pickup/6600935?source=rss",
-      "published": "11/01 14:04",
+      "title": "米国産ジャガイモ 国会論点に浮上",
+      "link": "https://news.yahoo.co.jp/pickup/6600947?source=rss",
+      "published": "11/01 15:10",
       "source": "Yahoo!ニュース",
-      "summary": "日本国憲法公布から3日で80年を迎える。 首都直下地震や南海トラフ地震などの大規模災害が想定される中、対応策の一つとして政府の権限を一時的に強化する緊急事態条項を憲法に明記すべきか議論が続く。迅速な"
+      "summary": "政府が検討する米国産生鮮ジャガイモ輸入解禁に対し、野党各党は慎重姿勢を鮮明にしている。病害虫の侵入や価格競争といった国内農家の懸念を背景に、今国会の論点の一つに浮上。高市政権が米国からの市場開放圧力"
     },
     {
       "category": "経済",
@@ -179,27 +275,27 @@
     },
     {
       "category": "スポーツ",
-      "title": "松井監督 野球教室で豪快アーチ",
-      "link": "https://news.yahoo.co.jp/pickup/6600959?source=rss",
-      "published": "11/01 16:37",
+      "title": "天皇賞秋 ダノンデサイルがV",
+      "link": "https://news.yahoo.co.jp/pickup/6600957?source=rss",
+      "published": "11/01 16:07",
       "source": "Yahoo!ニュース",
-      "summary": "巨人・松井秀喜新監督（52）が1日、神奈川県内で野球教室を開催した。"
+      "summary": "◇第174回天皇賞・秋（2026年11月1日 東京芝2000メートル） 3歳馬と古馬のトップクラスが東京芝2000メートルで激突するG1「第174回天皇賞・秋」が1日、東京競馬場で行われ、戸崎圭太（"
     },
     {
       "category": "主要",
-      "title": "望月衣塑子記者の対談本 回収へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600996?source=rss",
-      "published": "11/01 21:59",
+      "title": "北への武器 香港の密輸集団が暗躍",
+      "link": "https://news.yahoo.co.jp/pickup/6601016?source=rss",
+      "published": "11/02 07:56",
       "source": "Yahoo!ニュース",
-      "summary": "朝日新聞出版は1日、東京新聞記者の望月衣塑子氏と思想家の内田樹氏の共著で9月に刊行した新書「常識なき世界を生き延びるために」の回収を決めたと発表した。2日以降、書店などに協力を依頼し、順次、回収作業"
+      "summary": "米国で２０２４年に中国籍の男が摘発された対北朝鮮密輸事件で、自由貿易港の香港を拠点とする中国人らの民間人集団が介在していることが複数の関係者の証言でわかった。中継地の香港に送られた銃器類を北朝鮮に送"
     },
     {
       "category": "社会",
-      "title": "消費減税 首相の質疑出席が焦点",
-      "link": "https://news.yahoo.co.jp/pickup/6600914?source=rss",
-      "published": "11/01 10:36",
+      "title": "緊急事態条項の創設巡り賛否 見解",
+      "link": "https://news.yahoo.co.jp/pickup/6600935?source=rss",
+      "published": "11/01 14:04",
       "source": "Yahoo!ニュース",
-      "summary": "政府・与党は今国会の最重要課題と位置付ける消費税減税関連法案について、11月6日にも衆院を通過させる方針だ。"
+      "summary": "日本国憲法公布から3日で80年を迎える。 首都直下地震や南海トラフ地震などの大規模災害が想定される中、対応策の一つとして政府の権限を一時的に強化する緊急事態条項を憲法に明記すべきか議論が続く。迅速な"
     },
     {
       "category": "経済",
@@ -219,78 +315,6 @@
     },
     {
       "category": "スポーツ",
-      "title": "天皇賞秋 ダノンデサイルがV",
-      "link": "https://news.yahoo.co.jp/pickup/6600957?source=rss",
-      "published": "11/01 16:07",
-      "source": "Yahoo!ニュース",
-      "summary": "◇第174回天皇賞・秋（2026年11月1日 東京芝2000メートル） 3歳馬と古馬のトップクラスが東京芝2000メートルで激突するG1「第174回天皇賞・秋」が1日、東京競馬場で行われ、戸崎圭太（"
-    },
-    {
-      "category": "主要",
-      "title": "事務所許可なくライブ なぜ問題視",
-      "link": "https://news.yahoo.co.jp/pickup/6600995?source=rss",
-      "published": "11/01 21:31",
-      "source": "Yahoo!ニュース",
-      "summary": "吉本興業は11月1日、お笑いコンビ・ナイチンゲールダンスのヤスとのマネジメント契約を10月31日付で終了したことを公式サイトで報告。お笑いファンの間で衝撃が走っている。ナイチンゲールダンスは大学お笑い"
-    },
-    {
-      "category": "社会",
-      "title": "高市首相 殉職した警察職員ら追悼",
-      "link": "https://news.yahoo.co.jp/pickup/6600868?source=rss",
-      "published": "10/31 22:02",
-      "source": "Yahoo!ニュース",
-      "summary": "高市早苗総理大臣は31日、全国殉職警察職員・警察協力殉難者慰霊祭で追悼の辞を述べ、新たに祀られた6人について、「高潔な精神」と「確固たる勇気」に敬意と感謝を表し、哀悼の意を示しました。"
-    },
-    {
-      "category": "経済",
-      "title": "GMOが11/2に記者会見 社長出席",
-      "link": "https://news.yahoo.co.jp/pickup/6600879?source=rss",
-      "published": "10/31 23:53",
-      "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループが不正アクセス問題に関する記者会見を11月2日に開く方針であることが31日、分かった。熊谷正寿社長が出席し、一連の経緯や現段階で判明した事実関係を説明する見通し。GMOが"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "バイナンス被害 北朝鮮関与とFBI",
-      "link": "https://news.yahoo.co.jp/pickup/6600906?source=rss",
-      "published": "11/01 09:56",
-      "source": "Yahoo!ニュース",
-      "summary": "【ワシントン＝杉本康士】米連邦捜査局（FBI）は10月31日、暗号資産（仮想通貨）取引大手バイナンスからの巨額盗難事件について、北朝鮮が関与していたと発表した。バイナンスは被害額を推計約63億ドル（"
-    },
-    {
-      "category": "スポーツ",
-      "title": "伊藤大海 ポスティング申請へ",
-      "link": "https://news.yahoo.co.jp/pickup/6600950?source=rss",
-      "published": "11/01 15:35",
-      "source": "Yahoo!ニュース",
-      "summary": "日本ハムは1日、伊藤大海投手（29）がポスティングシステムを利用したメジャー挑戦することを容認し、手続きを開始したと発表した。日本ハムでの同システムの利用は、23年の上沢以来7人目。残留を含めて熟考"
-    },
-    {
-      "category": "主要",
-      "title": "GMO攻撃 北朝鮮系のハッカーか",
-      "link": "https://news.yahoo.co.jp/pickup/6600991?source=rss",
-      "published": "11/01 21:18",
-      "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループが、一連の不正アクセスの攻撃側に北朝鮮系のハッカー集団がいる可能性が高いと分析していることが1日、関係者への取材で分かった。マルウエア（悪意あるソフト）の特徴など攻撃者の"
-    },
-    {
-      "category": "社会",
-      "title": "参政・神谷氏 独AfD幹部と共鳴",
-      "link": "https://news.yahoo.co.jp/pickup/6600861?source=rss",
-      "published": "10/31 21:20",
-      "source": "Yahoo!ニュース",
-      "summary": "参政党の神谷宗幣代表は30日、東京都内で街頭演説し、ドイツのための選択肢（AfD）のティノ・クルパラ共同代表と前日に会食したことを明らかにした。別れ際に「いじめられている党同士、頑張ろうね」と言葉を"
-    },
-    {
-      "category": "経済",
-      "title": "GMO 24年にシステム脆弱性指摘",
-      "link": "https://news.yahoo.co.jp/pickup/6600878?source=rss",
-      "published": "10/31 23:27",
-      "source": "Yahoo!ニュース",
-      "summary": "ＧＭＯインターネットのクラウドサービスが不正アクセスを受け、利用者とみられる個人情報が公開された問題で、グループのセキュリティー会社が２０２４年にシステムの脆弱（ぜいじゃく）性を指摘していたことがわ"
-    },
-    {
-      "category": "スポーツ",
       "title": "全日本駅伝 早稲田大が大会新でV",
       "link": "https://news.yahoo.co.jp/pickup/6600938?source=rss",
       "published": "11/01 14:06",
@@ -299,19 +323,19 @@
     },
     {
       "category": "主要",
-      "title": "「家族系」配信 相次ぐ収益化停止",
-      "link": "https://news.yahoo.co.jp/pickup/6600981?source=rss",
-      "published": "11/01 20:07",
+      "title": "芦田愛菜ドラマ ネトフリ快挙背景",
+      "link": "https://news.yahoo.co.jp/pickup/6601013?source=rss",
+      "published": "11/02 07:37",
       "source": "Yahoo!ニュース",
-      "summary": "子どもや家族の日常を配信する「家族系YouTuber」が人気を集め、将来なりたい職業の上位にも動画配信者が入る一方で、未成年の動画出演やプライバシー保護、出演によって得た収益の扱いをめぐる議論が世界"
+      "summary": "芦田愛菜さんが主演していることでも注目されていたテレビドラマ「南田南弁護士は天才肌」が、様々な記録を打ち立てて話題になっています。"
     },
     {
-      "category": "スポーツ",
-      "title": "槙野監督処分 判定巡りJ2藤枝声明",
-      "link": "https://news.yahoo.co.jp/pickup/6600937?source=rss",
-      "published": "11/01 13:53",
+      "category": "AI・テクノロジー",
+      "title": "バイナンス被害 北朝鮮関与とFBI",
+      "link": "https://news.yahoo.co.jp/pickup/6600906?source=rss",
+      "published": "11/01 09:56",
       "source": "Yahoo!ニュース",
-      "summary": "藤枝MYFCは1日、10月24日のJ2第13節・徳島ヴォルティス戦の判定に対するクラブの考えを公表した。"
+      "summary": "【ワシントン＝杉本康士】米連邦捜査局（FBI）は10月31日、暗号資産（仮想通貨）取引大手バイナンスからの巨額盗難事件について、北朝鮮が関与していたと発表した。バイナンスは被害額を推計約63億ドル（"
     }
   ],
   "errors": [
