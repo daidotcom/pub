@@ -1,21 +1,69 @@
 {
-  "updated": "2026-11-02T17:27:56.043601+00:00",
+  "updated": "2026-11-03T00:03:32.302306+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "トンネルで2台正面衝突 30代死亡",
-      "link": "https://news.yahoo.co.jp/pickup/6601110?source=rss",
-      "published": "11/03 00:04",
+      "title": "大谷 4年連続MVPへ最終候補入り",
+      "link": "https://news.yahoo.co.jp/pickup/6601128?source=rss",
+      "published": "11/03 08:46",
       "source": "Yahoo!ニュース",
-      "summary": "三条市の国道のトンネル内で軽貨物自動車と普通貨物自動車が正面衝突する事故がありました。この事故でそれぞれの車の運転手が搬送され、1人は意識不明の重体となっていましたが、その後に死亡が確認されています"
+      "summary": "全米野球記者協会（ＢＢＷＡＡ）は２日（日本時間３日）、今季の最優秀選手（ＭＶＰ）の最終候補３人を発表し、ドジャース・大谷翔平投手（３２）が名を連ねた。両リーグのＭＶＰは、１２日（同１３日）に発表予定"
     },
     {
       "category": "社会",
-      "title": "GMO攻撃 警視庁が捜査本部設置",
-      "link": "https://news.yahoo.co.jp/pickup/6601090?source=rss",
-      "published": "11/02 19:51",
+      "title": "転換期の憲法論議 発議見通せず",
+      "link": "https://news.yahoo.co.jp/pickup/6601117?source=rss",
+      "published": "11/03 07:44",
       "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループへの不正アクセス事件をめぐって、警視庁がおよそ70人態勢の捜査本部を設置したことがわかりました。"
+      "summary": "日本国憲法は3日、1946年の公布から80年。高市早苗首相（自民党総裁）は憲法改正実現を目指し、早期の国会発議に意欲を示す。与党は大規模災害などに備えた緊急事態条項や9条の議論を進めつつ、改憲項目の"
+    },
+    {
+      "category": "経済",
+      "title": "TDL内に野良猫 運営会社の対応は",
+      "link": "https://news.yahoo.co.jp/pickup/6601105?source=rss",
+      "published": "11/02 22:43",
+      "source": "Yahoo!ニュース",
+      "summary": "東京ディズニーランドの敷地内にいる猫に引っかかれたり噛まれたりしたとする来場者の投稿がSNSで拡散され、運営会社の対応に注目が集まっている。運営会社のオリエンタルランドに、猫への対応や来場者向けルー"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "欧州店舗にサイバー攻撃 食品廃棄",
+      "link": "https://news.yahoo.co.jp/pickup/6601127?source=rss",
+      "published": "11/03 08:44",
+      "source": "Yahoo!ニュース",
+      "summary": "Marie Mannes Helen Reid Louise Rasmussen[ストックホルム／ブリュッセル／ロンドン ２日 ロイター] - 欧州のスーパーマーケットの‌冷蔵設備を標的にしたサイバー"
+    },
+    {
+      "category": "スポーツ",
+      "title": "阪神参戦 小島和哉に条件提示へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601121?source=rss",
+      "published": "11/03 08:07",
+      "source": "Yahoo!ニュース",
+      "summary": "阪神が、ロッテ・小島和哉投手（30）の獲得に乗り出すことが3日、分かった。通算59勝左腕はこの日、国内フリーエージェント（FA）権の行使を表明。猛虎は交渉が解禁される11日以降、本格的なアタックを開"
+    },
+    {
+      "category": "IT",
+      "title": "Anthropic、IPO申請書を修正　7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
+      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
+      "published": "11/03 08:20",
+      "source": "ITmedia",
+      "summary": "Anthropicは、証券取引委員会（SEC）にIPOに向けた登録届出書の修正版を提出した。第3四半期の売上高は前年同期比約12.3倍の約169億ドルに拡大した一方、営業損益は赤字に転落。また、AI計算資源やインフラに関する将来の支出約束額が約8954億ドルに上ることも明らかにした。"
+    },
+    {
+      "category": "主要",
+      "title": "公布80年 初改正へ改憲派前のめり",
+      "link": "https://news.yahoo.co.jp/pickup/6601124?source=rss",
+      "published": "11/03 08:35",
+      "source": "Yahoo!ニュース",
+      "summary": "日本国憲法の公布から3日で80年を迎えた。 2月の衆院選で3分の2を大きく超える議席を獲得した自民党と日本維新の会は前のめりになり、憲法改正の国会発議を模索。80年間改正されなかった憲法は分水嶺（れ"
+    },
+    {
+      "category": "社会",
+      "title": "医療インバウンド 厚労省が検証へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601113?source=rss",
+      "published": "11/03 07:29",
+      "source": "Yahoo!ニュース",
+      "summary": "厚生労働省は、治療などを目的に来日する外国人を受け入れる「医療インバウンド」について、来年度にも検証結果を取りまとめる。病院など受け入れ側の負担増になるとの懸念がある一方、日本人の患者数が減少しても"
     },
     {
       "category": "経済",
@@ -27,43 +75,43 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "GMO熊谷社長会見 涙浮かべ陳謝",
-      "link": "https://news.yahoo.co.jp/pickup/6601094?source=rss",
-      "published": "11/02 20:50",
+      "title": "GMOが謝罪 利用者「響かない」",
+      "link": "https://news.yahoo.co.jp/pickup/6601107?source=rss",
+      "published": "11/02 23:08",
       "source": "Yahoo!ニュース",
-      "summary": "時折、目をきつく閉じ、涙を浮かべた。GMOインターネットグループへの不正アクセス問題発覚後、2日に初めて記者会見を開いた熊谷正寿社長。「お客さまをお守りすることができず、誠に申し訳ありませんでした」"
+      "summary": "GMOインターネットグループの熊谷正寿グループ代表らは2日、都内で会見を開き、傘下のGMOインターネットが提供するクラウドサービスが不正アクセスを受けた問題を謝罪した。利用者らはどう受け止めたのか。"
     },
     {
       "category": "スポーツ",
-      "title": "織田翔希 巨人との面談は未定",
-      "link": "https://news.yahoo.co.jp/pickup/6601100?source=rss",
-      "published": "11/02 21:31",
+      "title": "島田麻央 五輪巡り「苦しかった」",
+      "link": "https://news.yahoo.co.jp/pickup/6601120?source=rss",
+      "published": "11/03 07:44",
       "source": "Yahoo!ニュース",
-      "summary": "横浜（神奈川）の村田浩明監督（４０）が２日、ドラフト会議で巨人から１位指名を受けた最速１５７キロ右腕・織田翔希投手（１８）について言及した。織田は１０月中旬にＭＬＢ球団とのマイナー契約や米大学進学を"
+      "summary": "＜フィギュアスケート：グランプリ（GP）シリーズ第2戦スケートカナダ＞◇1日（日本時間2日）◇ケロウナ・プロスペラ・プレイス◇女子フリー 【ケロウナ（カナダ）＝藤塚大輔】島田麻央（18＝木下グループ"
     },
     {
       "category": "IT",
-      "title": "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002828/",
-      "published": "11/02 20:57",
+      "title": "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンターの高速化に対応",
+      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
+      "published": "11/03 07:07",
       "source": "ITmedia",
-      "summary": "GMOインターネットグループの熊谷正寿代表は11月2日の記者会見で、AIの説明に時間を割いた理由を記者が尋ねると、自身の「命の砂時計」をインターネットとグループに捧げていると語った。Xでの発信を一定期間休止することも表明した。"
+      "summary": "半導体大手のMarvell Technologyは、光通信関連製品を手掛けるLumentum Holdingsを買収することで合意したと発表した。買収額は約1150億ドル。AIデータセンターで急増するデータ通信需要に対応するため、自社の半導体技術とLumentumの光通信技術を統合し、次世代AI接続技術の提供を目指す。"
     },
     {
       "category": "主要",
-      "title": "エムバペ選手発言 中国側強く反発",
-      "link": "https://news.yahoo.co.jp/pickup/6601109?source=rss",
-      "published": "11/02 23:52",
+      "title": "戦力外の巨人・湯浅大が現役引退",
+      "link": "https://news.yahoo.co.jp/pickup/6601123?source=rss",
+      "published": "11/03 08:19",
       "source": "Yahoo!ニュース",
-      "summary": "サッカーのフランス代表のキリアン・エムバペ選手が中国建国の父とされる毛沢東を侮辱したとして、中国が強く反発している。中国企業は同選手とのスポンサー契約を解除。エムバペ選手は「軽率な」発言だったとして"
+      "summary": "巨人から戦力外通告を受けていた湯浅大内野手（２６）が現役を引退することが２日、分かった。９年間のプロ野球人生にピリオドを打つ。"
     },
     {
       "category": "社会",
-      "title": "防衛費5年で70-80兆円案 政府与党",
-      "link": "https://news.yahoo.co.jp/pickup/6601063?source=rss",
-      "published": "11/02 15:42",
+      "title": "GMO攻撃 警視庁が捜査本部設置",
+      "link": "https://news.yahoo.co.jp/pickup/6601090?source=rss",
+      "published": "11/02 19:51",
       "source": "Yahoo!ニュース",
-      "summary": "Nobuhiro Kubo Tamiyuki Kihara[東京 ２日 ロイター] - 高市早苗首相が掲げる防衛力強化に絡み、２０２７年度から５年間‌の「防衛力整備計画」に必⁠要な経費を７０─８０兆"
+      "summary": "GMOインターネットグループへの不正アクセス事件をめぐって、警視庁がおよそ70人態勢の捜査本部を設置したことがわかりました。"
     },
     {
       "category": "経済",
@@ -75,43 +123,43 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "GMO社長 自身のSNS休止に言及",
-      "link": "https://news.yahoo.co.jp/pickup/6601087?source=rss",
-      "published": "11/02 19:33",
+      "title": "ノジマ 700万人分の個人情報流出",
+      "link": "https://news.yahoo.co.jp/pickup/6601104?source=rss",
+      "published": "11/02 22:26",
       "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループに対する不正アクセス問題に関する記者会見では、同社の熊谷正寿社長のSNS上での発信を踏まえ、報道陣から「社長自身が上場企業であるGMOの経営リスクになっているのでは」と厳"
+      "summary": "ノジマは、同社ECサイト「ノジマオンライン」における不正アクセスに伴う個人情報漏えいに関するお知らせを公開した。"
     },
     {
       "category": "スポーツ",
-      "title": "日ハム・レイエス 来季年俸8億円",
-      "link": "https://news.yahoo.co.jp/pickup/6601091?source=rss",
-      "published": "11/02 20:10",
+      "title": "オリ宗佑磨 国内FA権の行使表明",
+      "link": "https://news.yahoo.co.jp/pickup/6601112?source=rss",
+      "published": "11/03 07:21",
       "source": "Yahoo!ニュース",
-      "summary": "日本ハムは2日、フランミル・レイエス外野手（31）と契約延長で合意したと発表した。球団によると、複数年契約で来季は年俸8億円プラス出来高払い。年俸は球団史上最高額で、NPBの野手では歴代1位となる。"
+      "summary": "オリックス・宗佑磨内野手（３０）が２日、今年６月に取得した国内ＦＡ権の行使を正式に表明した。この日、球団側へＦＡ申請書類を提出。「僕の中で積み重ねてきたものに自信を持っている。一選手として、他球団の"
     },
     {
       "category": "IT",
-      "title": "GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002823/",
-      "published": "11/02 19:27",
+      "title": "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002828/",
+      "published": "11/02 20:57",
       "source": "ITmedia",
-      "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、「お名前.com デスクトップクラウド」への不正アクセスに関する説明会で、身代金を支払わない理由や、AI時代のサイバー攻撃への危機感を語った。"
+      "summary": "GMOインターネットグループの熊谷正寿代表は11月2日の記者会見で、AIの説明に時間を割いた理由を記者が尋ねると、自身の「命の砂時計」をインターネットとグループに捧げていると語った。Xでの発信を一定期間休止することも表明した。"
     },
     {
       "category": "主要",
-      "title": "7歳虐待死 裁判でにじむ母の後悔",
-      "link": "https://news.yahoo.co.jp/pickup/6601108?source=rss",
-      "published": "11/02 23:38",
+      "title": "秋の叙勲 松坂慶子さんら受章",
+      "link": "https://news.yahoo.co.jp/pickup/6601122?source=rss",
+      "published": "11/03 08:06",
       "source": "Yahoo!ニュース",
-      "summary": "愛知県犬山市で2024年5月、当時7歳の女の子・島崎奈桜さんが命を落とした虐待死事件。内縁の夫からの暴行で体調が悪化した娘を、病院に連れて行かずに死亡させた罪などに問われた母親の島崎みなみ被告(35"
+      "summary": "秋の叙勲が発表され、トヨタ自動車の豊田章男会長や俳優の松坂慶子さんらが受章しました。"
     },
     {
       "category": "社会",
-      "title": "文科相 東大学長の選考理由不明確",
-      "link": "https://news.yahoo.co.jp/pickup/6601053?source=rss",
-      "published": "11/02 13:32",
+      "title": "防衛費5年で70-80兆円案 政府与党",
+      "link": "https://news.yahoo.co.jp/pickup/6601063?source=rss",
+      "published": "11/02 15:42",
       "source": "Yahoo!ニュース",
-      "summary": "関芳弘文部科学相は2日の閣議後記者会見で、東京大が公表した次期学長選考の決定過程を説明する文書に関し、十分な内容ではなく、さらなる説明が必要との認識を示した。「選考過程の説明には一定の進展があったも"
+      "summary": "Nobuhiro Kubo Tamiyuki Kihara[東京 ２日 ロイター] - 高市早苗首相が掲げる防衛力強化に絡み、２０２７年度から５年間‌の「防衛力整備計画」に必⁠要な経費を７０─８０兆"
     },
     {
       "category": "経済",
@@ -123,11 +171,59 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "GMO社長「社内指摘を生かせず」",
-      "link": "https://news.yahoo.co.jp/pickup/6601069?source=rss",
-      "published": "11/02 17:27",
+      "title": "GMO熊谷社長会見 涙浮かべ陳謝",
+      "link": "https://news.yahoo.co.jp/pickup/6601094?source=rss",
+      "published": "11/02 20:50",
       "source": "Yahoo!ニュース",
-      "summary": "Kentaro Okasaka［東京 ２日 ロイター］ - ＧＭＯインターネットグループは２日、ＦＸ（外国為替証拠金取引）自動売買サービスに対する不正アクセス発生後、初の記者会見を開き、熊谷正寿社長"
+      "summary": "時折、目をきつく閉じ、涙を浮かべた。GMOインターネットグループへの不正アクセス問題発覚後、2日に初めて記者会見を開いた熊谷正寿社長。「お客さまをお守りすることができず、誠に申し訳ありませんでした」"
+    },
+    {
+      "category": "スポーツ",
+      "title": "20歳が握力計「破壊」新弟子検査",
+      "link": "https://news.yahoo.co.jp/pickup/6601106?source=rss",
+      "published": "11/02 22:54",
+      "source": "Yahoo!ニュース",
+      "summary": "大相撲九州場所（8日初日、福岡国際センター）の新弟子検査が2日、福岡市内で行われ、エストニア出身のザドロズノイ・アナトーリ（20＝秀ノ山部屋）ら受検者4人全員が身長1メートル67以上、体重67キロ以"
+    },
+    {
+      "category": "IT",
+      "title": "GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002823/",
+      "published": "11/02 19:27",
+      "source": "ITmedia",
+      "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、「お名前.com デスクトップクラウド」への不正アクセスに関する説明会で、身代金を支払わない理由や、AI時代のサイバー攻撃への危機感を語った。"
+    },
+    {
+      "category": "主要",
+      "title": "米中間選挙 今夜から全米で投票",
+      "link": "https://news.yahoo.co.jp/pickup/6601118?source=rss",
+      "published": "11/03 07:45",
+      "source": "Yahoo!ニュース",
+      "summary": "アメリカ・トランプ政権への有権者の評価となる中間選挙の投票が日本時間の今夜から始まります。"
+    },
+    {
+      "category": "社会",
+      "title": "文科相 東大学長の選考理由不明確",
+      "link": "https://news.yahoo.co.jp/pickup/6601053?source=rss",
+      "published": "11/02 13:32",
+      "source": "Yahoo!ニュース",
+      "summary": "関芳弘文部科学相は2日の閣議後記者会見で、東京大が公表した次期学長選考の決定過程を説明する文書に関し、十分な内容ではなく、さらなる説明が必要との認識を示した。「選考過程の説明には一定の進展があったも"
+    },
+    {
+      "category": "経済",
+      "title": "フラット35 金利3.81%で過去2番目",
+      "link": "https://news.yahoo.co.jp/pickup/6601048?source=rss",
+      "published": "11/02 12:39",
+      "source": "Yahoo!ニュース",
+      "summary": "住宅金融支援機構は2日、最長35年間、金利を固定する住宅ローン「フラット35」の11月分の適用金利を発表した。住宅購入価格に対する借入額が9割以下で適用される最低金利は年3.810%となり、4カ月ぶ"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "GMO社長 自身のSNS休止に言及",
+      "link": "https://news.yahoo.co.jp/pickup/6601087?source=rss",
+      "published": "11/02 19:33",
+      "source": "Yahoo!ニュース",
+      "summary": "GMOインターネットグループに対する不正アクセス問題に関する記者会見では、同社の熊谷正寿社長のSNS上での発信を踏まえ、報道陣から「社長自身が上場企業であるGMOの経営リスクになっているのでは」と厳"
     },
     {
       "category": "スポーツ",
@@ -147,11 +243,11 @@
     },
     {
       "category": "主要",
-      "title": "GMOが謝罪 利用者「響かない」",
-      "link": "https://news.yahoo.co.jp/pickup/6601107?source=rss",
-      "published": "11/02 23:08",
+      "title": "北朝鮮 バイナンス巡り関与否定",
+      "link": "https://news.yahoo.co.jp/pickup/6601116?source=rss",
+      "published": "11/03 07:40",
       "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループの熊谷正寿グループ代表らは2日、都内で会見を開き、傘下のGMOインターネットが提供するクラウドサービスが不正アクセスを受けた問題を謝罪した。利用者らはどう受け止めたのか。"
+      "summary": "【北京共同】北朝鮮の金正恩朝鮮労働党総書記の妹、金与正党総務部長は3日の朝鮮中央通信の報道を通じ、暗号資産（仮想通貨）取引大手バイナンスの巨額盗難事件に対する北朝鮮の関与を否定した。"
     },
     {
       "category": "社会",
@@ -163,11 +259,11 @@
     },
     {
       "category": "経済",
-      "title": "フラット35 金利3.81%で過去2番目",
-      "link": "https://news.yahoo.co.jp/pickup/6601048?source=rss",
-      "published": "11/02 12:39",
+      "title": "同僚から盗撮被害 会社を訴えた訳",
+      "link": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
+      "published": "11/02 12:13",
       "source": "Yahoo!ニュース",
-      "summary": "住宅金融支援機構は2日、最長35年間、金利を固定する住宅ローン「フラット35」の11月分の適用金利を発表した。住宅購入価格に対する借入額が9割以下で適用される最低金利は年3.810%となり、4カ月ぶ"
+      "summary": "社内の女性用トイレで同僚の男性社員に盗撮されたJR東日本の女性社員が今年9月、被害後の会社の対応が職場環境配慮義務に違反するとして、同社に計約816万円の損害賠償を求めて東京地裁に提訴した。訴状など"
     },
     {
       "category": "AI・テクノロジー",
@@ -195,67 +291,11 @@
     },
     {
       "category": "主要",
-      "title": "20歳が握力計「破壊」新弟子検査",
-      "link": "https://news.yahoo.co.jp/pickup/6601106?source=rss",
-      "published": "11/02 22:54",
+      "title": "GMO会見で「命の砂時計」 意味",
+      "link": "https://news.yahoo.co.jp/pickup/6601115?source=rss",
+      "published": "11/03 07:33",
       "source": "Yahoo!ニュース",
-      "summary": "大相撲九州場所（8日初日、福岡国際センター）の新弟子検査が2日、福岡市内で行われ、エストニア出身のザドロズノイ・アナトーリ（20＝秀ノ山部屋）ら受検者4人全員が身長1メートル67以上、体重67キロ以"
-    },
-    {
-      "category": "社会",
-      "title": "防災庁 事前防災の徹底を緊急要請",
-      "link": "https://news.yahoo.co.jp/pickup/6601031?source=rss",
-      "published": "11/02 10:22",
-      "source": "Yahoo!ニュース",
-      "summary": "災害対応を担う司令塔として「防災庁」が2日、発足した。初代防災大臣に就任した細野豪志大臣は国民に「最低3日できれば1週間分の水・食料・携帯用トイレ」の備蓄などの「事前防災」の徹底を求める「緊急要請」"
-    },
-    {
-      "category": "経済",
-      "title": "同僚から盗撮被害 会社を訴えた訳",
-      "link": "https://news.yahoo.co.jp/pickup/6601046?source=rss",
-      "published": "11/02 12:13",
-      "source": "Yahoo!ニュース",
-      "summary": "社内の女性用トイレで同僚の男性社員に盗撮されたJR東日本の女性社員が今年9月、被害後の会社の対応が職場環境配慮義務に違反するとして、同社に計約816万円の損害賠償を求めて東京地裁に提訴した。訴状など"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "「アララ」不審メール713万通確認",
-      "link": "https://news.yahoo.co.jp/pickup/6601070?source=rss",
-      "published": "11/02 17:03",
-      "source": "Yahoo!ニュース",
-      "summary": "メール配信サービス「アララメッセージ」を運営するアララ（東京）は2日、不正アクセスを受けた影響で、約713万通の不審メールが送信されたと発表した。同社は、本文中のURLにアクセスせず、メールを削除す"
-    },
-    {
-      "category": "スポーツ",
-      "title": "織田翔希 MLB球団と面談開始へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601059?source=rss",
-      "published": "11/02 14:47",
-      "source": "Yahoo!ニュース",
-      "summary": "横浜（神奈川）の織田翔希投手（18）が4日からMLB球団と面談を行うことが分かった。2日に同校の村田監督が明かした。"
-    },
-    {
-      "category": "IT",
-      "title": "アットコスメ、会員約300万人分の情報漏えい　不正アクセスで",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002795/",
-      "published": "11/02 14:40",
-      "source": "ITmedia",
-      "summary": "「@cosme共通ID」に登録された会員情報の一部・約300万人分が漏えいした。名前や住所、生年月日、肌質、髪質などが含まれている。"
-    },
-    {
-      "category": "主要",
-      "title": "TDL内に野良猫 運営会社の対応は",
-      "link": "https://news.yahoo.co.jp/pickup/6601105?source=rss",
-      "published": "11/02 22:43",
-      "source": "Yahoo!ニュース",
-      "summary": "東京ディズニーランドの敷地内にいる猫に引っかかれたり噛まれたりしたとする来場者の投稿がSNSで拡散され、運営会社の対応に注目が集まっている。運営会社のオリエンタルランドに、猫への対応や来場者向けルー"
-    },
-    {
-      "category": "社会",
-      "title": "内閣の支持率64.9%に上昇 JNN",
-      "link": "https://news.yahoo.co.jp/pickup/6601017?source=rss",
-      "published": "11/02 07:58",
-      "source": "Yahoo!ニュース",
-      "summary": "最新のJNNの世論調査で、高市内閣の支持率が、前回の調査から1.9ポイント上昇して64.9%でした。一方、「支持しない」と答えた人は前回から1.4ポイント下落して32.5%でした。"
+      "summary": "グループ企業のFX自動売買用VPS「お名前.com デスクトップクラウド」に対する不正アクセスを巡り、11月2日に記者会見を開催したGMOインターネットグループ。熊谷正寿代表が連呼したフレーズ「命の"
     },
     {
       "category": "経済",
@@ -267,43 +307,27 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "「アララ」7700万件のメアド流出",
-      "link": "https://news.yahoo.co.jp/pickup/6601057?source=rss",
-      "published": "11/02 13:54",
+      "title": "「アララ」不審メール713万通確認",
+      "link": "https://news.yahoo.co.jp/pickup/6601070?source=rss",
+      "published": "11/02 17:03",
       "source": "Yahoo!ニュース",
-      "summary": "ペイクラウドホールディングス（HD）は2日、子会社が運営するメール配信サービス「アララメッセージ」のサーバーが不正アクセスを受け、メールアドレス約7700万件が漏えいしたと発表した。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "八村塁 今季最多24得点の大暴れ",
-      "link": "https://news.yahoo.co.jp/pickup/6601056?source=rss",
-      "published": "11/02 13:49",
-      "source": "Yahoo!ニュース",
-      "summary": "◇NBA クリッパーズ112ー124ウォリアーズ（2026年11月1日 チェイス・センター） NBAクリッパーズの八村塁（28）が1日（日本時間2日）、敵地ウォリアーズ戦に先発出場。豪快ダンクや4本"
+      "summary": "メール配信サービス「アララメッセージ」を運営するアララ（東京）は2日、不正アクセスを受けた影響で、約713万通の不審メールが送信されたと発表した。同社は、本文中のURLにアクセスせず、メールを削除す"
     },
     {
       "category": "IT",
-      "title": "ニコニコレンタカー、免許証画像の事前登録を廃止　保存済み画像も全削除　サイバー攻撃の増加受け",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002786/",
-      "published": "11/02 12:23",
+      "title": "アットコスメ、会員約300万人分の情報漏えい　不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002795/",
+      "published": "11/02 14:40",
       "source": "ITmedia",
-      "summary": "ニコニコレンタカーは10月27日、公式アプリ「ニコパス」での運転免許証画像の事前登録機能を廃止すると発表した。これまで預かっていた画像データは全て削除済みという。"
+      "summary": "「@cosme共通ID」に登録された会員情報の一部・約300万人分が漏えいした。名前や住所、生年月日、肌質、髪質などが含まれている。"
     },
     {
       "category": "主要",
-      "title": "ノジマ 700万人分の個人情報流出",
-      "link": "https://news.yahoo.co.jp/pickup/6601104?source=rss",
-      "published": "11/02 22:26",
+      "title": "スペイン列車事故 邦人死亡2人に",
+      "link": "https://news.yahoo.co.jp/pickup/6601111?source=rss",
+      "published": "11/03 07:06",
       "source": "Yahoo!ニュース",
-      "summary": "ノジマは、同社ECサイト「ノジマオンライン」における不正アクセスに伴う個人情報漏えいに関するお知らせを公開した。"
-    },
-    {
-      "category": "社会",
-      "title": "防災庁発足 防災・災害時の司令塔",
-      "link": "https://news.yahoo.co.jp/pickup/6601011?source=rss",
-      "published": "11/02 07:21",
-      "source": "Yahoo!ニュース",
-      "summary": "政府の防災・災害対応の司令塔機能を担う防災庁が2日、発足した。"
+      "summary": "【マドリード＝上地洋実】スペイン中部トレド県で１０月２８日に発生した高速鉄道の列車衝突事故で、スペイン当局は２日、２人目の日本人の死亡を確認したと発表した。列車の乗客名簿には日本人２人の名前が載って"
     },
     {
       "category": "経済",
@@ -314,12 +338,12 @@
       "summary": "新卒採用で企業から内定が出た学生は、大学（大学院）を卒業した翌月の4月に入社するのが一般的だ。だが、そんな「あたり前」を変えようとする企業がある。化粧品会社「シロ」は2028年度の新卒採用から「イン"
     },
     {
-      "category": "スポーツ",
-      "title": "鈴木誠也 ゴールドグラブ賞ならず",
-      "link": "https://news.yahoo.co.jp/pickup/6601042?source=rss",
-      "published": "11/02 11:41",
-      "source": "Yahoo!ニュース",
-      "summary": "米大リーグ機構（ＭＬＢ）は１日（日本時間２日）、守備のベストナインにあたる「ゴールド・グラブ賞」を発表し、日本人選手の受賞はなかった。"
+      "category": "IT",
+      "title": "ニコニコレンタカー、免許証画像の事前登録を廃止　保存済み画像も全削除　サイバー攻撃の増加受け",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002786/",
+      "published": "11/02 12:23",
+      "source": "ITmedia",
+      "summary": "ニコニコレンタカーは10月27日、公式アプリ「ニコパス」での運転免許証画像の事前登録機能を廃止すると発表した。これまで預かっていた画像データは全て削除済みという。"
     },
     {
       "category": "IT",
@@ -328,22 +352,6 @@
       "published": "11/02 12:02",
       "source": "ITmedia",
       "summary": "漏えいした可能性がある項目は明らかにしていない。"
-    },
-    {
-      "category": "主要",
-      "title": "中間選挙 物価高で米大統領に批判",
-      "link": "https://news.yahoo.co.jp/pickup/6601095?source=rss",
-      "published": "11/02 20:45",
-      "source": "Yahoo!ニュース",
-      "summary": "日本時間あす夜に投票が始まるアメリカの中間選挙。最大の争点は物価高のなかで日々の暮らしを維持できるかです。"
-    },
-    {
-      "category": "社会",
-      "title": "早期流産で仕事中涙 有休取り崩し",
-      "link": "https://news.yahoo.co.jp/pickup/6601009?source=rss",
-      "published": "11/02 07:08",
-      "source": "Yahoo!ニュース",
-      "summary": "営業先に向かって、一人、車を運転していた時だった。無意識に涙が流れた。「そのまま妊娠していたら、今ごろ何週だったかな」――。"
     },
     {
       "category": "IT",
@@ -392,14 +400,6 @@
       "published": "11/02 07:00",
       "source": "ITmedia",
       "summary": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。"
-    },
-    {
-      "category": "IT",
-      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
-      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-      "published": "11/01 08:31",
-      "source": "ITmedia",
-      "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。"
     }
   ],
   "errors": [
