@@ -1,13 +1,61 @@
 {
-  "updated": "2026-11-04T01:26:46.815945+00:00",
+  "updated": "2026-11-04T08:05:01.334645+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "北朝鮮が日本海に向け飛翔体発射",
-      "link": "https://news.yahoo.co.jp/pickup/6601267?source=rss",
-      "published": "11/04 10:16",
+      "title": "東証続落 米選挙懸念でAI株売り",
+      "link": "https://news.yahoo.co.jp/pickup/6601314?source=rss",
+      "published": "11/04 16:59",
       "source": "Yahoo!ニュース",
-      "summary": "韓国軍は、北朝鮮がさきほど、日本海に向けてなんらかの飛翔体を発射したと発表しました。詳しい種類や飛行距離などはわかっていません。"
+      "summary": "休日明け4日の東京株式市場で日経平均株価（225種）は大幅に続落した。休日前の2日終値からの下げ幅は一時3000円を超え、6万円割れに迫った。米中間選挙で、人工知能（AI）開発規制に前向きとされる民"
+    },
+    {
+      "category": "社会",
+      "title": "関東一部 5日朝に警報級大雨恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6601253?source=rss",
+      "published": "11/04 08:23",
+      "source": "Yahoo!ニュース",
+      "summary": "関東地方は今日4日(水)の夕方から雨の降りだす所があるでしょう。夜遅くなるほど雨の範囲が広がり、本降りの雨となりそうです。5日(木)は明け方から朝に雨のピークとなり、沿岸部は昼前にかけて激しい雨の降"
+    },
+    {
+      "category": "経済",
+      "title": "キャンパスノート 15年ぶり刷新",
+      "link": "https://news.yahoo.co.jp/pickup/6601311?source=rss",
+      "published": "11/04 16:47",
+      "source": "Yahoo!ニュース",
+      "summary": "コクヨは、“まなびかた”ブランド「Campus(キャンパス)」のロゴとキャンパスノートの表紙デザインを15年ぶりに刷新する。あわせて、新たな罫線を採用した「キャンパスノート(青色ドットボーダー)」と"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "1兆円盗難 バイナンスが手口公表",
+      "link": "https://news.yahoo.co.jp/pickup/6601264?source=rss",
+      "published": "11/04 09:49",
+      "source": "Yahoo!ニュース",
+      "summary": "（ブルームバーグ）:暗号資産交換業者バイナンスは、先週明らかになった63億ドル（約1兆円）相当の暗号資産盗難事件で、攻撃者が偽の採用面接などで社員をだます「ソーシャルエンジニアリング」やマルウエア（"
+    },
+    {
+      "category": "スポーツ",
+      "title": "松井巨人vs工藤中日 開幕戦で実現",
+      "link": "https://news.yahoo.co.jp/pickup/6601293?source=rss",
+      "published": "11/04 14:50",
+      "source": "Yahoo!ニュース",
+      "summary": "来季のセ・リーグ、交流戦の日程が４日、発表された。"
+    },
+    {
+      "category": "IT",
+      "title": "GMOペイメント、決済支援システムで「不正なユーザーによる行為」　「Vプリカ」69件漏えい、3件はセキュリティコードも",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
+      "published": "11/04 14:35",
+      "source": "ITmedia",
+      "summary": "3件は、クレジットカード番号に相当する「Vプリカ番号」（16桁）と、専用のセキュリティコード、有効期限、氏名がそろって盗み取られた可能性がある。"
+    },
+    {
+      "category": "主要",
+      "title": "黒人女性が州知事に当選確実 米",
+      "link": "https://news.yahoo.co.jp/pickup/6601313?source=rss",
+      "published": "11/04 16:53",
+      "source": "Yahoo!ニュース",
+      "summary": "【ワシントン共同】3日投開票された米中間選挙の南部ジョージア州知事選で、民主党候補のキーシャ・ボトムズ氏（56）が共和党候補の実業家リック・ジャクソン氏（72）を破り当選を確実にした。黒人女性として"
     },
     {
       "category": "社会",
@@ -19,11 +67,11 @@
     },
     {
       "category": "経済",
-      "title": "タイ 輸入EVの物品税引き上げへ",
-      "link": "https://news.yahoo.co.jp/pickup/6601233?source=rss",
-      "published": "11/03 23:40",
+      "title": "カスハラ対策 線引きに迷う現場",
+      "link": "https://news.yahoo.co.jp/pickup/6601276?source=rss",
+      "published": "11/04 12:06",
       "source": "Yahoo!ニュース",
-      "summary": "【バンコク共同】タイ政府は3日、輸入する電気自動車（EV）の物品税を現行の10％から35％に引き上げることを決めた。来年1月1日から適用する。タイは「東南アジアのEV生産・輸出拠点」となることを目標"
+      "summary": "客に怒鳴られたとき、その場で「これはカスハラです」と言えるだろうか。社員1人で判断するのは難しい。そこで10月1日、事業主にカスハラ対策を義務づける改正法が施行された。ところが、会社の側も迷っている。"
     },
     {
       "category": "AI・テクノロジー",
@@ -35,27 +83,27 @@
     },
     {
       "category": "スポーツ",
-      "title": "森保J 集大成の場なく年内に幕か",
-      "link": "https://news.yahoo.co.jp/pickup/6601242?source=rss",
-      "published": "11/04 06:55",
+      "title": "サッカー日本代表 南野拓実が復帰",
+      "link": "https://news.yahoo.co.jp/pickup/6601300?source=rss",
+      "published": "11/04 14:33",
       "source": "Yahoo!ニュース",
-      "summary": "アジアサッカー連盟（AFC）は3日、27年1月にサウジアラビアで開幕予定だったアジア杯開催の1年延期を発表した。中東情勢の悪化で開催が危ぶまれていた。新たに27年12月23日～28年1月21日の日程"
+      "summary": "日本サッカー協会（JFA）は4日、千葉市内で会見を開き、14日にブラジル、17日にパラグアイと親善試合を行う日本代表のシンガポール遠征メンバーを発表した。MF堂安律（28＝アイントラハト・フランクフ"
     },
     {
       "category": "IT",
-      "title": "アソビュー、会員情報1582万件流出　最終ログイン日や利用施設も　メール委託先・アララ不正アクセスで",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002854/",
-      "published": "11/04 09:42",
+      "title": "セガ系に不正アクセス　ゲームセンター向けサービス停止　バンダイ系の「太鼓の達人」などにも影響",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002870/",
+      "published": "11/04 13:59",
       "source": "ITmedia",
-      "summary": "会員ID・会員番号、性別、会員登録日、最終ログイン日、郵便番号、住んでいる地域に加え、チケット購入日時、チケットの種類、購入枚数、参加人数、キャンセルの有無などの情報が流出したという。"
+      "summary": "セガサミーホールディングス傘下、セガ フェイブのサーバの一部が第三者による不正アクセスを受けた。11月1日午後3時から関連サービスを停止しており、一部アーケードゲームのオンラインサービスや「SEGA ID」の新規登録などが利用できない状態となっている。"
     },
     {
       "category": "主要",
-      "title": "中継 米中間選挙の開票速報",
-      "link": "https://news.yahoo.co.jp/pickup/6601265?source=rss",
-      "published": "11/04 10:01",
+      "title": "ラッコ見学を全面中止 鳥羽水族館",
+      "link": "https://news.yahoo.co.jp/pickup/6601310?source=rss",
+      "published": "11/04 16:49",
       "source": "Yahoo!ニュース",
-      "summary": "2026年アメリカ中間選挙の開票速報を中継します。"
+      "summary": "鳥羽水族館の人気者、ラッコのキラちゃんが体調不良のため、鳥羽水族館は11月4日から当面の間、ラッコの見学を全面中止すると発表しました。"
     },
     {
       "category": "社会",
@@ -67,11 +115,11 @@
     },
     {
       "category": "経済",
-      "title": "豪が追加利上げ 18年ぶり高水準",
-      "link": "https://news.yahoo.co.jp/pickup/6601212?source=rss",
-      "published": "11/03 19:23",
+      "title": "ジュース1本50円 利益ない自販機",
+      "link": "https://news.yahoo.co.jp/pickup/6601284?source=rss",
+      "published": "11/04 12:02",
       "source": "Yahoo!ニュース",
-      "summary": "【シドニー共同】オーストラリア準備銀行（中央銀行）は3日の理事会で、政策金利を0.25％引き上げ、4.85％とすることを決めた。9月の前回会合に続き2会合連続の利上げ。燃料価格の高騰などを背景にイン"
+      "summary": "その一つに躍る「1本50（円）」の文字に思わず足が止まり、見返した。「スパボ」の愛称で親しまれている酒店「スーパーBOX2」（広島市西区井口明神3丁目）だ。"
     },
     {
       "category": "AI・テクノロジー",
@@ -83,27 +131,27 @@
     },
     {
       "category": "スポーツ",
-      "title": "広島・森下がFA決断 争奪戦確実",
-      "link": "https://news.yahoo.co.jp/pickup/6601241?source=rss",
-      "published": "11/04 06:44",
+      "title": "広島・森下がFA行使 胸中明かす",
+      "link": "https://news.yahoo.co.jp/pickup/6601290?source=rss",
+      "published": "11/04 12:59",
       "source": "Yahoo!ニュース",
-      "summary": "広島・森下暢仁投手（29）が今年9月に取得した国内フリーエージェント（FA）権を行使することが3日、分かった。きょう4日に申請書類を提出し、正式に表明する。入団からの7年間で5度規定投球回に達し、通"
+      "summary": "広島の森下暢仁投手が４日、マツダスタジアムを訪れ、今季取得した国内フリーエージェント（ＦＡ）権を行使することを表明した。７年間プレーした広島への愛着もあり、熟考を重ねてきたが、この日申請書類を提出し"
     },
     {
       "category": "IT",
-      "title": "Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
-      "published": "11/04 09:37",
+      "title": "GitHub、「Copilot Fusion」正式リリース　タスクに応じて最適なAIモデル選択、高性能・低コスト両立",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002869/",
+      "published": "11/04 13:13",
       "source": "ITmedia",
-      "summary": "Appleは、音声アシスタント「Siri AI」とサードパーティアプリを連携させる機能を開発者向けに開放すると発表し、各OSのβ版でプレビュー提供を開始した。「App Intents」を利用し、アプリを開かずにSiri AIから直接操作が可能になる。一般ユーザーへの提供は数カ月後の見込みだ。"
+      "summary": "米GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Fusion」の正式リリースを発表しました。"
     },
     {
       "category": "主要",
-      "title": "1兆円盗難 バイナンスが手口公表",
-      "link": "https://news.yahoo.co.jp/pickup/6601264?source=rss",
-      "published": "11/04 09:49",
+      "title": "鉄板の下敷きに 解体作業員が死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6601307?source=rss",
+      "published": "11/04 16:32",
       "source": "Yahoo!ニュース",
-      "summary": "（ブルームバーグ）:暗号資産交換業者バイナンスは、先週明らかになった63億ドル（約1兆円）相当の暗号資産盗難事件で、攻撃者が偽の採用面接などで社員をだます「ソーシャルエンジニアリング」やマルウエア（"
+      "summary": "きょう（４日）午前、江別市の工事現場で作業をしていた７０歳の男性が倒れてきた鉄板の下敷きになりました。男性は意識がない状態で病院に運ばれましたが死亡が確認されました。"
     },
     {
       "category": "社会",
@@ -115,11 +163,11 @@
     },
     {
       "category": "経済",
-      "title": "きのこの山イヤホン 再販時の配慮",
-      "link": "https://news.yahoo.co.jp/pickup/6601151?source=rss",
-      "published": "11/03 11:47",
+      "title": "UFJ新銀行 キャッシュカードなし",
+      "link": "https://news.yahoo.co.jp/pickup/6601279?source=rss",
+      "published": "11/04 12:00",
       "source": "Yahoo!ニュース",
-      "summary": "そんなに売れたのなら、もう一度つくればいいのに――。そう思った人もいるのではないか。"
+      "summary": "三菱UFJ銀行が2027年に開業するデジタル銀行で、キャッシュカードを発行しないことが4日分かった。顧客はスマートフォンアプリのQRコードを使ってATMで出金などの操作を行う仕組みにする。セキュリテ"
     },
     {
       "category": "AI・テクノロジー",
@@ -131,27 +179,27 @@
     },
     {
       "category": "スポーツ",
-      "title": "阪神・木浪が残留決断 複数年合意",
-      "link": "https://news.yahoo.co.jp/pickup/6601238?source=rss",
-      "published": "11/04 06:13",
+      "title": "J2で再び 得点時にハンドの疑惑",
+      "link": "https://news.yahoo.co.jp/pickup/6601277?source=rss",
+      "published": "11/04 11:35",
       "source": "Yahoo!ニュース",
-      "summary": "5月に国内フリーエージェント（FA）権を取得した阪神・木浪聖也内野手（32）が権利を行使せずに残留することが3日、分かった。この日までに球団と交渉を重ね、複数年契約で合意した。23年にベストナインと"
+      "summary": "明治安田J2リーグ2026/27シーズン第15節、ヴァンフォーレ甲府対アルビレックス新潟が11月3日に行われ、新潟が1-0で勝利した。89分にDF舞行龍ジェームズが決勝ゴールを決め、チームは首位に浮"
     },
     {
       "category": "IT",
-      "title": "セブン-イレブン「7NOW」の利用者情報16万件超漏えい　配達委託先に不正アクセス、出前館でも約800件",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002852/",
-      "published": "11/04 09:09",
+      "title": "ビックカメラG、メールアドレスなど約1490万件漏えいの可能性　委託先への不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002866/",
+      "published": "11/04 12:34",
       "source": "ITmedia",
-      "summary": "登録ドライバーから条件に合う人を選び、配送を依頼できるプラットフォーム「ピックゴー」が不正アクセスを受けた。"
+      "summary": "ビックカメラとコジマ、ソフマップは11月2日、メールマガジン登録者のメールアドレスなど約1490万件が流出した可能性があると発表した。メール配信の委託先、アララへの不正アクセスが原因。"
     },
     {
       "category": "主要",
-      "title": "米津「Lemon」MV10億回再生突破",
-      "link": "https://news.yahoo.co.jp/pickup/6601261?source=rss",
-      "published": "11/04 09:39",
+      "title": "G松井監督 工藤氏は尊敬する先輩",
+      "link": "https://news.yahoo.co.jp/pickup/6601306?source=rss",
+      "published": "11/04 16:23",
       "source": "Yahoo!ニュース",
-      "summary": "米津玄師の楽曲「Lemon」のミュージックビデオが、昨日11月3日23:08にYouTubeでの再生数10億回を突破。これを記念して、米津がコメントを発表した。"
+      "summary": "巨人は４日、秋季キャンプ５日目を迎え、ジャイアンツ球場、ジャイアンツタウンで練習を行った。"
     },
     {
       "category": "社会",
@@ -163,11 +211,11 @@
     },
     {
       "category": "経済",
-      "title": "安いもやし限界 5年で13社消える",
-      "link": "https://news.yahoo.co.jp/pickup/6601141?source=rss",
-      "published": "11/03 10:17",
+      "title": "フードデリバリー業界に淘汰の波",
+      "link": "https://news.yahoo.co.jp/pickup/6601266?source=rss",
+      "published": "11/04 10:25",
       "source": "Yahoo!ニュース",
-      "summary": "「もやし製造」の倒産・休廃業解散動向（2026年） 「家計の味方」として食卓を支える「もやし」業界の苦戦が続いている。2026年に「もやし」製造業者の倒産や休廃業・解散（以下、廃業）は少なくとも3件"
+      "summary": "コロナ禍で一時乱立状態だった国内フードデリバリー業界に、淘汰（とうた）の波が押し寄せている。"
     },
     {
       "category": "AI・テクノロジー",
@@ -179,27 +227,27 @@
     },
     {
       "category": "スポーツ",
-      "title": "スペイン2部 試合中搬送のFW死去",
-      "link": "https://news.yahoo.co.jp/pickup/6601220?source=rss",
-      "published": "11/03 21:45",
+      "title": "異例抜擢 マリナーズ新監督に36歳",
+      "link": "https://news.yahoo.co.jp/pickup/6601251?source=rss",
+      "published": "11/04 08:37",
       "source": "Yahoo!ニュース",
-      "summary": "テネリフェ（スペイン2部）に所属するスペイン人FWヘスス・デ・ミゲル（30）が試合中の悲劇的な事故によって死去した。"
+      "summary": "マリナーズは３日、来季から指揮を執る新監督にジェイソン・カンズラー氏（３６）が就任することを発表した。 カンズラー新監督は、１３～１５年にツインズ傘下マイナーで外野手として２５５試合に出場したが、メ"
     },
     {
       "category": "IT",
-      "title": "Microsoft、メモリ8GBのWindows 11 PCを高速化　マルチタスク処理は最大40％向上",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002851/",
-      "published": "11/04 08:33",
+      "title": "ランサム攻撃で身代金を払う企業・払わない企業の違いとは？　オランダ警察などが約700件の記録から分析",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002804/",
+      "published": "11/04 12:00",
       "source": "ITmedia",
-      "summary": "Microsoftは、メモリ容量8GBの「Windows 11」搭載PCを対象としたパフォーマンス改善を発表した。メモリ圧縮の最適化やバックグラウンド処理の抑制により、操作の応答速度やマルチタスク処理が大幅に向上する。これらの改善を利用するには、Windows 11バージョン26H2のビルド26300.9818以降に更新する必要がある。"
+      "summary": "オランダ警察や英エディンバラ大学などに所属する研究者らが発表した論文「You Can’t Talk Your Way Out of Cyber Extortion: An Empirical Study of Ransomware Negotiations」は、ランサムウェア攻撃における犯行グループとの値引き交渉の実態と、身代金の支払いを決定づける要因を明らかにした研究報告だ。"
     },
     {
       "category": "主要",
-      "title": "自治体システム移行費巡り調査へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601258?source=rss",
-      "published": "11/04 09:20",
+      "title": "森保監督 アジア杯の延期に言及",
+      "link": "https://news.yahoo.co.jp/pickup/6601303?source=rss",
+      "published": "11/04 15:35",
       "source": "Yahoo!ニュース",
-      "summary": "地方自治体が住民基本台帳などのシステム運用委託先を切り替えようとすると、委託先から高額な作業費を請求される事例などが相次いでいるとして、公正取引委員会は実態調査に乗り出す方針を固めた。独占禁止法が禁"
+      "summary": "サッカー日本代表の森保一監督(58)が4日、千葉市内で行われたシンガポール遠征の日本代表メンバー発表会見に出席。その中で、中東情勢の悪化を理由に延期が決定したアジア杯に言及した。"
     },
     {
       "category": "社会",
@@ -211,11 +259,11 @@
     },
     {
       "category": "経済",
-      "title": "子どものセルフレジ操作 SNS賛否",
-      "link": "https://news.yahoo.co.jp/pickup/6601135?source=rss",
-      "published": "11/03 09:47",
+      "title": "パーソナルトレ トラブル急増",
+      "link": "https://news.yahoo.co.jp/pickup/6601250?source=rss",
+      "published": "11/04 08:16",
       "source": "Yahoo!ニュース",
-      "summary": "スーパーなどのお買い物で、すっかりおなじみとなった「セルフレジ」。店舗の省人化やスピーディーな会計に一役買っている一方で、ある光景をめぐりSNS上で激しい議論が巻き起こっています。"
+      "summary": "スポーツジムなどでトレーナーから個別指導を受ける「パーソナルトレーニング」を巡り、強引な勧誘を受けたり、サプリメントやエステの契約を迫られたりといった相談が相次いでいる。国民生活センターによると、パ"
     },
     {
       "category": "AI・テクノロジー",
@@ -227,27 +275,27 @@
     },
     {
       "category": "スポーツ",
-      "title": "松井秀喜監督「擬音語」で指導",
-      "link": "https://news.yahoo.co.jp/pickup/6601215?source=rss",
-      "published": "11/03 20:02",
+      "title": "小園海斗 去就「話せることない」",
+      "link": "https://news.yahoo.co.jp/pickup/6601195?source=rss",
+      "published": "11/03 17:27",
       "source": "Yahoo!ニュース",
-      "summary": "巨人は３日、秋季キャンプ４日目を迎え、ジャイアンツ球場などで練習を行った。松井秀喜監督は見ることに徹していた第１クールから一転、選手へ積極的な指導に乗り出した。"
+      "summary": "広島から戦力外通告を受けた小園海斗内野手が３日、マツダスタジアムに荷物整理に訪れた。"
     },
     {
       "category": "IT",
-      "title": "GMOペイメント、決済支援システムで「不正なユーザーによる行為」　「Vプリカ」69件漏えい、3件はセキュリティコードも",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
-      "published": "11/04 08:22",
+      "title": "なぜCookie同意バナーの「拒否」ボタンは見つからないのか　1万4000サイト調査で見えた“同意させる”手口",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002805/",
+      "published": "11/04 12:00",
       "source": "ITmedia",
-      "summary": "3件は、クレジットカード番号に相当する「Vプリカ番号」（16桁）と、専用のセキュリティコード、有効期限、氏名がそろって盗み取られた可能性がある。"
+      "summary": "韓国の成均館大学に所属する研究者らが発表した論文「When the Abyss Looks Back: Unveiling Evolving Dark Patterns in Cookie Consent Banners」は、WebサイトのCookie（クッキー）同意バナーにおけるダークパターンの実態を調査した研究報告だ。"
     },
     {
       "category": "主要",
-      "title": "異例抜擢 マリナーズ新監督に36歳",
-      "link": "https://news.yahoo.co.jp/pickup/6601251?source=rss",
-      "published": "11/04 08:37",
+      "title": "BYD海外販売が倍増 中国車に明暗",
+      "link": "https://news.yahoo.co.jp/pickup/6601278?source=rss",
+      "published": "11/04 15:23",
       "source": "Yahoo!ニュース",
-      "summary": "マリナーズは３日、来季から指揮を執る新監督にジェイソン・カンズラー氏（３６）が就任することを発表した。 カンズラー新監督は、１３～１５年にツインズ傘下マイナーで外野手として２５５試合に出場したが、メ"
+      "summary": "中国の国内新車市場が縮み続けている。業界団体の乗聯会は、10月の乗用車小売を前年同月比28.9％減と予測した。9月の国内販売も26％減だった。その分を輸出で補う流れが加速し、9月の輸出は61.4％増。"
     },
     {
       "category": "社会",
@@ -258,14 +306,6 @@
       "summary": "親子の縁を断ち切る『家族じまい』の相談が急増しています。以前は高齢者の問題が主でしたが、現在は20代や30代からの依頼が増加しています。壮絶な体験談や“老い逃げ”という言葉から、浮き彫りになる複雑な"
     },
     {
-      "category": "経済",
-      "title": "GMO熊谷社長ら 報酬を3カ月減額",
-      "link": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
-      "published": "11/02 18:24",
-      "source": "Yahoo!ニュース",
-      "summary": "ＧＭＯインターネットのＦＸ（外国為替証拠金）取引用クラウドサービスが不正アクセスを受け、利用者とみられる個人情報が公開された問題で、同社は２日、親会社のＧＭＯインターネットグループの熊谷正寿会長兼社"
-    },
-    {
       "category": "AI・テクノロジー",
       "title": "大阪市行政システム 情報漏えいか",
       "link": "https://news.yahoo.co.jp/pickup/6601164?source=rss",
@@ -274,28 +314,20 @@
       "summary": "大阪市は、「大阪市行政オンラインシステム」で利用するメール配信サービスで、情報が漏えいした可能性があると発表しました。"
     },
     {
-      "category": "スポーツ",
-      "title": "アジア杯延期 JFA会長がコメント",
-      "link": "https://news.yahoo.co.jp/pickup/6601200?source=rss",
-      "published": "11/03 18:00",
-      "source": "Yahoo!ニュース",
-      "summary": "日本サッカー協会（JFA）の宮本恒靖会長（49）が3日、同日にアジア・サッカー連盟（AFC）が発表したアジア杯サウジアラビア大会延期についてコメントを発表した。"
-    },
-    {
       "category": "IT",
-      "title": "Google、学校の生徒向けAI機能を原則オフへ　「AIなしのGoogle検索」は選べず批判も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
-      "published": "11/04 07:31",
+      "title": "メルアド7700万件流出か　アララメッセージの不正アクセスで続報　共通環境から契約企業のサーバへ侵入　悪用も確認",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002861/",
+      "published": "11/04 10:41",
       "source": "ITmedia",
-      "summary": "Googleは、K-12（幼稚園から高校まで）の生徒向けアカウントで生成AI「Gemini」や「Google検索」などを原則オフにすると発表した。管理者が有効化できるが、検索のAI機能のみを無効にはできず、AIを禁じる学校では検索自体が利用不可となる点が批判を集めている。"
+      "summary": "アララ（東京都港区）が提供するメール配信サービス「アララメッセージ」への不正アクセスを巡り、新たに約7700万件のメールアドレスが外部に流出、またはその恐れがある。ペイクラウドホールディングスが10月29日に公表した不正アクセスの続報で、影響を受ける契約企業は最大約380社に上る。同サービスは10月31日から全面停止しており、再開時期は未定。"
     },
     {
       "category": "主要",
-      "title": "関東一部 5日朝に警報級大雨恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6601253?source=rss",
-      "published": "11/04 08:23",
+      "title": "トランプ氏 選挙結果受け入れ表明",
+      "link": "https://news.yahoo.co.jp/pickup/6601299?source=rss",
+      "published": "11/04 14:14",
       "source": "Yahoo!ニュース",
-      "summary": "関東地方は今日4日(水)の夕方から雨の降りだす所があるでしょう。夜遅くなるほど雨の範囲が広がり、本降りの雨となりそうです。5日(木)は明け方から朝に雨のピークとなり、沿岸部は昼前にかけて激しい雨の降"
+      "summary": "下院で民主党の多数派奪還が確実と報じられる中、トランプ大統領がアメリカメディアの取材に応じ、｢選挙結果を受け入れる｣と述べました。"
     },
     {
       "category": "社会",
@@ -314,12 +346,44 @@
       "summary": "アメリカIT大手アップルの今年7月から9月期の四半期決算は、主力のiPhoneの売り上げが好調で増収増益となりました。"
     },
     {
-      "category": "スポーツ",
-      "title": "小園海斗 去就「話せることない」",
-      "link": "https://news.yahoo.co.jp/pickup/6601195?source=rss",
-      "published": "11/03 17:27",
-      "source": "Yahoo!ニュース",
-      "summary": "広島から戦力外通告を受けた小園海斗内野手が３日、マツダスタジアムに荷物整理に訪れた。"
+      "category": "IT",
+      "title": "アソビュー、会員情報1582万件流出　最終ログイン日や利用施設も　メール委託先・アララ不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002854/",
+      "published": "11/04 09:42",
+      "source": "ITmedia",
+      "summary": "会員ID・会員番号、性別、会員登録日、最終ログイン日、郵便番号、住んでいる地域に加え、チケット購入日時、チケットの種類、購入枚数、参加人数、キャンセルの有無などの情報が流出したという。"
+    },
+    {
+      "category": "IT",
+      "title": "Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
+      "published": "11/04 09:37",
+      "source": "ITmedia",
+      "summary": "Appleは、音声アシスタント「Siri AI」とサードパーティアプリを連携させる機能を開発者向けに開放すると発表し、各OSのβ版でプレビュー提供を開始した。「App Intents」を利用し、アプリを開かずにSiri AIから直接操作が可能になる。一般ユーザーへの提供は数カ月後の見込みだ。"
+    },
+    {
+      "category": "IT",
+      "title": "セブン-イレブン「7NOW」の利用者情報16万件超漏えい　配達委託先に不正アクセス、出前館でも約800件",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002852/",
+      "published": "11/04 09:09",
+      "source": "ITmedia",
+      "summary": "登録ドライバーから条件に合う人を選び、配送を依頼できるプラットフォーム「ピックゴー」が不正アクセスを受けた。"
+    },
+    {
+      "category": "IT",
+      "title": "Microsoft、メモリ8GBのWindows 11 PCを高速化　マルチタスク処理は最大40％向上",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002851/",
+      "published": "11/04 08:33",
+      "source": "ITmedia",
+      "summary": "Microsoftは、メモリ容量8GBの「Windows 11」搭載PCを対象としたパフォーマンス改善を発表した。メモリ圧縮の最適化やバックグラウンド処理の抑制により、操作の応答速度やマルチタスク処理が大幅に向上する。これらの改善を利用するには、Windows 11バージョン26H2のビルド26300.9818以降に更新する必要がある。"
+    },
+    {
+      "category": "IT",
+      "title": "Google、学校の生徒向けAI機能を原則オフへ　「AIなしのGoogle検索」は選べず批判も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+      "published": "11/04 07:31",
+      "source": "ITmedia",
+      "summary": "Googleは、K-12（幼稚園から高校まで）の生徒向けアカウントで生成AI「Gemini」や「Google検索」などを原則オフにすると発表した。管理者が有効化できるが、検索のAI機能のみを無効にはできず、AIを禁じる学校では検索自体が利用不可となる点が批判を集めている。"
     },
     {
       "category": "IT",
@@ -328,14 +392,6 @@
       "published": "11/04 07:04",
       "source": "ITmedia",
       "summary": ""
-    },
-    {
-      "category": "主要",
-      "title": "パーソナルトレ トラブル急増",
-      "link": "https://news.yahoo.co.jp/pickup/6601250?source=rss",
-      "published": "11/04 08:16",
-      "source": "Yahoo!ニュース",
-      "summary": "スポーツジムなどでトレーナーから個別指導を受ける「パーソナルトレーニング」を巡り、強引な勧誘を受けたり、サプリメントやエステの契約を迫られたりといった相談が相次いでいる。国民生活センターによると、パ"
     },
     {
       "category": "IT",
@@ -392,54 +448,6 @@
       "published": "11/02 19:27",
       "source": "ITmedia",
       "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、「お名前.com デスクトップクラウド」への不正アクセスに関する説明会で、身代金を支払わない理由や、AI時代のサイバー攻撃への危機感を語った。"
-    },
-    {
-      "category": "IT",
-      "title": "GMO熊谷代表、会見で改めて謝罪　SNS投稿巡り「配慮が欠けていた」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/",
-      "published": "11/02 19:20",
-      "source": "ITmedia",
-      "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、FX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡る記者会見で謝罪した。"
-    },
-    {
-      "category": "IT",
-      "title": "山岳救助を迅速化へ　兵庫県警が登山アプリ「ヤマップ」と協定締結",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002800/",
-      "published": "11/02 15:10",
-      "source": "ITmedia",
-      "summary": "山岳救助の強化のため兵庫県警は30日、登山アプリ「YAMAP（ヤマップ）」を運営するヤマップ（福岡市）と協定を締結した。登山計画を記入する「登山届」の情報共有などを通して山岳遭難の未然防止や救助活動の迅速化につなげる。"
-    },
-    {
-      "category": "IT",
-      "title": "アットコスメ、会員約300万人分の情報漏えい　不正アクセスで",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002795/",
-      "published": "11/02 14:40",
-      "source": "ITmedia",
-      "summary": "「@cosme共通ID」に登録された会員情報の一部・約300万人分が漏えいした。名前や住所、生年月日、肌質、髪質などが含まれている。"
-    },
-    {
-      "category": "IT",
-      "title": "ニコニコレンタカー、免許証画像の事前登録を廃止　保存済み画像も全削除　サイバー攻撃の増加受け",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002786/",
-      "published": "11/02 12:23",
-      "source": "ITmedia",
-      "summary": "ニコニコレンタカーは10月27日、公式アプリ「ニコパス」での運転免許証画像の事前登録機能を廃止すると発表した。これまで預かっていた画像データは全て削除済みという。"
-    },
-    {
-      "category": "IT",
-      "title": "楽天証券、顧客情報362件が漏えいか　NTTデータ委託先に不正アクセス",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002785/",
-      "published": "11/02 12:02",
-      "source": "ITmedia",
-      "summary": "漏えいした可能性がある項目は明らかにしていない。"
-    },
-    {
-      "category": "IT",
-      "title": "ワールド子会社に不正アクセス、会員情報のべ約120万件が流出の可能性　「RAGTAG」運営元",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002783/",
-      "published": "11/02 11:06",
-      "source": "ITmedia",
-      "summary": "氏名、住所、電話番号、生年月日、性別、メールアドレスを含む。"
     }
   ],
   "errors": [
