@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-03T21:06:25.691985+00:00",
+  "updated": "2026-11-04T01:26:46.815945+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "山手線外回りが運転再開 駅で発煙",
-      "link": "https://news.yahoo.co.jp/pickup/6601237?source=rss",
-      "published": "11/04 05:36",
+      "title": "北朝鮮が日本海に向け飛翔体発射",
+      "link": "https://news.yahoo.co.jp/pickup/6601267?source=rss",
+      "published": "11/04 10:16",
       "source": "Yahoo!ニュース",
-      "summary": "４日早朝、ＪＲ山手線の巣鴨駅で発煙が確認された。"
+      "summary": "韓国軍は、北朝鮮がさきほど、日本海に向けてなんらかの飛翔体を発射したと発表しました。詳しい種類や飛行距離などはわかっていません。"
     },
     {
       "category": "社会",
@@ -27,35 +27,35 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "GMOのサーバー「設計上の不備」",
-      "link": "https://news.yahoo.co.jp/pickup/6601209?source=rss",
-      "published": "11/03 18:50",
-      "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループへの不正アクセス問題をめぐり、問題のサーバーにセキュリティ上の設計ミスがあったことが関係者の話で新たに明らかになりました。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "アジア杯延期 森保氏去就どうなる",
-      "link": "https://news.yahoo.co.jp/pickup/6601225?source=rss",
-      "published": "11/03 22:45",
-      "source": "Yahoo!ニュース",
-      "summary": "アジア・サッカー連盟（ＡＦＣ）は３日、来年１～２月にサウジアラビアで開催予定だったアジア・カップを、中東情勢の混乱を受けた措置として２０２７年１２月から２８年１月に延期すると発表した。同大会まで指揮"
-    },
-    {
-      "category": "IT",
-      "title": "Apple、第4四半期として過去最高の増収増益　ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
-      "published": "11/03 09:44",
-      "source": "ITmedia",
-      "summary": "Appleの7月?9月期決算は、売上高が前年同期比12％増、純利益も12％増となり、共に同四半期の過去最高を記録した。通期でも過去最高を更新した。新CEOのジョン・ターナス氏による初の会見で、折りたたみ型「iPhone Duo」やAI戦略「Siri AI」の進捗を報告。次期も増収を見込む。"
-    },
-    {
-      "category": "主要",
       "title": "アソビュー 1500万件超の情報流出",
       "link": "https://news.yahoo.co.jp/pickup/6601234?source=rss",
       "published": "11/03 23:59",
       "source": "Yahoo!ニュース",
       "summary": "レジャー施設のチケットなどをネット上で予約・購入できるサービスを展開する「アソビュー」は、メール配信の委託先が不正アクセスを受け、1500万件以上の個人情報が流出したと公表した。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "森保J 集大成の場なく年内に幕か",
+      "link": "https://news.yahoo.co.jp/pickup/6601242?source=rss",
+      "published": "11/04 06:55",
+      "source": "Yahoo!ニュース",
+      "summary": "アジアサッカー連盟（AFC）は3日、27年1月にサウジアラビアで開幕予定だったアジア杯開催の1年延期を発表した。中東情勢の悪化で開催が危ぶまれていた。新たに27年12月23日～28年1月21日の日程"
+    },
+    {
+      "category": "IT",
+      "title": "アソビュー、会員情報1582万件流出　最終ログイン日や利用施設も　メール委託先・アララ不正アクセスで",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002854/",
+      "published": "11/04 09:42",
+      "source": "ITmedia",
+      "summary": "会員ID・会員番号、性別、会員登録日、最終ログイン日、郵便番号、住んでいる地域に加え、チケット購入日時、チケットの種類、購入枚数、参加人数、キャンセルの有無などの情報が流出したという。"
+    },
+    {
+      "category": "主要",
+      "title": "中継 米中間選挙の開票速報",
+      "link": "https://news.yahoo.co.jp/pickup/6601265?source=rss",
+      "published": "11/04 10:01",
+      "source": "Yahoo!ニュース",
+      "summary": "2026年アメリカ中間選挙の開票速報を中継します。"
     },
     {
       "category": "社会",
@@ -75,35 +75,35 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "SNS巡る問題 揺らぐ表現の自由",
-      "link": "https://news.yahoo.co.jp/pickup/6601198?source=rss",
-      "published": "11/03 17:53",
+      "title": "GMOのサーバー「設計上の不備」",
+      "link": "https://news.yahoo.co.jp/pickup/6601209?source=rss",
+      "published": "11/03 18:50",
       "source": "Yahoo!ニュース",
-      "summary": "日本国憲法公布から80年が経過し、インターネットやSNSが登場したことで、21条が定める「表現の自由」を巡る状況も大きく変化しつつある。"
+      "summary": "GMOインターネットグループへの不正アクセス問題をめぐり、問題のサーバーにセキュリティ上の設計ミスがあったことが関係者の話で新たに明らかになりました。"
     },
     {
       "category": "スポーツ",
-      "title": "松井秀喜監督「擬音語」で指導",
-      "link": "https://news.yahoo.co.jp/pickup/6601215?source=rss",
-      "published": "11/03 20:02",
+      "title": "広島・森下がFA決断 争奪戦確実",
+      "link": "https://news.yahoo.co.jp/pickup/6601241?source=rss",
+      "published": "11/04 06:44",
       "source": "Yahoo!ニュース",
-      "summary": "巨人は３日、秋季キャンプ４日目を迎え、ジャイアンツ球場などで練習を行った。松井秀喜監督は見ることに徹していた第１クールから一転、選手へ積極的な指導に乗り出した。"
+      "summary": "広島・森下暢仁投手（29）が今年9月に取得した国内フリーエージェント（FA）権を行使することが3日、分かった。きょう4日に申請書類を提出し、正式に表明する。入団からの7年間で5度規定投球回に達し、通"
     },
     {
       "category": "IT",
-      "title": "渦中のGMO記者会見、責任の所在はどこに？　熊谷代表が語った“グループ内の力関係”",
-      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002829/",
-      "published": "11/03 09:00",
+      "title": "Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
+      "published": "11/04 09:37",
       "source": "ITmedia",
-      "summary": "GMOインターネットグループが11月2日に開いた記者会見では、過去に指摘された脆弱性への対応の遅れや、熊谷正寿代表のSNS発信、経営責任などを巡り質問が相次いだ。報道陣の質問に経営陣はどう答えたのか。"
+      "summary": "Appleは、音声アシスタント「Siri AI」とサードパーティアプリを連携させる機能を開発者向けに開放すると発表し、各OSのβ版でプレビュー提供を開始した。「App Intents」を利用し、アプリを開かずにSiri AIから直接操作が可能になる。一般ユーザーへの提供は数カ月後の見込みだ。"
     },
     {
       "category": "主要",
-      "title": "カワラボ メンバーの個人Xを休止",
-      "link": "https://news.yahoo.co.jp/pickup/6601231?source=rss",
-      "published": "11/03 23:14",
+      "title": "1兆円盗難 バイナンスが手口公表",
+      "link": "https://news.yahoo.co.jp/pickup/6601264?source=rss",
+      "published": "11/04 09:49",
       "source": "Yahoo!ニュース",
-      "summary": "「FRUITS ZIPPER」などが所属するアイドルプロジェクト「KAWAII LAB.」は3日、公式サイトを更新。所属メンバー個人のXアカウントでの発信を休止すると発表した。各グループ公式Xでの発"
+      "summary": "（ブルームバーグ）:暗号資産交換業者バイナンスは、先週明らかになった63億ドル（約1兆円）相当の暗号資産盗難事件で、攻撃者が偽の採用面接などで社員をだます「ソーシャルエンジニアリング」やマルウエア（"
     },
     {
       "category": "社会",
@@ -123,43 +123,43 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "ダークウェブ 日本人の情報流出増",
-      "link": "https://news.yahoo.co.jp/pickup/6601181?source=rss",
-      "published": "11/03 15:51",
+      "title": "SNS巡る問題 揺らぐ表現の自由",
+      "link": "https://news.yahoo.co.jp/pickup/6601198?source=rss",
+      "published": "11/03 17:53",
       "source": "Yahoo!ニュース",
-      "summary": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、2日にGMOの熊谷正寿社長が会見を行い、2年前に指摘されていたシステムの脆弱（ぜいじゃく）性に対する対応が不十分だったと謝罪しまし"
+      "summary": "日本国憲法公布から80年が経過し、インターネットやSNSが登場したことで、21条が定める「表現の自由」を巡る状況も大きく変化しつつある。"
     },
     {
       "category": "スポーツ",
-      "title": "アジア杯延期 JFA会長がコメント",
-      "link": "https://news.yahoo.co.jp/pickup/6601200?source=rss",
-      "published": "11/03 18:00",
+      "title": "阪神・木浪が残留決断 複数年合意",
+      "link": "https://news.yahoo.co.jp/pickup/6601238?source=rss",
+      "published": "11/04 06:13",
       "source": "Yahoo!ニュース",
-      "summary": "日本サッカー協会（JFA）の宮本恒靖会長（49）が3日、同日にアジア・サッカー連盟（AFC）が発表したアジア杯サウジアラビア大会延期についてコメントを発表した。"
+      "summary": "5月に国内フリーエージェント（FA）権を取得した阪神・木浪聖也内野手（32）が権利を行使せずに残留することが3日、分かった。この日までに球団と交渉を重ね、複数年契約で合意した。23年にベストナインと"
     },
     {
       "category": "IT",
-      "title": "Anthropic、IPO申請書を修正　7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
-      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
-      "published": "11/03 08:20",
+      "title": "セブン-イレブン「7NOW」の利用者情報16万件超漏えい　配達委託先に不正アクセス、出前館でも約800件",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002852/",
+      "published": "11/04 09:09",
       "source": "ITmedia",
-      "summary": "Anthropicは、証券取引委員会（SEC）にIPOに向けた登録届出書の修正版を提出した。第3四半期の売上高は前年同期比約12.3倍の約169億ドルに拡大した一方、営業損益は赤字に転落。また、AI計算資源やインフラに関する将来の支出約束額が約8954億ドルに上ることも明らかにした。"
+      "summary": "登録ドライバーから条件に合う人を選び、配送を依頼できるプラットフォーム「ピックゴー」が不正アクセスを受けた。"
     },
     {
       "category": "主要",
-      "title": "米中間選挙 集計長期化の可能性も",
-      "link": "https://news.yahoo.co.jp/pickup/6601226?source=rss",
-      "published": "11/03 23:02",
+      "title": "米津「Lemon」MV10億回再生突破",
+      "link": "https://news.yahoo.co.jp/pickup/6601261?source=rss",
+      "published": "11/04 09:39",
       "source": "Yahoo!ニュース",
-      "summary": "【ワシントン＝本間英士】3日の米中間選挙は与党・共和党と野党・民主党による接戦が見込まれており、その場合上下両院の大勢判明には数日かかる可能性がある。郵便投票が普及している米国では、投開票日までの消"
+      "summary": "米津玄師の楽曲「Lemon」のミュージックビデオが、昨日11月3日23:08にYouTubeでの再生数10億回を突破。これを記念して、米津がコメントを発表した。"
     },
     {
       "category": "社会",
-      "title": "関東 4日夜-5日に激しい雨の恐れ",
-      "link": "https://news.yahoo.co.jp/pickup/6601216?source=rss",
-      "published": "11/03 20:26",
+      "title": "武部農相 献金巡り新たな疑惑",
+      "link": "https://news.yahoo.co.jp/pickup/6601222?source=rss",
+      "published": "11/03 21:53",
       "source": "Yahoo!ニュース",
-      "summary": "関東地方は明日4日(水)夜から雨が降り、5日(木)は激しい雨の降る所があるでしょう。神奈川県や千葉県、茨城県では警報級の大雨となる可能性があります。土砂災害、低い土地の浸水、道路の冠水などに注意が必"
+      "summary": "武部新農水相（56）が、衆院選に際して公選法に抵触する違法な寄附を受け取っていた疑いがあることが「週刊文春」の取材で分かった。総額は85万円にのぼる。"
     },
     {
       "category": "経済",
@@ -171,35 +171,35 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "米巨大IT5社とも増収 7～9月期",
-      "link": "https://news.yahoo.co.jp/pickup/6601172?source=rss",
-      "published": "11/03 14:46",
+      "title": "ダークウェブ 日本人の情報流出増",
+      "link": "https://news.yahoo.co.jp/pickup/6601181?source=rss",
+      "published": "11/03 15:51",
       "source": "Yahoo!ニュース",
-      "summary": "【ニューヨーク共同】米巨大IT5社の2026年7～9月期決算が2日出そろった。人工知能（AI）関連のクラウドや広告の需要が伸び、5社とも増収を確保した。純利益はマイクロソフトなど3社が増益だった一方"
+      "summary": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、2日にGMOの熊谷正寿社長が会見を行い、2年前に指摘されていたシステムの脆弱（ぜいじゃく）性に対する対応が不十分だったと謝罪しまし"
     },
     {
       "category": "スポーツ",
-      "title": "小園海斗 去就「話せることない」",
-      "link": "https://news.yahoo.co.jp/pickup/6601195?source=rss",
-      "published": "11/03 17:27",
+      "title": "スペイン2部 試合中搬送のFW死去",
+      "link": "https://news.yahoo.co.jp/pickup/6601220?source=rss",
+      "published": "11/03 21:45",
       "source": "Yahoo!ニュース",
-      "summary": "広島から戦力外通告を受けた小園海斗内野手が３日、マツダスタジアムに荷物整理に訪れた。"
+      "summary": "テネリフェ（スペイン2部）に所属するスペイン人FWヘスス・デ・ミゲル（30）が試合中の悲劇的な事故によって死去した。"
     },
     {
       "category": "IT",
-      "title": "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンターの高速化に対応",
-      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
-      "published": "11/03 07:07",
+      "title": "Microsoft、メモリ8GBのWindows 11 PCを高速化　マルチタスク処理は最大40％向上",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002851/",
+      "published": "11/04 08:33",
       "source": "ITmedia",
-      "summary": "半導体大手のMarvell Technologyは、光通信関連製品を手掛けるLumentum Holdingsを買収することで合意したと発表した。買収額は約1150億ドル。AIデータセンターで急増するデータ通信需要に対応するため、自社の半導体技術とLumentumの光通信技術を統合し、次世代AI接続技術の提供を目指す。"
+      "summary": "Microsoftは、メモリ容量8GBの「Windows 11」搭載PCを対象としたパフォーマンス改善を発表した。メモリ圧縮の最適化やバックグラウンド処理の抑制により、操作の応答速度やマルチタスク処理が大幅に向上する。これらの改善を利用するには、Windows 11バージョン26H2のビルド26300.9818以降に更新する必要がある。"
     },
     {
       "category": "主要",
-      "title": "武部農相 献金巡り新たな疑惑",
-      "link": "https://news.yahoo.co.jp/pickup/6601222?source=rss",
-      "published": "11/03 21:53",
+      "title": "自治体システム移行費巡り調査へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601258?source=rss",
+      "published": "11/04 09:20",
       "source": "Yahoo!ニュース",
-      "summary": "武部新農水相（56）が、衆院選に際して公選法に抵触する違法な寄附を受け取っていた疑いがあることが「週刊文春」の取材で分かった。総額は85万円にのぼる。"
+      "summary": "地方自治体が住民基本台帳などのシステム運用委託先を切り替えようとすると、委託先から高額な作業費を請求される事例などが相次いでいるとして、公正取引委員会は実態調査に乗り出す方針を固めた。独占禁止法が禁"
     },
     {
       "category": "社会",
@@ -219,35 +219,35 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "大阪市行政システム 情報漏えいか",
-      "link": "https://news.yahoo.co.jp/pickup/6601164?source=rss",
-      "published": "11/03 13:50",
+      "title": "米巨大IT5社とも増収 7～9月期",
+      "link": "https://news.yahoo.co.jp/pickup/6601172?source=rss",
+      "published": "11/03 14:46",
       "source": "Yahoo!ニュース",
-      "summary": "大阪市は、「大阪市行政オンラインシステム」で利用するメール配信サービスで、情報が漏えいした可能性があると発表しました。"
+      "summary": "【ニューヨーク共同】米巨大IT5社の2026年7～9月期決算が2日出そろった。人工知能（AI）関連のクラウドや広告の需要が伸び、5社とも増収を確保した。純利益はマイクロソフトなど3社が増益だった一方"
     },
     {
       "category": "スポーツ",
-      "title": "サッカーアジア杯 1年延期へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601189?source=rss",
-      "published": "11/03 16:24",
+      "title": "松井秀喜監督「擬音語」で指導",
+      "link": "https://news.yahoo.co.jp/pickup/6601215?source=rss",
+      "published": "11/03 20:02",
       "source": "Yahoo!ニュース",
-      "summary": "アジアサッカー連盟（AFC）は3日、来年1月から2月にかけてサウジアラビアで開催する予定だったアジア杯を延期すると発表した。組織委員会で承認され、新たな開催日程は2027年12月23日から2028年"
+      "summary": "巨人は３日、秋季キャンプ４日目を迎え、ジャイアンツ球場などで練習を行った。松井秀喜監督は見ることに徹していた第１クールから一転、選手へ積極的な指導に乗り出した。"
     },
     {
       "category": "IT",
-      "title": "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002828/",
-      "published": "11/02 20:57",
+      "title": "GMOペイメント、決済支援システムで「不正なユーザーによる行為」　「Vプリカ」69件漏えい、3件はセキュリティコードも",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
+      "published": "11/04 08:22",
       "source": "ITmedia",
-      "summary": "GMOインターネットグループの熊谷正寿代表は11月2日の記者会見で、AIの説明に時間を割いた理由を記者が尋ねると、自身の「命の砂時計」をインターネットとグループに捧げていると語った。Xでの発信を一定期間休止することも表明した。"
+      "summary": "3件は、クレジットカード番号に相当する「Vプリカ番号」（16桁）と、専用のセキュリティコード、有効期限、氏名がそろって盗み取られた可能性がある。"
     },
     {
       "category": "主要",
-      "title": "スペイン2部 試合中搬送のFW死去",
-      "link": "https://news.yahoo.co.jp/pickup/6601220?source=rss",
-      "published": "11/03 21:45",
+      "title": "異例抜擢 マリナーズ新監督に36歳",
+      "link": "https://news.yahoo.co.jp/pickup/6601251?source=rss",
+      "published": "11/04 08:37",
       "source": "Yahoo!ニュース",
-      "summary": "テネリフェ（スペイン2部）に所属するスペイン人FWヘスス・デ・ミゲル（30）が試合中の悲劇的な事故によって死去した。"
+      "summary": "マリナーズは３日、来季から指揮を執る新監督にジェイソン・カンズラー氏（３６）が就任することを発表した。 カンズラー新監督は、１３～１５年にツインズ傘下マイナーで外野手として２５５試合に出場したが、メ"
     },
     {
       "category": "社会",
@@ -259,11 +259,51 @@
     },
     {
       "category": "経済",
-      "title": "TDL内に野良猫 運営会社の対応は",
-      "link": "https://news.yahoo.co.jp/pickup/6601105?source=rss",
-      "published": "11/02 22:43",
+      "title": "GMO熊谷社長ら 報酬を3カ月減額",
+      "link": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
+      "published": "11/02 18:24",
       "source": "Yahoo!ニュース",
-      "summary": "東京ディズニーランドの敷地内にいる猫に引っかかれたり噛まれたりしたとする来場者の投稿がSNSで拡散され、運営会社の対応に注目が集まっている。運営会社のオリエンタルランドに、猫への対応や来場者向けルー"
+      "summary": "ＧＭＯインターネットのＦＸ（外国為替証拠金）取引用クラウドサービスが不正アクセスを受け、利用者とみられる個人情報が公開された問題で、同社は２日、親会社のＧＭＯインターネットグループの熊谷正寿会長兼社"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "大阪市行政システム 情報漏えいか",
+      "link": "https://news.yahoo.co.jp/pickup/6601164?source=rss",
+      "published": "11/03 13:50",
+      "source": "Yahoo!ニュース",
+      "summary": "大阪市は、「大阪市行政オンラインシステム」で利用するメール配信サービスで、情報が漏えいした可能性があると発表しました。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "アジア杯延期 JFA会長がコメント",
+      "link": "https://news.yahoo.co.jp/pickup/6601200?source=rss",
+      "published": "11/03 18:00",
+      "source": "Yahoo!ニュース",
+      "summary": "日本サッカー協会（JFA）の宮本恒靖会長（49）が3日、同日にアジア・サッカー連盟（AFC）が発表したアジア杯サウジアラビア大会延期についてコメントを発表した。"
+    },
+    {
+      "category": "IT",
+      "title": "Google、学校の生徒向けAI機能を原則オフへ　「AIなしのGoogle検索」は選べず批判も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+      "published": "11/04 07:31",
+      "source": "ITmedia",
+      "summary": "Googleは、K-12（幼稚園から高校まで）の生徒向けアカウントで生成AI「Gemini」や「Google検索」などを原則オフにすると発表した。管理者が有効化できるが、検索のAI機能のみを無効にはできず、AIを禁じる学校では検索自体が利用不可となる点が批判を集めている。"
+    },
+    {
+      "category": "主要",
+      "title": "関東一部 5日朝に警報級大雨恐れ",
+      "link": "https://news.yahoo.co.jp/pickup/6601253?source=rss",
+      "published": "11/04 08:23",
+      "source": "Yahoo!ニュース",
+      "summary": "関東地方は今日4日(水)の夕方から雨の降りだす所があるでしょう。夜遅くなるほど雨の範囲が広がり、本降りの雨となりそうです。5日(木)は明け方から朝に雨のピークとなり、沿岸部は昼前にかけて激しい雨の降"
+    },
+    {
+      "category": "社会",
+      "title": "トランプ政権に「共感」日本で23%",
+      "link": "https://news.yahoo.co.jp/pickup/6601133?source=rss",
+      "published": "11/03 09:06",
+      "source": "Yahoo!ニュース",
+      "summary": "■「日本にもトランプ氏のような強い政治家が必要」52.6％JNNのデジタルメディア「TBS NEWS DIG」とJX通信社が日本国内で行った合同調査で、「日本にも、トランプ大統領のように強い指導力で"
     },
     {
       "category": "AI・テクノロジー",
@@ -275,11 +315,75 @@
     },
     {
       "category": "スポーツ",
-      "title": "カブス 鈴木誠也に単年36億円提示",
-      "link": "https://news.yahoo.co.jp/pickup/6601142?source=rss",
-      "published": "11/03 10:35",
+      "title": "小園海斗 去就「話せることない」",
+      "link": "https://news.yahoo.co.jp/pickup/6601195?source=rss",
+      "published": "11/03 17:27",
       "source": "Yahoo!ニュース",
-      "summary": "カブスからFAになった鈴木誠也外野手がチームから単年2315万ドル（約36億5000万円）のクオリファイングオファー（QO）を提示された、と2日（日本時間3日）、大リーグ公式サイトが伝えた。鈴木のほ"
+      "summary": "広島から戦力外通告を受けた小園海斗内野手が３日、マツダスタジアムに荷物整理に訪れた。"
+    },
+    {
+      "category": "IT",
+      "title": "ノジマオンライン、会員情報約700万件漏えい　不正アクセスでサイト休止、再開未定",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002848/",
+      "published": "11/04 07:04",
+      "source": "ITmedia",
+      "summary": ""
+    },
+    {
+      "category": "主要",
+      "title": "パーソナルトレ トラブル急増",
+      "link": "https://news.yahoo.co.jp/pickup/6601250?source=rss",
+      "published": "11/04 08:16",
+      "source": "Yahoo!ニュース",
+      "summary": "スポーツジムなどでトレーナーから個別指導を受ける「パーソナルトレーニング」を巡り、強引な勧誘を受けたり、サプリメントやエステの契約を迫られたりといった相談が相次いでいる。国民生活センターによると、パ"
+    },
+    {
+      "category": "IT",
+      "title": "Aterm設定画面、「PHP使ってないのに.php」なぜ？　NECに聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002847/",
+      "published": "11/04 06:32",
+      "source": "ITmedia",
+      "summary": "PHPから移行したわけでもなく、「過去にPHPを使っていた名残」との見方も否定した。では、なぜ？"
+    },
+    {
+      "category": "IT",
+      "title": "Apple、第4四半期として過去最高の増収増益　ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
+      "published": "11/03 09:44",
+      "source": "ITmedia",
+      "summary": "Appleの7月?9月期決算は、売上高が前年同期比12％増、純利益も12％増となり、共に同四半期の過去最高を記録した。通期でも過去最高を更新した。新CEOのジョン・ターナス氏による初の会見で、折りたたみ型「iPhone Duo」やAI戦略「Siri AI」の進捗を報告。次期も増収を見込む。"
+    },
+    {
+      "category": "IT",
+      "title": "渦中のGMO記者会見、責任の所在はどこに？　熊谷代表が語った“グループ内の力関係”",
+      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002829/",
+      "published": "11/03 09:00",
+      "source": "ITmedia",
+      "summary": "GMOインターネットグループが11月2日に開いた記者会見では、過去に指摘された脆弱性への対応の遅れや、熊谷正寿代表のSNS発信、経営責任などを巡り質問が相次いだ。報道陣の質問に経営陣はどう答えたのか。"
+    },
+    {
+      "category": "IT",
+      "title": "Anthropic、IPO申請書を修正　7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
+      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
+      "published": "11/03 08:20",
+      "source": "ITmedia",
+      "summary": "Anthropicは、証券取引委員会（SEC）にIPOに向けた登録届出書の修正版を提出した。第3四半期の売上高は前年同期比約12.3倍の約169億ドルに拡大した一方、営業損益は赤字に転落。また、AI計算資源やインフラに関する将来の支出約束額が約8954億ドルに上ることも明らかにした。"
+    },
+    {
+      "category": "IT",
+      "title": "Marvell、光通信技術のLumentumを約18兆円で買収　AIデータセンターの高速化に対応",
+      "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
+      "published": "11/03 07:07",
+      "source": "ITmedia",
+      "summary": "半導体大手のMarvell Technologyは、光通信関連製品を手掛けるLumentum Holdingsを買収することで合意したと発表した。買収額は約1150億ドル。AIデータセンターで急増するデータ通信需要に対応するため、自社の半導体技術とLumentumの光通信技術を統合し、次世代AI接続技術の提供を目指す。"
+    },
+    {
+      "category": "IT",
+      "title": "「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出",
+      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002828/",
+      "published": "11/02 20:57",
+      "source": "ITmedia",
+      "summary": "GMOインターネットグループの熊谷正寿代表は11月2日の記者会見で、AIの説明に時間を割いた理由を記者が尋ねると、自身の「命の砂時計」をインターネットとグループに捧げていると語った。Xでの発信を一定期間休止することも表明した。"
     },
     {
       "category": "IT",
@@ -290,60 +394,12 @@
       "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、「お名前.com デスクトップクラウド」への不正アクセスに関する説明会で、身代金を支払わない理由や、AI時代のサイバー攻撃への危機感を語った。"
     },
     {
-      "category": "主要",
-      "title": "台湾の九份 日本人男性が行方不明",
-      "link": "https://news.yahoo.co.jp/pickup/6601219?source=rss",
-      "published": "11/03 21:38",
-      "source": "Yahoo!ニュース",
-      "summary": "黒っぽい服を着て道路脇を1人で歩く男性。台湾の人気観光地で行方が分からなくなっている78歳の日本人男性です。"
-    },
-    {
-      "category": "社会",
-      "title": "トランプ政権に「共感」日本で23%",
-      "link": "https://news.yahoo.co.jp/pickup/6601133?source=rss",
-      "published": "11/03 09:06",
-      "source": "Yahoo!ニュース",
-      "summary": "■「日本にもトランプ氏のような強い政治家が必要」52.6％JNNのデジタルメディア「TBS NEWS DIG」とJX通信社が日本国内で行った合同調査で、「日本にも、トランプ大統領のように強い指導力で"
-    },
-    {
-      "category": "経済",
-      "title": "GMO熊谷社長ら 報酬を3カ月減額",
-      "link": "https://news.yahoo.co.jp/pickup/6601082?source=rss",
-      "published": "11/02 18:24",
-      "source": "Yahoo!ニュース",
-      "summary": "ＧＭＯインターネットのＦＸ（外国為替証拠金）取引用クラウドサービスが不正アクセスを受け、利用者とみられる個人情報が公開された問題で、同社は２日、親会社のＧＭＯインターネットグループの熊谷正寿会長兼社"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "GMO 侵入から2カ月なぜ気付かず",
-      "link": "https://news.yahoo.co.jp/pickup/6601132?source=rss",
-      "published": "11/03 09:06",
-      "source": "Yahoo!ニュース",
-      "summary": "不正アクセスが確認されて約2週間。GMOインターネットグループの熊谷正寿代表が、初めて記者会見を行いました。2年前にシステムの脆弱性をグループ内で指摘されながら、対応が不十分だったと認め、謝罪しまし"
-    },
-    {
-      "category": "スポーツ",
-      "title": "大谷 4年連続MVPへ最終候補入り",
-      "link": "https://news.yahoo.co.jp/pickup/6601128?source=rss",
-      "published": "11/03 08:46",
-      "source": "Yahoo!ニュース",
-      "summary": "全米野球記者協会（ＢＢＷＡＡ）が選出する今季の最優秀選手（ＭＶＰ）の最終候補各リーグ３人が２日（日本時間３日）に発表され、ドジャース・大谷翔平投手（３２）が名を連ねた。両リーグのＭＶＰは、１２日（同"
-    },
-    {
       "category": "IT",
       "title": "GMO熊谷代表、会見で改めて謝罪　SNS投稿巡り「配慮が欠けていた」",
       "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002806/",
       "published": "11/02 19:20",
       "source": "ITmedia",
       "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、FX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡る記者会見で謝罪した。"
-    },
-    {
-      "category": "主要",
-      "title": "露軍 外国人兵に入れ墨で識別番号",
-      "link": "https://news.yahoo.co.jp/pickup/6601163?source=rss",
-      "published": "11/03 13:40",
-      "source": "Yahoo!ニュース",
-      "summary": "ウクライナ侵略を続けるロシアが、入隊させた外国人戦闘員に入れ墨で識別番号を刻んで管理している。ウクライナ軍の捕虜となったインドネシア人のアヨク・スカムトさん（４９）が本紙のオンライン取材に応じ、露軍"
     },
     {
       "category": "IT",
@@ -384,46 +440,6 @@
       "published": "11/02 11:06",
       "source": "ITmedia",
       "summary": "氏名、住所、電話番号、生年月日、性別、メールアドレスを含む。"
-    },
-    {
-      "category": "IT",
-      "title": "クラブツーリズムに不正アクセス　個人情報約432万件漏えいの可能性、サイト停止",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002782/",
-      "published": "11/02 10:48",
-      "source": "ITmedia",
-      "summary": "氏名、国籍、性別、生年月日・年齢、住所、電話番号、メールアドレス、会員ID、緊急連絡先が対象。"
-    },
-    {
-      "category": "IT",
-      "title": "ロゴ画像用の公開領域に顧客ファイルも保存　GMO系シングルサインオン、4.5万人分漏えい",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002780/",
-      "published": "11/02 10:23",
-      "source": "ITmedia",
-      "summary": "顧客情報を含む一時ファイルなどを、ロゴ画像と同じ公開領域に保存する設計になっていたことで、約9年間にわたり外部から取得できる状態だったことが原因。"
-    },
-    {
-      "category": "IT",
-      "title": "Google、宇宙のTPUから初のAI応答を受信　「Project Suncatcher」試作衛星で「Gemma 4」が俳句を詠む",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002779/",
-      "published": "11/02 08:59",
-      "source": "ITmedia",
-      "summary": "Googleは、宇宙AIデータセンター構想「Project Suncatcher」の試作衛星に搭載したTPUから、AIによる最初の応答を受信したと発表した。軌道上のオープンモデル「Gemma 4」にプロンプトを送信し、応答を確認した。今後は宇宙空間でのTPUの動作評価試験を進める。"
-    },
-    {
-      "category": "IT",
-      "title": "FBI、Binanceからの60億ドル超の暗号資産窃盗は北朝鮮「TraderTraitor」の犯行と発表",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002778/",
-      "published": "11/02 07:28",
-      "source": "ITmedia",
-      "summary": "FBIは、暗号資産取引所Binanceから60億ドル超の暗号資産が盗まれた事件を北朝鮮のサイバー攻撃活動「TraderTraitor」による犯行と発表した。FBIなどは民間事業者に資金洗浄の阻止を要請。なお、Binance Japanは日本の顧客資産は安全に保管されていると報告し、影響はないとしている。"
-    },
-    {
-      "category": "IT",
-      "title": "Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃",
-      "link": "https://www.itmedia.co.jp/news/article/2611/02/2000002777/",
-      "published": "11/02 07:00",
-      "source": "ITmedia",
-      "summary": "Anthropicは、「Claude」の個人向け有料プランの名称を変更し、月額100ドルの「Max 5x」を「Max」に、月額200ドルの「Max 20x」を「Ultra」にした。料金は据え置き。Ultraでは確認済みアカウントを対象に、5時間ごとの利用制限を撤廃した。週ごとの制限は変わらない。"
     }
   ],
   "errors": [
