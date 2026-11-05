@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-05T18:05:09.946910+00:00",
+  "updated": "2026-11-05T23:40:39.107552+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "蔵内前議長 条件尽くしの異例会見",
-      "link": "https://news.yahoo.co.jp/pickup/6601474?source=rss",
-      "published": "11/05 23:40",
+      "title": "経産省 中部電力に業務改善命令",
+      "link": "https://news.yahoo.co.jp/pickup/6601489?source=rss",
+      "published": "11/06 08:22",
       "source": "Yahoo!ニュース",
-      "summary": "金銭授受疑惑や高額な海外視察など様々な問題が浮上している福岡県議会。5日、渦中の蔵内勇夫前議長が初めて記者会見に応じましたが、蔵内事務所が主催、記者の数や放送を制限するなど会見は異例の条件付きで行わ"
+      "summary": "中部電力浜岡原発（静岡県御前崎市）の耐震設計データの不正など、中部電で不祥事が相次いだことを受け、経済産業省は6日、電気事業法に基づき中部電に業務の改善を命令した。データ不正のほか、社内のチェック体"
     },
     {
       "category": "社会",
-      "title": "首相 米大統領と協力していきたい",
-      "link": "https://news.yahoo.co.jp/pickup/6601463?source=rss",
-      "published": "11/05 20:52",
+      "title": "サイバー攻撃で強制遮断検討 政府",
+      "link": "https://news.yahoo.co.jp/pickup/6601490?source=rss",
+      "published": "11/06 08:27",
       "source": "Yahoo!ニュース",
-      "summary": "アメリカ中間選挙の結果を受けて高市総理大臣が初めてコメントし「これからもトランプ大統領と協力していきたい」と述べました。"
+      "summary": "政府が近くまとめるサイバーセキュリティー緊急対策パッケージに、二次被害の防止対策として、ウェブサイトへの接続を強制的に遮断する「ブロッキング」の検討が盛り込まれることが分かった。「アクセス抑止策」と"
     },
     {
       "category": "経済",
-      "title": "内外出版社が事業停止 破産申請へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601468?source=rss",
-      "published": "11/05 22:20",
+      "title": "コロナ融資 918億円が回収困難に",
+      "link": "https://news.yahoo.co.jp/pickup/6601485?source=rss",
+      "published": "11/06 07:52",
       "source": "Yahoo!ニュース",
-      "summary": "（株）内外出版社（台東区）は11月5日までに事業を停止し、東京地裁への破産申請を高松和彦弁護士（山田・合谷・鈴木法律事務所、千代田区日比谷公園1－3）ほか2名に一任した。関係者によると、破産申請まで"
+      "summary": "新型コロナウイルス感染症の影響で資金難に陥った福祉施設や医療機関向けに独立行政法人福祉医療機構が実施した融資を会計検査院が調べたところ、貸付先の破綻などで918億円が回収困難になっていることが5日、"
     },
     {
       "category": "AI・テクノロジー",
@@ -35,6 +35,54 @@
     },
     {
       "category": "スポーツ",
+      "title": "通算76勝のSB東浜巨 広島移籍へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601476?source=rss",
+      "published": "11/06 06:12",
+      "source": "Yahoo!ニュース",
+      "summary": "ソフトバンク東浜巨投手（36）が広島へ移籍することが5日、分かった。近日中に発表される。昨オフにフリーエージェント（FA）権を行使し宣言残留。強い気持ちで臨んだ今季は、右肩の故障もありプロ14年目で"
+    },
+    {
+      "category": "IT",
+      "title": "ドコモ通信障害、約14時間で復旧　原因は「交換機の輻輳」、不正アクセスの形跡なし",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002932/",
+      "published": "11/06 08:04",
+      "source": "ITmedia",
+      "summary": "原因は、「5G SA」契約者を収容する交換機の輻輳。障害の発生前後を含め、不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。"
+    },
+    {
+      "category": "主要",
+      "title": "広島・床田FA行使へ 主力流出か",
+      "link": "https://news.yahoo.co.jp/pickup/6601483?source=rss",
+      "published": "11/06 07:42",
+      "source": "Yahoo!ニュース",
+      "summary": "広島・床田寛樹投手（31）が、6日に今季取得した国内FA権を行使することが5日、分かった。"
+    },
+    {
+      "category": "社会",
+      "title": "首相 米大統領と協力していきたい",
+      "link": "https://news.yahoo.co.jp/pickup/6601463?source=rss",
+      "published": "11/05 20:52",
+      "source": "Yahoo!ニュース",
+      "summary": "アメリカ中間選挙の結果を受けて高市総理大臣が初めてコメントし「これからもトランプ大統領と協力していきたい」と述べました。"
+    },
+    {
+      "category": "経済",
+      "title": "日本製紙 八代工場の紙生産断念へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601473?source=rss",
+      "published": "11/05 22:52",
+      "source": "Yahoo!ニュース",
+      "summary": "日本製紙が、7月の熊本地震で被災した八代工場（熊本県八代市）について、紙・パルプの生産再開を断念する方針を固めたことが5日、分かった。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "ドコモ オンラインサービス停止",
+      "link": "https://news.yahoo.co.jp/pickup/6601413?source=rss",
+      "published": "11/05 12:52",
+      "source": "Yahoo!ニュース",
+      "summary": "NTTドコモは、不正アクセスを受けた可能性が高いとして、オンラインのサービスの一部を停止しました。"
+    },
+    {
+      "category": "スポーツ",
       "title": "田嶋幸三氏 FIFA会長選へ出馬表明",
       "link": "https://news.yahoo.co.jp/pickup/6601466?source=rss",
       "published": "11/05 22:12",
@@ -43,19 +91,115 @@
     },
     {
       "category": "IT",
-      "title": "医療機関のサイバーセキュリティー強化へ　ランサムウエア攻撃で診療への長期影響リスク",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002921/",
-      "published": "11/05 17:19",
+      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+      "published": "11/06 07:57",
       "source": "ITmedia",
-      "summary": "厚生労働省は来年度、医療機関のサイバーセキュリティの大幅な強化を進める方針だ。ランサムウェア攻撃の脅威は医療機関にも及んでおり、対策強化が不可欠と判断した。"
+      "summary": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。"
     },
     {
       "category": "主要",
-      "title": "日本製紙 八代工場の紙生産断念へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601473?source=rss",
-      "published": "11/05 22:52",
+      "title": "プルデンシャル報告書に低評価",
+      "link": "https://news.yahoo.co.jp/pickup/6601484?source=rss",
+      "published": "11/06 07:41",
       "source": "Yahoo!ニュース",
-      "summary": "日本製紙が、7月の熊本地震で被災した八代工場（熊本県八代市）について、紙・パルプの生産再開を断念する方針を固めたことが5日、分かった。"
+      "summary": "プルデンシャル生命保険の営業社員らによる巨額の金銭詐取問題を巡り、弁護士ら有志でつくる「第三者委員会報告書格付け委員会」は5日、プルデンシャル生命が設置した特別調査委員会の報告書に対する評価結果を発"
+    },
+    {
+      "category": "社会",
+      "title": "めぐみさん拉致 母「会いたい」",
+      "link": "https://news.yahoo.co.jp/pickup/6601458?source=rss",
+      "published": "11/05 20:11",
+      "source": "Yahoo!ニュース",
+      "summary": "横田めぐみさんが北朝鮮に拉致されてからまもなく49年です。事態の進展が見られないなか、母・早紀江さんが心境を語りました。"
+    },
+    {
+      "category": "経済",
+      "title": "「ドンキ流トイザらス」が始動",
+      "link": "https://news.yahoo.co.jp/pickup/6601471?source=rss",
+      "published": "11/05 22:36",
+      "source": "Yahoo!ニュース",
+      "summary": "ディスカウント店「ドン・キホーテ」の運営会社は5日、10月に買収した玩具店「トイザらス」で、クリスマス商戦のセールを始めた。早期の商戦スタートで需要を喚起するのが狙い。店舗の改装も進めており、売り場"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "「e-Tax」の運用を再開 国税庁",
+      "link": "https://news.yahoo.co.jp/pickup/6601404?source=rss",
+      "published": "11/05 12:03",
+      "source": "Yahoo!ニュース",
+      "summary": "国税庁は5日、前日から停止していた電子申告納税システム「e―Tax」の運用を再開したと発表した。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "森保一監督 年内での勇退が確実に",
+      "link": "https://news.yahoo.co.jp/pickup/6601465?source=rss",
+      "published": "11/05 20:58",
+      "source": "Yahoo!ニュース",
+      "summary": "サッカー日本代表の森保一監督が年内で指揮を終え、大岩剛新監督が予定通り来年3月から代表を率いることが確実になった。5日、日本サッカー協会は来年3月25、30日に国際親善試合の国内開催を発表。大岩監督"
+    },
+    {
+      "category": "IT",
+      "title": "年収やローン保証額、免許証番号など最大32万人分漏えい　SMBC系、保証業務システムに不正アクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002930/",
+      "published": "11/06 07:43",
+      "source": "ITmedia",
+      "summary": "SMBCコンシューマーファイナンスは、カードローンなどの保証業務で使っているシステムが第三者による不正アクセスを受け、最大32万118人分の氏名や住所、運転免許証番号、勤務先の年収、ローン保証額などが外部に送信されたと発表した。"
+    },
+    {
+      "category": "主要",
+      "title": "東北沖で「ひずみ」蓄積再開 研究",
+      "link": "https://news.yahoo.co.jp/pickup/6601481?source=rss",
+      "published": "11/06 07:30",
+      "source": "Yahoo!ニュース",
+      "summary": "２０１１年の東日本大震災でずれ動いた東北沖の震源域で、ひずみの蓄積が再開していることがわかったと、東北大などの研究チームが発表した。震災でひずみはいったん解放されたが、約１０年後に再び蓄積し始めたと"
+    },
+    {
+      "category": "社会",
+      "title": "自転車の青切符 半年で約1.6万件",
+      "link": "https://news.yahoo.co.jp/pickup/6601460?source=rss",
+      "published": "11/05 20:08",
+      "source": "Yahoo!ニュース",
+      "summary": "16歳以上の自転車の交通違反に反則金納付を通告できる交通反則切符（青切符）制度が4月に導入されてから半年で、1万5919件（暫定値）の青切符が交付されたことが5日、警察庁のまとめで分かった。走行中に"
+    },
+    {
+      "category": "経済",
+      "title": "内外出版社が事業停止 破産申請へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601468?source=rss",
+      "published": "11/05 22:20",
+      "source": "Yahoo!ニュース",
+      "summary": "（株）内外出版社（台東区）は11月5日までに事業を停止し、東京地裁への破産申請を高松和彦弁護士（山田・合谷・鈴木法律事務所、千代田区日比谷公園1－3）ほか2名に一任した。関係者によると、破産申請まで"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "AI効果「期待超えた」日本企業9%",
+      "link": "https://news.yahoo.co.jp/pickup/6601401?source=rss",
+      "published": "11/05 11:56",
+      "source": "Yahoo!ニュース",
+      "summary": "２０２２年１１月、米オープンＡＩによる「チャットＧＰＴ」の公開は世界に衝撃を与えた。 質問に自然な表現で答えたり、指示に沿って文章を書いたりする様子が関心を集め、公開からおよそ２カ月で利用者は１億人"
+    },
+    {
+      "category": "スポーツ",
+      "title": "Cロナウド ポルトガル代表を引退",
+      "link": "https://news.yahoo.co.jp/pickup/6601461?source=rss",
+      "published": "11/05 20:03",
+      "source": "Yahoo!ニュース",
+      "summary": "自身のSNSで発表した サウジアラビアのアル・ナスルに所属するFWクリスティアーノ・ロナウドは11月5日、自身の公式SNSを通じて、ポルトガル代表から引退することを表明した。"
+    },
+    {
+      "category": "IT",
+      "title": "ドコモ不正アクセス、最大30万件の顧客情報流出　「My docomo」など緊急メンテ、再開未定",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002929/",
+      "published": "11/06 07:08",
+      "source": "ITmedia",
+      "summary": "My docomoはメンテが続いており、復旧の見込みは未定。"
+    },
+    {
+      "category": "主要",
+      "title": "ドコモ通信障害が復旧 原因を公表",
+      "link": "https://news.yahoo.co.jp/pickup/6601482?source=rss",
+      "published": "11/06 07:25",
+      "source": "Yahoo!ニュース",
+      "summary": "NTTドコモは通信障害が復旧したと案内した。11月5日11時18分頃に発生した全国規模の携帯電話サービスの通信障害は、翌6日1時20分頃に復旧し、サービスが正常に利用できる状態となった。発生から約1"
     },
     {
       "category": "社会",
@@ -75,198 +219,6 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "ドコモ障害「5G SA」のみで発生",
-      "link": "https://news.yahoo.co.jp/pickup/6601432?source=rss",
-      "published": "11/05 16:35",
-      "source": "Yahoo!ニュース",
-      "summary": "NTTドコモの「5G」の一部のサービスで、全国で通話や通信が利用しづらい状況が続いています。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "森保一監督 年内での勇退が確実に",
-      "link": "https://news.yahoo.co.jp/pickup/6601465?source=rss",
-      "published": "11/05 20:58",
-      "source": "Yahoo!ニュース",
-      "summary": "サッカー日本代表の森保一監督が年内で指揮を終え、大岩剛新監督が予定通り来年3月から代表を率いることが確実になった。5日、日本サッカー協会は来年3月25、30日に国際親善試合の国内開催を発表。大岩監督"
-    },
-    {
-      "category": "IT",
-      "title": "【更新】ドコモ、全国で通信障害　通話・データとも利用しづらく",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002904/",
-      "published": "11/05 15:27",
-      "source": "ITmedia",
-      "summary": "音声通話、データ通信、SMSが利用しづらい状態だ。【更新】"
-    },
-    {
-      "category": "主要",
-      "title": "「ドンキ流トイザらス」が始動",
-      "link": "https://news.yahoo.co.jp/pickup/6601471?source=rss",
-      "published": "11/05 22:36",
-      "source": "Yahoo!ニュース",
-      "summary": "ディスカウント店「ドン・キホーテ」の運営会社は5日、10月に買収した玩具店「トイザらス」で、クリスマス商戦のセールを始めた。早期の商戦スタートで需要を喚起するのが狙い。店舗の改装も進めており、売り場"
-    },
-    {
-      "category": "社会",
-      "title": "個人向け国債「複利型」導入検討",
-      "link": "https://news.yahoo.co.jp/pickup/6601451?source=rss",
-      "published": "11/05 18:40",
-      "source": "Yahoo!ニュース",
-      "summary": "Takaya Yamaguchi［東京 ５日 ロイター］ - 財務省が進める個人向け国債の商品性見直し案の概要が５日、‌判明した。長期保有に伴う資産形成⁠を後押しするため、新たに「複利型」の導入を検討"
-    },
-    {
-      "category": "経済",
-      "title": "サントリー 酒類364品目値上げへ",
-      "link": "https://news.yahoo.co.jp/pickup/6601448?source=rss",
-      "published": "11/05 18:03",
-      "source": "Yahoo!ニュース",
-      "summary": "大手飲料メーカーのサントリーホールディングスは、来年春からウイスキーや輸入ワインなどの酒類あわせて３６４品目を値上げすると発表しました。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "ドコモ オンラインサービス停止",
-      "link": "https://news.yahoo.co.jp/pickup/6601413?source=rss",
-      "published": "11/05 12:52",
-      "source": "Yahoo!ニュース",
-      "summary": "NTTドコモは、不正アクセスを受けた可能性が高いとして、オンラインのサービスの一部を停止しました。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "Cロナウド ポルトガル代表を引退",
-      "link": "https://news.yahoo.co.jp/pickup/6601461?source=rss",
-      "published": "11/05 20:03",
-      "source": "Yahoo!ニュース",
-      "summary": "自身のSNSで発表した サウジアラビアのアル・ナスルに所属するFWクリスティアーノ・ロナウドは11月5日、自身の公式SNSを通じて、ポルトガル代表から引退することを表明した。"
-    },
-    {
-      "category": "IT",
-      "title": "ドコモ通信障害は「5G SA」契約者のみ　4G選択→再起動で利用できる可能性も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002912/",
-      "published": "11/05 15:20",
-      "source": "ITmedia",
-      "summary": "5G SAは、5G専用の設備のみで通信するオプション。4G通信が混雑している時もその影響を受けず、快適に通信できるとうたっている。"
-    },
-    {
-      "category": "主要",
-      "title": "市場で1匹10万円の高級魚 養殖へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601469?source=rss",
-      "published": "11/05 22:25",
-      "source": "Yahoo!ニュース",
-      "summary": "全国初の技術開発に挑みます。「幻の高級魚」とも呼ばれるシロアマダイの陸上養殖を目指し、官民連携の共同事業体が設立されました。"
-    },
-    {
-      "category": "社会",
-      "title": "税の無駄など1445億円 検査院報告",
-      "link": "https://news.yahoo.co.jp/pickup/6601446?source=rss",
-      "published": "11/05 17:46",
-      "source": "Yahoo!ニュース",
-      "summary": "会計検査院は５日、２０２５年度の決算検査報告書を高市首相に提出した。報告書によると、国による税金の無駄遣いや不適切会計は全体で２５０件、総額１４４５億円に上り、前年度に比べて６９件減ったものの、金額"
-    },
-    {
-      "category": "経済",
-      "title": "シヤチハタ 化粧品事業に参入へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601444?source=rss",
-      "published": "11/05 17:29",
-      "source": "Yahoo!ニュース",
-      "summary": "シヤチハタ（名古屋市）は5日、化粧品事業に参入すると発表した。 来春に新ブランドを立ち上げ、第1弾として化粧水や洗顔料などスキンケア製品を発売する。デジタル化に伴い看板商品であるはんこやスタンプ台の"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "「e-Tax」の運用を再開 国税庁",
-      "link": "https://news.yahoo.co.jp/pickup/6601404?source=rss",
-      "published": "11/05 12:03",
-      "source": "Yahoo!ニュース",
-      "summary": "国税庁は5日、前日から停止していた電子申告納税システム「e―Tax」の運用を再開したと発表した。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "西川遥輝 日ハムへの残留を発表",
-      "link": "https://news.yahoo.co.jp/pickup/6601431?source=rss",
-      "published": "11/05 16:29",
-      "source": "Yahoo!ニュース",
-      "summary": "◇5日 日本ハム秋季キャンプ（エスコンフィールド北海道） 日本ハムの西川遥輝外野手（34）が5日、エスコンフィールド北海道で記者会見し、フリーエージェント（FA）権を行使せずに来季も同球団でプレーす"
-    },
-    {
-      "category": "IT",
-      "title": "不正アクセスで停止の「ふるさとチョイス」6日再開　まずWeb版から",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002910/",
-      "published": "11/05 15:06",
-      "source": "ITmedia",
-      "summary": "同サイトは19日にサービスを停止。20日には、会員の氏名や住所、電話番号、ハッシュ化された寄附控除試算額など445万4097件の個人情報が外部に流出したと発表していた。"
-    },
-    {
-      "category": "主要",
-      "title": "露 JT資産を同国企業の管理下に",
-      "link": "https://news.yahoo.co.jp/pickup/6601467?source=rss",
-      "published": "11/05 21:57",
-      "source": "Yahoo!ニュース",
-      "summary": "ロシアのプーチン大統領は5日、日本たばこ産業（JT）がロシアに保有する資産を同国企業の一時管理下に移すよう命じた。"
-    },
-    {
-      "category": "社会",
-      "title": "「フレネミー」26年流行語候補に",
-      "link": "https://news.yahoo.co.jp/pickup/6601423?source=rss",
-      "published": "11/05 15:14",
-      "source": "Yahoo!ニュース",
-      "summary": "「2026 T＆D保険グループ新語・流行語大賞」 「ドパガキ」「フレネミー」「NISA貧乏」――。聞いたことはあっても、意味まで説明できるだろうか。「現代用語の基礎知識」選「2026 T＆D保険グル"
-    },
-    {
-      "category": "経済",
-      "title": "プロ野球取材で球を集め売却 謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6601440?source=rss",
-      "published": "11/05 17:12",
-      "source": "Yahoo!ニュース",
-      "summary": "時事通信社は5日、今年2月にプロ野球4球団の春季キャンプを取材した編集局映像センター写真部所属の20代の男性社員が、練習球を無断で持ち帰り、フリーマーケットサイトで売却していたと発表した。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "AI効果「期待超えた」日本企業9%",
-      "link": "https://news.yahoo.co.jp/pickup/6601401?source=rss",
-      "published": "11/05 11:56",
-      "source": "Yahoo!ニュース",
-      "summary": "２０２２年１１月、米オープンＡＩによる「チャットＧＰＴ」の公開は世界に衝撃を与えた。 質問に自然な表現で答えたり、指示に沿って文章を書いたりする様子が関心を集め、公開からおよそ２カ月で利用者は１億人"
-    },
-    {
-      "category": "スポーツ",
-      "title": "ヤクルト 戸田球場などを売却へ",
-      "link": "https://news.yahoo.co.jp/pickup/6601430?source=rss",
-      "published": "11/05 16:25",
-      "source": "Yahoo!ニュース",
-      "summary": "ヤクルト本社は5日、埼玉・戸田市に所有している「ヤクルト戸田総合グラウンドおよび付属施設」を学校法人大正大学へ売却すると発表した。「ヤクルト戸田総合グラウンド」は、ヤクルト戸田球場、陸上競技トラック"
-    },
-    {
-      "category": "IT",
-      "title": "涙に叱責に持論……GMO熊谷代表の謝罪会見、どこがまずかった？　危機管理広報のプロが分析",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002873/",
-      "published": "11/05 14:42",
-      "source": "ITmedia",
-      "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、グループ企業で発生した不正アクセス問題を巡り、約3時間半にわたる記者会見を開いた。持論の展開や涙、社員への叱責など、本来の説明とは別の「撮れ高」を生んだ会見から企業は何を学ぶべきか、危機管理広報の視点から検証する。"
-    },
-    {
-      "category": "主要",
-      "title": "めぐみさん拉致 母「会いたい」",
-      "link": "https://news.yahoo.co.jp/pickup/6601458?source=rss",
-      "published": "11/05 20:11",
-      "source": "Yahoo!ニュース",
-      "summary": "横田めぐみさんが北朝鮮に拉致されてからまもなく49年です。事態の進展が見られないなか、母・早紀江さんが心境を語りました。"
-    },
-    {
-      "category": "社会",
-      "title": "サイバー救援隊を創設へ 政府案",
-      "link": "https://news.yahoo.co.jp/pickup/6601372?source=rss",
-      "published": "11/05 07:41",
-      "source": "Yahoo!ニュース",
-      "summary": "サイバー攻撃による個人情報の漏えいが相次ぐ事態を受け、政府が近くまとめる緊急対策パッケージの概要案が判明した。官民の専門人材からなる「官民サイバー救援隊（仮称）」を創設し、必要性が高い場合に企業や組"
-    },
-    {
-      "category": "経済",
-      "title": "ハリポタ英旗艦店 初日に抗議活動",
-      "link": "https://news.yahoo.co.jp/pickup/6601419?source=rss",
-      "published": "11/05 15:11",
-      "source": "Yahoo!ニュース",
-      "summary": "ロンドン中心部のオックスフォード・ストリートにある『ハリー・ポッター』の新店舗で、トランスジェンダーの権利を訴える人々による抗議活動が行われた。"
-    },
-    {
-      "category": "AI・テクノロジー",
       "title": "仏銀行サイバー攻撃 177億円流出",
       "link": "https://news.yahoo.co.jp/pickup/6601387?source=rss",
       "published": "11/05 10:14",
@@ -275,27 +227,35 @@
     },
     {
       "category": "スポーツ",
-      "title": "坂倉将吾 カープに「感謝もある」",
-      "link": "https://news.yahoo.co.jp/pickup/6601426?source=rss",
-      "published": "11/05 15:49",
+      "title": "電撃辞任の岡田氏 JFA会長が言及",
+      "link": "https://news.yahoo.co.jp/pickup/6601449?source=rss",
+      "published": "11/05 18:03",
       "source": "Yahoo!ニュース",
-      "summary": "広島の坂倉将吾捕手（２８）が５日、今年７月に取得した国内フリーエージェント（ＦＡ）権を行使することを表明した。この日マツダを訪れ、申請書類を提出した。取材に応じ、「１０年間カープで、すごく感謝もある"
+      "summary": "日本サッカー協会（ＪＦＡ）が５日、都内のＪＦＡハウスで理事会を開催した。理事会後、宮本恒靖会長が取材に応じ、１０月２４日付で副会長を電撃辞任した岡田武史氏について言及。「長年、日本サッカーについて、"
     },
     {
       "category": "IT",
-      "title": "公表済みの脆弱性に気づかず39万6920人分漏えい　採用サービスApplyNow　一部マイナンバーや口座情報も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002908/",
-      "published": "11/05 14:23",
+      "title": "OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
+      "published": "11/06 07:03",
       "source": "ITmedia",
-      "summary": "採用関連サービスを手掛けるApplyNowは11月4日、9月9日に公表した同社サービスへの不正アクセスについて、39万6920人の個人情報が漏えいしたと発表した。"
+      "summary": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。"
     },
     {
       "category": "主要",
-      "title": "自転車の青切符 半年で約1.6万件",
-      "link": "https://news.yahoo.co.jp/pickup/6601460?source=rss",
-      "published": "11/05 20:08",
+      "title": "ZIP!でドラマ復活へ 橋本環奈主演",
+      "link": "https://news.yahoo.co.jp/pickup/6601480?source=rss",
+      "published": "11/06 07:20",
       "source": "Yahoo!ニュース",
-      "summary": "16歳以上の自転車の交通違反に反則金納付を通告できる交通反則切符（青切符）制度が4月に導入されてから半年で、1万5919件（暫定値）の青切符が交付されたことが5日、警察庁のまとめで分かった。走行中に"
+      "summary": "女優の橋本環奈（２７）が、日本テレビ系情報番組「ＺＩＰ！」（月～金曜・前５時５０分）内で約４年ぶりに復活する朝ドラマ「あたしゃ川尻こだまだよ」（来年１月１１日スタート、前８時５０分頃）に主演すること"
+    },
+    {
+      "category": "社会",
+      "title": "個人向け国債「複利型」導入検討",
+      "link": "https://news.yahoo.co.jp/pickup/6601451?source=rss",
+      "published": "11/05 18:40",
+      "source": "Yahoo!ニュース",
+      "summary": "Takaya Yamaguchi［東京 ５日 ロイター］ - 財務省が進める個人向け国債の商品性見直し案の概要が５日、‌判明した。長期保有に伴う資産形成⁠を後押しするため、新たに「複利型」の導入を検討"
     },
     {
       "category": "AI・テクノロジー",
@@ -307,27 +267,35 @@
     },
     {
       "category": "スポーツ",
-      "title": "ダイアモンドユカイ娘AS代表候補",
-      "link": "https://news.yahoo.co.jp/pickup/6601416?source=rss",
-      "published": "11/05 13:47",
+      "title": "西川遥輝 日ハムへの残留を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601431?source=rss",
+      "published": "11/05 16:29",
       "source": "Yahoo!ニュース",
-      "summary": "日本水泳連盟が４日、２０２７年度のアーティスティックスイミング日本代表を発表し、ミュージシャンのダイアモンド☆ユカイの娘・田所新菜（１６）＝井村ＡＳク＝が代表候補入りした。"
+      "summary": "◇5日 日本ハム秋季キャンプ（エスコンフィールド北海道） 日本ハムの西川遥輝外野手（34）が5日、エスコンフィールド北海道で記者会見し、フリーエージェント（FA）権を行使せずに来季も同球団でプレーす"
     },
     {
       "category": "IT",
-      "title": "モスやワークマン、IIJmioも　アララへの不正アクセスで顧客情報の流出発表相次ぐ",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002907/",
-      "published": "11/05 14:11",
+      "title": "医療機関のサイバーセキュリティー強化へ　ランサムウエア攻撃で診療への長期影響リスク",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002921/",
+      "published": "11/05 17:19",
       "source": "ITmedia",
-      "summary": "メール配信サービスを提供するアララへの不正アクセスを巡り、モスフードサービスやワークマン、IIJなど利用企業による顧客情報流出の発表が相次いでいる。当初は影響がないと案内していた企業が、後から流出を公表したケースもある。"
+      "summary": "厚生労働省は来年度、医療機関のサイバーセキュリティの大幅な強化を進める方針だ。ランサムウェア攻撃の脅威は医療機関にも及んでおり、対策強化が不可欠と判断した。"
     },
     {
       "category": "主要",
-      "title": "電撃辞任の岡田氏 JFA会長が言及",
-      "link": "https://news.yahoo.co.jp/pickup/6601449?source=rss",
-      "published": "11/05 18:03",
+      "title": "山梨ダルク代表 1.1億円私的流用",
+      "link": "https://news.yahoo.co.jp/pickup/6601479?source=rss",
+      "published": "11/06 06:56",
       "source": "Yahoo!ニュース",
-      "summary": "日本サッカー協会（ＪＦＡ）が５日、都内のＪＦＡハウスで理事会を開催した。理事会後、宮本恒靖会長が取材に応じ、１０月２４日付で副会長を電撃辞任した岡田武史氏について言及。「長年、日本サッカーについて、"
+      "summary": "薬物やアルコール依存症の回復支援を行う一般社団法人「山梨ダルク本部」（甲府市）など２法人の代表理事の男性（５８）が、法人資金計約１億１０００万円を私的に流用したとして、２法人が東京国税局から源泉所得"
+    },
+    {
+      "category": "社会",
+      "title": "税の無駄など1445億円 検査院報告",
+      "link": "https://news.yahoo.co.jp/pickup/6601446?source=rss",
+      "published": "11/05 17:46",
+      "source": "Yahoo!ニュース",
+      "summary": "会計検査院は５日、２０２５年度の決算検査報告書を高市首相に提出した。報告書によると、国による税金の無駄遣いや不適切会計は全体で２５０件、総額１４４５億円に上り、前年度に比べて６９件減ったものの、金額"
     },
     {
       "category": "AI・テクノロジー",
@@ -336,6 +304,78 @@
       "published": "11/04 18:32",
       "source": "Yahoo!ニュース",
       "summary": "「無印良品」で新たにクレジットカード会員のカード番号などおよそ109万件も、流出の可能性が明らかになりました。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "坂倉将吾 カープに「感謝もある」",
+      "link": "https://news.yahoo.co.jp/pickup/6601426?source=rss",
+      "published": "11/05 15:49",
+      "source": "Yahoo!ニュース",
+      "summary": "広島の坂倉将吾捕手（２８）が５日、今年７月に取得した国内フリーエージェント（ＦＡ）権を行使することを表明した。この日マツダを訪れ、申請書類を提出した。取材に応じ、「１０年間カープで、すごく感謝もある"
+    },
+    {
+      "category": "IT",
+      "title": "【更新】ドコモ、全国で通信障害　通話・データとも利用しづらく",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002904/",
+      "published": "11/05 15:27",
+      "source": "ITmedia",
+      "summary": "音声通話、データ通信、SMSが利用しづらい状態だ。【更新】"
+    },
+    {
+      "category": "主要",
+      "title": "NYダウ急落 一時1800ドル超安",
+      "link": "https://news.yahoo.co.jp/pickup/6601477?source=rss",
+      "published": "11/06 06:25",
+      "source": "Yahoo!ニュース",
+      "summary": "5日のニューヨーク株式市場でダウ工業株30種平均は急落し、下落幅は前日終値比で一時1800ドルを超えた。米中間選挙で野党・民主党が圧勝したことで人工知能（AI）の先行き懸念が一段と強まり、ハイテク株"
+    },
+    {
+      "category": "社会",
+      "title": "「フレネミー」26年流行語候補に",
+      "link": "https://news.yahoo.co.jp/pickup/6601423?source=rss",
+      "published": "11/05 15:14",
+      "source": "Yahoo!ニュース",
+      "summary": "「2026 T＆D保険グループ新語・流行語大賞」 「ドパガキ」「フレネミー」「NISA貧乏」――。聞いたことはあっても、意味まで説明できるだろうか。「現代用語の基礎知識」選「2026 T＆D保険グル"
+    },
+    {
+      "category": "IT",
+      "title": "ドコモ通信障害は「5G SA」契約者のみ　4G選択→再起動で利用できる可能性も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002912/",
+      "published": "11/05 15:20",
+      "source": "ITmedia",
+      "summary": "5G SAは、5G専用の設備のみで通信するオプション。4G通信が混雑している時もその影響を受けず、快適に通信できるとうたっている。"
+    },
+    {
+      "category": "IT",
+      "title": "不正アクセスで停止の「ふるさとチョイス」6日再開　まずWeb版から",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002910/",
+      "published": "11/05 15:06",
+      "source": "ITmedia",
+      "summary": "同サイトは19日にサービスを停止。20日には、会員の氏名や住所、電話番号、ハッシュ化された寄附控除試算額など445万4097件の個人情報が外部に流出したと発表していた。"
+    },
+    {
+      "category": "IT",
+      "title": "涙に叱責に持論……GMO熊谷代表の謝罪会見、どこがまずかった？　危機管理広報のプロが分析",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002873/",
+      "published": "11/05 14:42",
+      "source": "ITmedia",
+      "summary": "GMOインターネットグループの熊谷正寿代表は11月2日、グループ企業で発生した不正アクセス問題を巡り、約3時間半にわたる記者会見を開いた。持論の展開や涙、社員への叱責など、本来の説明とは別の「撮れ高」を生んだ会見から企業は何を学ぶべきか、危機管理広報の視点から検証する。"
+    },
+    {
+      "category": "IT",
+      "title": "公表済みの脆弱性に気づかず39万6920人分漏えい　採用サービスApplyNow　一部マイナンバーや口座情報も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002908/",
+      "published": "11/05 14:23",
+      "source": "ITmedia",
+      "summary": "採用関連サービスを手掛けるApplyNowは11月4日、9月9日に公表した同社サービスへの不正アクセスについて、39万6920人の個人情報が漏えいしたと発表した。"
+    },
+    {
+      "category": "IT",
+      "title": "モスやワークマン、IIJmioも　アララへの不正アクセスで顧客情報の流出発表相次ぐ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002907/",
+      "published": "11/05 14:11",
+      "source": "ITmedia",
+      "summary": "メール配信サービスを提供するアララへの不正アクセスを巡り、モスフードサービスやワークマン、IIJなど利用企業による顧客情報流出の発表が相次いでいる。当初は影響がないと案内していた企業が、後から流出を公表したケースもある。"
     },
     {
       "category": "IT",
@@ -400,46 +440,6 @@
       "published": "11/05 08:01",
       "source": "ITmedia",
       "summary": "Qualcommは、SpaceXと複数年契約を結び、モバイル通信サービス「Starlink Mobile」向けに5G基地局用の半導体プラットフォームを提供すると発表した。SpaceXは米国内で地上5Gネットワークの展開を開始し、数万カ所の基地局を設置して衛星通信と地上網の統合を目指す。"
-    },
-    {
-      "category": "IT",
-      "title": "米中間選挙で民主党が上下両院を奪還　AI規制強化に現実味、IT大手の株価は上昇",
-      "link": "https://www.itmedia.co.jp/news/article/2611/05/2000002888/",
-      "published": "11/05 07:11",
-      "source": "ITmedia",
-      "summary": "米中間選挙で民主党が上下両院の過半数を獲得し、トランプ政権のIT政策に影響が及ぶ見通しだ。CNBCなどによると、民主党はAI企業への監視を強める方針で、各自治体でデータセンター建設を制限する動きも強まっている。一方、既存設備の優位性からAmazonやMetaなどの大手IT株は上昇した。"
-    },
-    {
-      "category": "IT",
-      "title": "中国メーカー、出荷前のAndroid端末に犯罪用のバックドアを設置か　Googleが取引停止",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002884/",
-      "published": "11/04 18:51",
-      "source": "ITmedia",
-      "summary": "Googleは、中国企業が出荷前のAndroid端末にバックドアを仕込み、犯罪者にアクセス権を販売していたと発表した。130万台超に不正ソフトが組み込まれ、広告詐欺や通信中継に悪用していたという。"
-    },
-    {
-      "category": "IT",
-      "title": "無印良品、クレカ「MUJI Card」カード番号全ケタ、約109万件漏えいか　不正アクセスで続報",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002885/",
-      "published": "11/04 18:33",
-      "source": "ITmedia",
-      "summary": "「無印良品」を展開する良品計画は11月4日、10月30日に公表した公式アプリ「MUJIアプリ」への不正アクセスについて、当初は対象外としていたクレジットカード情報や氏名、住所なども外部からアクセスされた可能性があると発表した。新たに判明した対象には、クレジットカード「MUJI Card」のカード番号全桁を含む会員情報約109万件などが含まれる。"
-    },
-    {
-      "category": "IT",
-      "title": "議事録も資料もAIが作るなら、人間は何をする？　AIエージェントへ舵を切る「Plaud」を試す",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002764/",
-      "published": "11/04 17:39",
-      "source": "ITmedia",
-      "summary": "ビジネスシーンに浸透したAI文字起こし。AIボイスレコーダーのPlaudは、その先のAIエージェントへと舵を切った。新基盤「Plaud Intelligence」では録音から要約、資料作りまで自動で進み、対談の録音からは字幕ファイルまで作れた。新製品「Plaud One」は声でAIに指示できるイヤフォン型だが、相手の前で取り出す姿は会議の席になじむのか。"
-    },
-    {
-      "category": "IT",
-      "title": "デニーズアプリに不正アクセス　旧アプリ移行処理で認証情報を不正作成される　個人情報漏えいか",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002878/",
-      "published": "11/04 16:55",
-      "source": "ITmedia",
-      "summary": "旧デニーズアプリから新アプリへの移行に関するシステム処理で、第三者が認証情報を不正に作成し、一部の利用者のアカウントにアクセスできる状態になっていたという。"
     }
   ],
   "errors": [
