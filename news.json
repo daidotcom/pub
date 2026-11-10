@@ -1,13 +1,157 @@
 {
-  "updated": "2026-11-09T20:48:51.493606+00:00",
+  "updated": "2026-11-10T03:37:30.333138+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "自動運転バス運行初日に接触 運休",
-      "link": "https://news.yahoo.co.jp/pickup/6601972?source=rss",
-      "published": "11/10 00:44",
+      "title": "元交際相手に「いいね」14回 有罪",
+      "link": "https://news.yahoo.co.jp/pickup/6602027?source=rss",
+      "published": "11/10 12:32",
       "source": "Yahoo!ニュース",
-      "summary": "兵庫県豊岡市で9日午前11時半ごろ、自動運転バスが道路沿いの石垣に接触する事故がありました。乗客・乗員らにけが人はいませんでした。"
+      "summary": "ストーカー規制法に基づく禁止命令を受けていたにもかかわらず、交際相手だった男性のX（旧ツイッター）の投稿に「いいね」などを繰り返したとして、同法違反罪に問われた女（33）に東京地裁は10日、拘禁刑6"
+    },
+    {
+      "category": "社会",
+      "title": "「国内間通信」も監視対象に 検討",
+      "link": "https://news.yahoo.co.jp/pickup/6601992?source=rss",
+      "published": "11/10 09:26",
+      "source": "Yahoo!ニュース",
+      "summary": "政府はサイバー攻撃の兆候を把握するための通信情報の監視について、国内間の通信も対象に含める方向で検討に入った。国内の通信機器が外国勢力に乗っ取られ、攻撃に悪用される事態を防ぐ狙いがある。能動的サイバ"
+    },
+    {
+      "category": "経済",
+      "title": "火葬料 公営と民間で大きな差",
+      "link": "https://news.yahoo.co.jp/pickup/6601985?source=rss",
+      "published": "11/10 08:39",
+      "source": "Yahoo!ニュース",
+      "summary": "厚生労働省の研究班が実施した全国の火葬場を対象とした実態調査で、回答した有料施設の火葬料の平均が約１万４０００円だったことがわかった。大半が公営で、無料の施設も約２割あった。民間企業が運営する東京２"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "ホワイトハッカー 学生なぜ目指す",
+      "link": "https://news.yahoo.co.jp/pickup/6602006?source=rss",
+      "published": "11/10 10:31",
+      "source": "Yahoo!ニュース",
+      "summary": "全国で相次ぐ企業などへの不正アクセス。こうしたサイバー攻撃への脅威から私たちの情報を守るのが、「ホワイトハッカー」です。この「正義のハッカー」を育成する現場を取材しました。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "広島 楽天・太田光の獲得調査へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601987?source=rss",
+      "published": "11/10 08:22",
+      "source": "Yahoo!ニュース",
+      "summary": "広島が国内フリーエージェント（ＦＡ）権の行使を表明した楽天・太田光捕手（３０）の獲得調査に乗り出すことが９日、分かった。広島は１０年オフに国内ＦＡ権を行使し、ソフトバンクに移籍した内川（当時横浜）の"
+    },
+    {
+      "category": "IT",
+      "title": "Instagram、年齢を偽った10代もAIで検出　日本でも保護機能の適用を開始",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003056/",
+      "published": "11/10 12:27",
+      "source": "ITmedia",
+      "summary": "Metaは、Instagramで成人として年齢登録していても、AIが10代と推定したユーザーには「ティーンアカウント」の保護機能を強制適用する取り組みを日本を含む世界各国に拡大すると発表した。日本では同月10日より導入する。年齢詐称による制限回避を防ぐ狙いで、今後Threadsなどにも順次展開していく予定だ。"
+    },
+    {
+      "category": "主要",
+      "title": "徳島・阿波市長ら 詐欺疑いで逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6602024?source=rss",
+      "published": "11/10 12:17",
+      "source": "Yahoo!ニュース",
+      "summary": "徳島県阿波市の市長が、市が発注したケーブルネットワーク事業に関する工事代金の中に、自身が起こした交通事故に伴う修理費用・350万円を上乗せしてだましとった疑いで逮捕されました。"
+    },
+    {
+      "category": "社会",
+      "title": "自衛官定員削減 安保3文書明記へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601979?source=rss",
+      "published": "11/10 07:35",
+      "source": "Yahoo!ニュース",
+      "summary": "政府は年内に改定する安全保障３文書に、自衛官の定員（現在２４万７１５４人）の削減を明記する方針を固めた。少子化などの影響で自衛官のなり手不足は深刻化しており、限られた人材を効率的に運用できる体制へと"
+    },
+    {
+      "category": "経済",
+      "title": "個人向け国債人気 発行額8兆円超",
+      "link": "https://news.yahoo.co.jp/pickup/6601981?source=rss",
+      "published": "11/10 07:43",
+      "source": "Yahoo!ニュース",
+      "summary": "「金利ある世界」の本格到来で、個人向け国債の販売が好調だ。 利回り上昇で投資妙味が増し、2026年度の発行額は既に8兆円を超え、過去最高を更新した。定期預金を大きく上回る利率が個人マネーを引き寄せ、"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "VRで美少女化 30代男性の苦悩",
+      "link": "https://news.yahoo.co.jp/pickup/6601969?source=rss",
+      "published": "11/09 23:41",
+      "source": "Yahoo!ニュース",
+      "summary": "世界中がAI一色となった今、話題が減ったように見えるメタバース（仮想空間）。しかし実際には、利用者が増加するなど、今もその勢いは続いている。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "バスケ吉田亜沙美 がん公表の思い",
+      "link": "https://news.yahoo.co.jp/pickup/6601988?source=rss",
+      "published": "11/10 08:19",
+      "source": "Yahoo!ニュース",
+      "summary": "「これは、がんかもしれない」。日本の女子バスケットボール界を牽引（けんいん）してきた吉田亜沙美選手は、医師から告げられた言葉に、頭が真っ白になりました。"
+    },
+    {
+      "category": "IT",
+      "title": "仏スーパー冷蔵庫へのサイバー攻撃、イラン革命防衛隊関連組織の犯行と断定　フランス外務省が声明",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003053/",
+      "published": "11/10 12:05",
+      "source": "ITmedia",
+      "summary": "フランス外務省は11月9日、10月にフランス国内の大手スーパーなど約700店舗の冷蔵・冷凍設備がサイバー攻撃を受けた事件について、イラン革命防衛隊の関連組織の犯行だとする声明を発表した。"
+    },
+    {
+      "category": "主要",
+      "title": "G挨拶不在の織田 監督が胸中代弁",
+      "link": "https://news.yahoo.co.jp/pickup/6602023?source=rss",
+      "published": "11/10 12:04",
+      "source": "Yahoo!ニュース",
+      "summary": "巨人は１０日、ドラフト１位指名した横浜・織田翔希投手（１８）への指名あいさつを神奈川・横浜市内の同校で行った。水野雄仁編成本部長、榑松スカウトディレクターが訪問。織田本人は不在で、松井秀喜監督、担当"
+    },
+    {
+      "category": "社会",
+      "title": "石破前首相ら戒告処分 参院側不満",
+      "link": "https://news.yahoo.co.jp/pickup/6601976?source=rss",
+      "published": "11/10 06:48",
+      "source": "Yahoo!ニュース",
+      "summary": "自民党は、消費減税関連法案を棄権した石破前総理ら4人を戒告処分とすることを決めました。党の総裁経験者への戒告処分は、結党以来、初めてです。"
+    },
+    {
+      "category": "経済",
+      "title": "100均パスワード管理ノート 品薄",
+      "link": "https://news.yahoo.co.jp/pickup/6601975?source=rss",
+      "published": "11/10 06:24",
+      "source": "Yahoo!ニュース",
+      "summary": "相次ぐ不正アクセスによる情報流出。大事なパスワードを守るため皆さんはどうしていますか?いま、原点回帰として、手帳によるアナログな管理の人気が高まっています。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "IPOに向けた準備に着手 サカナAI",
+      "link": "https://news.yahoo.co.jp/pickup/6601958?source=rss",
+      "published": "11/09 21:54",
+      "source": "Yahoo!ニュース",
+      "summary": "Kentaro Okasaka[東京 ９日 ロイター] - ＡＩ（人工知能）開発を手掛ける‌サカナＡＩ（東京都港区）が新⁠規株式公開（ＩＰＯ）に向けた準備を進めていることが９日、分か​った。関係者が明"
+    },
+    {
+      "category": "スポーツ",
+      "title": "DeNA SB嶺井博希を獲得へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601974?source=rss",
+      "published": "11/10 06:11",
+      "source": "Yahoo!ニュース",
+      "summary": "DeNAがソフトバンクから嶺井博希捕手（35）を無償トレードで獲得することが9日、分かった。FA移籍した選手がトレードで古巣に復帰するのは極めてレアなケースとなる。"
+    },
+    {
+      "category": "IT",
+      "title": "サイバー攻撃受けた医療現場のリアル　患者の死亡率が3割上昇　乳がん患者の半裸画像流出、セラピー記録で脅迫され自殺も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003027/",
+      "published": "11/10 12:00",
+      "source": "ITmedia",
+      "summary": "米カリフォルニア大学サンディエゴ校などに所属する研究者らが医学誌「Journal of Medical Internet Research」で発表した論文「Unveiling Patient-Level Harms and At-Risk Clinical Groups During Hospital Cyberattacks: Systematic Review of Global Case Studies and Social Media Data」は、病院へのサイバー攻…"
+    },
+    {
+      "category": "主要",
+      "title": "室蘭殺人 男「騒音うるさかった」",
+      "link": "https://news.yahoo.co.jp/pickup/6602019?source=rss",
+      "published": "11/10 12:03",
+      "source": "Yahoo!ニュース",
+      "summary": "北海道室蘭市で11月6日、71歳の男性が死亡し、同じアパートの下の部屋に住む男が殺人の疑いで逮捕された事件で、男が「騒音がうるさかった」という趣旨の供述をしていることが捜査関係者への取材で分かりまし"
     },
     {
       "category": "社会",
@@ -27,35 +171,35 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "VRで美少女化 30代男性の苦悩",
-      "link": "https://news.yahoo.co.jp/pickup/6601969?source=rss",
-      "published": "11/09 23:41",
+      "title": "NTTなど5社 衛星連携へ協業検討",
+      "link": "https://news.yahoo.co.jp/pickup/6601943?source=rss",
+      "published": "11/09 19:26",
       "source": "Yahoo!ニュース",
-      "summary": "世界中がAI一色となった今、話題が減ったように見えるメタバース（仮想空間）。しかし実際には、利用者が増加するなど、今もその勢いは続いている。"
+      "summary": "NTT、NTTドコモビジネス、三菱電機、三菱UFJ銀行、日本政策投資銀行の5社は、メガコンステレーションの構築・運用と、同コンステレーションを活用したサービス提供に関する協業検討の覚書を11月6日に"
     },
     {
       "category": "スポーツ",
-      "title": "オリックス杉沢龍 昨年結婚と発表",
-      "link": "https://news.yahoo.co.jp/pickup/6601942?source=rss",
-      "published": "11/09 19:07",
+      "title": "残留のDeNA筒香「心を打たれた」",
+      "link": "https://news.yahoo.co.jp/pickup/6601967?source=rss",
+      "published": "11/09 23:28",
       "source": "Yahoo!ニュース",
-      "summary": "オリックス・杉沢龍外野手が９日、大阪・舞洲の選手寮で契約更改交渉に臨み、８００万円アップの年俸１７００万円でサインした（金額は推定）。「活躍してから言おうと思っていた。実は結婚をしていて、来年の春に"
+      "summary": "DeNAは9日、筒香嘉智内野手（34）が海外フリーエージェント（FA）権を行使せず、残留することになったと発表した。"
     },
     {
       "category": "IT",
-      "title": "ニトリに不正アクセス、最大3762万件の個人情報流出の可能性　法人会員も対象に",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003039/",
-      "published": "11/09 19:40",
+      "title": "アクセスキー直書き→委託先がテスト用イメージをネット公開　「ラフールサーベイ」約2.4万人の情報漏えい",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003052/",
+      "published": "11/10 11:55",
       "source": "ITmedia",
-      "summary": "ニトリホールディングスは11月9日、同社が管理するシステムへの不正アクセスにより、最大3762万件の個人情報が外部に流出した可能性があると発表した。発覚は6日。10月中旬から下旬にかけて、不正アクセスを受けていた可能性があるという。"
+      "summary": "ラフールは「委託元である当社の管理も十分ではなかった」と述べている。"
     },
     {
       "category": "主要",
-      "title": "日テレ森圭介アナが休養 喉の治療",
-      "link": "https://news.yahoo.co.jp/pickup/6601971?source=rss",
-      "published": "11/10 00:12",
+      "title": "マンション2人死亡 7階から転落か",
+      "link": "https://news.yahoo.co.jp/pickup/6602017?source=rss",
+      "published": "11/10 11:43",
       "source": "Yahoo!ニュース",
-      "summary": "■「一つご報告させてください」 日本テレビの森圭介アナウンサー（47）が9日、メインキャスターを務める同局系報道番組『news every.』（月～金 後3：50）に生出演。約2週間、休養することを"
+      "summary": "１１月９日夜、札幌市北区のマンションの敷地で男性２人が倒れているのが見つかり、その後、死亡が確認されました。"
     },
     {
       "category": "社会",
@@ -75,11 +219,11 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "IPOに向けた準備に着手 サカナAI",
-      "link": "https://news.yahoo.co.jp/pickup/6601958?source=rss",
-      "published": "11/09 21:54",
+      "title": "ニトリ 最大3762万件の情報流出か",
+      "link": "https://news.yahoo.co.jp/pickup/6601934?source=rss",
+      "published": "11/09 17:58",
       "source": "Yahoo!ニュース",
-      "summary": "Kentaro Okasaka[東京 ９日 ロイター] - ＡＩ（人工知能）開発を手掛ける‌サカナＡＩ（東京都港区）が新⁠規株式公開（ＩＰＯ）に向けた準備を進めていることが９日、分か​った。関係者が明"
+      "summary": "家具大手の「ニトリホールディングス」は、不正アクセスを受け、最大でおよそ3762万件の会員情報が流出した可能性があると発表しました。"
     },
     {
       "category": "スポーツ",
@@ -91,67 +235,19 @@
     },
     {
       "category": "IT",
-      "title": "無印良品、ネットストア再開延期　リスト型攻撃を確認、新たに約27万件漏えいか",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003038/",
-      "published": "11/09 19:25",
+      "title": "三井化学、JSRを1兆8400億円で買収　「国内トップクラスの半導体材料企業に」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003045/",
+      "published": "11/10 11:55",
       "source": "ITmedia",
-      "summary": "良品計画は11月9日、MUJIアプリなどへの不正アクセスに関する第4報を発表した。停止中の無印良品ネットストアは再開を延期し、再開時には全利用者にパスワードの再設定を求める方向だ。"
+      "summary": "国内化学業界で過去最大規模のM＆Aとなる。"
     },
     {
       "category": "主要",
-      "title": "映像 270kgの巨大ヒグマを捕獲",
-      "link": "https://news.yahoo.co.jp/pickup/6601968?source=rss",
-      "published": "11/09 23:30",
+      "title": "織田翔希 G指名あいさつ同席せず",
+      "link": "https://news.yahoo.co.jp/pickup/6602012?source=rss",
+      "published": "11/10 11:23",
       "source": "Yahoo!ニュース",
-      "summary": "■体長190センチの巨大ヒグマを箱わなで駆除体長190センチ、体重270キロ。見た目にも大きく見えます。"
-    },
-    {
-      "category": "社会",
-      "title": "石破前首相ら4人を戒告処分 自民",
-      "link": "https://news.yahoo.co.jp/pickup/6601933?source=rss",
-      "published": "11/09 17:44",
-      "source": "Yahoo!ニュース",
-      "summary": "消費減税関連法案の採決を棄権した石破前総理大臣ら4人について自民党は、戒告処分とすることを決めました。"
-    },
-    {
-      "category": "経済",
-      "title": "1.5億円当せん いまだ換金されず",
-      "link": "https://news.yahoo.co.jp/pickup/6601953?source=rss",
-      "published": "11/09 21:25",
-      "source": "Yahoo!ニュース",
-      "summary": "去年（2025年）の大晦日に抽せんが行われた「年末ジャンボ宝くじ」（第1082回全国自治宝くじ）で、富山県上市町の売場から出た1等の前賞、1億5,000万円が、いまだ換金されないままとなっていること"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "NTTなど5社 衛星連携へ協業検討",
-      "link": "https://news.yahoo.co.jp/pickup/6601943?source=rss",
-      "published": "11/09 19:26",
-      "source": "Yahoo!ニュース",
-      "summary": "NTT、NTTドコモビジネス、三菱電機、三菱UFJ銀行、日本政策投資銀行の5社は、メガコンステレーションの構築・運用と、同コンステレーションを活用したサービス提供に関する協業検討の覚書を11月6日に"
-    },
-    {
-      "category": "スポーツ",
-      "title": "松井監督 織田との直接交渉に含み",
-      "link": "https://news.yahoo.co.jp/pickup/6601931?source=rss",
-      "published": "11/09 17:44",
-      "source": "Yahoo!ニュース",
-      "summary": "巨人は９日、秋季キャンプ第３クール最終日を迎え、雨天のためジャイアンツ球場室内で練習が行われた。"
-    },
-    {
-      "category": "IT",
-      "title": "秋葉原「スマートごみ箱」22台新設　ごみを自動で約5分の1に圧縮、たまり具合は遠隔で把握",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003031/",
-      "published": "11/09 17:45",
-      "source": "ITmedia",
-      "summary": "千代田区は11月8日、秋葉原中央通りと秋葉原駅周辺の10カ所でスマートごみ箱22台の運用を始めた。ごみを自動で約5分の1に圧縮し、たまり具合を通信で把握して回収に生かす。"
-    },
-    {
-      "category": "主要",
-      "title": "残留のDeNA筒香「心を打たれた」",
-      "link": "https://news.yahoo.co.jp/pickup/6601967?source=rss",
-      "published": "11/09 23:28",
-      "source": "Yahoo!ニュース",
-      "summary": "DeNAは9日、筒香嘉智内野手（34）が海外フリーエージェント（FA）権を行使せず、残留することになったと発表した。"
+      "summary": "巨人が１０日、ドラフト１位指名した横浜・織田翔希投手（１８）への指名あいさつを神奈川・横浜市内の同校で行った。水野雄仁編成本部長、榑松スカウトディレクターが訪問。織田本人の参加は未定となっていたが、"
     },
     {
       "category": "社会",
@@ -163,59 +259,11 @@
     },
     {
       "category": "経済",
-      "title": "JT株 2営業日連続のストップ安",
-      "link": "https://news.yahoo.co.jp/pickup/6601946?source=rss",
-      "published": "11/09 19:53",
+      "title": "1.5億円当せん いまだ換金されず",
+      "link": "https://news.yahoo.co.jp/pickup/6601953?source=rss",
+      "published": "11/09 21:25",
       "source": "Yahoo!ニュース",
-      "summary": "ロシア政府が大統領令でJT（日本たばこ産業）のグループ会社を管理対象としたことを受け、東京株式市場では2営業日連続で取引時間中にJT株の売買が成立しませんでした。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "ニトリ 最大3762万件の情報流出か",
-      "link": "https://news.yahoo.co.jp/pickup/6601934?source=rss",
-      "published": "11/09 17:58",
-      "source": "Yahoo!ニュース",
-      "summary": "家具大手の「ニトリホールディングス」は、不正アクセスを受け、最大でおよそ3762万件の会員情報が流出した可能性があると発表しました。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "張本智和 10-2からゲーム失い驚き",
-      "link": "https://news.yahoo.co.jp/pickup/6601923?source=rss",
-      "published": "11/09 17:01",
-      "source": "Yahoo!ニュース",
-      "summary": "＜2026年11月8日 WTTチャンピオンズ フランクフルト2026 男子シングルス決勝＞卓球の「WTTチャンピオンズ フランクフルト2026」は8日、男子シングルス決勝が行われ、世界ランキング3位"
-    },
-    {
-      "category": "IT",
-      "title": "口座番号や顔写真、要配慮個人情報も……「ステップゴルフ」不正アクセス、最大21.5万件漏えいの可能性",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003021/",
-      "published": "11/09 16:10",
-      "source": "ITmedia",
-      "summary": "金融機関名、支店名、口座番号、口座名義などの口座振替情報、契約状況、予約履歴、購入履歴、レッスンカルテ、顔写真、要配慮個人情報が漏えいした可能性。"
-    },
-    {
-      "category": "主要",
-      "title": "大地震エネルギー蓄積か 日本海溝",
-      "link": "https://news.yahoo.co.jp/pickup/6601961?source=rss",
-      "published": "11/09 22:37",
-      "source": "Yahoo!ニュース",
-      "summary": "東日本大震災の超巨大地震（マグニチュード9．0）が起きた日本海溝沿いでは、陸海のプレート同士の境界が再び固着したことが分かったと、東北大と海洋研究開発機構、東京大地震研究所の研究チームが9日までに米"
-    },
-    {
-      "category": "社会",
-      "title": "地銀サイバー対策に補助金で調整",
-      "link": "https://news.yahoo.co.jp/pickup/6601925?source=rss",
-      "published": "11/09 17:13",
-      "source": "Yahoo!ニュース",
-      "summary": "政府が、地方銀行のサイバーセキュリティー対策費の一部を負担する補助金制度を創設する方向で調整に入ったことが9日分かった。高市政権が設けた2027年度予算の「『強く豊かな日本』投資枠」に関連施策を盛り"
-    },
-    {
-      "category": "経済",
-      "title": "NTT 保有するNEC全株売却を発表",
-      "link": "https://news.yahoo.co.jp/pickup/6601941?source=rss",
-      "published": "11/09 19:07",
-      "source": "Yahoo!ニュース",
-      "summary": "[東京 ９日 ロイター] - ＮＴＴは９日、保有する日本電気株（‌所有割合４．９０％）の全株⁠を売却すると発表した。半分をＮＥＣによる自社​株買いに応募し、残りを主に海外の‌投資家へ売却する。業務提携は"
+      "summary": "去年（2025年）の大晦日に抽せんが行われた「年末ジャンボ宝くじ」（第1082回全国自治宝くじ）で、富山県上市町の売場から出た1等の前賞、1億5,000万円が、いまだ換金されないままとなっていること"
     },
     {
       "category": "AI・テクノロジー",
@@ -227,75 +275,27 @@
     },
     {
       "category": "スポーツ",
-      "title": "河村勇輝が負傷 復帰時期は未定",
-      "link": "https://news.yahoo.co.jp/pickup/6601914?source=rss",
-      "published": "11/09 15:31",
+      "title": "SB柳田が残留表明 真剣に悩んだ",
+      "link": "https://news.yahoo.co.jp/pickup/6601908?source=rss",
+      "published": "11/09 14:05",
       "source": "Yahoo!ニュース",
-      "summary": "NBAクリッパーズの下部組織サンディエゴ・クリッパーズの河村勇輝（25）が右足首を負傷し、復帰時期が未定であることがわかった。クリッパーズの関係者は8日（日本時間9日）、河村が右足を痛めており復帰時"
+      "summary": "今季で7年契約が満了するソフトバンクの柳田悠岐外野手（38）が9日、取得済みの海外FA権の行使を検討した上で残留を決断したことを明かした。慢性的な首の不安を解消すべく4日に手術。術後の経過が順調で、"
     },
     {
       "category": "IT",
-      "title": "モニターにも値上げの波？　アイオーデータは10月に実施、EIZOも12月以降に　メーカー各社に聞いた",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003015/",
-      "published": "11/09 15:54",
+      "title": "NTTデータ、住友生命から受託したシステムに不正アクセス　「Vitality」利用者約8万人の情報漏えい",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003051/",
+      "published": "11/10 11:26",
       "source": "ITmedia",
-      "summary": "アイオーデータが10月に液晶ディスプレイなどを値上げしたのを受け、国内でモニターを販売するメーカー各社に値上げの予定を聞いた。"
+      "summary": "NTTデータは11月9日、住友生命保険から構築・運用を受託しているシステムが不正アクセスを受け、利用者約8万人の個人情報が漏えいしたと発表した。対象は「住友生命Vitality体験版・企業型」と「Vitalityスマート」の利用者で、新規申し込みなどを停止している。"
     },
     {
       "category": "主要",
-      "title": "「低体温症」8割近くが屋内で発症",
-      "link": "https://news.yahoo.co.jp/pickup/6601956?source=rss",
-      "published": "11/09 21:43",
+      "title": "ホンダ 米オハイオ州に工場新設へ",
+      "link": "https://news.yahoo.co.jp/pickup/6601998?source=rss",
+      "published": "11/10 09:50",
       "source": "Yahoo!ニュース",
-      "summary": "9日の東京都心は今シーズン初めて最低気温が10度を下回り、真冬のような寒さとなりました。そこで気を付けたいのが「低体温症」です。"
-    },
-    {
-      "category": "社会",
-      "title": "G7会議前に首相飲酒せず 木原氏",
-      "link": "https://news.yahoo.co.jp/pickup/6601917?source=rss",
-      "published": "11/09 16:07",
-      "source": "Yahoo!ニュース",
-      "summary": "木原稔官房長官は9日の記者会見で、高市早苗首相が欠席した10月の先進7カ国（G7）首脳テレビ会議の直前、首相公邸で開かれた自民党の麻生太郎副総裁ら自民幹部との会食で「首相は全く飲酒していなかった」と"
-    },
-    {
-      "category": "経済",
-      "title": "津波巡り欧州のビール物議 謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6601926?source=rss",
-      "published": "11/09 17:13",
-      "source": "Yahoo!ニュース",
-      "summary": "東日本大震災の津波を連想させるラベルが貼られたビールが、ヨーロッパで販売されています。販売元に取材しました。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "MS&AD 漏えい計約101万1千件に",
-      "link": "https://news.yahoo.co.jp/pickup/6601922?source=rss",
-      "published": "11/09 16:44",
-      "source": "Yahoo!ニュース",
-      "summary": "MS＆ADグループの三井住友海上火災保険と三井ダイレクト損害保険は9日、不正アクセスを受け、氏名や住所などの顧客情報が計約29万6千件漏えいしたと発表した。クレジットカードの番号や銀行口座情報は含ま"
-    },
-    {
-      "category": "スポーツ",
-      "title": "吉田輝星「巨人志望報道」の真相",
-      "link": "https://news.yahoo.co.jp/pickup/6601909?source=rss",
-      "published": "11/09 14:26",
-      "source": "Yahoo!ニュース",
-      "summary": "あれから、もう8年がたった。2018年、夏。第100回の記念大会だった甲子園で、秋田代表・金足農業が旋風を巻き起こした。その中心は、端正なマスクに、どこかやんちゃな雰囲気も漂わせたエース・吉田輝星だ"
-    },
-    {
-      "category": "IT",
-      "title": "自社の認証情報で生成AI不正利用される　ネット印刷・キングプリンターズへの不正アクセス、個人情報漏えいなし",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003016/",
-      "published": "11/09 15:30",
-      "source": "ITmedia",
-      "summary": "不正利用は約7時間続き、AIサービス側が利用制限を適用したことで止まったという。攻撃者が顧客の情報を扱うシステムにアクセスしようとした痕跡はなく、データの改ざんや窃取の形跡もなかったという。"
-    },
-    {
-      "category": "主要",
-      "title": "4人戒告処分 自民「看過できず」",
-      "link": "https://news.yahoo.co.jp/pickup/6601951?source=rss",
-      "published": "11/09 21:10",
-      "source": "Yahoo!ニュース",
-      "summary": "自民党は9日、衆院本会議で消費税減税関連法案の採決を棄権した石破茂前首相、小渕優子元選対委員長ら4議員を戒告処分とすることを決めた。"
+      "summary": "【メアリーズビル（米中西部オハイオ州）時事】ホンダは9日、約30億ドル（約4700億円）を投じて米中西部オハイオ州に完成車工場を新設すると発表した。"
     },
     {
       "category": "社会",
@@ -307,11 +307,35 @@
     },
     {
       "category": "経済",
-      "title": "黒字リストラ 中高年が残る条件は",
-      "link": "https://news.yahoo.co.jp/pickup/6601894?source=rss",
-      "published": "11/09 13:25",
+      "title": "NTT 保有するNEC全株売却を発表",
+      "link": "https://news.yahoo.co.jp/pickup/6601941?source=rss",
+      "published": "11/09 19:07",
       "source": "Yahoo!ニュース",
-      "summary": "業績が良い会社にいれば、自分の雇用は安泰だ。そう信じている50代はまだ多いだろう。しかし東京商工リサーチによると、2026年1～9月に早期・希望退職を募った上場企業22社のうち、6割超の14社が黒字だ"
+      "summary": "[東京 ９日 ロイター] - ＮＴＴは９日、保有する日本電気株（‌所有割合４．９０％）の全株⁠を売却すると発表した。半分をＮＥＣによる自社​株買いに応募し、残りを主に海外の‌投資家へ売却する。業務提携は"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "MS&AD 漏えい計約101万1千件に",
+      "link": "https://news.yahoo.co.jp/pickup/6601922?source=rss",
+      "published": "11/09 16:44",
+      "source": "Yahoo!ニュース",
+      "summary": "MS＆ADグループの三井住友海上火災保険と三井ダイレクト損害保険は9日、不正アクセスを受け、氏名や住所などの顧客情報が計約29万6千件漏えいしたと発表した。クレジットカードの番号や銀行口座情報は含ま"
+    },
+    {
+      "category": "IT",
+      "title": "AdobeとDisneyが戦略的提携　「Firefly Foundry」でDisney専用の生成AIモデル開発へ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003050/",
+      "published": "11/10 11:10",
+      "source": "ITmedia",
+      "summary": "AdobeとWalt Disneyは、複数年にわたる戦略的提携を発表した。Adobeは公式AIパートナーとして、生成AI「Firefly Foundry」などの技術を提供。両社は共同でDisneyの作風に特化した安全なカスタムAIモデルを開発し、映像制作からテーマパーク開発まで幅広いクリエイティブ工程を支援していく。"
+    },
+    {
+      "category": "主要",
+      "title": "石破氏ら戒告の自民 引き締め躍起",
+      "link": "https://news.yahoo.co.jp/pickup/6601996?source=rss",
+      "published": "11/10 09:33",
+      "source": "Yahoo!ニュース",
+      "summary": "自民党執行部が９日、消費税減税・支援金法案の採決前に退席した石破茂前首相ら４人の戒告処分を早々に決めたのは、１１日の参院での審議入りを前に、党内の引き締めを図る狙いからだ。総裁経験者も初の処分対象と"
     },
     {
       "category": "AI・テクノロジー",
@@ -322,12 +346,100 @@
       "summary": "先月の国内でのサイバー攻撃などの事案の公表数が233件に上り、月間では過去最多になったことが分かりました。"
     },
     {
-      "category": "スポーツ",
-      "title": "SB柳田が残留表明 真剣に悩んだ",
-      "link": "https://news.yahoo.co.jp/pickup/6601908?source=rss",
-      "published": "11/09 14:05",
-      "source": "Yahoo!ニュース",
-      "summary": "今季で7年契約が満了するソフトバンクの柳田悠岐外野手（38）が9日、取得済みの海外FA権の行使を検討した上で残留を決断したことを明かした。慢性的な首の不安を解消すべく4日に手術。術後の経過が順調で、"
+      "category": "IT",
+      "title": "“何でもリバースエンジニアリング”生成AIで広がる　ソフトウェアもスマート家電も手軽に改造……ブームに潜む危険",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000002975/",
+      "published": "11/10 11:00",
+      "source": "ITmedia",
+      "summary": "AIを使ってスマート家電のOSに手を加え、AIに生成させたコードに入れ替えて、広告を消したり自分好みの機能を付け加えたりする行為がちょっとしたブームになっている。ソフトウェアの改造が手軽にできるとうたった“何でもリバースエンジニアリング”（REA）というツールもGitHubで注目を集めているが、セキュリティ上のリスクも懸念されている。"
+    },
+    {
+      "category": "IT",
+      "title": "Meta、最小・低コストのAIモデル「Muse Ember」発表　「Muse Spark 1.3」に迫る性能を約17分の1のコストで",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003044/",
+      "published": "11/10 09:06",
+      "source": "ITmedia",
+      "summary": "Metaは、AIモデル「Muse」ファミリーの最小モデル「Muse Ember」を発表した。AIエージェントの反復タスクに特化しており、上位モデル「Muse Spark 1.3」に迫る性能を約17分の1のコストで実現している。同日から開発者向けAPI等で提供を開始しており、大量の反復処理を低コストで担う。"
+    },
+    {
+      "category": "IT",
+      "title": "実在しそうで、どこにもいない「AI人」　なぜ人は“完璧なAI映像”に違和感を覚えるのか",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000002985/",
+      "published": "11/10 09:00",
+      "source": "ITmedia",
+      "summary": "指の本数がおかしい、顔が途中で変わる。そんな分かりやすい破綻は消えつつあるのに、AI映像には今も「なんとなくAIっぽい」と感じる瞬間がある。映像監督の筆者が「AI人」と名付けたAI生成の人物を手掛かりに、その違和感の正体を探る。では、AIが技術的に完璧になれば、違和感は消えるのだろうか。"
+    },
+    {
+      "category": "IT",
+      "title": "「AI店長」、対人関係に苦戦　指摘が生かされずスタッフからの報告減少　PwCが“売店”で実験",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003040/",
+      "published": "11/10 08:00",
+      "source": "ITmedia",
+      "summary": "PwCがAIに売店の経営判断を任せる実証実験を実施した。AIは約2週間の運営を担ったものの、スタッフからの指摘を適切に反映できず、報告が減少。収支は約24万円の赤字となった。"
+    },
+    {
+      "category": "IT",
+      "title": "Google、第8世代TPUに「8tx」と「8i Max」を追加　機密データ処理と大規模AIエージェントに特化",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003043/",
+      "published": "11/10 07:26",
+      "source": "ITmedia",
+      "summary": "Googleは、第8世代TPUに機密データ処理向けの「TPU 8tx」と長大コンテキスト処理向けの「TPU 8i Max」を追加した。自律的なAIエージェントの普及に伴うセキュリティとメモリ性能の課題に対処する。TPU向けソフトウェアのオープンソース化や、計算資源の無駄を省く機能の強化も併せて発表した。"
+    },
+    {
+      "category": "IT",
+      "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表　API料金2割下げ、出力は最大30％高速化",
+      "link": "https://www.itmedia.co.jp/news/article/2611/10/2000003042/",
+      "published": "11/10 07:03",
+      "source": "ITmedia",
+      "summary": "Anthropicは、最上位AIモデルの新版「Claude Fable 5.2」および審査制の「Claude Mythos 5.2」を発表した。出力速度は最大30％向上し、API料金は2割値下げされている。長時間の複雑な推論やエージェント型コーディングに特化しており、同日より主要クラウドや各種アプリで提供が開始された。"
+    },
+    {
+      "category": "IT",
+      "title": "ニトリに不正アクセス、最大3762万件の個人情報流出の可能性　法人会員も対象に",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003039/",
+      "published": "11/09 19:40",
+      "source": "ITmedia",
+      "summary": "ニトリホールディングスは11月9日、同社が管理するシステムへの不正アクセスにより、最大3762万件の個人情報が外部に流出した可能性があると発表した。発覚は6日。10月中旬から下旬にかけて、不正アクセスを受けていた可能性があるという。"
+    },
+    {
+      "category": "IT",
+      "title": "無印良品、ネットストア再開延期　リスト型攻撃を確認、新たに約27万件漏えいか",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003038/",
+      "published": "11/09 19:25",
+      "source": "ITmedia",
+      "summary": "良品計画は11月9日、MUJIアプリなどへの不正アクセスに関する第4報を発表した。停止中の無印良品ネットストアは再開を延期し、再開時には全利用者にパスワードの再設定を求める方向だ。"
+    },
+    {
+      "category": "IT",
+      "title": "秋葉原「スマートごみ箱」22台新設　ごみを自動で約5分の1に圧縮、たまり具合は遠隔で把握",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003031/",
+      "published": "11/09 17:45",
+      "source": "ITmedia",
+      "summary": "千代田区は11月8日、秋葉原中央通りと秋葉原駅周辺の10カ所でスマートごみ箱22台の運用を始めた。ごみを自動で約5分の1に圧縮し、たまり具合を通信で把握して回収に生かす。"
+    },
+    {
+      "category": "IT",
+      "title": "口座番号や顔写真、要配慮個人情報も……「ステップゴルフ」不正アクセス、最大21.5万件漏えいの可能性",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003021/",
+      "published": "11/09 16:10",
+      "source": "ITmedia",
+      "summary": "金融機関名、支店名、口座番号、口座名義などの口座振替情報、契約状況、予約履歴、購入履歴、レッスンカルテ、顔写真、要配慮個人情報が漏えいした可能性。"
+    },
+    {
+      "category": "IT",
+      "title": "モニターにも値上げの波？　アイオーデータは10月に実施、EIZOも12月以降に　メーカー各社に聞いた",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003015/",
+      "published": "11/09 15:54",
+      "source": "ITmedia",
+      "summary": "アイオーデータが10月に液晶ディスプレイなどを値上げしたのを受け、国内でモニターを販売するメーカー各社に値上げの予定を聞いた。"
+    },
+    {
+      "category": "IT",
+      "title": "自社の認証情報で生成AI不正利用される　ネット印刷・キングプリンターズへの不正アクセス、個人情報漏えいなし",
+      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003016/",
+      "published": "11/09 15:30",
+      "source": "ITmedia",
+      "summary": "不正利用は約7時間続き、AIサービス側が利用制限を適用したことで止まったという。攻撃者が顧客の情報を扱うシステムにアクセスしようとした痕跡はなく、データの改ざんや窃取の形跡もなかったという。"
     },
     {
       "category": "IT",
@@ -336,118 +448,6 @@
       "published": "11/09 13:22",
       "source": "ITmedia",
       "summary": "PHPの脆弱性への対応をきっかけに学内システムの状況を確認する中で、不正アクセスの痕跡を見つけたという。"
-    },
-    {
-      "category": "主要",
-      "title": "同僚踏みつけ死亡させた疑い 逮捕",
-      "link": "https://news.yahoo.co.jp/pickup/6601947?source=rss",
-      "published": "11/09 20:10",
-      "source": "Yahoo!ニュース",
-      "summary": "ことし7月、那覇市の集合住宅で同僚の男性に暴行を加え、死亡させたとして9日、43歳の男が傷害致死の疑いで逮捕されました。"
-    },
-    {
-      "category": "経済",
-      "title": "三井化学がJSR買収 1兆8400億円",
-      "link": "https://news.yahoo.co.jp/pickup/6601897?source=rss",
-      "published": "11/09 12:05",
-      "source": "Yahoo!ニュース",
-      "summary": "三井化学は9日、官民ファンド、産業革新投資機構（JIC）から、半導体材料大手JSR（東京）を買収すると発表した。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "北朝鮮ハッカーのチャットか 入手",
-      "link": "https://news.yahoo.co.jp/pickup/6601870?source=rss",
-      "published": "11/09 08:52",
-      "source": "Yahoo!ニュース",
-      "summary": "ハングルでやりとりされているチャット画面を「バンキシャ！」では入手しました。「北朝鮮のハッカー」が仲間とやりとりしたものとみられるもので、中には、「優先地域はアメリカ・日本」という言葉もみられました"
-    },
-    {
-      "category": "IT",
-      "title": "ドコモ傘下の電子チケット「teket」不正アクセス、全会員の氏名やメアド流出　サービス停止",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003009/",
-      "published": "11/09 12:42",
-      "source": "ITmedia",
-      "summary": "全会員の氏名とメールアドレスに加え、登録・購入状況に応じ、生年月日や年齢、性別、住所、電話番号も流出した。"
-    },
-    {
-      "category": "IT",
-      "title": "学園祭の混雑、ITで解消へ　お茶の水女子大・共創工学部の学生がセンサー活用し実証",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003006/",
-      "published": "11/09 12:34",
-      "source": "ITmedia",
-      "summary": "お茶の水女子大学（東京都文京区）の学園祭「第77回徽音祭（きいんさい）」で11月7日、IT技術を活用し混雑状況を可視化する実証実験が行われた。"
-    },
-    {
-      "category": "IT",
-      "title": "サイバー攻撃への緊急対策、「トップガン人材」チーム設立へ　予備費100億円支出",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003005/",
-      "published": "11/09 12:02",
-      "source": "ITmedia",
-      "summary": "政府は11月6日、サイバー攻撃によって相次ぐ大規模な情報漏えい被害を受けて、サイバーセキュリティに関する関係閣僚会議を開き、緊急対策パッケージを決定した。"
-    },
-    {
-      "category": "IT",
-      "title": "画像生成AIは既存のキャラクターをどれくらい出力する？　ソニーAIなどが14モデルを調査",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002982/",
-      "published": "11/09 12:00",
-      "source": "ITmedia",
-      "summary": "ソニー系の研究組織Sony AIなどに所属する研究者らが発表した論文「Evaluating Intellectual Property Guardrails of Generative Image Models: A Technical Report」は、画像生成AIが既存の知的財産（IP）を認識できる画像をどの程度生成してしまうのか、またそれを防ぐ安全対策（ガードレール）がどれほど機能しているのかを検証した研究報告だ。"
-    },
-    {
-      "category": "IT",
-      "title": "ネット印刷「ラクスル」に不正アクセス　入稿データ一部漏えいか　名刺やはがき記載の個人情報も",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003004/",
-      "published": "11/09 11:42",
-      "source": "ITmedia",
-      "summary": "ラクスルは11月9日、印刷通販サービス「ラクスル」のデータ入稿に関わるシステムに不正アクセスがあり、印刷データなどに含まれる個人情報が流出した恐れがあると発表した。名刺やはがきなどの印刷物に載っている、注文者以外の人の情報も含む場合があるという。"
-    },
-    {
-      "category": "IT",
-      "title": "情報漏えい続出でフィッシングに変化？　“その人専用詐欺メール”登場の懸念",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
-      "published": "11/09 11:30",
-      "source": "ITmedia",
-      "summary": "9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に聞いてみた。"
-    },
-    {
-      "category": "IT",
-      "title": "クラウドインフラのシェア、AWSが26％に後退　Google Cloudは16％に上昇　市場全体は過去最大の高成長率へ　2026年第3四半期調査",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003001/",
-      "published": "11/09 11:00",
-      "source": "ITmedia",
-      "summary": "調査会社の米Synergy Research Groupは、グローバルにおける2026年第3四半期のクラウドインフラの市場状況について調査結果を発表しました。"
-    },
-    {
-      "category": "IT",
-      "title": "「太鼓の達人」など7日ぶり稼働　セガ系不正アクセス問題、バンナム系が試験復旧",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003003/",
-      "published": "11/09 10:54",
-      "source": "ITmedia",
-      "summary": "セガ製品は引き続きメンテナンス中。8日午前9時時点で再開のめどは立っていない。"
-    },
-    {
-      "category": "IT",
-      "title": "ドコモ不正アクセスで「本人確認書類の番号」も流出　見舞金検討",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003000/",
-      "published": "11/09 10:13",
-      "source": "ITmedia",
-      "summary": "流出項目が拡大し、原因は不正アクセスだと公表した。利用者への見舞金の支払いを検討しているという。"
-    },
-    {
-      "category": "IT",
-      "title": "128信金の大規模障害、約6時間で復旧　「原因はサイバー攻撃ではない」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002999/",
-      "published": "11/09 09:26",
-      "source": "ITmedia",
-      "summary": "原因は「システム機器の故障」で、「サイバー攻撃に起因するものではない」という。"
-    },
-    {
-      "category": "IT",
-      "title": "NVIDIA、フアンCEOへの中国スパイ工作疑惑で独立調査　本人は不倫認め謝罪",
-      "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002998/",
-      "published": "11/09 07:44",
-      "source": "ITmedia",
-      "summary": "NVIDIAの取締役会は、ジェンスン・フアンCEOが中国国家安全部に協力していた疑いのある女性アリス・フアン氏と親密な関係にあったとする報道を受け、独立調査を開始したと発表した。フアンCEOは従業員向けメッセージで不倫関係を認め謝罪している。機密情報流出の事実は現時点で確認されていない。"
     }
   ],
   "errors": [
