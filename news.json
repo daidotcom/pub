@@ -1,29 +1,77 @@
 {
-  "updated": "2026-11-11T22:18:43.408735+00:00",
+  "updated": "2026-11-12T03:25:01.406057+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "木梨憲武のスポーツ特番 1/2放送",
-      "link": "https://news.yahoo.co.jp/pickup/6602239?source=rss",
-      "published": "11/12 06:58",
+      "title": "ゴルゴ松本 矯正施設で講演100回",
+      "link": "https://news.yahoo.co.jp/pickup/6602287?source=rss",
+      "published": "11/12 12:07",
       "source": "Yahoo!ニュース",
-      "summary": "お笑いコンビ「とんねるず」の木梨憲武が出演するテレビ朝日系「新春ドリームバトル２０２７ 木梨憲武のスポーツＫＩＮＧ！」が、来年１月２日に放送されることが１１日、分かった。"
+      "summary": "闇バイトや特殊詐欺の「低年齢化」に伴い、少年院に収容される人数が増加している。そんななか、少年院で行われている「命の授業」を取材した。"
     },
     {
       "category": "社会",
-      "title": "美浜3号機が50年超運転へ 国認可",
-      "link": "https://news.yahoo.co.jp/pickup/6602225?source=rss",
-      "published": "11/11 22:02",
+      "title": "ポスト高市の首相再選支持 相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6602290?source=rss",
+      "published": "11/12 12:09",
       "source": "Yahoo!ニュース",
-      "summary": "福井県内の原発が半世紀を超えて運転する時代が本格的に始まっています。関西電力は11日、国の原子力規制委員会から美浜原発3号機の50年を超える運転が認められたと発表しました。"
+      "summary": "■「ポスト高市」の小泉防衛相、首相再選を支持 小泉進次郎防衛相が10日のネット番組で、来秋の自民党総裁選に高市早苗首相が立候補した場合は「全力で支える」と述べ、出馬を見送る考えを示した。小林鷹之政調"
     },
     {
       "category": "経済",
-      "title": "Amazon「表示枠」公取なぜ問題視",
-      "link": "https://news.yahoo.co.jp/pickup/6602231?source=rss",
-      "published": "11/11 22:26",
+      "title": "CEOの解任可否を決定へ NVIDIA",
+      "link": "https://news.yahoo.co.jp/pickup/6602271?source=rss",
+      "published": "11/12 11:01",
       "source": "Yahoo!ニュース",
-      "summary": "ネット通販大手アマゾンが、同社の通販サイトの運営をめぐる問題を調べていた公正取引委員会に改善策を提出した。"
+      "summary": "Alexandra Alper[１１日 ロイター] - ジェンスン・フアン最高経営責任者（ＣＥＯ）の２件の不倫問題に揺れる米半導体大手エヌビディアは１１日に取締役会を開き、同ＣＥＯ解任の可否を決定す"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "EU「ダークパターン」禁止へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602254?source=rss",
+      "published": "11/12 09:11",
+      "source": "Yahoo!ニュース",
+      "summary": "欧州連合（EU）の行政を担う欧州委員会は11日、オンライン上での不公正な商慣行を包括的に規制するデジタル公平性法（DFA）案を公表した。「ダークパターン」と呼ばれる、本来望まない選択に誘導する画面設"
+    },
+    {
+      "category": "スポーツ",
+      "title": "FA今永昇太 MLB2桁球団と接触",
+      "link": "https://news.yahoo.co.jp/pickup/6602274?source=rss",
+      "published": "11/12 11:29",
+      "source": "Yahoo!ニュース",
+      "summary": "今永代理人の長谷川氏「ポストシーズンで投げたい気持ちは強い」 カブスの今永昇太投手の代理人を務めるオクタゴン社のアジア統括本部長、長谷川嘉宣氏が11日、ネバダ州ラスベガスで開催中のGM会議の会場で報"
+    },
+    {
+      "category": "IT",
+      "title": "Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
+      "published": "11/12 11:29",
+      "source": "ITmedia",
+      "summary": "Google DeepMindは、DNA配列が特定の細胞種に与える影響を予測する次世代AIモデル「AlphaGenome 2」を発表した。1億超の細胞データで学習し、細胞の種類や状態を条件指定して予測できる。疾患に関わる遺伝子変異の特定精度を前モデルから大幅に向上させており、非営利目的ならAPI経由で利用できる。"
+    },
+    {
+      "category": "主要",
+      "title": "「マック過疎地」に新店舗 行列",
+      "link": "https://news.yahoo.co.jp/pickup/6602284?source=rss",
+      "published": "11/12 12:02",
+      "source": "Yahoo!ニュース",
+      "summary": "岩手県内15店目、沿岸部では2店目となるハンバーガーチェーン「マクドナルド大船渡店」が11日、大船渡市の中心市街地で開業した。市が熱心に誘致し、山林火災の被災木を活用したことでも注目された新店舗。県"
+    },
+    {
+      "category": "社会",
+      "title": "給食費を自腹で穴埋め 課題指摘",
+      "link": "https://news.yahoo.co.jp/pickup/6602250?source=rss",
+      "published": "11/12 08:20",
+      "source": "Yahoo!ニュース",
+      "summary": "京都府木津川市の小学校で、校長らが未収の給食費や教材費など3700万円を報告せずに自腹で穴埋めしていた問題について、ベネッセ教育総合研究所主席研究員の庄子寛之さんは「適切ではないが、気持ちは元教員と"
+    },
+    {
+      "category": "経済",
+      "title": "CEO去就巡る報道 NVIDIA株下落",
+      "link": "https://news.yahoo.co.jp/pickup/6602266?source=rss",
+      "published": "11/12 10:27",
+      "source": "Yahoo!ニュース",
+      "summary": "（CNN） 米半導体大手エヌビディアの株価が、11日の時間外取引で急落した。同社のジェンスン・フアン最高経営責任者（CEO）が社内の幹部と不適切な関係にあったという報道に加え、取締役会がフアン氏の去"
     },
     {
       "category": "AI・テクノロジー",
@@ -35,43 +83,43 @@
     },
     {
       "category": "スポーツ",
-      "title": "オリ FA宣言DeNA戸柱の獲得動く",
-      "link": "https://news.yahoo.co.jp/pickup/6602240?source=rss",
-      "published": "11/12 07:15",
+      "title": "ロッテ 落合英二氏が10年ぶり復帰",
+      "link": "https://news.yahoo.co.jp/pickup/6602253?source=rss",
+      "published": "11/12 08:50",
       "source": "Yahoo!ニュース",
-      "summary": "オリックスが、DeNAからFA宣言した戸柱恭孝捕手（36）の獲得に動くことが11日、分かった。"
+      "summary": "ロッテが投手部門の強化のため、前中日投手コーディネーターの落合英二氏（57）を招へいすることが11日、分かった。15～17年にロッテの1軍投手コーチを務めており、10年ぶりの復帰となる。"
     },
     {
       "category": "IT",
-      "title": "靖国神社に不正アクセス　約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
-      "published": "11/11 19:11",
+      "title": "ユナイテッド航空、外部のAIアシスタントによる航空券の予約などを禁止へ　「チェックインには人間の確認が必要」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003127/",
+      "published": "11/12 10:49",
       "source": "ITmedia",
-      "summary": "靖国神社（東京都千代田区）は11月11日、同神社が運営する通販サイト「オンライン授与品・頒布品サイト」への不正アクセスにより、約1万4500件の個人情報が漏えいしたと発表した。"
+      "summary": "United Airlinesは、サードパーティ製AIエージェントによる自社サービスの利用を禁止すると発表した。機密情報の漏えいや意図しないアカウント操作、航空当局の規制違反の恐れを理由としている。米国ではMetaのAIエージェント「Muse」公開以降、小売りや金融業界でも外部AIを制限する動きが相次いでいる。"
     },
     {
       "category": "主要",
-      "title": "マック 休止中の新チキン開発経緯",
-      "link": "https://news.yahoo.co.jp/pickup/6602238?source=rss",
-      "published": "11/12 06:42",
+      "title": "中継 良品計画の清水社長らが会見",
+      "link": "https://news.yahoo.co.jp/pickup/6602279?source=rss",
+      "published": "11/12 11:58",
       "source": "Yahoo!ニュース",
-      "summary": "いつもの「チキンフィレオ」を頼もうとしたら、メニューから姿を消し、見慣れないチキンバーガーが並んでいた――。マクドナルドで、そんな経験をした人もいるのではないだろうか。"
+      "summary": "「無印良品」を展開する良品計画は、12日正午から都内で不正アクセスに関する記者会見を開く。清水智社長らが出席し、不正アクセスの概要やこれまでの対応状況、今後の対応について説明する。"
     },
     {
       "category": "社会",
-      "title": "防衛方針の新概念「拒否力」とは",
-      "link": "https://news.yahoo.co.jp/pickup/6602224?source=rss",
-      "published": "11/11 21:31",
+      "title": "核「持ち込ませず」例外検討 政府",
+      "link": "https://news.yahoo.co.jp/pickup/6602246?source=rss",
+      "published": "11/12 07:55",
       "source": "Yahoo!ニュース",
-      "summary": "政府は年内に改定する国家防衛戦略で、日本への侵攻を企てる相手に目的を達成させない「拒否力」を重視する方針だ。筆者も出演した11月10日のYouTube政治討論番組「SIGNAL」で、小泉進次郎防衛相は"
+      "summary": "高市政権が、年内に改定する安全保障関連3文書で、「非核三原則」の「持ち込ませず」について、例外を明記する検討に入ったことが分かった。高市早苗首相は非核三原則の見直しを持論としており、日本が安保を頼る"
     },
     {
       "category": "経済",
-      "title": "子の不登校で離職 防ぐ企業の制度",
-      "link": "https://news.yahoo.co.jp/pickup/6602206?source=rss",
-      "published": "11/11 18:55",
+      "title": "ヘアカラー後のケア 各社注目",
+      "link": "https://news.yahoo.co.jp/pickup/6602263?source=rss",
+      "published": "11/12 10:11",
       "source": "Yahoo!ニュース",
-      "summary": "子どもの不登校をきっかけに、仕事を手放さざるを得ない保護者がいる。離職を防ぐため、独自の休業や短時間勤務の制度を設ける企業も現れている。AERA 2026年11月16日号より。"
+      "summary": "近年、ヘアカラーは白髪を隠したり、黒髪を明るくしたりするだけでなく、自分らしさを表現する手段の一つになりつつある。 一方で、好きな髪色を楽しむ人にとって悩ましいのが、染めた後の色落ちや髪のダメージだ"
     },
     {
       "category": "AI・テクノロジー",
@@ -83,11 +131,195 @@
     },
     {
       "category": "スポーツ",
+      "title": "誠也 カブスの単年36億円QO拒否",
+      "link": "https://news.yahoo.co.jp/pickup/6602247?source=rss",
+      "published": "11/12 07:59",
+      "source": "Yahoo!ニュース",
+      "summary": "カブスからFAになった鈴木誠也外野手が古巣から提示された単年2315万ドル（約36億6000万円）のクオリファイングオファー（QO）を拒否したことが分かった。同外野手の代理人を務めるジョエル・ウルフ"
+    },
+    {
+      "category": "IT",
+      "title": "Amazon、AWSのAPIを手元で再現する「AWS Emulator」を無償公開　コードはすべてAIエージェントが記述",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003126/",
+      "published": "11/12 09:56",
+      "source": "ITmedia",
+      "summary": "AWSは、クラウド環境を使わずにローカルでAWS APIを再現できるツール「AWS Emulator」を無料で公開した。すべてのコードが自律型AIエージェントによって記述されており、人間のレビューは介在していない。開発者はAWSアカウント不要で、アプリの構築やCI/CDでの統合テストなどを手元で実行できる。"
+    },
+    {
+      "category": "主要",
+      "title": "おたる水族館のトド説明文 反響",
+      "link": "https://news.yahoo.co.jp/pickup/6602283?source=rss",
+      "published": "11/12 11:52",
+      "source": "Yahoo!ニュース",
+      "summary": "水族館で飼育しているトドの説明文に記された、“まさかの内容”がX（Twitter）で話題です。記事執筆時点で投稿は470万回以上表示され、13万件を超える“いいね”を獲得しています。"
+    },
+    {
+      "category": "社会",
+      "title": "違憲状態解決策見えず 合区に限界",
+      "link": "https://news.yahoo.co.jp/pickup/6602244?source=rss",
+      "published": "11/12 07:40",
+      "source": "Yahoo!ニュース",
+      "summary": "「1票の格差」が最大3．13倍だった2025年7月の参院選について、最高裁は11日、「違憲状態」だったと判断した。 格差是正策として導入された合区の効果も限界が見え始め、2028年夏の次期参院選に向"
+    },
+    {
+      "category": "経済",
+      "title": "なぜ ブラックフライデーが長期化",
+      "link": "https://news.yahoo.co.jp/pickup/6602255?source=rss",
+      "published": "11/12 08:59",
+      "source": "Yahoo!ニュース",
+      "summary": "11月27日の「ブラックフライデー」を前に、セールの早期化が1か月規模に広がっています。アカチャンホンポは前年の4週間から5週間に延長。ドン・キホーテは一部店舗での先行企画を含め最大31日間、ニトリは"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "パスキー設定の証券口座 侵入疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6602193?source=rss",
+      "published": "11/11 17:33",
+      "source": "Yahoo!ニュース",
+      "summary": "顔や指紋といった生体認証を活用した「パスキー」を設定して不正侵入対策をしていた証券口座が乗っ取られた疑いが出たとして、日本証券業協会や証券会社が注意を呼びかけている。生体認証は昨年相次いだ証券口座の"
+    },
+    {
+      "category": "スポーツ",
+      "title": "オリ FA宣言DeNA戸柱の獲得動く",
+      "link": "https://news.yahoo.co.jp/pickup/6602240?source=rss",
+      "published": "11/12 07:15",
+      "source": "Yahoo!ニュース",
+      "summary": "オリックスが、DeNAからFA宣言した戸柱恭孝捕手（36）の獲得に動くことが11日、分かった。"
+    },
+    {
+      "category": "IT",
+      "title": "ドコモ「5G SA」また障害、原因は5日と同じ「交換機の輻輳」　約9時間で復旧",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003125/",
+      "published": "11/12 09:53",
+      "source": "ITmedia",
+      "summary": "不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。"
+    },
+    {
+      "category": "主要",
+      "title": "ショック 川に展示の作品真っ二つ",
+      "link": "https://news.yahoo.co.jp/pickup/6602275?source=rss",
+      "published": "11/12 11:42",
+      "source": "Yahoo!ニュース",
+      "summary": "京都市内の繁華街を流れる高瀬川の三条通から四条通の間で、川の中に美術の立体作品を展示する「京都高瀬川アートフェスティバル」が開かれているが、展示作品の一つが真っ二つに割れているのが11日、発見された"
+    },
+    {
+      "category": "社会",
+      "title": "厚労省 残業タクシー「半減」",
+      "link": "https://news.yahoo.co.jp/pickup/6602242?source=rss",
+      "published": "11/12 07:26",
+      "source": "Yahoo!ニュース",
+      "summary": "労働時間に関する法整備を所管する厚生労働省で、職員が終電を逃した際や始発前の出勤に使うタクシー代が、新型コロナウイルス禍の前と比べてほぼ半減したことが12日、分かった。残業の温床だった国会答弁の作成"
+    },
+    {
+      "category": "経済",
+      "title": "懸命に働くは美徳51% 読売調査",
+      "link": "https://news.yahoo.co.jp/pickup/6602243?source=rss",
+      "published": "11/12 07:30",
+      "source": "Yahoo!ニュース",
+      "summary": "読売新聞社は「働き方」についての全国世論調査（郵送方式）を実施した。一生懸命働くことを美徳だと「思う」は５１％と半数にとどまり、若い人ほど低かった。「思わない」は４７％だった。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "内閣府メルマガ登録アド6万件流出",
+      "link": "https://news.yahoo.co.jp/pickup/6602172?source=rss",
+      "published": "11/11 14:33",
+      "source": "Yahoo!ニュース",
+      "summary": "内閣府は１１日、配信しているメールマガジン利用者のメールアドレス６万２８６３件が流出したと発表した。企業向けメール配信サービスなどを手がけるアララが不正アクセスを受けた影響という。メールマガジンの登"
+    },
+    {
+      "category": "スポーツ",
+      "title": "阪神 FA獲得目指す3人に条件提示",
+      "link": "https://news.yahoo.co.jp/pickup/6602235?source=rss",
+      "published": "11/12 06:07",
+      "source": "Yahoo!ニュース",
+      "summary": "阪神が今オフのFA戦線で獲得を目指すオリックス中川圭太外野手（30）、ロッテ小島和哉投手（30）、中日上林誠知外野手（31）に条件提示を行ったことが11日、分かった。"
+    },
+    {
+      "category": "IT",
+      "title": "Appleサポートコミュニティ、11月20日に閉鎖へ　新規投稿は既に終了",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003124/",
+      "published": "11/12 08:46",
+      "source": "ITmedia",
+      "summary": "Appleは、「Appleサポートコミュニティ」を11月20日に閉鎖すると発表した。1998年に開設された同フォーラムは、現在すでに新規投稿の受け付けを終了し、閲覧専用となっている。Appleは戦略と顧客ニーズを慎重に評価した結果としており、今後は公式サポートサイトを利用するよう呼び掛けている。"
+    },
+    {
+      "category": "主要",
+      "title": "踏切内に車 列車と衝突し逃走",
+      "link": "https://news.yahoo.co.jp/pickup/6602273?source=rss",
+      "published": "11/12 11:32",
+      "source": "Yahoo!ニュース",
+      "summary": "埼玉県のJR川越線の踏切で列車と車が衝突しました。車は逃走し、警察が車の行方を追っています。"
+    },
+    {
+      "category": "社会",
+      "title": "防衛方針の新概念「拒否力」とは",
+      "link": "https://news.yahoo.co.jp/pickup/6602224?source=rss",
+      "published": "11/11 21:31",
+      "source": "Yahoo!ニュース",
+      "summary": "政府は年内に改定する国家防衛戦略で、日本への侵攻を企てる相手に目的を達成させない「拒否力」を重視する方針だ。筆者も出演した11月10日のYouTube政治討論番組「SIGNAL」で、小泉進次郎防衛相は"
+    },
+    {
+      "category": "経済",
+      "title": "マック 休止中の新チキン開発経緯",
+      "link": "https://news.yahoo.co.jp/pickup/6602238?source=rss",
+      "published": "11/12 06:42",
+      "source": "Yahoo!ニュース",
+      "summary": "いつもの「チキンフィレオ」を頼もうとしたら、メニューから姿を消し、見慣れないチキンバーガーが並んでいた――。マクドナルドで、そんな経験をした人もいるのではないだろうか。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "メールの不適切な「CC」境界線は",
+      "link": "https://news.yahoo.co.jp/pickup/6602146?source=rss",
+      "published": "11/11 12:02",
+      "source": "Yahoo!ニュース",
+      "summary": "普段の仕事で何げなく使う、メールの「CC」。便利な情報共有の手段だが、使い方によっては相手に不安やストレスを与えたり、人間関係のトラブルにつながったりすることもある。中には「CCハラスメント」と受け"
+    },
+    {
+      "category": "スポーツ",
       "title": "FA太田光 広島球団に手土産渡す",
       "link": "https://news.yahoo.co.jp/pickup/6602233?source=rss",
       "published": "11/11 23:34",
       "source": "Yahoo!ニュース",
       "summary": "楽天から国内フリーエージェント（ＦＡ）権を行使した太田光捕手が、広島・新井貴浩監督、鈴木清明球団本部長と１１日、仙台市内で交渉を行い、異例の行動を見せた。"
+    },
+    {
+      "category": "IT",
+      "title": "靖国神社に不正アクセス　約1万4500件の個人情報漏えい、パスワードが特定されるおそれも",
+      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003119/",
+      "published": "11/11 19:11",
+      "source": "ITmedia",
+      "summary": "靖国神社（東京都千代田区）は11月11日、同神社が運営する通販サイト「オンライン授与品・頒布品サイト」への不正アクセスにより、約1万4500件の個人情報が漏えいしたと発表した。"
+    },
+    {
+      "category": "主要",
+      "title": "二重かわいい 女子大学生の違和感",
+      "link": "https://news.yahoo.co.jp/pickup/6602269?source=rss",
+      "published": "11/12 11:02",
+      "source": "Yahoo!ニュース",
+      "summary": "「たった3年の高校生活。1秒でも長くカワイイ私で過ごしたい」――。 2023年、大手美容クリニックがこんなキャッチコピーで、10代を対象に二重まぶたへの整形を勧める広告を電車内で展開し、物議を醸した"
+    },
+    {
+      "category": "経済",
+      "title": "Amazon出品者「安値強要された」",
+      "link": "https://news.yahoo.co.jp/pickup/6602237?source=rss",
+      "published": "11/12 06:28",
+      "source": "Yahoo!ニュース",
+      "summary": "国内最大規模の通販サイトを運営するアマゾンジャパンに対し、公正取引委員会が１１日、独占禁止法の「確約手続き」を適用した。独禁法上の問題が指摘されたのは、多くのサイト利用者が商品購入の参考にする「おす"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "「AIくさい」なぜSNSで批判過熱",
+      "link": "https://news.yahoo.co.jp/pickup/6602141?source=rss",
+      "published": "11/11 11:50",
+      "source": "Yahoo!ニュース",
+      "summary": "「AIくさい」。生成AIの使用を疑うこの一言が、作品や作者への批判を呼び込んでいる。その矛先は、企業やアーティストだけでなく、小学生にまで向けられた。10月には、福島県喜多方市のポスターコンクールで"
+    },
+    {
+      "category": "スポーツ",
+      "title": "育成9位指名の18歳 SB入団を辞退",
+      "link": "https://news.yahoo.co.jp/pickup/6602228?source=rss",
+      "published": "11/11 22:00",
+      "source": "Yahoo!ニュース",
+      "summary": "ソフトバンクからドラフト会議で育成９位で指名を受けた、日本ウェルネス沖縄の１４７キロ右腕・長山武蔵投手（３年）が入団を辞退し、米球界に挑戦することが１１日、明らかになった。"
     },
     {
       "category": "IT",
@@ -99,35 +331,19 @@
     },
     {
       "category": "主要",
-      "title": "Amazon出品者「安値強要された」",
-      "link": "https://news.yahoo.co.jp/pickup/6602237?source=rss",
-      "published": "11/12 06:28",
+      "title": "減税法案 支援金対象は交渉切り札",
+      "link": "https://news.yahoo.co.jp/pickup/6602258?source=rss",
+      "published": "11/12 09:24",
       "source": "Yahoo!ニュース",
-      "summary": "国内最大規模の通販サイトを運営するアマゾンジャパンに対し、公正取引委員会が１１日、独占禁止法の「確約手続き」を適用した。独禁法上の問題が指摘されたのは、多くのサイト利用者が商品購入の参考にする「おす"
-    },
-    {
-      "category": "社会",
-      "title": "石破氏 高市政権の高支持率に見解",
-      "link": "https://news.yahoo.co.jp/pickup/6602218?source=rss",
-      "published": "11/11 21:18",
-      "source": "Yahoo!ニュース",
-      "summary": "消費減税関連法案の衆院採決直前に退席し、自民党から戒告処分を受けた石破茂前首相（69）が「週刊文春」の取材に応じ、高市政権の支持率が下がらない理由や、石破政権との差などについて見解を示した。"
-    },
-    {
-      "category": "経済",
-      "title": "シルク産業 着る以外の用途に活路",
-      "link": "https://news.yahoo.co.jp/pickup/6602160?source=rss",
-      "published": "11/11 13:22",
-      "source": "Yahoo!ニュース",
-      "summary": "日本のシルク産業が縮小する一方、「着る」以外の用途を広げる動きが出ています。農林水産省によると、国内の養蚕農家は2014年の393戸から2025年には113戸へ減少。繭の生産量も149トンから31トン"
+      "summary": "飲食料品の消費税率を1％に引き下げる消費税減税の関連法案が11日、参議院・本会議で審議入りしました。このまますんなり決まるのか?街では早くも減税に向け、苦慮するところもあるようです。"
     },
     {
       "category": "AI・テクノロジー",
-      "title": "パスキー設定の証券口座 侵入疑い",
-      "link": "https://news.yahoo.co.jp/pickup/6602193?source=rss",
-      "published": "11/11 17:33",
+      "title": "前澤友作氏なぜ敗訴 詐欺広告裁判",
+      "link": "https://news.yahoo.co.jp/pickup/6602126?source=rss",
+      "published": "11/11 09:42",
       "source": "Yahoo!ニュース",
-      "summary": "顔や指紋といった生体認証を活用した「パスキー」を設定して不正侵入対策をしていた証券口座が乗っ取られた疑いが出たとして、日本証券業協会や証券会社が注意を呼びかけている。生体認証は昨年相次いだ証券口座の"
+      "summary": "SNS上で著名人になりすます詐欺広告をめぐり、実業家の前澤友作氏がフェイスブックなどの運営会社を訴えた裁判で、東京地裁は10日、前澤氏の訴えを退けました。"
     },
     {
       "category": "スポーツ",
@@ -146,92 +362,12 @@
       "summary": "ユミルリンクは11月11日、不正アクセスにより約4786万件の個人情報が流出したと発表した。10月に公表した最大約5162万件から件数を精査。被害は同社のメール配信サービスを利用するアイスタイルやJR東海などにも広がっている。"
     },
     {
-      "category": "主要",
-      "title": "腕時計窃盗疑い 気に入ってしまい",
-      "link": "https://news.yahoo.co.jp/pickup/6602236?source=rss",
-      "published": "11/12 06:19",
-      "source": "Yahoo!ニュース",
-      "summary": "報告「容疑者は名古屋市内のマンションから出てきたところを確保されたということです」"
-    },
-    {
-      "category": "社会",
-      "title": "武部氏選挙運動巡り 地検に告発状",
-      "link": "https://news.yahoo.co.jp/pickup/6602213?source=rss",
-      "published": "11/11 20:47",
-      "source": "Yahoo!ニュース",
-      "summary": "武部新農相（56）が公選法違反の疑いで刑事告発されたことが「週刊文春」の取材で分かった。"
-    },
-    {
-      "category": "経済",
-      "title": "高級スーツに外国人客 老舗逆転劇",
-      "link": "https://news.yahoo.co.jp/pickup/6602136?source=rss",
-      "published": "11/11 10:49",
-      "source": "Yahoo!ニュース",
-      "summary": "1着60万〜70万円のスーツを、1人で何着も注文していく――。東京・銀座の老舗テーラーに、いま海外の富裕層や経営者が次々と訪れている。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "内閣府メルマガ登録アド6万件流出",
-      "link": "https://news.yahoo.co.jp/pickup/6602172?source=rss",
-      "published": "11/11 14:33",
-      "source": "Yahoo!ニュース",
-      "summary": "内閣府は１１日、配信しているメールマガジン利用者のメールアドレス６万２８６３件が流出したと発表した。企業向けメール配信サービスなどを手がけるアララが不正アクセスを受けた影響という。メールマガジンの登"
-    },
-    {
-      "category": "スポーツ",
-      "title": "去就未定のDF吉田麻也 心境語る",
-      "link": "https://news.yahoo.co.jp/pickup/6602216?source=rss",
-      "published": "11/11 20:53",
-      "source": "Yahoo!ニュース",
-      "summary": "【ロサンゼルス（米カリフォルニア州）10日（日本時間11日）＝斎藤庸裕】メジャーリーグサッカー（MLS）ロサンゼルス・ギャラクシーとの契約が今季限りで終了するDF吉田麻也（38）が10日（日本時間1"
-    },
-    {
       "category": "IT",
       "title": "メモリ8GBでも快適？　Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
       "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
       "published": "11/11 16:12",
       "source": "ITmedia",
       "summary": "メモリ価格の高騰で、PCの買い替えはますます遠のいた。そんな中で配信されたWindows 11のアップデートは、8GBメモリの非力なマシンにも思わぬ余力を生んだ。それなら9年前のLet’s noteを、原稿執筆のサブ機として使えないか。ネックは日本語入力だ。ライブ変換が追い付かずに入力を取りこぼす問題を、今回はAIに直させてみた。"
-    },
-    {
-      "category": "主要",
-      "title": "阪神 FA獲得目指す3人に条件提示",
-      "link": "https://news.yahoo.co.jp/pickup/6602235?source=rss",
-      "published": "11/12 06:07",
-      "source": "Yahoo!ニュース",
-      "summary": "阪神が今オフのFA戦線で獲得を目指すオリックス中川圭太外野手（30）、ロッテ小島和哉投手（30）、中日上林誠知外野手（31）に条件提示を行ったことが11日、分かった。"
-    },
-    {
-      "category": "社会",
-      "title": "立花孝志被告の勾留続く 識者は",
-      "link": "https://news.yahoo.co.jp/pickup/6602187?source=rss",
-      "published": "11/11 17:27",
-      "source": "Yahoo!ニュース",
-      "summary": "政治団体「NHKから国民を守る党」の立花孝志党首が逮捕されてから11月9日で1年が過ぎました。"
-    },
-    {
-      "category": "経済",
-      "title": "トヨタ 軽トラックを米国で販売へ",
-      "link": "https://news.yahoo.co.jp/pickup/6602124?source=rss",
-      "published": "11/11 09:46",
-      "source": "Yahoo!ニュース",
-      "summary": "■ ダイハツの軽トラ「ハイゼットトラック ジャンボ」が、トヨタの新ブランド「サイオン」の1号車に トヨタ自動車の米国法人であるToyota Motor North America（TMNA）は11月"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "メールの不適切な「CC」境界線は",
-      "link": "https://news.yahoo.co.jp/pickup/6602146?source=rss",
-      "published": "11/11 12:02",
-      "source": "Yahoo!ニュース",
-      "summary": "普段の仕事で何げなく使う、メールの「CC」。便利な情報共有の手段だが、使い方によっては相手に不安やストレスを与えたり、人間関係のトラブルにつながったりすることもある。中には「CCハラスメント」と受け"
-    },
-    {
-      "category": "スポーツ",
-      "title": "陸上・末續慎吾が結婚を報告",
-      "link": "https://news.yahoo.co.jp/pickup/6602211?source=rss",
-      "published": "11/11 19:20",
-      "source": "Yahoo!ニュース",
-      "summary": "陸上で08年北京五輪の男子400メートルリレー銀メダルメンバーの末續慎吾(46)が11日、自身のインスタグラムを更新。結婚したことを報告した。"
     },
     {
       "category": "IT",
@@ -242,46 +378,6 @@
       "summary": "米Amazon傘下のRingは、室内を自律飛行する家庭向け防犯ドローンを発表した。AIを活用して屋内を巡回し、センサーが異常を検知すると自動で現場へ移動して撮影する。価格は約4万円。企業向けの自律走行型警備ロボットも発表した。"
     },
     {
-      "category": "主要",
-      "title": "育成9位指名の18歳 SB入団を辞退",
-      "link": "https://news.yahoo.co.jp/pickup/6602228?source=rss",
-      "published": "11/11 22:00",
-      "source": "Yahoo!ニュース",
-      "summary": "ソフトバンクからドラフト会議で育成９位で指名を受けた、日本ウェルネス沖縄の１４７キロ右腕・長山武蔵投手（３年）が入団を辞退し、米球界に挑戦することが１１日、明らかになった。"
-    },
-    {
-      "category": "社会",
-      "title": "昨年7月参院選「違憲状態」最高裁",
-      "link": "https://news.yahoo.co.jp/pickup/6602175?source=rss",
-      "published": "11/11 15:20",
-      "source": "Yahoo!ニュース",
-      "summary": "「1票の格差」が最大3・13倍だった2025年7月の参院選は投票価値の平等を保障した憲法に反するかが争われた訴訟の上告審判決で、最高裁大法廷（裁判長・今崎幸彦長官）は11日、「違憲状態」の統一判断を"
-    },
-    {
-      "category": "経済",
-      "title": "「稼ぐ」マンション管理組合増加",
-      "link": "https://news.yahoo.co.jp/pickup/6602118?source=rss",
-      "published": "11/11 08:41",
-      "source": "Yahoo!ニュース",
-      "summary": "物価高騰で工事費が上昇する中、マンション管理組合が保有する資産を使って「稼ぐ」動きを強めている。駐車場の空き区画を外部に貸し出したり、株式を購入して資産運用したり。修繕積立金などの資産価値がインフレ"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "「AIくさい」なぜSNSで批判過熱",
-      "link": "https://news.yahoo.co.jp/pickup/6602141?source=rss",
-      "published": "11/11 11:50",
-      "source": "Yahoo!ニュース",
-      "summary": "「AIくさい」。生成AIの使用を疑うこの一言が、作品や作者への批判を呼び込んでいる。その矛先は、企業やアーティストだけでなく、小学生にまで向けられた。10月には、福島県喜多方市のポスターコンクールで"
-    },
-    {
-      "category": "スポーツ",
-      "title": "横綱・豊昇龍 2日連続の金星配給",
-      "link": "https://news.yahoo.co.jp/pickup/6602208?source=rss",
-      "published": "11/11 19:00",
-      "source": "Yahoo!ニュース",
-      "summary": "◆大相撲九州場所４日目（１１日・福岡国際センター） 横綱・豊昇龍（立浪）は、東前頭２枚目・宇良（木瀬）に押し出され、連敗を喫した。過去１０勝６敗の相手に、もろ手突きで当たった後、すぐにまともに引いて"
-    },
-    {
       "category": "IT",
       "title": "前澤友作氏、Metaの“なりすまし広告”訴訟で控訴検討　東京地裁の請求棄却に「野放しでもOK？」",
       "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003108/",
@@ -290,52 +386,12 @@
       "summary": "実業家の前澤友作氏は11月10日、自身の名前や顔写真を無断で使った「なりすまし広告」を巡る米Metaとの訴訟で東京地裁が請求を棄却したことを受け、控訴を検討するとXに投稿した。"
     },
     {
-      "category": "主要",
-      "title": "月収5万円 受診遅れ死亡した男性",
-      "link": "https://news.yahoo.co.jp/pickup/6602222?source=rss",
-      "published": "11/11 21:30",
-      "source": "Yahoo!ニュース",
-      "summary": "貧困で受診遅れ、昨年全国で４２人死亡 経済的理由で受診が遅れ、患者が死亡した事例が昨年、山形県内で２人確認されていたことが、県民主医療機関連合会（県民医連）の調査でわかった。いずれも社会的孤立や生活"
-    },
-    {
-      "category": "社会",
-      "title": "介護 スポットワーカー依存高まる",
-      "link": "https://news.yahoo.co.jp/pickup/6602170?source=rss",
-      "published": "11/11 13:52",
-      "source": "Yahoo!ニュース",
-      "summary": "介護の「スポットワーカー」依存が高まっている。介護業界におけるスポットワークとは、介護施設や介護事業所が短時間・単発で人材を確保する働き方のことで、募集人数は2025年1月時点で前年同月比約3.6倍に"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "前澤友作氏なぜ敗訴 詐欺広告裁判",
-      "link": "https://news.yahoo.co.jp/pickup/6602126?source=rss",
-      "published": "11/11 09:42",
-      "source": "Yahoo!ニュース",
-      "summary": "SNS上で著名人になりすます詐欺広告をめぐり、実業家の前澤友作氏がフェイスブックなどの運営会社を訴えた裁判で、東京地裁は10日、前澤氏の訴えを退けました。"
-    },
-    {
       "category": "IT",
       "title": "内閣府、メルマガ利用者のメアド6万件超漏えい　氏名なども流出の可能性　アララ不正アクセスで",
       "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
       "published": "11/11 14:19",
       "source": "ITmedia",
       "summary": "アララが提供するメール配信サービスが不正アクセスを受けたことが原因。メルマガ登録時に入力された氏名や性別などの情報も、漏えいした可能性もあるという。"
-    },
-    {
-      "category": "主要",
-      "title": "消費減税法案 支援金巡り野党追及",
-      "link": "https://news.yahoo.co.jp/pickup/6602215?source=rss",
-      "published": "11/11 21:05",
-      "source": "Yahoo!ニュース",
-      "summary": "食料品の消費税減税法案がきょう、参議院本会議で審議入りしました。高市総理は中低所得者への新たな支援金制度について、今後の審議で丁寧に説明していく考えを示しました。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "証明書コンビニ交付で障害か 復旧",
-      "link": "https://news.yahoo.co.jp/pickup/6602104?source=rss",
-      "published": "11/11 02:50",
-      "source": "Yahoo!ニュース",
-      "summary": "全国のコンビニの端末で10日、408自治体の戸籍などの証明書が一時交付できない状態となった。10日午後に復旧した。地方公共団体情報システム機構が明らかにした。システムの通信障害が原因とみて調べている"
     },
     {
       "category": "IT",
@@ -400,46 +456,6 @@
       "published": "11/11 10:30",
       "source": "ITmedia",
       "summary": "決済処理に不正なプログラムが組み込まれていた。また、注文画面でエラーが発生した際、例外的にシステムログへカード番号やセキュリティコードが一時的に記録されていた。"
-    },
-    {
-      "category": "IT",
-      "title": "「Claude」に共同編集の「Sheets」「Whiteboards」　外部アプリもClaude内で開いて作業可能に",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003089/",
-      "published": "11/11 09:33",
-      "source": "ITmedia",
-      "summary": "Anthropicは、「Claude」に共同編集可能な「Claude Sheets」と「Claude Whiteboards」をβ版として追加した。また「Claude Dashboards」を「Claude Data」に改称し、一般提供を開始。さらに外部アプリをClaude内で直接操作できる「インタラクティブコネクタ」の拡張も発表した。"
-    },
-    {
-      "category": "IT",
-      "title": "GMOあおぞらネット銀、「不正な通信」検知でAPI一時停止　「予防的な措置」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003087/",
-      "published": "11/11 09:18",
-      "source": "ITmedia",
-      "summary": "11月10日夜から11日朝にかけ、銀行APIサービスを2度にわたり一時停止した。「安全確保のための予防的な措置」という。"
-    },
-    {
-      "category": "IT",
-      "title": "Anthropic、IPOの仮条件を1株70?78ドルに　調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003085/",
-      "published": "11/11 08:02",
-      "source": "ITmedia",
-      "summary": "Anthropicは、IPOに向けた修正版登録届出書を提出し、仮条件を1株70?78ドルに設定した。公開株数は8億2500万株で、調達額は最大約644億ドルとなる。Googleなど7社が260億ドル分を別途引き受ける。時価総額は最大約1兆4000億ドルに上る見込みで、11月19日に取引を開始すると報じられている。"
-    },
-    {
-      "category": "IT",
-      "title": "簿記などの受験者情報最大98万人分漏えいか　合否や得点も　日商ネット試験に不正アクセス",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003084/",
-      "published": "11/11 07:49",
-      "source": "ITmedia",
-      "summary": "氏名、フリガナ、性別、生年月日、合否結果、試験得点と、任意で入力したメールアドレス、電話番号、住所が漏えいした可能性がある。"
-    },
-    {
-      "category": "IT",
-      "title": "Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003083/",
-      "published": "11/11 07:03",
-      "source": "ITmedia",
-      "summary": "Googleは、最上位AIモデル「Gemini 4 Carbon」の提供を開始した。一般ユーザーは月額1万4500円の「Google AI Ultra」契約で利用可能となる。複雑な推論や高度なコーディングに特化しており、開発者向けAPIや新機能「/swarm」のプレビュー提供も始まった。"
     }
   ],
   "errors": [
