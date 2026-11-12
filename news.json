@@ -1,13 +1,61 @@
 {
-  "updated": "2026-11-12T11:54:20.547195+00:00",
+  "updated": "2026-11-12T19:59:42.224400+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "侍J 正木が2打席連発豪快アーチ",
-      "link": "https://news.yahoo.co.jp/pickup/6602337?source=rss",
-      "published": "11/12 20:01",
+      "title": "米ワシントンで銃撃事件 5人負傷",
+      "link": "https://news.yahoo.co.jp/pickup/6602356?source=rss",
+      "published": "11/13 00:13",
       "source": "Yahoo!ニュース",
-      "summary": "◆ラグザス アジアプロ野球チャンピオンシップ２０２６ 台湾―日本（１２日・東京ドーム） 日本代表・正木智也内野手が２点リードの３回１死走者なしの場面で、２打席連発となる豪快アーチを放り込んだ。フルカ"
+      "summary": "【ワシントン共同】AP通信によると、米首都ワシントン中心部のジムで12日朝、5人が銃撃され、負傷する事件が発生した。容疑者はまだ拘束されておらず、警察は市民に発生現場に近づかないよう求めた。"
+    },
+    {
+      "category": "社会",
+      "title": "石破氏 採決で退席の小渕氏を評価",
+      "link": "https://news.yahoo.co.jp/pickup/6602349?source=rss",
+      "published": "11/12 22:32",
+      "source": "Yahoo!ニュース",
+      "summary": "自民党の石破茂前首相は12日夜のBS日テレ番組で、消費税減税関連法案の衆院採決で石破氏と同様に退席し、戒告処分を受けた小渕優子元選対委員長について「これから先の日本を担う一人だ」と述べた。麻生政権で"
+    },
+    {
+      "category": "経済",
+      "title": "無印良品 クレカ番号流出巡る経緯",
+      "link": "https://news.yahoo.co.jp/pickup/6602343?source=rss",
+      "published": "11/12 22:02",
+      "source": "Yahoo!ニュース",
+      "summary": "無印良品を展開する良品計画は11月12日の記者会見で、クレジットカード「MUJI Card」の会員に独自特典を付与する際、2021年7月までカード番号で会員を識別していたと説明した。取得終了後も番号"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "選挙ポスターAI作成? 戸惑いの声",
+      "link": "https://news.yahoo.co.jp/pickup/6602346?source=rss",
+      "published": "11/12 22:25",
+      "source": "Yahoo!ニュース",
+      "summary": "１５日投開票の兵庫県尼崎市議補選（欠員１）で、生成人工知能（ＡＩ）で作成したとみられる人物の選挙ポスターが複数掲示されている。市選挙管理委員会によると、少なくとも１人の写真は「候補者と全く違う」。選"
+    },
+    {
+      "category": "スポーツ",
+      "title": "侍Jが台湾に5-0で勝利 正木が2HR",
+      "link": "https://news.yahoo.co.jp/pickup/6602344?source=rss",
+      "published": "11/12 21:44",
+      "source": "Yahoo!ニュース",
+      "summary": "2番・宗山が本塁打含む3安打1打点 野球日本代表「侍ジャパン」は12日、東京ドームで「ラグザス アジアプロ野球チャンピオンシップ2026」のチャイニーズ・タイペイ戦に5-0で勝利した。ソフトバンク・"
+    },
+    {
+      "category": "IT",
+      "title": "NVIDIA、“革ジャンCEO”ことフアン氏が辞任　クレスCFOが暫定CEOに",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/",
+      "published": "11/12 23:53",
+      "source": "ITmedia",
+      "summary": "米NVIDIAは11月12日（現地時間）、1993年の共同創業以来同社を率いてきたジェンスン・フアン氏が、社長兼CEOと取締役を即日辞任したと発表した。CFOのコレット・クレス氏が暫定CEOに就任し、取締役会は社内外から正式なCEOを選ぶ。"
+    },
+    {
+      "category": "主要",
+      "title": "米国防長官ら 墓地で衛兵から叱責",
+      "link": "https://news.yahoo.co.jp/pickup/6602354?source=rss",
+      "published": "11/12 23:26",
+      "source": "Yahoo!ニュース",
+      "summary": "（CNN） 米国の退役軍人の日に当たる11日、「無名戦士の墓」で警備に当たっていた衛兵が、ヘグセス国防長官や上級顧問の一団を叱責する出来事があった。式典終了後、ヘグセス氏らのうち一部が厳粛な追悼の場"
     },
     {
       "category": "社会",
@@ -35,11 +83,11 @@
     },
     {
       "category": "スポーツ",
-      "title": "緊急手術の関原翔 RIZIN容体説明",
-      "link": "https://news.yahoo.co.jp/pickup/6602320?source=rss",
-      "published": "11/12 17:28",
+      "title": "侍J 正木が2打席連発豪快アーチ",
+      "link": "https://news.yahoo.co.jp/pickup/6602337?source=rss",
+      "published": "11/12 20:01",
       "source": "Yahoo!ニュース",
-      "summary": "試合後に緊急搬送…一命は取り留めるも再手術 格闘技イベント「RIZIN」は12日、「RIZIN.55」（11月8日・千葉・LaLa arena TOKYO-BAY）に出場した関原翔の容体について、「"
+      "summary": "◆ラグザス アジアプロ野球チャンピオンシップ２０２６ 台湾―日本（１２日・東京ドーム） 日本代表・正木智也内野手が２点リードの３回１死走者なしの場面で、２打席連発となる豪快アーチを放り込んだ。フルカ"
     },
     {
       "category": "IT",
@@ -51,19 +99,19 @@
     },
     {
       "category": "主要",
-      "title": "台湾に木村拓哉 空港に800人超",
-      "link": "https://news.yahoo.co.jp/pickup/6602335?source=rss",
-      "published": "11/12 19:45",
+      "title": "銭湯侵入疑い 男は国際的犯罪Gか",
+      "link": "https://news.yahoo.co.jp/pickup/6602352?source=rss",
+      "published": "11/12 23:10",
       "source": "Yahoo!ニュース",
-      "summary": "（台北中央社）歌手で俳優の木村拓哉が12日、台北公演開催のため、台湾を訪問した。台北松山空港の到着ロビーに姿を見せると、詰めかけた800人を超えるファンから大きな歓声が上がり、「拓哉」や「キムタク」"
+      "summary": "千葉県内外で温浴施設のロッカーが合鍵で開けられ、金品が盗まれる事件が相次ぐ中、指示役とみられる中国籍の男が11月11日、逮捕されました。"
     },
     {
       "category": "社会",
-      "title": "北海道新聞 拘束記者の実名掲載",
-      "link": "https://news.yahoo.co.jp/pickup/6602313?source=rss",
-      "published": "11/12 16:41",
+      "title": "芥川「藪の中」当初は題名違った",
+      "link": "https://news.yahoo.co.jp/pickup/6602332?source=rss",
+      "published": "11/12 19:08",
       "source": "Yahoo!ニュース",
-      "summary": "北海道新聞社は12日、スパイ容疑でロシア当局に拘束された同社男性記者について、今井裕紀さん（34）だと明らかにした。同社ニュースサイト「北海道新聞デジタル」に氏名入りの記事を掲載した。"
+      "summary": "物事の真相が分からない状態を指す「真相は藪（やぶ）の中」。その言葉の由来となり、黒澤明監督の映画「羅生門」の原案としても知られる芥川龍之介（1892～1927）の短編小説「藪の中」は当初、作品名や結"
     },
     {
       "category": "経済",
@@ -83,11 +131,11 @@
     },
     {
       "category": "スポーツ",
-      "title": "初代「長嶋茂雄賞」は佐藤輝明",
-      "link": "https://news.yahoo.co.jp/pickup/6602318?source=rss",
-      "published": "11/12 17:23",
+      "title": "緊急手術の関原翔 RIZIN容体説明",
+      "link": "https://news.yahoo.co.jp/pickup/6602320?source=rss",
+      "published": "11/12 17:28",
       "source": "Yahoo!ニュース",
-      "summary": "日本野球機構（NPB）は12日、今年から新設された『長嶋茂雄賞』を発表し、今シーズン三冠王に輝いた阪神の佐藤輝明（27）が初代受賞者となった。"
+      "summary": "試合後に緊急搬送…一命は取り留めるも再手術 格闘技イベント「RIZIN」は12日、「RIZIN.55」（11月8日・千葉・LaLa arena TOKYO-BAY）に出場した関原翔の容体について、「"
     },
     {
       "category": "IT",
@@ -99,27 +147,27 @@
     },
     {
       "category": "主要",
-      "title": "筑波大付属小 第三者委いじめ認定",
-      "link": "https://news.yahoo.co.jp/pickup/6602333?source=rss",
-      "published": "11/12 19:18",
+      "title": "エヌビディアのフアンCEOが辞任",
+      "link": "https://news.yahoo.co.jp/pickup/6602353?source=rss",
+      "published": "11/12 23:08",
       "source": "Yahoo!ニュース",
-      "summary": "筑波大付属小（東京都文京区）で2023年度、6年生の児童がいじめ被害を訴えた問題で、筑波大付属学校教育局は12日までに、第三者委員会による調査報告書を公表した。報告書は4年生の時から断続的ないじめが"
+      "summary": "アメリカの半導体大手エヌビディアは、さきほど、創業者のジェンスン・フアンCEOが辞任したと発表しました。"
     },
     {
       "category": "社会",
-      "title": "ポスト高市の首相再選支持 相次ぐ",
-      "link": "https://news.yahoo.co.jp/pickup/6602290?source=rss",
-      "published": "11/12 12:09",
+      "title": "麻生氏 採決棄権の石破氏らに苦言",
+      "link": "https://news.yahoo.co.jp/pickup/6602323?source=rss",
+      "published": "11/12 17:58",
       "source": "Yahoo!ニュース",
-      "summary": "■「ポスト高市」の小泉防衛相、首相再選を支持 小泉進次郎防衛相が10日のネット番組で、来秋の自民党総裁選に高市早苗首相が立候補した場合は「全力で支える」と述べ、出馬を見送る考えを示した。小林鷹之政調"
+      "summary": "消費税減税法案の採決を棄権した石破前総理大臣ら4人に対し、自民党の麻生副総裁は、「『処分が怖くてこんな仕事はできない』などといった発言もあったようだが、これは恐怖を植え付けるための処分ではない。自由"
     },
     {
       "category": "経済",
-      "title": "日銀委員 利上げで経済減速懸念",
-      "link": "https://news.yahoo.co.jp/pickup/6602330?source=rss",
-      "published": "11/12 18:36",
+      "title": "NVIDIA疑惑 女性は台湾を8回訪問",
+      "link": "https://news.yahoo.co.jp/pickup/6602328?source=rss",
+      "published": "11/12 18:25",
       "source": "Yahoo!ニュース",
-      "summary": "日銀の浅田統一郎審議委員は12日、長崎市で講演し「利上げが経済を下振れさせ、基調的な物価上昇率の押し下げにつながるリスクに留意する必要がある」と述べ、経済の減速に警戒感を示した。今後の利上げについて"
+      "summary": "【AFP＝時事】エヌビディアのジェンスン・フアンCEOとの不倫関係が報じられ、中国政府のためにスパイ活動を行っていた疑いも持たれている中国人女性が、2024年と2025年に計8回台湾を訪れていたこと"
     },
     {
       "category": "AI・テクノロジー",
@@ -131,11 +179,11 @@
     },
     {
       "category": "スポーツ",
-      "title": "右肩負傷 SB小久保監督が手術へ",
-      "link": "https://news.yahoo.co.jp/pickup/6602310?source=rss",
-      "published": "11/12 16:26",
+      "title": "初代「長嶋茂雄賞」は佐藤輝明",
+      "link": "https://news.yahoo.co.jp/pickup/6602318?source=rss",
+      "published": "11/12 17:23",
       "source": "Yahoo!ニュース",
-      "summary": "◆ソフトバンク秋季練習（12日、タマスタ筑後） ソフトバンクの小久保裕紀監督（55）は、近々右肩を手術することを明かした。「ギプス姿で来ても驚かないように、先に伝えとこうと。棘上筋の完全断裂。腕が上"
+      "summary": "日本野球機構（NPB）は12日、今年から新設された『長嶋茂雄賞』を発表し、今シーズン三冠王に輝いた阪神の佐藤輝明（27）が初代受賞者となった。"
     },
     {
       "category": "IT",
@@ -147,67 +195,19 @@
     },
     {
       "category": "主要",
-      "title": "芥川「藪の中」当初は題名違った",
-      "link": "https://news.yahoo.co.jp/pickup/6602332?source=rss",
-      "published": "11/12 19:08",
+      "title": "海岸にクジラの死骸 深海の希少種",
+      "link": "https://news.yahoo.co.jp/pickup/6602351?source=rss",
+      "published": "11/12 22:57",
       "source": "Yahoo!ニュース",
-      "summary": "物事の真相が分からない状態を指す「真相は藪（やぶ）の中」。その言葉の由来となり、黒澤明監督の映画「羅生門」の原案としても知られる芥川龍之介（1892～1927）の短編小説「藪の中」は当初、作品名や結"
+      "summary": "きのう午前、茨城県神栖市の海水浴場で、クジラの死骸が打ち上げられているのが見つかりました。深海に生息する珍しい種類だということで、専門家らが調査を進めています。"
     },
     {
       "category": "社会",
-      "title": "二重かわいい 女子大学生の違和感",
-      "link": "https://news.yahoo.co.jp/pickup/6602269?source=rss",
-      "published": "11/12 11:02",
-      "source": "Yahoo!ニュース",
-      "summary": "「たった3年の高校生活。1秒でも長くカワイイ私で過ごしたい」――。 2023年、大手美容クリニックがこんなキャッチコピーで、10代を対象に二重まぶたへの整形を勧める広告を電車内で展開し、物議を醸した"
-    },
-    {
-      "category": "経済",
-      "title": "ダイハツなど3車種17万台リコール",
-      "link": "https://news.yahoo.co.jp/pickup/6602319?source=rss",
-      "published": "11/12 17:34",
-      "source": "Yahoo!ニュース",
-      "summary": "ダイハツ・トヨタ・スバルは、3つの車種で電気装置に不具合が見つかり、エンジンが始動できない恐れがあるなどとして、17万6683台をリコールすると発表しました。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "警察庁アプリ巡る偽サイトを確認",
-      "link": "https://news.yahoo.co.jp/pickup/6602194?source=rss",
-      "published": "11/11 17:55",
-      "source": "Yahoo!ニュース",
-      "summary": "警察庁は11日、詐欺対策で活用を呼びかけている「警察庁推奨アプリ」のダウンロードページを装った偽サイトを確認したと発表した。10月末以降、少なくとも数百件の不審メッセージを確認。偽サイトを通じて、不"
-    },
-    {
-      "category": "スポーツ",
-      "title": "大谷 オールMLBチーム選出されず",
-      "link": "https://news.yahoo.co.jp/pickup/6602297?source=rss",
-      "published": "11/12 13:23",
-      "source": "Yahoo!ニュース",
-      "summary": "ヨルダン・アルバレスとベン・ライスが選出された メジャーリーグ機構（MLB）は11日（日本時間12日）、その年のレギュラーシーズンで最も活躍した選手をポジション別に表彰するオールMLBチームを発表し"
-    },
-    {
-      "category": "IT",
-      "title": "無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
+      "title": "消費税減税の広報動画 公開見送り",
+      "link": "https://news.yahoo.co.jp/pickup/6602311?source=rss",
       "published": "11/12 17:00",
-      "source": "ITmedia",
-      "summary": "良品計画は11月12日、不正アクセスを巡る謝罪会見を開いた。2021年7月までクレジットカード番号で顧客を識別していたと説明。システム変更後も一部のカード情報を削除せず保管していた問題について、運用上の不備を認めた。"
-    },
-    {
-      "category": "主要",
-      "title": "速報アジアプロ野球 侍Jvs台湾",
-      "link": "https://news.yahoo.co.jp/pickup/6602325?source=rss",
-      "published": "11/12 18:55",
       "source": "Yahoo!ニュース",
-      "summary": "アジアプロ野球チャンピオンシップ予選、日本vs.台湾を速報する。"
-    },
-    {
-      "category": "社会",
-      "title": "核「持ち込ませず」例外検討 政府",
-      "link": "https://news.yahoo.co.jp/pickup/6602246?source=rss",
-      "published": "11/12 07:55",
-      "source": "Yahoo!ニュース",
-      "summary": "高市政権が、年内に改定する安全保障関連3文書で、「非核三原則」の「持ち込ませず」について、例外を明記する検討に入ったことが分かった。高市早苗首相は非核三原則の見直しを持論としており、日本が安保を頼る"
+      "summary": "政府が、今月上旬に計画していた飲食料品の消費税減税と所得連動型の現金給付制度に関する広報動画の公開を見送ったことが、12日分かった。自民党が関連法案の成立前の配信に対し、野党が反発を強めかねないと反"
     },
     {
       "category": "経済",
@@ -219,35 +219,43 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "パスキー設定の証券口座 侵入疑い",
-      "link": "https://news.yahoo.co.jp/pickup/6602193?source=rss",
-      "published": "11/11 17:33",
+      "title": "警察庁アプリ巡る偽サイトを確認",
+      "link": "https://news.yahoo.co.jp/pickup/6602194?source=rss",
+      "published": "11/11 17:55",
       "source": "Yahoo!ニュース",
-      "summary": "顔や指紋といった生体認証を活用した「パスキー」を設定して不正侵入対策をしていた証券口座が乗っ取られた疑いが出たとして、日本証券業協会や証券会社が注意を呼びかけている。生体認証は昨年相次いだ証券口座の"
+      "summary": "警察庁は11日、詐欺対策で活用を呼びかけている「警察庁推奨アプリ」のダウンロードページを装った偽サイトを確認したと発表した。10月末以降、少なくとも数百件の不審メッセージを確認。偽サイトを通じて、不"
     },
     {
       "category": "スポーツ",
-      "title": "FA今永昇太 MLB2桁球団と接触",
-      "link": "https://news.yahoo.co.jp/pickup/6602274?source=rss",
-      "published": "11/12 11:29",
+      "title": "右肩負傷 SB小久保監督が手術へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602310?source=rss",
+      "published": "11/12 16:26",
       "source": "Yahoo!ニュース",
-      "summary": "今永代理人の長谷川氏「ポストシーズンで投げたい気持ちは強い」 カブスの今永昇太投手の代理人を務めるオクタゴン社のアジア統括本部長、長谷川嘉宣氏が11日、ネバダ州ラスベガスで開催中のGM会議の会場で報"
+      "summary": "◆ソフトバンク秋季練習（12日、タマスタ筑後） ソフトバンクの小久保裕紀監督（55）は、近々右肩を手術することを明かした。「ギプス姿で来ても驚かないように、先に伝えとこうと。棘上筋の完全断裂。腕が上"
     },
     {
       "category": "IT",
-      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
-      "published": "11/12 14:10",
+      "title": "無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
+      "published": "11/12 17:00",
       "source": "ITmedia",
-      "summary": "米Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro Sandbox」の提供開始を発表しました。"
+      "summary": "良品計画は11月12日、不正アクセスを巡る謝罪会見を開いた。2021年7月までクレジットカード番号で顧客を識別していたと説明。システム変更後も一部のカード情報を削除せず保管していた問題について、運用上の不備を認めた。"
     },
     {
       "category": "主要",
-      "title": "NVIDIA疑惑 女性は台湾を8回訪問",
-      "link": "https://news.yahoo.co.jp/pickup/6602328?source=rss",
-      "published": "11/12 18:25",
+      "title": "タマホーム 5年以上前から不正か",
+      "link": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
+      "published": "11/12 22:34",
       "source": "Yahoo!ニュース",
-      "summary": "【AFP＝時事】エヌビディアのジェンスン・フアンCEOとの不倫関係が報じられ、中国政府のためにスパイ活動を行っていた疑いも持たれている中国人女性が、2024年と2025年に計8回台湾を訪れていたこと"
+      "summary": "住宅メーカー・タマホームが損害保険会社に対して火災保険の不正請求をしていた疑いについて、少なくとも5年以上前から不正請求が行われていた可能性があることが関係者への取材でわかりました。"
+    },
+    {
+      "category": "社会",
+      "title": "北海道新聞 拘束記者の実名掲載",
+      "link": "https://news.yahoo.co.jp/pickup/6602313?source=rss",
+      "published": "11/12 16:41",
+      "source": "Yahoo!ニュース",
+      "summary": "北海道新聞社は12日、スパイ容疑でロシア当局に拘束された同社男性記者について、今井裕紀さん（34）だと明らかにした。同社ニュースサイト「北海道新聞デジタル」に氏名入りの記事を掲載した。"
     },
     {
       "category": "経済",
@@ -259,6 +267,46 @@
     },
     {
       "category": "AI・テクノロジー",
+      "title": "パスキー設定の証券口座 侵入疑い",
+      "link": "https://news.yahoo.co.jp/pickup/6602193?source=rss",
+      "published": "11/11 17:33",
+      "source": "Yahoo!ニュース",
+      "summary": "顔や指紋といった生体認証を活用した「パスキー」を設定して不正侵入対策をしていた証券口座が乗っ取られた疑いが出たとして、日本証券業協会や証券会社が注意を呼びかけている。生体認証は昨年相次いだ証券口座の"
+    },
+    {
+      "category": "スポーツ",
+      "title": "大谷 オールMLBチーム選出されず",
+      "link": "https://news.yahoo.co.jp/pickup/6602297?source=rss",
+      "published": "11/12 13:23",
+      "source": "Yahoo!ニュース",
+      "summary": "ヨルダン・アルバレスとベン・ライスが選出された メジャーリーグ機構（MLB）は11日（日本時間12日）、その年のレギュラーシーズンで最も活躍した選手をポジション別に表彰するオールMLBチームを発表し"
+    },
+    {
+      "category": "IT",
+      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
+      "published": "11/12 14:10",
+      "source": "ITmedia",
+      "summary": "米Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro Sandbox」の提供開始を発表しました。"
+    },
+    {
+      "category": "主要",
+      "title": "勤務先から21億円超横領疑い 逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
+      "published": "11/12 22:05",
+      "source": "Yahoo!ニュース",
+      "summary": "勤務していた会社の口座から約21億8800万円を送金し着服したとして、さいたま地検特別刑事部は12日、元経理担当で無職、鈴木真一容疑者（43）＝埼玉県鶴ケ島市＝を業務上横領容疑で逮捕した。地検は、会"
+    },
+    {
+      "category": "社会",
+      "title": "ポスト高市の首相再選支持 相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6602290?source=rss",
+      "published": "11/12 12:09",
+      "source": "Yahoo!ニュース",
+      "summary": "■「ポスト高市」の小泉防衛相、首相再選を支持 小泉進次郎防衛相が10日のネット番組で、来秋の自民党総裁選に高市早苗首相が立候補した場合は「全力で支える」と述べ、出馬を見送る考えを示した。小林鷹之政調"
+    },
+    {
+      "category": "AI・テクノロジー",
       "title": "内閣府メルマガ登録アド6万件流出",
       "link": "https://news.yahoo.co.jp/pickup/6602172?source=rss",
       "published": "11/11 14:33",
@@ -267,11 +315,11 @@
     },
     {
       "category": "スポーツ",
-      "title": "誠也 カブスの単年36億円QO拒否",
-      "link": "https://news.yahoo.co.jp/pickup/6602247?source=rss",
-      "published": "11/12 07:59",
+      "title": "FA今永昇太 MLB2桁球団と接触",
+      "link": "https://news.yahoo.co.jp/pickup/6602274?source=rss",
+      "published": "11/12 11:29",
       "source": "Yahoo!ニュース",
-      "summary": "カブスからFAになった鈴木誠也外野手が古巣から提示された単年2315万ドル（約36億6000万円）のクオリファイングオファー（QO）を拒否したことが分かった。同外野手の代理人を務めるジョエル・ウルフ"
+      "summary": "今永代理人の長谷川氏「ポストシーズンで投げたい気持ちは強い」 カブスの今永昇太投手の代理人を務めるオクタゴン社のアジア統括本部長、長谷川嘉宣氏が11日、ネバダ州ラスベガスで開催中のGM会議の会場で報"
     },
     {
       "category": "IT",
@@ -283,19 +331,19 @@
     },
     {
       "category": "主要",
-      "title": "麻生氏 採決棄権の石破氏らに苦言",
-      "link": "https://news.yahoo.co.jp/pickup/6602323?source=rss",
-      "published": "11/12 17:58",
+      "title": "蒔田彩珠です 森七菜がついたうそ",
+      "link": "https://news.yahoo.co.jp/pickup/6602341?source=rss",
+      "published": "11/12 21:06",
       "source": "Yahoo!ニュース",
-      "summary": "消費税減税法案の採決を棄権した石破前総理大臣ら4人に対し、自民党の麻生副総裁は、「『処分が怖くてこんな仕事はできない』などといった発言もあったようだが、これは恐怖を植え付けるための処分ではない。自由"
+      "summary": "俳優の森七菜（２５）と蒔田彩珠（２４）が１２日、都内でプライムビデオのＷ主演ドラマ「地雷グリコ」（１３日）配信直前イベントに出席した。"
     },
     {
-      "category": "経済",
-      "title": "CEOの解任可否を決定へ NVIDIA",
-      "link": "https://news.yahoo.co.jp/pickup/6602271?source=rss",
-      "published": "11/12 11:01",
+      "category": "社会",
+      "title": "二重かわいい 女子大学生の違和感",
+      "link": "https://news.yahoo.co.jp/pickup/6602269?source=rss",
+      "published": "11/12 11:02",
       "source": "Yahoo!ニュース",
-      "summary": "Alexandra Alper[１１日 ロイター] - ジェンスン・フアン最高経営責任者（ＣＥＯ）の２件の不倫問題に揺れる米半導体大手エヌビディアは１１日に取締役会を開き、同ＣＥＯ解任の可否を決定す"
+      "summary": "「たった3年の高校生活。1秒でも長くカワイイ私で過ごしたい」――。 2023年、大手美容クリニックがこんなキャッチコピーで、10代を対象に二重まぶたへの整形を勧める広告を電車内で展開し、物議を醸した"
     },
     {
       "category": "AI・テクノロジー",
@@ -306,28 +354,20 @@
       "summary": "普段の仕事で何げなく使う、メールの「CC」。便利な情報共有の手段だが、使い方によっては相手に不安やストレスを与えたり、人間関係のトラブルにつながったりすることもある。中には「CCハラスメント」と受け"
     },
     {
+      "category": "スポーツ",
+      "title": "誠也 カブスの単年36億円QO拒否",
+      "link": "https://news.yahoo.co.jp/pickup/6602247?source=rss",
+      "published": "11/12 07:59",
+      "source": "Yahoo!ニュース",
+      "summary": "カブスからFAになった鈴木誠也外野手が古巣から提示された単年2315万ドル（約36億6000万円）のクオリファイングオファー（QO）を拒否したことが分かった。同外野手の代理人を務めるジョエル・ウルフ"
+    },
+    {
       "category": "IT",
       "title": "Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI",
       "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003132/",
       "published": "11/12 11:29",
       "source": "ITmedia",
       "summary": "Google DeepMindは、DNA配列が特定の細胞種に与える影響を予測する次世代AIモデル「AlphaGenome 2」を発表した。1億超の細胞データで学習し、細胞の種類や状態を条件指定して予測できる。疾患に関わる遺伝子変異の特定精度を前モデルから大幅に向上させており、非営利目的ならAPI経由で利用できる。"
-    },
-    {
-      "category": "主要",
-      "title": "消費税減税の広報動画 公開見送り",
-      "link": "https://news.yahoo.co.jp/pickup/6602311?source=rss",
-      "published": "11/12 17:00",
-      "source": "Yahoo!ニュース",
-      "summary": "政府が、今月上旬に計画していた飲食料品の消費税減税と所得連動型の現金給付制度に関する広報動画の公開を見送ったことが、12日分かった。自民党が関連法案の成立前の配信に対し、野党が反発を強めかねないと反"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "「AIくさい」なぜSNSで批判過熱",
-      "link": "https://news.yahoo.co.jp/pickup/6602141?source=rss",
-      "published": "11/11 11:50",
-      "source": "Yahoo!ニュース",
-      "summary": "「AIくさい」。生成AIの使用を疑うこの一言が、作品や作者への批判を呼び込んでいる。その矛先は、企業やアーティストだけでなく、小学生にまで向けられた。10月には、福島県喜多方市のポスターコンクールで"
     },
     {
       "category": "IT",
@@ -424,14 +464,6 @@
       "published": "11/11 13:50",
       "source": "ITmedia",
       "summary": "一般的な金属製アンテナの接続性能と差分がないことを確認したという。"
-    },
-    {
-      "category": "IT",
-      "title": "“タッチ不要”の改札、山手線など40駅に導入　28年春から　JR東",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003100/",
-      "published": "11/11 12:35",
-      "source": "ITmedia",
-      "summary": "JR東日本は、Suicaをタッチせずに通過できる「ウォークスルー改札」を2028年春から本格導入する。山手線全駅など40駅から始め、31年度末までに全駅への拡大を目指す。27年4月から14駅で体験導入を実施する。"
     }
   ],
   "errors": [
