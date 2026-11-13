@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-12T19:59:42.224400+00:00",
+  "updated": "2026-11-13T01:08:59.902645+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "米ワシントンで銃撃事件 5人負傷",
-      "link": "https://news.yahoo.co.jp/pickup/6602356?source=rss",
-      "published": "11/13 00:13",
+      "title": "Microsoft障害 全面復旧は未定",
+      "link": "https://news.yahoo.co.jp/pickup/6602382?source=rss",
+      "published": "11/13 10:01",
       "source": "Yahoo!ニュース",
-      "summary": "【ワシントン共同】AP通信によると、米首都ワシントン中心部のジムで12日朝、5人が銃撃され、負傷する事件が発生した。容疑者はまだ拘束されておらず、警察は市民に発生現場に近づかないよう求めた。"
+      "summary": "アメリカのIT大手｢マイクロソフト｣は、メールサービスなどで世界的に広がっている障害について、｢限定的な復旧がみられる｣と発表しました。"
     },
     {
       "category": "社会",
@@ -19,11 +19,59 @@
     },
     {
       "category": "経済",
-      "title": "無印良品 クレカ番号流出巡る経緯",
-      "link": "https://news.yahoo.co.jp/pickup/6602343?source=rss",
-      "published": "11/12 22:02",
+      "title": "丸亀製麺の値下げ 「逆張り」真髄",
+      "link": "https://news.yahoo.co.jp/pickup/6602372?source=rss",
+      "published": "11/13 08:36",
       "source": "Yahoo!ニュース",
-      "summary": "無印良品を展開する良品計画は11月12日の記者会見で、クレジットカード「MUJI Card」の会員に独自特典を付与する際、2021年7月までカード番号で会員を識別していたと説明した。取得終了後も番号"
+      "summary": "丸亀製麺の値下げが話題を呼んでいる。その背景には、同社が貫いてきた「逆張り」の経営がある。飲食店で効率化が求められる中でも、店内で粉からうどんをつくり、ゆでたてを提供する。その手間と調理のライブ感を、"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "「Microsoft 365」で大規模障害",
+      "link": "https://news.yahoo.co.jp/pickup/6602362?source=rss",
+      "published": "11/13 07:19",
+      "source": "Yahoo!ニュース",
+      "summary": "米Microsoftのクラウドサービス「Microsoft 365」で11月12日（米国時間）、メールサービス「Exchange Online」のメールボックスに接続できない障害が発生した。「Out"
+    },
+    {
+      "category": "スポーツ",
+      "title": "阪神 FAの上林誠知と直接交渉",
+      "link": "https://news.yahoo.co.jp/pickup/6602376?source=rss",
+      "published": "11/13 08:55",
+      "source": "Yahoo!ニュース",
+      "summary": "阪神が、国内フリーエージェント（ＦＡ）権を行使した中日・上林誠知外野手（３１）と直接交渉したことが１２日、分かった。交渉が解禁された１１日に代理人などを通じて即アタックし、この日までに本人と膝を突き"
+    },
+    {
+      "category": "IT",
+      "title": "緊急情報の音声放送システムにランサムウェア攻撃　滋賀県甲賀市、屋外拡声器など使えず",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003167/",
+      "published": "11/13 09:44",
+      "source": "ITmedia",
+      "summary": "屋外拡声器などを使った緊急情報も停止しており、緊急情報は市の公式LINEやテレビ、ラジオなどで伝える。"
+    },
+    {
+      "category": "主要",
+      "title": "参議院議員の山崎正昭氏が死去",
+      "link": "https://news.yahoo.co.jp/pickup/6602385?source=rss",
+      "published": "11/13 10:00",
+      "source": "Yahoo!ニュース",
+      "summary": "福井県大野市出身の参議院議員山崎正昭氏が13日未明、亡くなりました。84歳でした。"
+    },
+    {
+      "category": "社会",
+      "title": "拘束の記者 精力的に北方領土取材",
+      "link": "https://news.yahoo.co.jp/pickup/6602339?source=rss",
+      "published": "11/12 20:50",
+      "source": "Yahoo!ニュース",
+      "summary": "ロシア極東サハリン（樺太）州でロシアにスパイ名目で拘束されて13日で1カ月がたつ北海道新聞ユジノサハリンスク支局記者の今井裕紀さん（34）は、樺太出身の祖父を持ち、北方領土に関する取材を精力的に続け"
+    },
+    {
+      "category": "経済",
+      "title": "エヌビディアCEO辞任 動揺広がる",
+      "link": "https://news.yahoo.co.jp/pickup/6602361?source=rss",
+      "published": "11/13 06:59",
+      "source": "Yahoo!ニュース",
+      "summary": "中国の工作員とされる女性との不倫関係が問題となった半導体大手エヌビディアのフアンCEOが辞任したことを受け、アメリカ国内では動揺が広がっています。"
     },
     {
       "category": "AI・テクノロジー",
@@ -43,35 +91,35 @@
     },
     {
       "category": "IT",
-      "title": "NVIDIA、“革ジャンCEO”ことフアン氏が辞任　クレスCFOが暫定CEOに",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/",
-      "published": "11/12 23:53",
+      "title": "Google、Gemini搭載のメガネを米韓で予約開始　395ドルからで12月10日発売へ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003166/",
+      "published": "11/13 09:30",
       "source": "ITmedia",
-      "summary": "米NVIDIAは11月12日（現地時間）、1993年の共同創業以来同社を率いてきたジェンスン・フアン氏が、社長兼CEOと取締役を即日辞任したと発表した。CFOのコレット・クレス氏が暫定CEOに就任し、取締役会は社内外から正式なCEOを選ぶ。"
+      "summary": "Googleは、Samsungらと共同開発したGemini対応スマートグラス「intelligent eyewear」の予約受付を米国と韓国で開始した。カメラとマイクを内蔵し、視界の情報を基にGeminiと音声で対話できる。外向きLEDや自動顔ぼかし機能など、周囲のプライバシーにも配慮されている。"
     },
     {
       "category": "主要",
-      "title": "米国防長官ら 墓地で衛兵から叱責",
-      "link": "https://news.yahoo.co.jp/pickup/6602354?source=rss",
-      "published": "11/12 23:26",
+      "title": "ワタミがMBO検討 きょう付議へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602380?source=rss",
+      "published": "11/13 09:40",
       "source": "Yahoo!ニュース",
-      "summary": "（CNN） 米国の退役軍人の日に当たる11日、「無名戦士の墓」で警備に当たっていた衛兵が、ヘグセス国防長官や上級顧問の一団を叱責する出来事があった。式典終了後、ヘグセス氏らのうち一部が厳粛な追悼の場"
+      "summary": "[東京 １３日 ロイター] - ワタミ‌は１３日、ＭＢＯ（経営陣が参⁠加する買収）による非​公開化に関する一部報‌道を受け、報道された‌内容につ‌いて１３日の取締​役会に付議す‌る予定だと発表した。"
     },
     {
       "category": "社会",
-      "title": "拘束の記者 精力的に北方領土取材",
-      "link": "https://news.yahoo.co.jp/pickup/6602339?source=rss",
-      "published": "11/12 20:50",
+      "title": "麻生氏 採決棄権の石破氏らに苦言",
+      "link": "https://news.yahoo.co.jp/pickup/6602323?source=rss",
+      "published": "11/12 17:58",
       "source": "Yahoo!ニュース",
-      "summary": "ロシア極東サハリン（樺太）州でロシアにスパイ名目で拘束されて13日で1カ月がたつ北海道新聞ユジノサハリンスク支局記者の今井裕紀さん（34）は、樺太出身の祖父を持ち、北方領土に関する取材を精力的に続け"
+      "summary": "消費税減税法案の採決を棄権した石破前総理大臣ら4人に対し、自民党の麻生副総裁は、「『処分が怖くてこんな仕事はできない』などといった発言もあったようだが、これは恐怖を植え付けるための処分ではない。自由"
     },
     {
       "category": "経済",
-      "title": "新築転売対策 与党が空室税検討",
-      "link": "https://news.yahoo.co.jp/pickup/6602338?source=rss",
-      "published": "11/12 20:26",
+      "title": "エヌビディアのフアンCEOが辞任",
+      "link": "https://news.yahoo.co.jp/pickup/6602353?source=rss",
+      "published": "11/12 23:08",
       "source": "Yahoo!ニュース",
-      "summary": "新築マンションの転売対策として新たな案を検討です。"
+      "summary": "アメリカの半導体大手エヌビディアは、さきほど、創業者のジェンスン・フアンCEOが辞任したと発表しました。"
     },
     {
       "category": "AI・テクノロジー",
@@ -91,35 +139,35 @@
     },
     {
       "category": "IT",
-      "title": "宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性　リスト型攻撃か",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003158/",
-      "published": "11/12 18:54",
+      "title": "サイバーセキュリティクラウド、GitHubから顧客情報流出か　「セキュリティ企業として重く受け止め」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003163/",
+      "published": "11/13 08:15",
       "source": "ITmedia",
-      "summary": "宝くじを販売する全国の都道府県と指定都市は11月11日、公式サイトに不正ログインした第三者が、一部会員のくじの当落情報や氏名、住所などを閲覧した可能性があると発表した。同日までに、不正な購入や当せん金の受け取りは確認していないという。"
+      "summary": "従業員が業務で使っていたGitHubの認証情報1件が外部に流出したことを、外部機関からの情報提供で確認した。"
     },
     {
       "category": "主要",
-      "title": "銭湯侵入疑い 男は国際的犯罪Gか",
-      "link": "https://news.yahoo.co.jp/pickup/6602352?source=rss",
-      "published": "11/12 23:10",
+      "title": "米国防長官 自身注意の衛兵に勲章",
+      "link": "https://news.yahoo.co.jp/pickup/6602379?source=rss",
+      "published": "11/13 09:29",
       "source": "Yahoo!ニュース",
-      "summary": "千葉県内外で温浴施設のロッカーが合鍵で開けられ、金品が盗まれる事件が相次ぐ中、指示役とみられる中国籍の男が11月11日、逮捕されました。"
+      "summary": "アメリカのヘグセス国防長官は、「無名戦士の墓」の前で大声で注意した衛兵に勲章を授与しました。"
     },
     {
       "category": "社会",
-      "title": "芥川「藪の中」当初は題名違った",
-      "link": "https://news.yahoo.co.jp/pickup/6602332?source=rss",
-      "published": "11/12 19:08",
+      "title": "北海道新聞 拘束記者の実名掲載",
+      "link": "https://news.yahoo.co.jp/pickup/6602313?source=rss",
+      "published": "11/12 16:41",
       "source": "Yahoo!ニュース",
-      "summary": "物事の真相が分からない状態を指す「真相は藪（やぶ）の中」。その言葉の由来となり、黒澤明監督の映画「羅生門」の原案としても知られる芥川龍之介（1892～1927）の短編小説「藪の中」は当初、作品名や結"
+      "summary": "北海道新聞社は12日、スパイ容疑でロシア当局に拘束された同社男性記者について、今井裕紀さん（34）だと明らかにした。同社ニュースサイト「北海道新聞デジタル」に氏名入りの記事を掲載した。"
     },
     {
       "category": "経済",
-      "title": "すかいらーく Shin-Shinなぜ買収",
-      "link": "https://news.yahoo.co.jp/pickup/6602322?source=rss",
-      "published": "11/12 19:02",
+      "title": "タマホーム 5年以上前から不正か",
+      "link": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
+      "published": "11/12 22:34",
       "source": "Yahoo!ニュース",
-      "summary": "すかいらーくホールディングスは11月12日、博多ラーメン店を展開する「Shin-Shin」の全株式を120億円で取得すると発表しました。グループのネットワークや事業基盤を活用し、国内外への出店を加速さ"
+      "summary": "住宅メーカー・タマホームが損害保険会社に対して火災保険の不正請求をしていた疑いについて、少なくとも5年以上前から不正請求が行われていた可能性があることが関係者への取材でわかりました。"
     },
     {
       "category": "AI・テクノロジー",
@@ -139,83 +187,35 @@
     },
     {
       "category": "IT",
-      "title": "介護現場の人手不足を補う「ヒト型助手ロボット」　遠隔で利用者見守る最新テクノロジーも",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003149/",
-      "published": "11/12 17:30",
+      "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
+      "published": "11/13 08:04",
       "source": "ITmedia",
-      "summary": "高齢化が進む中、介護業界は深刻な人手不足に直面している。こうした問題を打開しようと、現場を支える新たなテクノロジーの開発と導入が進んでいる。"
+      "summary": "Googleは、AIエージェントによる作業や日常的なコーディングに向けた高速・高効率の新モデル「Gemini 4 Hydrogen」を発表した。「Gemini 3.8 Flash」の約2.5倍の速さでタスクを終え、推論の深さを4段階から選べる。APIやGeminiアプリなどで同日から順次提供している。"
     },
     {
       "category": "主要",
-      "title": "エヌビディアのフアンCEOが辞任",
-      "link": "https://news.yahoo.co.jp/pickup/6602353?source=rss",
-      "published": "11/12 23:08",
+      "title": "恋活婚活「リアル回帰」の訳 解説",
+      "link": "https://news.yahoo.co.jp/pickup/6602378?source=rss",
+      "published": "11/13 09:23",
       "source": "Yahoo!ニュース",
-      "summary": "アメリカの半導体大手エヌビディアは、さきほど、創業者のジェンスン・フアンCEOが辞任したと発表しました。"
+      "summary": "マッチングアプリ一強だった恋活、婚活市場。だが今、その風潮が変わりつつある。"
     },
     {
       "category": "社会",
-      "title": "麻生氏 採決棄権の石破氏らに苦言",
-      "link": "https://news.yahoo.co.jp/pickup/6602323?source=rss",
-      "published": "11/12 17:58",
+      "title": "ポスト高市の首相再選支持 相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6602290?source=rss",
+      "published": "11/12 12:09",
       "source": "Yahoo!ニュース",
-      "summary": "消費税減税法案の採決を棄権した石破前総理大臣ら4人に対し、自民党の麻生副総裁は、「『処分が怖くてこんな仕事はできない』などといった発言もあったようだが、これは恐怖を植え付けるための処分ではない。自由"
+      "summary": "■「ポスト高市」の小泉防衛相、首相再選を支持 小泉進次郎防衛相が10日のネット番組で、来秋の自民党総裁選に高市早苗首相が立候補した場合は「全力で支える」と述べ、出馬を見送る考えを示した。小林鷹之政調"
     },
     {
       "category": "経済",
-      "title": "NVIDIA疑惑 女性は台湾を8回訪問",
-      "link": "https://news.yahoo.co.jp/pickup/6602328?source=rss",
-      "published": "11/12 18:25",
+      "title": "無印良品 クレカ番号流出巡る経緯",
+      "link": "https://news.yahoo.co.jp/pickup/6602343?source=rss",
+      "published": "11/12 22:02",
       "source": "Yahoo!ニュース",
-      "summary": "【AFP＝時事】エヌビディアのジェンスン・フアンCEOとの不倫関係が報じられ、中国政府のためにスパイ活動を行っていた疑いも持たれている中国人女性が、2024年と2025年に計8回台湾を訪れていたこと"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "ドコモ 障害から完全復旧と発表",
-      "link": "https://news.yahoo.co.jp/pickup/6602230?source=rss",
-      "published": "11/11 22:11",
-      "source": "Yahoo!ニュース",
-      "summary": "NTTドコモは、電話やデータ通信などが利用しにくくなっていた状況が、11日午後7時すぎに完全に復旧したと発表しました。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "初代「長嶋茂雄賞」は佐藤輝明",
-      "link": "https://news.yahoo.co.jp/pickup/6602318?source=rss",
-      "published": "11/12 17:23",
-      "source": "Yahoo!ニュース",
-      "summary": "日本野球機構（NPB）は12日、今年から新設された『長嶋茂雄賞』を発表し、今シーズン三冠王に輝いた阪神の佐藤輝明（27）が初代受賞者となった。"
-    },
-    {
-      "category": "IT",
-      "title": "セキュリティの司令塔、韓国金融保安院がハッキング攻撃受け個人情報650件流出",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003148/",
-      "published": "11/12 17:15",
-      "source": "ITmedia",
-      "summary": "韓国の金融機関のサイバーセキュリティを監視する韓国金融保安院は11月10日、9日午後3時ごろに外部からハッキング攻撃を受けたと発表した。"
-    },
-    {
-      "category": "主要",
-      "title": "海岸にクジラの死骸 深海の希少種",
-      "link": "https://news.yahoo.co.jp/pickup/6602351?source=rss",
-      "published": "11/12 22:57",
-      "source": "Yahoo!ニュース",
-      "summary": "きのう午前、茨城県神栖市の海水浴場で、クジラの死骸が打ち上げられているのが見つかりました。深海に生息する珍しい種類だということで、専門家らが調査を進めています。"
-    },
-    {
-      "category": "社会",
-      "title": "消費税減税の広報動画 公開見送り",
-      "link": "https://news.yahoo.co.jp/pickup/6602311?source=rss",
-      "published": "11/12 17:00",
-      "source": "Yahoo!ニュース",
-      "summary": "政府が、今月上旬に計画していた飲食料品の消費税減税と所得連動型の現金給付制度に関する広報動画の公開を見送ったことが、12日分かった。自民党が関連法案の成立前の配信に対し、野党が反発を強めかねないと反"
-    },
-    {
-      "category": "経済",
-      "title": "丸亀製麺が値下げ 社長語る危機感",
-      "link": "https://news.yahoo.co.jp/pickup/6602316?source=rss",
-      "published": "11/12 17:08",
-      "source": "Yahoo!ニュース",
-      "summary": "大手うどんチェーンの丸亀製麺は、主力のうどんを値下げすると発表しました。消費税の減税が理由だとしています。"
+      "summary": "無印良品を展開する良品計画は11月12日の記者会見で、クレジットカード「MUJI Card」の会員に独自特典を付与する際、2021年7月までカード番号で会員を識別していたと説明した。取得終了後も番号"
     },
     {
       "category": "AI・テクノロジー",
@@ -227,43 +227,35 @@
     },
     {
       "category": "スポーツ",
-      "title": "右肩負傷 SB小久保監督が手術へ",
-      "link": "https://news.yahoo.co.jp/pickup/6602310?source=rss",
-      "published": "11/12 16:26",
+      "title": "初代「長嶋茂雄賞」は佐藤輝明",
+      "link": "https://news.yahoo.co.jp/pickup/6602318?source=rss",
+      "published": "11/12 17:23",
       "source": "Yahoo!ニュース",
-      "summary": "◆ソフトバンク秋季練習（12日、タマスタ筑後） ソフトバンクの小久保裕紀監督（55）は、近々右肩を手術することを明かした。「ギプス姿で来ても驚かないように、先に伝えとこうと。棘上筋の完全断裂。腕が上"
+      "summary": "日本野球機構（NPB）は12日、今年から新設された『長嶋茂雄賞』を発表し、今シーズン三冠王に輝いた阪神の佐藤輝明（27）が初代受賞者となった。"
     },
     {
       "category": "IT",
-      "title": "無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
-      "published": "11/12 17:00",
+      "title": "Microsoft 365で大規模障害　「Outlook」でメールにアクセスできず、「Teams」など複数サービスに影響",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003161/",
+      "published": "11/13 06:41",
       "source": "ITmedia",
-      "summary": "良品計画は11月12日、不正アクセスを巡る謝罪会見を開いた。2021年7月までクレジットカード番号で顧客を識別していたと説明。システム変更後も一部のカード情報を削除せず保管していた問題について、運用上の不備を認めた。"
+      "summary": "Microsoftの「Microsoft 365」で米国時間11月12日、Exchange Onlineなどに接続できない大規模障害が発生した。原因は多数のサーバが自動ヘルスチェックに失敗して応答しなくなったためで、直近の構成変更が影響した可能性がある。一部は復旧しており、同社は自動復旧の導入など対応を進めている。"
     },
     {
       "category": "主要",
-      "title": "タマホーム 5年以上前から不正か",
-      "link": "https://news.yahoo.co.jp/pickup/6602348?source=rss",
-      "published": "11/12 22:34",
+      "title": "思いやり予算 5年3兆円超を米要求",
+      "link": "https://news.yahoo.co.jp/pickup/6602377?source=rss",
+      "published": "11/13 09:02",
       "source": "Yahoo!ニュース",
-      "summary": "住宅メーカー・タマホームが損害保険会社に対して火災保険の不正請求をしていた疑いについて、少なくとも5年以上前から不正請求が行われていた可能性があることが関係者への取材でわかりました。"
-    },
-    {
-      "category": "社会",
-      "title": "北海道新聞 拘束記者の実名掲載",
-      "link": "https://news.yahoo.co.jp/pickup/6602313?source=rss",
-      "published": "11/12 16:41",
-      "source": "Yahoo!ニュース",
-      "summary": "北海道新聞社は12日、スパイ容疑でロシア当局に拘束された同社男性記者について、今井裕紀さん（34）だと明らかにした。同社ニュースサイト「北海道新聞デジタル」に氏名入りの記事を掲載した。"
+      "summary": "2027年度から5年間の在日米軍駐留経費負担（思いやり予算）を巡り、トランプ米政権が現行の3倍程度となる3兆円超を日本政府に要求したことが分かった。日本側は要求通りには応じないものの、現行水準から大"
     },
     {
       "category": "経済",
-      "title": "良品計画の社長 情報流出巡り謝罪",
-      "link": "https://news.yahoo.co.jp/pickup/6602308?source=rss",
-      "published": "11/12 16:04",
+      "title": "すかいらーく Shin-Shinなぜ買収",
+      "link": "https://news.yahoo.co.jp/pickup/6602322?source=rss",
+      "published": "11/12 19:02",
       "source": "Yahoo!ニュース",
-      "summary": "無印良品を展開する良品計画の清水智社長は12日、不正アクセス問題を巡り東京都内で記者会見し「多大なるご心配とご迷惑をおかけしたことを心よりおわび申し上げる」と謝罪した。解約済みを含むクレジットカード"
+      "summary": "すかいらーくホールディングスは11月12日、博多ラーメン店を展開する「Shin-Shin」の全株式を120億円で取得すると発表しました。グループのネットワークや事業基盤を活用し、国内外への出店を加速さ"
     },
     {
       "category": "AI・テクノロジー",
@@ -275,6 +267,38 @@
     },
     {
       "category": "スポーツ",
+      "title": "右肩負傷 SB小久保監督が手術へ",
+      "link": "https://news.yahoo.co.jp/pickup/6602310?source=rss",
+      "published": "11/12 16:26",
+      "source": "Yahoo!ニュース",
+      "summary": "◆ソフトバンク秋季練習（12日、タマスタ筑後） ソフトバンクの小久保裕紀監督（55）は、近々右肩を手術することを明かした。「ギプス姿で来ても驚かないように、先に伝えとこうと。棘上筋の完全断裂。腕が上"
+    },
+    {
+      "category": "IT",
+      "title": "NVIDIA、“革ジャンCEO”ことフアン氏が辞任　クレスCFOが暫定CEOに",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003160/",
+      "published": "11/12 23:53",
+      "source": "ITmedia",
+      "summary": "米NVIDIAは11月12日（現地時間）、1993年の共同創業以来同社を率いてきたジェンスン・フアン氏が、社長兼CEOと取締役を即日辞任したと発表した。CFOのコレット・クレス氏が暫定CEOに就任し、取締役会は社内外から正式なCEOを選ぶ。"
+    },
+    {
+      "category": "主要",
+      "title": "首相 防衛費巡る「大幅増税」慎重",
+      "link": "https://news.yahoo.co.jp/pickup/6602369?source=rss",
+      "published": "11/13 07:59",
+      "source": "Yahoo!ニュース",
+      "summary": "政府が年内に改定予定の安保関連3文書に盛り込む防衛費の規模を巡り、高市早苗首相が周辺に「大幅増税」への慎重な考えを示していることが判明した。複数の政府関係者が12日、明らかにした。安保3文書の一つ「"
+    },
+    {
+      "category": "経済",
+      "title": "丸亀製麺が値下げ 社長語る危機感",
+      "link": "https://news.yahoo.co.jp/pickup/6602316?source=rss",
+      "published": "11/12 17:08",
+      "source": "Yahoo!ニュース",
+      "summary": "大手うどんチェーンの丸亀製麺は、主力のうどんを値下げすると発表しました。消費税の減税が理由だとしています。"
+    },
+    {
+      "category": "スポーツ",
       "title": "大谷 オールMLBチーム選出されず",
       "link": "https://news.yahoo.co.jp/pickup/6602297?source=rss",
       "published": "11/12 13:23",
@@ -283,35 +307,19 @@
     },
     {
       "category": "IT",
-      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
-      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
-      "published": "11/12 14:10",
+      "title": "宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性　リスト型攻撃か",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003158/",
+      "published": "11/12 18:54",
       "source": "ITmedia",
-      "summary": "米Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro Sandbox」の提供開始を発表しました。"
+      "summary": "宝くじを販売する全国の都道府県と指定都市は11月11日、公式サイトに不正ログインした第三者が、一部会員のくじの当落情報や氏名、住所などを閲覧した可能性があると発表した。同日までに、不正な購入や当せん金の受け取りは確認していないという。"
     },
     {
       "category": "主要",
-      "title": "勤務先から21億円超横領疑い 逮捕",
-      "link": "https://news.yahoo.co.jp/pickup/6602347?source=rss",
-      "published": "11/12 22:05",
+      "title": "落語家の三遊亭鳳楽さん死去 79歳",
+      "link": "https://news.yahoo.co.jp/pickup/6602363?source=rss",
+      "published": "11/13 07:33",
       "source": "Yahoo!ニュース",
-      "summary": "勤務していた会社の口座から約21億8800万円を送金し着服したとして、さいたま地検特別刑事部は12日、元経理担当で無職、鈴木真一容疑者（43）＝埼玉県鶴ケ島市＝を業務上横領容疑で逮捕した。地検は、会"
-    },
-    {
-      "category": "社会",
-      "title": "ポスト高市の首相再選支持 相次ぐ",
-      "link": "https://news.yahoo.co.jp/pickup/6602290?source=rss",
-      "published": "11/12 12:09",
-      "source": "Yahoo!ニュース",
-      "summary": "■「ポスト高市」の小泉防衛相、首相再選を支持 小泉進次郎防衛相が10日のネット番組で、来秋の自民党総裁選に高市早苗首相が立候補した場合は「全力で支える」と述べ、出馬を見送る考えを示した。小林鷹之政調"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "内閣府メルマガ登録アド6万件流出",
-      "link": "https://news.yahoo.co.jp/pickup/6602172?source=rss",
-      "published": "11/11 14:33",
-      "source": "Yahoo!ニュース",
-      "summary": "内閣府は１１日、配信しているメールマガジン利用者のメールアドレス６万２８６３件が流出したと発表した。企業向けメール配信サービスなどを手がけるアララが不正アクセスを受けた影響という。メールマガジンの登"
+      "summary": "落語家の三遊亭鳳楽（さんゆうてい・ほうらく）さん（本名内田啓次＝うちだ・けいじ）が、老衰のため、10日に亡くなった。79歳。「五代目圓楽一門会」が発表した。通夜や葬儀は近親者で執り行ったという。喪主"
     },
     {
       "category": "スポーツ",
@@ -323,43 +331,43 @@
     },
     {
       "category": "IT",
+      "title": "介護現場の人手不足を補う「ヒト型助手ロボット」　遠隔で利用者見守る最新テクノロジーも",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003149/",
+      "published": "11/12 17:30",
+      "source": "ITmedia",
+      "summary": "高齢化が進む中、介護業界は深刻な人手不足に直面している。こうした問題を打開しようと、現場を支える新たなテクノロジーの開発と導入が進んでいる。"
+    },
+    {
+      "category": "IT",
+      "title": "セキュリティの司令塔、韓国金融保安院がハッキング攻撃受け個人情報650件流出",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003148/",
+      "published": "11/12 17:15",
+      "source": "ITmedia",
+      "summary": "韓国の金融機関のサイバーセキュリティを監視する韓国金融保安院は11月10日、9日午後3時ごろに外部からハッキング攻撃を受けたと発表した。"
+    },
+    {
+      "category": "IT",
+      "title": "無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003144/",
+      "published": "11/12 17:00",
+      "source": "ITmedia",
+      "summary": "良品計画は11月12日、不正アクセスを巡る謝罪会見を開いた。2021年7月までクレジットカード番号で顧客を識別していたと説明。システム変更後も一部のカード情報を削除せず保管していた問題について、運用上の不備を認めた。"
+    },
+    {
+      "category": "IT",
+      "title": "AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始",
+      "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003139/",
+      "published": "11/12 14:10",
+      "source": "ITmedia",
+      "summary": "米Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro Sandbox」の提供開始を発表しました。"
+    },
+    {
+      "category": "IT",
       "title": "NVIDIA取締役会、フアンCEO解任の可否決定へ　2件の不倫報道で株価8％超下落",
       "link": "https://www.itmedia.co.jp/news/article/2611/12/2000003138/",
       "published": "11/12 13:58",
       "source": "ITmedia",
       "summary": "米NVIDIAの取締役会は11月11日（現地時間）夜、ジェンスン・フアンCEOの解任の可否を決める会合を開く。フアン氏を巡る2件の不倫報道が続く中、同氏に明確な後継者はいない。"
-    },
-    {
-      "category": "主要",
-      "title": "蒔田彩珠です 森七菜がついたうそ",
-      "link": "https://news.yahoo.co.jp/pickup/6602341?source=rss",
-      "published": "11/12 21:06",
-      "source": "Yahoo!ニュース",
-      "summary": "俳優の森七菜（２５）と蒔田彩珠（２４）が１２日、都内でプライムビデオのＷ主演ドラマ「地雷グリコ」（１３日）配信直前イベントに出席した。"
-    },
-    {
-      "category": "社会",
-      "title": "二重かわいい 女子大学生の違和感",
-      "link": "https://news.yahoo.co.jp/pickup/6602269?source=rss",
-      "published": "11/12 11:02",
-      "source": "Yahoo!ニュース",
-      "summary": "「たった3年の高校生活。1秒でも長くカワイイ私で過ごしたい」――。 2023年、大手美容クリニックがこんなキャッチコピーで、10代を対象に二重まぶたへの整形を勧める広告を電車内で展開し、物議を醸した"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "メールの不適切な「CC」境界線は",
-      "link": "https://news.yahoo.co.jp/pickup/6602146?source=rss",
-      "published": "11/11 12:02",
-      "source": "Yahoo!ニュース",
-      "summary": "普段の仕事で何げなく使う、メールの「CC」。便利な情報共有の手段だが、使い方によっては相手に不安やストレスを与えたり、人間関係のトラブルにつながったりすることもある。中には「CCハラスメント」と受け"
-    },
-    {
-      "category": "スポーツ",
-      "title": "誠也 カブスの単年36億円QO拒否",
-      "link": "https://news.yahoo.co.jp/pickup/6602247?source=rss",
-      "published": "11/12 07:59",
-      "source": "Yahoo!ニュース",
-      "summary": "カブスからFAになった鈴木誠也外野手が古巣から提示された単年2315万ドル（約36億6000万円）のクオリファイングオファー（QO）を拒否したことが分かった。同外野手の代理人を務めるジョエル・ウルフ"
     },
     {
       "category": "IT",
@@ -424,46 +432,6 @@
       "published": "11/11 17:35",
       "source": "ITmedia",
       "summary": "ユミルリンクは11月11日、不正アクセスにより約4786万件の個人情報が流出したと発表した。10月に公表した最大約5162万件から件数を精査。被害は同社のメール配信サービスを利用するアイスタイルやJR東海などにも広がっている。"
-    },
-    {
-      "category": "IT",
-      "title": "メモリ8GBでも快適？　Windows 11最新アプデと「AIカスタム」した日本語入力環境で、旧型PCを蘇らせる",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003112/",
-      "published": "11/11 16:12",
-      "source": "ITmedia",
-      "summary": "メモリ価格の高騰で、PCの買い替えはますます遠のいた。そんな中で配信されたWindows 11のアップデートは、8GBメモリの非力なマシンにも思わぬ余力を生んだ。それなら9年前のLet’s noteを、原稿執筆のサブ機として使えないか。ネックは日本語入力だ。ライブ変換が追い付かずに入力を取りこぼす問題を、今回はAIに直させてみた。"
-    },
-    {
-      "category": "IT",
-      "title": "まるで「自宅警備員」？　室内を自律飛行する防犯ドローン、Amazon傘下が発表　約4万円から",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003111/",
-      "published": "11/11 15:43",
-      "source": "ITmedia",
-      "summary": "米Amazon傘下のRingは、室内を自律飛行する家庭向け防犯ドローンを発表した。AIを活用して屋内を巡回し、センサーが異常を検知すると自動で現場へ移動して撮影する。価格は約4万円。企業向けの自律走行型警備ロボットも発表した。"
-    },
-    {
-      "category": "IT",
-      "title": "前澤友作氏、Metaの“なりすまし広告”訴訟で控訴検討　東京地裁の請求棄却に「野放しでもOK？」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003108/",
-      "published": "11/11 15:17",
-      "source": "ITmedia",
-      "summary": "実業家の前澤友作氏は11月10日、自身の名前や顔写真を無断で使った「なりすまし広告」を巡る米Metaとの訴訟で東京地裁が請求を棄却したことを受け、控訴を検討するとXに投稿した。"
-    },
-    {
-      "category": "IT",
-      "title": "内閣府、メルマガ利用者のメアド6万件超漏えい　氏名なども流出の可能性　アララ不正アクセスで",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003105/",
-      "published": "11/11 14:19",
-      "source": "ITmedia",
-      "summary": "アララが提供するメール配信サービスが不正アクセスを受けたことが原因。メルマガ登録時に入力された氏名や性別などの情報も、漏えいした可能性もあるという。"
-    },
-    {
-      "category": "IT",
-      "title": "業界初「水道水を使うアンテナ」モバイル端末との接続に成功　三菱電機",
-      "link": "https://www.itmedia.co.jp/news/article/2611/11/2000003102/",
-      "published": "11/11 13:50",
-      "source": "ITmedia",
-      "summary": "一般的な金属製アンテナの接続性能と差分がないことを確認したという。"
     }
   ],
   "errors": [
