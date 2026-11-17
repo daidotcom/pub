@@ -1,29 +1,77 @@
 {
-  "updated": "2026-11-17T01:06:17.818679+00:00",
+  "updated": "2026-11-17T09:16:29.983773+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "町内会入らずゴミ捨て場利用 賛否",
-      "link": "https://news.yahoo.co.jp/pickup/6602868?source=rss",
-      "published": "11/17 09:26",
+      "title": "鳥の生食 宮崎・鹿児島で聞いた声",
+      "link": "https://news.yahoo.co.jp/pickup/6602925?source=rss",
+      "published": "11/17 18:01",
       "source": "Yahoo!ニュース",
-      "summary": "町内会の未加入者によるゴミ捨て場の利用をめぐり、SNS上で「町内会に入らないとゴミ出しすらできないのはおかしい」「入らないのに利用したいというのは虫がよすぎる」などと賛否が巻き起こっています。"
+      "summary": "「正直、生で出すのはグレーなんですけどね」 居酒屋の店主はそう言って、筆者の前に鳥刺しの盛り合わせを置いた。部位は鳥のもも肉、ささみ、砂肝、レバー。明らかに鮮度の良い鶏肉はつやつやと輝き、青ネギやミ"
     },
     {
       "category": "社会",
-      "title": "「防衛産業基盤戦略」概要が判明",
-      "link": "https://news.yahoo.co.jp/pickup/6602866?source=rss",
-      "published": "11/17 09:05",
+      "title": "ドコモ障害再発防止求める 総務相",
+      "link": "https://news.yahoo.co.jp/pickup/6602899?source=rss",
+      "published": "11/17 13:34",
       "source": "Yahoo!ニュース",
-      "summary": "政府が、安全保障３文書の改定に合わせて年内に策定する「防衛産業基盤戦略」の概要が判明した。官民一体で支援する法人を新設し、防衛装備品の輸出促進に向け、企業から装備品を買い取って相手国との窓口となる役"
+      "summary": "NTTドコモの一部サービスで今月、通信障害が相次いでいることをめぐり、藤井比早之総務相は17日の閣議後会見で、「国民生活の重要なインフラとなっている通信サービスにおいて、短期間で3度の障害は大変遺憾"
     },
     {
       "category": "経済",
-      "title": "「オーケー」関西出店加速 強みは",
-      "link": "https://news.yahoo.co.jp/pickup/6602859?source=rss",
-      "published": "11/17 07:49",
+      "title": "高速の深夜割引 年度内に見直し",
+      "link": "https://news.yahoo.co.jp/pickup/6602923?source=rss",
+      "published": "11/17 17:44",
       "source": "Yahoo!ニュース",
-      "summary": "関東地方を中心に展開するスーパーマーケット「オーケー」が、関西への出店を加速させている。10月29日には大阪市平野区に「長吉店」をオープンし、関西では13店舗目、大阪府内では8店舗目となった。しかし"
+      "summary": "「深夜割引」ついに見直し NEXCO3社は2026年11月17日、高速道路の深夜割引の見直しについて、2026年度中に行うと発表しました。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "MS大規模障害 幹部が原因を説明",
+      "link": "https://news.yahoo.co.jp/pickup/6602871?source=rss",
+      "published": "11/17 10:32",
+      "source": "Yahoo!ニュース",
+      "summary": "Microsoftは、11月12日に発生した「Microsoft 365」の大規模障害について、7月に展開を始めた更新に潜んでいた不具合に、通信負荷の増加とサーバ容量の減少が重なり、障害が連鎖的に拡"
+    },
+    {
+      "category": "スポーツ",
+      "title": "江夏豊さん死去 江夏の21球とは",
+      "link": "https://news.yahoo.co.jp/pickup/6602916?source=rss",
+      "published": "11/17 16:12",
+      "source": "Yahoo!ニュース",
+      "summary": "プロ野球の投手として、阪神、南海、広島、日本ハム、西武で数々の「伝説」と「記録」を積み上げ、「優勝請負人」など多くの称号を得た野球解説者の江夏豊さんが17日未明、都内の病院で死去した。78歳だった。"
+    },
+    {
+      "category": "IT",
+      "title": "東京都、水道利用者個人情報871件含むHDD紛失　一部に口座番号も　10月に同様事案",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003270/",
+      "published": "11/17 17:18",
+      "source": "ITmedia",
+      "summary": "東京都水道局は11月16日、個人情報を記録したハードディスクドライブ（HDD：情報記憶装置）の紛失が発覚したと発表した。"
+    },
+    {
+      "category": "主要",
+      "title": "閉山中に中国人遭難 懸賞金に指摘",
+      "link": "https://news.yahoo.co.jp/pickup/6602924?source=rss",
+      "published": "11/17 17:37",
+      "source": "Yahoo!ニュース",
+      "summary": "富士山で20代の中国人の男性が遭難し、現在も見つかっていません。男性の親族は男性を捜索し救助した人に最大1200万円の懸賞金を支払う予定だと中国のメディアが報じ、波紋が広がっています。"
+    },
+    {
+      "category": "社会",
+      "title": "推定ロシア機領空侵犯 福岡沖ノ島",
+      "link": "https://news.yahoo.co.jp/pickup/6602882?source=rss",
+      "published": "11/17 10:47",
+      "source": "Yahoo!ニュース",
+      "summary": "防衛省は17日、ロシアのものとみられる航空機2機が、相次ぎ福岡県の北西の日本の領空を侵犯したと発表しました。"
+    },
+    {
+      "category": "経済",
+      "title": "駅そばを倍に値上げ 決断した75歳",
+      "link": "https://news.yahoo.co.jp/pickup/6602919?source=rss",
+      "published": "11/17 16:59",
+      "source": "Yahoo!ニュース",
+      "summary": "広島県の山あいを走るJR福塩線。その沿線にある小さな無人駅・備後矢野(びんごやの)駅には、40年以上続く名物そばがある。「福縁阡(ふくえんせん)そば」、通称「ご縁そば」だ。"
     },
     {
       "category": "AI・テクノロジー",
@@ -35,43 +83,43 @@
     },
     {
       "category": "スポーツ",
-      "title": "FIFA会長選 UEFAが仏会長を擁立",
-      "link": "https://news.yahoo.co.jp/pickup/6602856?source=rss",
-      "published": "11/17 07:36",
+      "title": "ソフトバンク 助っ人5人自由契約",
+      "link": "https://news.yahoo.co.jp/pickup/6602910?source=rss",
+      "published": "11/17 15:31",
       "source": "Yahoo!ニュース",
-      "summary": "来年３月１８日に開催される国際サッカー連盟（ＦＩＦＡ）の会長選に向けて、欧州サッカー連盟（ＵＥＦＡ）は１６日、フランス連盟のフィリップ・ディアロ会長（６３）を擁立すると発表した。フランス連盟の理事会"
+      "summary": "NPB公示 NPBは17日、ソフトバンクがカーター・スチュワート・ジュニア投手、ジャクソン・ラトリッジ投手、ダーウィンゾン・ヘルナンデス投手、ルイス・ロドリゲス投手、ジーター・ダウンズ内野手を自由契"
     },
     {
       "category": "IT",
-      "title": "OpenAI、Apollo ResearchやMETRなど外部4団体を社内に迎える「埋め込み型」安全性評価を開始",
-      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003248/",
-      "published": "11/17 09:03",
+      "title": "メルカリと駿河屋、米国で合弁　実店舗運営、AI活用した査定・価格設定も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003266/",
+      "published": "11/17 16:22",
       "source": "ITmedia",
-      "summary": "OpenAIは、外部の独立評価機関が社内に常駐してAIの安全性を検証する「埋め込み型評価」の開始を発表した。METRやApollo Researchなど4団体と契約を結び、学習中のモデルやソースコードへの深いアクセスを提供する。モデルの意図的な妨害行為や不適切な挙動を評価し、安全管理の透明性向上を図る狙いだ。"
+      "summary": "両社は2025年12月に資本業務提携契約を結び、メルカリ上で駿河屋の商品を販売するなど連携してきた。新たに、米国での共同事業にも連携を広げる。"
     },
     {
       "category": "主要",
-      "title": "ネパールに「ガチ中華」急増 なぜ",
-      "link": "https://news.yahoo.co.jp/pickup/6602865?source=rss",
-      "published": "11/17 08:58",
+      "title": "江夏豊さん死去 田淵幸一氏が追悼",
+      "link": "https://news.yahoo.co.jp/pickup/6602922?source=rss",
+      "published": "11/17 17:24",
       "source": "Yahoo!ニュース",
-      "summary": "東京・池袋をはじめ、日本各地でエスニック料理のひとつとして市民権を得つつある本場の中華料理「ガチ中華」。インドなど南アジア地域ではマサラなどでアレンジした独自の「インド中華」が有名ですが、実はインド"
+      "summary": "野球評論家の江夏豊さんが１７日、東京都内の病院で死去した。７８歳だった。"
     },
     {
       "category": "社会",
-      "title": "日米豪印の共同文書案 概要が判明",
-      "link": "https://news.yahoo.co.jp/pickup/6602863?source=rss",
-      "published": "11/17 08:33",
+      "title": "「防衛産業基盤戦略」概要が判明",
+      "link": "https://news.yahoo.co.jp/pickup/6602866?source=rss",
+      "published": "11/17 09:05",
       "source": "Yahoo!ニュース",
-      "summary": "フィリピンのマニラで１７日に開かれる日本、米国、オーストラリア、インド４か国の枠組み「クアッド」首脳会合でまとめる共同文書案の概要が判明した。日本主導の「自由で開かれたインド太平洋（ＦＯＩＰ）」構想"
+      "summary": "政府が、安全保障３文書の改定に合わせて年内に策定する「防衛産業基盤戦略」の概要が判明した。官民一体で支援する法人を新設し、防衛装備品の輸出促進に向け、企業から装備品を買い取って相手国との窓口となる役"
     },
     {
       "category": "経済",
-      "title": "NY株大幅反落 ハイテク株に売り",
-      "link": "https://news.yahoo.co.jp/pickup/6602852?source=rss",
-      "published": "11/17 06:54",
+      "title": "コメダがタイ初出店 朝から行列",
+      "link": "https://news.yahoo.co.jp/pickup/6602885?source=rss",
+      "published": "11/17 11:28",
       "source": "Yahoo!ニュース",
-      "summary": "【ニューヨーク共同】週明け16日のニューヨーク株式市場のダウ工業株30種平均は大幅反落し、前週末比739.38ドル安の5万1608.17ドルで取引を終えた。半導体大手エヌビディアを巡る先行き懸念など"
+      "summary": "平日の朝にもかかわらず店の前に並ぶたくさんの人。「コメダ珈琲店」がタイに初めて出店し、16日にオープンを迎えました。"
     },
     {
       "category": "AI・テクノロジー",
@@ -83,43 +131,43 @@
     },
     {
       "category": "スポーツ",
-      "title": "FWルカク ベルギー代表引退表明",
-      "link": "https://news.yahoo.co.jp/pickup/6602845?source=rss",
-      "published": "11/16 22:56",
+      "title": "工藤監督就任の中日 コーチら発表",
+      "link": "https://news.yahoo.co.jp/pickup/6602888?source=rss",
+      "published": "11/17 12:15",
       "source": "Yahoo!ニュース",
-      "summary": "フェネルバフチェに所属するFWロメル・ルカクが自身の公式インスタグラムを通じて、ベルギー代表からの引退を表明した。"
+      "summary": "中日は１７日、来季のコーチングスタッフを発表した。 新たに入閣した高村祐さん、吉見一起さんは投手コーチ、山崎武司さんは打撃コーチ、森岡良介さんは内野守備走塁コーチ、英智さんは外野守備走塁コーチとして"
     },
     {
       "category": "IT",
-      "title": "OpenAIをカリフォルニア州が提訴　「AIエージェントの制御を80回以上失った」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003246/",
-      "published": "11/17 08:04",
+      "title": "ドコモ3度の通信障害「大変遺憾」と総務相　「構造的な課題、洗い出し求める」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003261/",
+      "published": "11/17 15:06",
       "source": "ITmedia",
-      "summary": "カリフォルニア州の司法長官は、OpenAIを提訴した。十分な安全対策を講じずに高度なAIモデルを開発・テストしたとしている。テスト中に自律エージェントの制御を80回以上失ったにもかかわらず一部しか公表しなかったと指摘。OpenAI側は「自社のみが狙い撃ちにされている」と反論している。"
+      "summary": "総務省からドコモに対して、個別の障害の原因究明・再発防止策に加え、一連の障害の関係性を検証し、その根本原因を究明することを求めたという。"
     },
     {
       "category": "主要",
-      "title": "中3を逮捕 同級生の腹刺した疑い",
-      "link": "https://news.yahoo.co.jp/pickup/6602864?source=rss",
-      "published": "11/17 08:45",
+      "title": "矢野雅哉トライアウト 二盗&三盗",
+      "link": "https://news.yahoo.co.jp/pickup/6602921?source=rss",
+      "published": "11/17 17:09",
       "source": "Yahoo!ニュース",
-      "summary": "11月16日夜、京都市伏見区の公園で男子中学生の少年が同級生の腹を包丁で刺し、ケガをさせた疑いで逮捕されました。"
+      "summary": "「エイブル トライアウト ２０２６」（１７日、バンテリンドーム） シート打撃が行われ、「ゾンビたばこ」を巡る騒動で広島を戦力外となった矢野雅哉内野手（２７）が登場。最初の打席は四球を選んだ。"
     },
     {
       "category": "社会",
-      "title": "立憲 党職員への「退職勧奨」検討",
-      "link": "https://news.yahoo.co.jp/pickup/6602838?source=rss",
-      "published": "11/16 22:20",
+      "title": "日米豪印の共同文書案 概要が判明",
+      "link": "https://news.yahoo.co.jp/pickup/6602863?source=rss",
+      "published": "11/17 08:33",
       "source": "Yahoo!ニュース",
-      "summary": "立憲民主党の水岡俊一代表は16日の記者会見で、党職員を対象とした希望退職の募集が13日に期限を迎えたことを受け、退職勧奨の検討を認めた。「そういったことを考えているということも事実」と語った。中道改"
+      "summary": "フィリピンのマニラで１７日に開かれる日本、米国、オーストラリア、インド４か国の枠組み「クアッド」首脳会合でまとめる共同文書案の概要が判明した。日本主導の「自由で開かれたインド太平洋（ＦＯＩＰ）」構想"
     },
     {
       "category": "経済",
-      "title": "いきステに復活の兆し 改革の成果",
-      "link": "https://news.yahoo.co.jp/pickup/6602820?source=rss",
-      "published": "11/16 18:51",
+      "title": "「白い麻婆豆腐」じわじわ拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6602880?source=rss",
+      "published": "11/17 10:47",
       "source": "Yahoo!ニュース",
-      "summary": "「いきなり！ステーキ」を展開するペッパーフードサービスが、復活の兆しを見せている。11月13日発表の2026年12月期第3四半期累計（1～9月）は、売上高が前年同期比13.6％増の122億100万円。"
+      "summary": "専門店も続々登場し人気が高まる「麻婆豆腐」に、今“ある変化”が起きています。■「お出汁が香る」あっさりコク旨"
     },
     {
       "category": "AI・テクノロジー",
@@ -131,43 +179,43 @@
     },
     {
       "category": "スポーツ",
-      "title": "矢野ら カープに謝罪求める要請書",
-      "link": "https://news.yahoo.co.jp/pickup/6602841?source=rss",
-      "published": "11/16 22:20",
+      "title": "「伝説の左腕」江夏豊さんが死去",
+      "link": "https://news.yahoo.co.jp/pickup/6602890?source=rss",
+      "published": "11/17 11:56",
       "source": "Yahoo!ニュース",
-      "summary": "広島から来季契約をしないと通告を受けた矢野雅哉、前川誠太、田村俊介の３人の元選手の代理人弁護士が、１２日付で広島球団に理由の開示や発言の謝罪などを求める「要請書」を内容証明郵便で送付したことが１６日"
+      "summary": "プロ野球の阪神、南海、広島などでプレーし、優勝請負人と呼ばれた江夏豊（えなつ・ゆたか）さんが１７日までに、東京都内の病院で死去した。７８歳だった。阪神では高卒１年目の１９６７年から１２勝を挙げるなど"
     },
     {
       "category": "IT",
-      "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因　負荷増と容量減が重なり世界に波及",
-      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
-      "published": "11/17 07:05",
+      "title": "米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003258/",
+      "published": "11/17 12:50",
       "source": "ITmedia",
-      "summary": "Microsoftは、「Microsoft 365」で12日に発生した大規模障害の暫定的なインシデントレポートを公開した。7月に展開した更新プログラムに潜む不具合が、通信トラフィック移行による負荷増と容量低下という悪条件と重なり顕在化。世界規模で連鎖的なサーバダウンを引き起こした。"
+      "summary": "米商務省は、中国企業などが第三国のデータセンターを経由して米国製先端AIチップを遠隔利用することを防ぐ暫定最終規則を発表した。物理的な輸出規制の抜け道をふさぐ狙いで、一定以上の計算資源を提供するデータセンターへのチップ輸出にライセンスを義務付ける。NVIDIAを巡る疑惑が背景にあるとみられる。"
     },
     {
       "category": "主要",
-      "title": "3歳児虐待疑い 今年1月に児相把握",
-      "link": "https://news.yahoo.co.jp/pickup/6602862?source=rss",
-      "published": "11/17 08:30",
+      "title": "物議の選挙ポスター AIと認める",
+      "link": "https://news.yahoo.co.jp/pickup/6602918?source=rss",
+      "published": "11/17 16:58",
       "source": "Yahoo!ニュース",
-      "summary": "大阪府枚方市で金尾英怜奈（えれな）さん（当時3）を虐待し死亡させたなどとして両親が逮捕された事件で、死亡7カ月前の今年1月、大阪府中央子ども家庭センター（児童相談所）が「虐待の疑いがある」との情報を"
+      "summary": "みなさん、選挙ポスターに実際の候補者とは、別人の顔が使われていたら、どう思いますか？"
     },
     {
       "category": "社会",
-      "title": "コカイン摘発 過去最多更新ペース",
-      "link": "https://news.yahoo.co.jp/pickup/6602825?source=rss",
-      "published": "11/16 20:00",
+      "title": "立憲 党職員への「退職勧奨」検討",
+      "link": "https://news.yahoo.co.jp/pickup/6602838?source=rss",
+      "published": "11/16 22:20",
       "source": "Yahoo!ニュース",
-      "summary": "警視庁によるコカイン所持などの摘発者数が過去最多更新のペースを続けている。"
+      "summary": "立憲民主党の水岡俊一代表は16日の記者会見で、党職員を対象とした希望退職の募集が13日に期限を迎えたことを受け、退職勧奨の検討を認めた。「そういったことを考えているということも事実」と語った。中道改"
     },
     {
       "category": "経済",
-      "title": "マンション短期売買 課税強化検討",
-      "link": "https://news.yahoo.co.jp/pickup/6602817?source=rss",
-      "published": "11/16 18:40",
+      "title": "「オーケー」関西出店加速 強みは",
+      "link": "https://news.yahoo.co.jp/pickup/6602859?source=rss",
+      "published": "11/17 07:49",
       "source": "Yahoo!ニュース",
-      "summary": "都心部のマンション価格の高騰に歯止めをかけようと、政府・与党が投機的な取引を抑えるための課税強化の検討に入った。短期間で転売して利益を得る取引が価格高騰の一因になっているとみて、所得税や不動産取得税"
+      "summary": "関東地方を中心に展開するスーパーマーケット「オーケー」が、関西への出店を加速させている。10月29日には大阪市平野区に「長吉店」をオープンし、関西では13店舗目、大阪府内では8店舗目となった。しかし"
     },
     {
       "category": "AI・テクノロジー",
@@ -179,27 +227,27 @@
     },
     {
       "category": "スポーツ",
-      "title": "ゴルフの年間女王 次々と米進出",
-      "link": "https://news.yahoo.co.jp/pickup/6602830?source=rss",
-      "published": "11/16 21:30",
+      "title": "3選手要請書 広島「精査し対応」",
+      "link": "https://news.yahoo.co.jp/pickup/6602887?source=rss",
+      "published": "11/17 11:41",
       "source": "Yahoo!ニュース",
-      "summary": "女子ゴルフの桑木志帆が国内女子（JLPGA）ツアー「伊藤園レディス」で今季5勝目を挙げ、初の年間女王に輝いた。来季は米女子ツアーへの本格参戦を表明している。近年は山下美夢有、竹田麗央ら国内の年間女王が"
+      "summary": "広島の松田元（はじめ）オーナー（７５）が１７日、『ゾンビたばこ』と呼ばれる指定薬物のエトミデートを巡る一連の騒動に関連し、広島から戦力外通告を受けた矢野雅哉（２７）、前川誠太（２３）、田村俊介（２３"
     },
     {
       "category": "IT",
-      "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測　GTIGのAI脅威レポート",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
-      "published": "11/16 23:00",
+      "title": "モリサワや「mineo」など会員情報漏えい　マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
+      "published": "11/17 12:35",
       "source": "ITmedia",
-      "summary": "Googleは、AIを悪用したサイバー攻撃の動向をまとめた四半期レポートを公開した。攻撃者が複数のAIエージェントを組み合わせ、自律的に脆弱性の発見から攻撃までを実行するフレームワークが初めて確認された。偽プロフィールによる標的への接近や世論工作の自動化、LLMJackingの被害拡大なども報告している。"
+      "summary": "企業向けマーケティングサービス「KARTE」（カルテ）が不正アクセスを受け、利用企業のアカウント情報や、利用企業から預かっている顧客情報の一部、利用企業が外部サービスとの連携に使うシークレットキーなどが漏えいした。"
     },
     {
       "category": "主要",
-      "title": "米大統領 フアン氏復帰検討に理解",
-      "link": "https://news.yahoo.co.jp/pickup/6602861?source=rss",
-      "published": "11/17 08:08",
+      "title": "米国防長官 12月の訪日で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6602913?source=rss",
+      "published": "11/17 16:21",
       "source": "Yahoo!ニュース",
-      "summary": "アメリカのトランプ大統領は半導体大手エヌビディアのジェンスン・フアン前CEOが復帰する可能性について理解を示しました。"
+      "summary": "ヘグセス米国防長官が12月上旬、日本を訪問する方向で調整していることが分かった。小泉進次郎防衛相と東京都内で会談し、日本が改定する安全保障関連3文書や防衛費の増額を協議する見通し。複数の外交筋が17"
     },
     {
       "category": "社会",
@@ -211,11 +259,11 @@
     },
     {
       "category": "経済",
-      "title": "タイムズカーの会員数 1.4万人減",
-      "link": "https://news.yahoo.co.jp/pickup/6602816?source=rss",
-      "published": "11/16 18:17",
+      "title": "NY株大幅反落 ハイテク株に売り",
+      "link": "https://news.yahoo.co.jp/pickup/6602852?source=rss",
+      "published": "11/17 06:54",
       "source": "Yahoo!ニュース",
-      "summary": "貸駐車場大手のパーク24は16日、カーシェアリングサービス「タイムズカー」の10月末時点の会員数が前月比0.3％減の421万2千人だったと発表した。9月末時点から1万4千人減った。パーク24によると"
+      "summary": "【ニューヨーク共同】週明け16日のニューヨーク株式市場のダウ工業株30種平均は大幅反落し、前週末比739.38ドル安の5万1608.17ドルで取引を終えた。半導体大手エヌビディアを巡る先行き懸念など"
     },
     {
       "category": "AI・テクノロジー",
@@ -227,27 +275,27 @@
     },
     {
       "category": "スポーツ",
-      "title": "戦力外の矢野雅哉ら 球団に要請書",
-      "link": "https://news.yahoo.co.jp/pickup/6602822?source=rss",
-      "published": "11/16 19:22",
+      "title": "矢野ら カープに謝罪求める要請書",
+      "link": "https://news.yahoo.co.jp/pickup/6602841?source=rss",
+      "published": "11/16 22:20",
       "source": "Yahoo!ニュース",
-      "summary": "10月、広島カープ球団から戦力外通告を受けた矢野雅哉選手、田村俊介選手、前川誠太選手の3人が、球団の対応が不当だとして、「契約を結ばない」とした真の理由の開示や謝罪などを求める要請書を球団に通達しま"
+      "summary": "広島から来季契約をしないと通告を受けた矢野雅哉、前川誠太、田村俊介の３人の元選手の代理人弁護士が、１２日付で広島球団に理由の開示や発言の謝罪などを求める「要請書」を内容証明郵便で送付したことが１６日"
     },
     {
       "category": "IT",
-      "title": "ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？　どうなる今後の半導体業界",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
-      "published": "11/16 18:05",
+      "title": "AIに打ち明けた相談は“広告トラッカー”に筒抜け？　ChatGPT、Claude、Gemini含む42サービスを米大が調査",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003241/",
+      "published": "11/17 12:00",
       "source": "ITmedia",
-      "summary": "米NVIDIA創業者にして社長兼CEO兼会長だったジェンスン・フアン氏が同社を退任した。半導体業界や同社の事業への影響は。"
+      "summary": "米ニューヨーク州立大学ストーニーブルック校に所属する研究者らが発表した論文「Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms」（IEEE S&P 2027採択）は、AIチャットbotに入力した会話内容や個人情報が、サイト内の追跡プログラム（トラッカー）を通じて外部企業へ漏えいする実態を調査した研究報告だ。"
     },
     {
       "category": "主要",
-      "title": "女性刺され死亡 雑に扱われたと男",
-      "link": "https://news.yahoo.co.jp/pickup/6602858?source=rss",
-      "published": "11/17 07:44",
+      "title": "グルメフェス炎上 主催者2人直撃",
+      "link": "https://news.yahoo.co.jp/pickup/6602907?source=rss",
+      "published": "11/17 15:26",
       "source": "Yahoo!ニュース",
-      "summary": "東京・中野区の路上で20代とみられる女性が刺され、死亡しました。"
+      "summary": "「ヤバいかなっていう気持ちは本当になくて…来てくれるっていう気持ちしかなかったんです」"
     },
     {
       "category": "社会",
@@ -259,11 +307,11 @@
     },
     {
       "category": "経済",
-      "title": "若者に広がる投資熱 その実態は",
-      "link": "https://news.yahoo.co.jp/pickup/6602779?source=rss",
-      "published": "11/16 12:11",
+      "title": "マンション短期売買 課税強化検討",
+      "link": "https://news.yahoo.co.jp/pickup/6602817?source=rss",
+      "published": "11/16 18:40",
       "source": "Yahoo!ニュース",
-      "summary": "「会社の給料だけで暮らしていけるのか」。不安に駆り立てられ、近畿地方に住む男子大学生（２３歳）はアルバイト代の３分の１を投資に回すようになった。２０代の４人に１人が株や投資信託の利益が非課税になる少"
+      "summary": "都心部のマンション価格の高騰に歯止めをかけようと、政府・与党が投機的な取引を抑えるための課税強化の検討に入った。短期間で転売して利益を得る取引が価格高騰の一因になっているとみて、所得税や不動産取得税"
     },
     {
       "category": "AI・テクノロジー",
@@ -274,12 +322,84 @@
       "summary": "［教育とＡＩ］＜上＞ 「やっぱりチャッピーに聞いたんだ」。夏休み明けの９月、千葉県に住む公立中学１年の女子生徒（１２）は、同級生が提出した理科の自由研究を見て確信した。「１０円玉がピカピカになる方法"
     },
     {
-      "category": "スポーツ",
-      "title": "横綱・豊昇龍まさかの5敗目 9日目",
-      "link": "https://news.yahoo.co.jp/pickup/6602821?source=rss",
-      "published": "11/16 19:05",
+      "category": "IT",
+      "title": "OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開　ChatGPTで探すと24時間アカウント停止の警告も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003254/",
+      "published": "11/17 10:45",
+      "source": "ITmedia",
+      "summary": "OpenAIは、児童性的虐待コンテンツ（CSAM）を検出するための新たな画像分類ツールを発表した。従来は検出が困難だった新規画像やAI生成画像も対象とし、審査を通過した組織へAPI経由で無償提供する。同時にChatGPT上でのCSAM検索行為に対し、アカウントを24時間停止する警告機能も導入した。"
+    },
+    {
+      "category": "主要",
+      "title": "文科相のパーティー問題 残る疑問",
+      "link": "https://news.yahoo.co.jp/pickup/6602896?source=rss",
+      "published": "11/17 14:41",
       "source": "Yahoo!ニュース",
-      "summary": "「大相撲九州場所・９日目」（１６日、福岡国際センター） 横綱豊昇龍は関脇熱海富士に押し出しで敗れて２連敗。９日目で早くも５敗目を喫して黒星が先行し、場内は騒然となった。優勝を争う熱海富士は１敗をキー"
+      "summary": "関芳弘文部科学相は16日の参院特別委員会で、衆院議員会館で2024年6月に開いた政治資金パーティーのパーティー券は9万円で、参加者は9人だったと明らかにした。 参加者はバイオ医薬品などの企業関係者で、"
+    },
+    {
+      "category": "IT",
+      "title": "スパコン「富岳」不正アクセスで運用停止　研究データや外部接続用SSH鍵など流出の可能性　他システムへの接続試行も確認",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003253/",
+      "published": "11/17 10:44",
+      "source": "ITmedia",
+      "summary": "ネット上に公開されていた富岳の稼働状況を表示するダッシュボードを足がかりに、運用系の内部ネットワークに不正に侵入されたという。"
+    },
+    {
+      "category": "IT",
+      "title": "NTTの島田明社長、宇宙光通信構想を発表　月面インフラや宇宙データセンターの整備も",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003252/",
+      "published": "11/17 10:30",
+      "source": "ITmedia",
+      "summary": "NTTの島田明社長は16日、都内で講演し、宇宙で光通信網を構築する構想を明らかにした。人工衛星同士や地上の通信施設を光信号でつなぎ、高速通信を実現する。宇宙データセンターや月の発電インフラの整備にも乗り出す。"
+    },
+    {
+      "category": "IT",
+      "title": "「京成スカイライナー」予約システム不正アクセス、最大約337万件の顧客情報漏えいか",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003250/",
+      "published": "11/17 10:09",
+      "source": "ITmedia",
+      "summary": "カナ氏名、電話番号、メールアドレス、ユーザーID、ハッシュ化済みパスワード、生年月日、性別、国籍が、第三者に取得された可能性があるという。"
+    },
+    {
+      "category": "IT",
+      "title": "OpenAI、Apollo ResearchやMETRなど外部4団体を社内に迎える「埋め込み型」安全性評価を開始",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003248/",
+      "published": "11/17 09:03",
+      "source": "ITmedia",
+      "summary": "OpenAIは、外部の独立評価機関が社内に常駐してAIの安全性を検証する「埋め込み型評価」の開始を発表した。METRやApollo Researchなど4団体と契約を結び、学習中のモデルやソースコードへの深いアクセスを提供する。モデルの意図的な妨害行為や不適切な挙動を評価し、安全管理の透明性向上を図る狙いだ。"
+    },
+    {
+      "category": "IT",
+      "title": "OpenAIをカリフォルニア州が提訴　「AIエージェントの制御を80回以上失った」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003246/",
+      "published": "11/17 08:04",
+      "source": "ITmedia",
+      "summary": "カリフォルニア州の司法長官は、OpenAIを提訴した。十分な安全対策を講じずに高度なAIモデルを開発・テストしたとしている。テスト中に自律エージェントの制御を80回以上失ったにもかかわらず一部しか公表しなかったと指摘。OpenAI側は「自社のみが狙い撃ちにされている」と反論している。"
+    },
+    {
+      "category": "IT",
+      "title": "「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因　負荷増と容量減が重なり世界に波及",
+      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003245/",
+      "published": "11/17 07:05",
+      "source": "ITmedia",
+      "summary": "Microsoftは、「Microsoft 365」で12日に発生した大規模障害の暫定的なインシデントレポートを公開した。7月に展開した更新プログラムに潜む不具合が、通信トラフィック移行による負荷増と容量低下という悪条件と重なり顕在化。世界規模で連鎖的なサーバダウンを引き起こした。"
+    },
+    {
+      "category": "IT",
+      "title": "Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測　GTIGのAI脅威レポート",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003244/",
+      "published": "11/16 23:00",
+      "source": "ITmedia",
+      "summary": "Googleは、AIを悪用したサイバー攻撃の動向をまとめた四半期レポートを公開した。攻撃者が複数のAIエージェントを組み合わせ、自律的に脆弱性の発見から攻撃までを実行するフレームワークが初めて確認された。偽プロフィールによる標的への接近や世論工作の自動化、LLMJackingの被害拡大なども報告している。"
+    },
+    {
+      "category": "IT",
+      "title": "ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？　どうなる今後の半導体業界",
+      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003226/",
+      "published": "11/16 18:05",
+      "source": "ITmedia",
+      "summary": "米NVIDIA創業者にして社長兼CEO兼会長だったジェンスン・フアン氏が同社を退任した。半導体業界や同社の事業への影響は。"
     },
     {
       "category": "IT",
@@ -290,92 +410,12 @@
       "summary": "「5G SA」の障害は11月5日と11日にも発生しており、今月3回目だ。【復旧】"
     },
     {
-      "category": "主要",
-      "title": "7代目ボンド役にR・パティンソン",
-      "link": "https://news.yahoo.co.jp/pickup/6602855?source=rss",
-      "published": "11/17 07:37",
-      "source": "Yahoo!ニュース",
-      "summary": "映画『007』シリーズの7代目ジェームズ・ボンドが、『トワイライト』シリーズや『THE BATMAN－ザ・バットマン－』などで知られる俳優ロバート・パティンソン（40）に決定した。現地時間16日、A"
-    },
-    {
-      "category": "社会",
-      "title": "文科相のパーティー 会費は9万円",
-      "link": "https://news.yahoo.co.jp/pickup/6602811?source=rss",
-      "published": "11/16 17:33",
-      "source": "Yahoo!ニュース",
-      "summary": "関芳弘文部科学相は16日の参院消費税・支援金法案特別委員会で、衆院の内規に反して2024年に衆院議員会館内で開いた政治資金パーティーをめぐり、厚生労働省の担当者が治験制度の説明を担い、バイオ医薬品企"
-    },
-    {
-      "category": "経済",
-      "title": "フアン氏復帰求める署名 16万人超",
-      "link": "https://news.yahoo.co.jp/pickup/6602778?source=rss",
-      "published": "11/16 12:10",
-      "source": "Yahoo!ニュース",
-      "summary": "中国のスパイと疑われる女性や部下との不倫関係が報じられた後、CEOを辞任したエヌビディアのジェンスン・フアン氏が、復帰を検討していると報じられました。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "AI敵視から融和へ Disney路線変更",
-      "link": "https://news.yahoo.co.jp/pickup/6602748?source=rss",
-      "published": "11/16 07:52",
-      "source": "Yahoo!ニュース",
-      "summary": "（ブルームバーグ）:かつて著作権侵害をめぐってAI企業と対立していたディズニーが、AIの本格活用へとかじを切っている。12月には、フランスの新興企業アニマージュと共同制作した子ども向けシリーズ「Oz"
-    },
-    {
-      "category": "スポーツ",
-      "title": "カバディの観客増 アジア大会効果",
-      "link": "https://news.yahoo.co.jp/pickup/6602803?source=rss",
-      "published": "11/16 16:17",
-      "source": "Yahoo!ニュース",
-      "summary": "カバディ日本一を決める「全日本選手権大会」が１４、１５日、国立オリンピック記念青少年総合センター（東京都渋谷区）で開かれ、男子は「ＡＢＨＩＪＩＴ ＫＡＢＡＤＤＩ ＳＡＮＧＡ」（ＡＫＳ）が３連覇、女子"
-    },
-    {
       "category": "IT",
       "title": "ドコモ「5G SA」今月3度目の障害、約6時間で復旧　原因は同じ「交換機への通信集中」",
       "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003233/",
       "published": "11/16 16:46",
       "source": "ITmedia",
       "summary": "5G SAの障害は11月5日、11日に続いて3回目で、原因も同じだった。不正アクセスの形跡やサイバー攻撃を示す事象は確認していないという。"
-    },
-    {
-      "category": "主要",
-      "title": "グラミー新設賞 LiSAら候補入り",
-      "link": "https://news.yahoo.co.jp/pickup/6602854?source=rss",
-      "published": "11/17 07:17",
-      "source": "Yahoo!ニュース",
-      "summary": "米音楽界で最高の栄誉とされる第69回グラミー賞の各賞候補が16日に発表され、新設された「最優秀アジアポップ音楽パフォーマンス賞」に、日本勢から「BABYMETAL」と「LiSA」がノミネートされた。"
-    },
-    {
-      "category": "社会",
-      "title": "今週後半ほど気温低く 冬の空気に",
-      "link": "https://news.yahoo.co.jp/pickup/6602780?source=rss",
-      "published": "11/16 12:29",
-      "source": "Yahoo!ニュース",
-      "summary": "きょう（月）午後は太平洋側で広く晴れますが、日本海側は雲が多めで、北海道は夜まで雪や雨の降る所があるでしょう。西日本は気温が高めですが、東・北日本は北風が冷たい見込みです。なお、あす（火）は西日本で"
-    },
-    {
-      "category": "経済",
-      "title": "コンテナホテル8年で145店舗 背景",
-      "link": "https://news.yahoo.co.jp/pickup/6602759?source=rss",
-      "published": "11/16 09:42",
-      "source": "Yahoo!ニュース",
-      "summary": "国道沿いやインターチェンジの近くで、コンテナホテルを次々と展開している企業がある。「HOTEL R9 The Yard」を運営するデベロップ（千葉県市川市）だ。11月10日には、茨城県筑西市に新店が"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "検事の取り調べ AIでチェックへ",
-      "link": "https://news.yahoo.co.jp/pickup/6602643?source=rss",
-      "published": "11/15 10:48",
-      "source": "Yahoo!ニュース",
-      "summary": "法務・検察当局は、取り調べの適正化を図るため、人工知能（AI）の活用を検討している。取り調べの様子を録音・録画（可視化）した事件について、AIに記録を分析させ、不適切な言動をチェックする。2026年"
-    },
-    {
-      "category": "スポーツ",
-      "title": "今季世界最高V 中井亜美がガッツ",
-      "link": "https://news.yahoo.co.jp/pickup/6602775?source=rss",
-      "published": "11/16 11:52",
-      "source": "Yahoo!ニュース",
-      "summary": "＜フィギュアスケート：グランプリ（GP）シリーズ第4戦スケートアメリカ＞◇15日（日本時間16日）◇米エバレット＝エンジェル・オブ・ザ・ウィンズ・アリーナ◇女子フリー 【エバレット（米ワシントン州）"
     },
     {
       "category": "IT",
@@ -400,78 +440,6 @@
       "published": "11/16 15:55",
       "source": "ITmedia",
       "summary": "メンテ入りから5時間以上経った午後3時半時点でも復旧しておらず、「待ち合わせしているのに連絡が取れない」などユーザーが困惑している。"
-    },
-    {
-      "category": "IT",
-      "title": "スパコン「富岳」に不正アクセス　理研が明らかに",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003224/",
-      "published": "11/16 12:42",
-      "source": "ITmedia",
-      "summary": "理化学研究所は11月16日、スーパーコンピュータ「富岳」に関するシステムが不正アクセスを受けたと、ITmedia NEWSの取材に対し明らかにした。"
-    },
-    {
-      "category": "IT",
-      "title": "パスワードより安全なはずが……パスキー対応103サイトを検証→全てに脆弱性　独大学の調査結果",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003199/",
-      "published": "11/16 12:00",
-      "source": "ITmedia",
-      "summary": "ドイツのルール大学ボーフムなどに所属する研究者らが発表した論文「The State of Passkeys: Studying the Adoption and Security of Passkeys on the Web」は、公開されているサイトのパスキーの普及状況と安全性を調査した研究報告だ。"
-    },
-    {
-      "category": "IT",
-      "title": "フリーランス市場、受注者の約8割がAIを利用　自発的に開示は1割弱、両者に意識差　IBMリサーチなど調査",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003198/",
-      "published": "11/16 12:00",
-      "source": "ITmedia",
-      "summary": "南カリフォルニア大学やIBMリサーチなどに所属する研究者らが「CHI ’26」で発表した論文「“Better Ask for Forgiveness than Permission”: Practices and Policies of AI Disclosure in Freelance Work」は、フリーランス市場において、ワーカー（受注者）とクライアント（発注者）の間でAI使用を共有しているかなどの双方のズレを調査した研究報告だ。"
-    },
-    {
-      "category": "IT",
-      "title": "マネックス証券、免許証画像やマイナカード表面など1592件漏えいか　口座開設システムに不正アクセス",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003222/",
-      "published": "11/16 11:46",
-      "source": "ITmedia",
-      "summary": "運転免許証は表面・裏面と自撮り画像、マイナンバーカードは表面画像を含む。個人番号が含まれるマイナカードの裏面の漏えいは確認していない。"
-    },
-    {
-      "category": "IT",
-      "title": "「艦これアーケード」「オンゲキ」など一部再開　不正アクセスで停止のセガ系システムが試験復旧",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003220/",
-      "published": "11/16 11:26",
-      "source": "ITmedia",
-      "summary": "セガ フェイブは、不正アクセスを受けて停止していたゲームセンター向けネットワークサービス「ALL.Net」の一部機能を復旧し、「オンゲキ」「艦これアーケード」など12タイトルの試験稼働を再開した。一部サービスは停止が続いている。"
-    },
-    {
-      "category": "IT",
-      "title": "エンジニア転職のpaiza、最大90万件の個人情報漏えいのおそれ　退職者などアクセス可能な状態、約13年続く",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003215/",
-      "published": "11/16 10:14",
-      "source": "ITmedia",
-      "summary": "ステージング環境へのログイン時の認証用パスワードを固定文字列で運用し、ベーシック認証などの認証情報も長期間変更していなかったたという。"
-    },
-    {
-      "category": "IT",
-      "title": "OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003208/",
-      "published": "11/16 09:49",
-      "source": "ITmedia",
-      "summary": "OpenAIは、AIエージェント「dot」による決済機能「ChatGPT Wallet」を発表した。実際のカード情報を店舗に渡さず、購入ごとに生体認証を求める仕組みで安全性を確保する。米国のChatGPT Pro加入者向けに提供を開始した。将来は事前承認に基づく自律決済にも対応する計画。"
-    },
-    {
-      "category": "IT",
-      "title": "京成、公式サイト「システム不具合」で閲覧できない状態に　復旧未定",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003210/",
-      "published": "11/16 08:24",
-      "source": "ITmedia",
-      "summary": "「京成スカイライナー」の予約システムが不正アクセスを受け、最大約337万件の個人情報が流出した可能性があると13日に発表していた。その後、公式サイトが閲覧できなくなったが、両者の関係は不明。"
-    },
-    {
-      "category": "IT",
-      "title": "金曜に起きた「Outlook使えない」問題、土曜午後に復旧……「Microsoft 365」障害、約36時間続く",
-      "link": "https://www.itmedia.co.jp/news/article/2611/16/2000003209/",
-      "published": "11/16 08:05",
-      "source": "ITmedia",
-      "summary": "障害発生中は、Outlookでメール送受信ができなかったり、Copilotが使えないなどの問題が起き、日本の政府や企業にも大きな影響が出た。"
     }
   ],
   "errors": [
