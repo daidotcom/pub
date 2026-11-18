@@ -1,13 +1,61 @@
 {
-  "updated": "2026-11-18T09:13:58.235686+00:00",
+  "updated": "2026-11-18T18:10:42.998396+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "DHC 顧客氏名など1911万件漏えい",
-      "link": "https://news.yahoo.co.jp/pickup/6603058?source=rss",
-      "published": "11/18 17:51",
+      "title": "熊本県で震度5弱 津波の心配なし",
+      "link": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
+      "published": "11/19 02:27",
       "source": "Yahoo!ニュース",
-      "summary": "化粧品大手ディーエイチシー（ＤＨＣ）は１８日、オンラインショップに登録する顧客の氏名やメールアドレス、生年月日など約１９１１万件が漏えいしたと発表した。マーケティング支援を手がけるプレイド（東京）の"
+      "summary": "19日午前2時22分ごろ、熊本県で最大震度5弱を観測する強い地震がありました。"
+    },
+    {
+      "category": "社会",
+      "title": "EVなどに新税 28年5月導入で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6603065?source=rss",
+      "published": "11/18 18:40",
+      "source": "Yahoo!ニュース",
+      "summary": "政府、与党が2027年度税制改正で、電気自動車（EV）やプラグインハイブリッド車（PHV）などを対象とする新たな税金を28年5月に導入する方向で調整していることが18日、分かった。車業界は開始時期の"
+    },
+    {
+      "category": "経済",
+      "title": "SA・PAのゴミ箱 280カ所で廃止へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603078?source=rss",
+      "published": "11/18 21:17",
+      "source": "Yahoo!ニュース",
+      "summary": "計280か所で運用を廃止へ NEXCO東日本、NEXCO中日本、NEXCO西日本、本四高速の4社は2026年11月18日、管内路線の休憩施設のうち、レストランや売店といった営業施設のないエリアでゴミ"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "顧客情報漏えいか 楽天証券が説明",
+      "link": "https://news.yahoo.co.jp/pickup/6603062?source=rss",
+      "published": "11/18 18:38",
+      "source": "Yahoo!ニュース",
+      "summary": "楽天証券が11月17日に公表した不正アクセスの問題を巡り、同社がテスト環境に本番の顧客データを保存していたことが問題視されている。ITmedia NEWSの取材に対し、同社は「社内システムのアップグ"
+    },
+    {
+      "category": "スポーツ",
+      "title": "阪神・湯浅京己 来季育成で再出発",
+      "link": "https://news.yahoo.co.jp/pickup/6603077?source=rss",
+      "published": "11/18 21:15",
+      "source": "Yahoo!ニュース",
+      "summary": "阪神湯浅京己投手（27）が18日、兵庫・西宮市内の球団事務所で契約更改交渉に臨み、1200万円ダウンの年俸4800万円でサインした。10月に「内視鏡下胸椎（きょうつい）黄色靱帯（じんたい）骨化切除術"
+    },
+    {
+      "category": "IT",
+      "title": "楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？　「本番データでの確認が必要だった」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
+      "published": "11/18 20:16",
+      "source": "ITmedia",
+      "summary": "楽天証券の顧客情報漏えい問題で、同社が本番の顧客データをマスキングせずにテスト環境へ保存していたことが分かった。最大約1572万口座分が漏えいした可能性がある。"
+    },
+    {
+      "category": "主要",
+      "title": "NHK飲み会通達 記者が不満漏らす",
+      "link": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
+      "published": "11/19 00:00",
+      "source": "Yahoo!ニュース",
+      "summary": "NHKが11月17日、全職員に対して飲酒を伴う会食を原則午後10時ごろまでとする通達を出した。JALやANAなど大手航空会社でも飲酒に厳しい規定が設けられるなか、公共放送が踏み切った異例の“酒席改革"
     },
     {
       "category": "社会",
@@ -27,11 +75,59 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "楽天証券 情報漏えいの確認方法",
-      "link": "https://news.yahoo.co.jp/pickup/6603030?source=rss",
-      "published": "11/18 14:06",
+      "title": "ネット繋がらない新機種 開発経緯",
+      "link": "https://news.yahoo.co.jp/pickup/6603060?source=rss",
+      "published": "11/18 18:30",
       "source": "Yahoo!ニュース",
-      "summary": "楽天証券が11月17日に発表した、顧客の口座情報が漏えいした可能性について、「ログイン後の『重要なお知らせ』を見て初めて、自分が対象になったことを知った」という内容の投稿が、SNSで相次いでいる。"
+      "summary": "KDDIと沖縄セルラーは18日、au Design projectの新機種として、インターネットに接続せず通話とSMSに特化したSIMフリー端末「INFOBAR ZERO」を発表した。価格は3万27"
+    },
+    {
+      "category": "スポーツ",
+      "title": "佐々木朗希 誕生日は家でパワプロ",
+      "link": "https://news.yahoo.co.jp/pickup/6603067?source=rss",
+      "published": "11/18 19:03",
+      "source": "Yahoo!ニュース",
+      "summary": "10月15日（現地時間、以下同）にナ・リーグ優勝決定シリーズでブルワーズに敗れ、ワールドシリーズ3連覇の夢が潰えてから約1カ月。久々に日本に帰ってきた佐々木朗希投手（25）に、シーズン終了後初めて、"
+    },
+    {
+      "category": "IT",
+      "title": "JR東の新キャラはB案“紫うさぎ”に　「Suica券面に登場」など、IP展開の可能性は",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003307/",
+      "published": "11/18 18:20",
+      "source": "ITmedia",
+      "summary": ""
+    },
+    {
+      "category": "主要",
+      "title": "森保監督 海外から「打診」明かす",
+      "link": "https://news.yahoo.co.jp/pickup/6603091?source=rss",
+      "published": "11/18 23:08",
+      "source": "Yahoo!ニュース",
+      "summary": "サッカー日本代表の森保一監督が18日、退任前最後の活動となったシンガポール遠征を終えて羽田空港に帰国した。帰国後に取材に応じ「この8年間を振り返って、まずはあっという間に時間が過ぎたなと、そして幸せ"
+    },
+    {
+      "category": "社会",
+      "title": "受刑者の選挙権制限は合憲 最高裁",
+      "link": "https://news.yahoo.co.jp/pickup/6603035?source=rss",
+      "published": "11/18 15:17",
+      "source": "Yahoo!ニュース",
+      "summary": "受刑者の投票を制限した公職選挙法の規定が「選挙の保障」を定めた憲法に反するかが争われた訴訟の上告審判決で、最高裁大法廷（裁判長・今崎幸彦長官）は18日、「合憲」とする初の統一判断を示した。これまでは"
+    },
+    {
+      "category": "経済",
+      "title": "日本車の部品 一部共通化する方針",
+      "link": "https://news.yahoo.co.jp/pickup/6603047?source=rss",
+      "published": "11/18 16:40",
+      "source": "Yahoo!ニュース",
+      "summary": "日本の自動車業界が、メーカーの垣根を越えて素材や部品の一部を共通化する方針を固めたことが18日、分かった。日本自動車工業会（自工会）が、製造に使う鉄や樹脂の一部で種類や規格を統一する。コスト削減や開"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "DHC 顧客氏名など1911万件漏えい",
+      "link": "https://news.yahoo.co.jp/pickup/6603058?source=rss",
+      "published": "11/18 17:51",
+      "source": "Yahoo!ニュース",
+      "summary": "化粧品大手ディーエイチシー（ＤＨＣ）は１８日、オンラインショップに登録する顧客の氏名やメールアドレス、生年月日など約１９１１万件が漏えいしたと発表した。マーケティング支援を手がけるプレイド（東京）の"
     },
     {
       "category": "スポーツ",
@@ -51,83 +147,35 @@
     },
     {
       "category": "主要",
-      "title": "高市氏が中国到着 歓迎に各国と差",
-      "link": "https://news.yahoo.co.jp/pickup/6603057?source=rss",
-      "published": "11/18 17:42",
+      "title": "川に展示の美術作品 さらに破壊か",
+      "link": "https://news.yahoo.co.jp/pickup/6603090?source=rss",
+      "published": "11/18 23:05",
       "source": "Yahoo!ニュース",
-      "summary": "APEC首脳会議に参加するため、高市総理が中国・深センの空港に到着した際、中国側が各国の首脳に対して実施していた歓迎行事が縮小した形で行われました。"
+      "summary": "京都市内を流れる高瀬川の三条通-四条通間に立体美術作品を展示する「京都高瀬川アートフェスティバル」で、水中に置かれた作品が破損しているのが18日見つかった。11日には別の作品が壊されており、主催者は"
     },
     {
       "category": "社会",
-      "title": "受刑者の選挙権制限は合憲 最高裁",
-      "link": "https://news.yahoo.co.jp/pickup/6603035?source=rss",
-      "published": "11/18 15:17",
+      "title": "看護師の死 突きつける命の格差",
+      "link": "https://news.yahoo.co.jp/pickup/6603003?source=rss",
+      "published": "11/18 10:32",
       "source": "Yahoo!ニュース",
-      "summary": "受刑者の投票を制限した公職選挙法の規定が「選挙の保障」を定めた憲法に反するかが争われた訴訟の上告審判決で、最高裁大法廷（裁判長・今崎幸彦長官）は18日、「合憲」とする初の統一判断を示した。これまでは"
+      "summary": "「命の格差」という言葉がある。所得や学歴、職業などの社会経済的要因で、寿命や健康状態に不公平な差が生じる現象で、所得と医療保険が直結する格差大国米国を中心に広まった概念だ。その命の格差が、世界に誇る国"
     },
     {
       "category": "経済",
-      "title": "NHK会長「飲み会」通達巡り言及",
-      "link": "https://news.yahoo.co.jp/pickup/6603039?source=rss",
-      "published": "11/18 15:37",
+      "title": "Suica新キャラ A案とC案も活用へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603046?source=rss",
+      "published": "11/18 16:32",
       "source": "Yahoo!ニュース",
-      "summary": "ＮＨＫは１８日、東京・渋谷の同局で定例会長会見を行い、前日１７日付で職員に向けて「節度ある飲酒のあり方」を求める通達を出したことについて言及した。"
+      "summary": "■「Suica」新キャラクターお披露目会 JR東日本は18日、都内で「Suicaのペンギン」卒業に伴う新キャラクターのお披露目会を開催。新たなイメージキャラクターの原案候補3案の中から新キャラクター"
     },
     {
       "category": "AI・テクノロジー",
-      "title": "KDDI新「INFOBAR」発表 8年ぶり",
-      "link": "https://news.yahoo.co.jp/pickup/6603018?source=rss",
-      "published": "11/18 12:33",
+      "title": "楽天証券 情報漏えいの確認方法",
+      "link": "https://news.yahoo.co.jp/pickup/6603030?source=rss",
+      "published": "11/18 14:06",
       "source": "Yahoo!ニュース",
-      "summary": "KDDIと沖縄セルラー電話は11月18日、au公式のSIMロックフリーブランドau Flex Style初のオリジナルモデルとなる携帯電話「INFOBAR ZERO（インフォバーゼロ）」を発表した。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "ピッチクロック来季から試行 NPB",
-      "link": "https://news.yahoo.co.jp/pickup/6603040?source=rss",
-      "published": "11/18 16:00",
-      "source": "Yahoo!ニュース",
-      "summary": "プロ野球１２球団オーナー会議が１８日、都内で行われ、投球間隔制限「ピッチクロック」を２７年シーズンから実施することが決まった。「トライアル導入」となり、罰則は設けない。次回の実行委員会で正式決定する"
-    },
-    {
-      "category": "IT",
-      "title": "楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？　「本番データでの確認が必要だった」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
-      "published": "11/18 17:40",
-      "source": "ITmedia",
-      "summary": "楽天証券の顧客情報漏えい問題で、同社が本番の顧客データをマスキングせずにテスト環境へ保存していたことが分かった。最大約1572万口座分が漏えいした可能性がある。"
-    },
-    {
-      "category": "主要",
-      "title": "ボイジャー1号「1光日」に到達へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603051?source=rss",
-      "published": "11/18 17:06",
-      "source": "Yahoo!ニュース",
-      "summary": "【ワシントン共同】米航空宇宙局（NASA）の探査機ボイジャー1号が18日、人工物としては初めて、地球から光が1日に進む距離「1光日」（約259億キロ）に到達する。49年前の1977年9月5日に打ち上"
-    },
-    {
-      "category": "社会",
-      "title": "装備移転三原則「非核」の削除案",
-      "link": "https://news.yahoo.co.jp/pickup/6603009?source=rss",
-      "published": "11/18 11:46",
-      "source": "Yahoo!ニュース",
-      "summary": "政府は防衛装備品の輸出ルールを定めた防衛装備移転三原則の前文を改定する検討に入った。核政策の基本方針「非核三原則を守るとの基本原則を堅持してきた」との記述について装備輸出とは直結しないなどとして削除"
-    },
-    {
-      "category": "経済",
-      "title": "Suica新キャラ紫のうさぎ X反応",
-      "link": "https://news.yahoo.co.jp/pickup/6603032?source=rss",
-      "published": "11/18 15:11",
-      "source": "Yahoo!ニュース",
-      "summary": "「Suica」に関するX上の投稿を表示しています。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "「JINS」最大1829万件の情報流出",
-      "link": "https://news.yahoo.co.jp/pickup/6602951?source=rss",
-      "published": "11/17 21:30",
-      "source": "Yahoo!ニュース",
-      "summary": "眼鏡チェーン「JINS」を展開するジンズホールディングスはきょう（17日）、最大でおよそ1829万件の個人情報が流出したと発表しました。"
+      "summary": "楽天証券が11月17日に発表した、顧客の口座情報が漏えいした可能性について、「ログイン後の『重要なお知らせ』を見て初めて、自分が対象になったことを知った」という内容の投稿が、SNSで相次いでいる。"
     },
     {
       "category": "スポーツ",
@@ -147,59 +195,11 @@
     },
     {
       "category": "主要",
-      "title": "余った給食売る自販機 保護者が列",
-      "link": "https://news.yahoo.co.jp/pickup/6603050?source=rss",
-      "published": "11/18 16:56",
+      "title": "富士山で中国人遭難 捜索打ち切り",
+      "link": "https://news.yahoo.co.jp/pickup/6603089?source=rss",
+      "published": "11/18 22:52",
       "source": "Yahoo!ニュース",
-      "summary": "新潟県十日町市の認定こども園「愛宕幼稚園」が、余った給食を急速冷凍して自動販売機で販売する取り組みを始めた。廃棄する食品を減らすことが目的だったが、共働きの保護者からは好評で、子育て支援につながって"
-    },
-    {
-      "category": "社会",
-      "title": "看護師の死 突きつける命の格差",
-      "link": "https://news.yahoo.co.jp/pickup/6603003?source=rss",
-      "published": "11/18 10:32",
-      "source": "Yahoo!ニュース",
-      "summary": "「命の格差」という言葉がある。所得や学歴、職業などの社会経済的要因で、寿命や健康状態に不公平な差が生じる現象で、所得と医療保険が直結する格差大国米国を中心に広まった概念だ。その命の格差が、世界に誇る国"
-    },
-    {
-      "category": "経済",
-      "title": "Suica新キャラは「紫のうさぎ」",
-      "link": "https://news.yahoo.co.jp/pickup/6603031?source=rss",
-      "published": "11/18 14:18",
-      "source": "Yahoo!ニュース",
-      "summary": "来年3月で「卒業」となるJR東日本の交通系ICカードのイメージキャラクター「Suicaのペンギン」。きょう、この後継となる新たなキャラクターが発表されました。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "楽天証券 最大1125万口座分流出か",
-      "link": "https://news.yahoo.co.jp/pickup/6602935?source=rss",
-      "published": "11/17 18:38",
-      "source": "Yahoo!ニュース",
-      "summary": "楽天証券は11月17日、第三者による不正アクセスを受け、最大約447万口座分の氏名や住所、出金先口座情報などと、最大約1125万口座分のログインIDなどが外部に漏えいした可能性があると発表した。退会"
-    },
-    {
-      "category": "スポーツ",
-      "title": "T・ウッズ 約2年ぶり競技復帰へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603026?source=rss",
-      "published": "11/18 13:35",
-      "source": "Yahoo!ニュース",
-      "summary": "17日、タイガー・ウッズ（米）が米ツアーの非公式戦、ヒーロー・ワールド・チャレンジ（12月3日～／バハマ／アルバニーGC）に出場することが発表された。2024年7月の全英オープン以来の競技復帰となる"
-    },
-    {
-      "category": "IT",
-      "title": "ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？　「スマホが電話の再発明なら、これは再再発明」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
-      "published": "11/18 16:01",
-      "source": "ITmedia",
-      "summary": "KDDIは11月18日、インターネットにつながらない携帯電話「INFOBAR ZERO」を12月25日に発売すると発表した。LINEが連絡手段の中心になった日本で、誰が使うのか。発表会の質疑応答では、大きな市場を最初から狙う製品ではないなどの説明があった。"
-    },
-    {
-      "category": "主要",
-      "title": "日本車の部品 一部共通化する方針",
-      "link": "https://news.yahoo.co.jp/pickup/6603047?source=rss",
-      "published": "11/18 16:40",
-      "source": "Yahoo!ニュース",
-      "summary": "日本の自動車業界が、メーカーの垣根を越えて素材や部品の一部を共通化する方針を固めたことが18日、分かった。日本自動車工業会（自工会）が、自動車の製造に使う鉄や樹脂の一部で種類や規格を統一し、コスト削"
+      "summary": "閉山中の富士山に入山し連絡が取れなくなっている中国人男性について、18日、警察は捜索の打ち切りを決めました。在日中国大使館も今回の遭難事故を受けて、富士山など閉山期間中の登山をしないよう呼びかけてい"
     },
     {
       "category": "社会",
@@ -211,19 +211,19 @@
     },
     {
       "category": "経済",
-      "title": "横から見ると靴底に穴 人気の訳",
-      "link": "https://news.yahoo.co.jp/pickup/6602998?source=rss",
-      "published": "11/18 09:54",
+      "title": "Suica新キャラは「紫のうさぎ」",
+      "link": "https://news.yahoo.co.jp/pickup/6603031?source=rss",
+      "published": "11/18 14:18",
       "source": "Yahoo!ニュース",
-      "summary": "横から見ると、靴底に穴がいくつも開いていて、向こう側まで見える。ちょっと変わった形だけれど、真っ黒なので、いつもの服にもすんなり合いそうだ。ミズノのスニーカー「ウエーブプロフェシーLS」（公式サイト"
+      "summary": "来年3月で「卒業」となるJR東日本の交通系ICカードのイメージキャラクター「Suicaのペンギン」。きょう、この後継となる新たなキャラクターが発表されました。"
     },
     {
       "category": "AI・テクノロジー",
-      "title": "物議の選挙ポスター AIと認める",
-      "link": "https://news.yahoo.co.jp/pickup/6602918?source=rss",
-      "published": "11/17 16:58",
+      "title": "KDDI新「INFOBAR」発表 8年ぶり",
+      "link": "https://news.yahoo.co.jp/pickup/6603018?source=rss",
+      "published": "11/18 12:33",
       "source": "Yahoo!ニュース",
-      "summary": "みなさん、選挙ポスターに実際の候補者とは、別人の顔が使われていたら、どう思いますか？"
+      "summary": "KDDIと沖縄セルラー電話は11月18日、au公式のSIMロックフリーブランドau Flex Style初のオリジナルモデルとなる携帯電話「INFOBAR ZERO（インフォバーゼロ）」を発表した。"
     },
     {
       "category": "スポーツ",
@@ -235,19 +235,19 @@
     },
     {
       "category": "IT",
-      "title": "AI脅威対処へ新枠組み　重要鉱物やエネルギーで連携　首相、ASEANとの首脳会議出席",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
-      "published": "11/18 15:10",
+      "title": "ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？　「スマホが電話の再発明なら、これは再再発明」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
+      "published": "11/18 16:01",
       "source": "ITmedia",
-      "summary": "高市早苗首相は11月17日、訪問先のフィリピンで開かれた日本と東南アジア諸国連合（ASEAN）の首脳会議に出席した。高性能人工知能（AI）を巡る脅威に対処するため、各国と連携する新たな枠組みの創設を確認した。"
+      "summary": "KDDIは11月18日、インターネットにつながらない携帯電話「INFOBAR ZERO」を12月25日に発売すると発表した。LINEが連絡手段の中心になった日本で、誰が使うのか。発表会の質疑応答では、大きな市場を最初から狙う製品ではないなどの説明があった。"
     },
     {
       "category": "主要",
-      "title": "米大統領に出前ふるまう 比大統領",
-      "link": "https://news.yahoo.co.jp/pickup/6603048?source=rss",
-      "published": "11/18 16:38",
+      "title": "日中首脳が握手 会談は見送りへ",
+      "link": "https://news.yahoo.co.jp/pickup/6603084?source=rss",
+      "published": "11/18 22:07",
       "source": "Yahoo!ニュース",
-      "summary": "フィリピンを訪問中のトランプ米大統領は18日、首都マニラの大統領府でフィリピンのマルコス大統領と首脳会談を行った。"
+      "summary": "アジア太平洋経済協力会議（APEC）首脳会議に出席するため、中国・深圳を訪れている高市早苗首相は18日、議長を務める中国の習近平国家主席と会議開幕の記念撮影に臨み、握手を交わした。昨年11月の台湾有"
     },
     {
       "category": "社会",
@@ -259,19 +259,19 @@
     },
     {
       "category": "経済",
-      "title": "NHK 職員に「飲み会22時頃まで」",
-      "link": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
-      "published": "11/18 06:19",
+      "title": "横から見ると靴底に穴 人気の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6602998?source=rss",
+      "published": "11/18 09:54",
       "source": "Yahoo!ニュース",
-      "summary": "飲酒に絡んだトラブルが相次ぎ対策を検討しているNHKが、飲酒を伴う会食を原則午後10時ごろまでとし、約3時間以内に収めるなど「節度ある飲酒のあり方」を求める通達を職員に出したことが17日、関係者への"
+      "summary": "横から見ると、靴底に穴がいくつも開いていて、向こう側まで見える。ちょっと変わった形だけれど、真っ黒なので、いつもの服にもすんなり合いそうだ。ミズノのスニーカー「ウエーブプロフェシーLS」（公式サイト"
     },
     {
       "category": "AI・テクノロジー",
-      "title": "MS大規模障害 幹部が原因を説明",
-      "link": "https://news.yahoo.co.jp/pickup/6602871?source=rss",
-      "published": "11/17 10:32",
+      "title": "「JINS」最大1829万件の情報流出",
+      "link": "https://news.yahoo.co.jp/pickup/6602951?source=rss",
+      "published": "11/17 21:30",
       "source": "Yahoo!ニュース",
-      "summary": "Microsoftは、11月12日に発生した「Microsoft 365」の大規模障害について、7月に展開を始めた更新に潜んでいた不具合に、通信負荷の増加とサーバ容量の減少が重なり、障害が連鎖的に拡"
+      "summary": "眼鏡チェーン「JINS」を展開するジンズホールディングスはきょう（17日）、最大でおよそ1829万件の個人情報が流出したと発表しました。"
     },
     {
       "category": "スポーツ",
@@ -283,35 +283,35 @@
     },
     {
       "category": "IT",
-      "title": "消えていた「Android版メルカリ」Google Playストアに復帰　約1日半で復活",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003292/",
-      "published": "11/18 14:25",
+      "title": "AI脅威対処へ新枠組み　重要鉱物やエネルギーで連携　首相、ASEANとの首脳会議出席",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
+      "published": "11/18 15:10",
       "source": "ITmedia",
-      "summary": "ストアから消えていた理由などは明らかにしていない。"
+      "summary": "高市早苗首相は11月17日、訪問先のフィリピンで開かれた日本と東南アジア諸国連合（ASEAN）の首脳会議に出席した。高性能人工知能（AI）を巡る脅威に対処するため、各国と連携する新たな枠組みの創設を確認した。"
     },
     {
       "category": "主要",
-      "title": "Suica新キャラ A案とC案も活用へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603046?source=rss",
-      "published": "11/18 16:32",
+      "title": "太田裕美さん 夫明かす最期の様子",
+      "link": "https://news.yahoo.co.jp/pickup/6603082?source=rss",
+      "published": "11/18 22:05",
       "source": "Yahoo!ニュース",
-      "summary": "■「Suica」新キャラクターお披露目会 JR東日本は18日、都内で「Suicaのペンギン」卒業に伴う新キャラクターのお披露目会を開催。新たなイメージキャラクターの原案候補3案の中から新キャラクター"
+      "summary": "「木綿のハンカチーフ」「さらばシベリア鉄道」などのヒット曲で知られる歌手の太田裕美（おおた・ひろみ、本名福岡弘美＝ふくおか・ひろみ）さんが12日に都内の自宅で死去した。71歳。東京都出身。"
     },
     {
-      "category": "社会",
-      "title": "小渕優子氏更迭 自民総務会で反発",
-      "link": "https://news.yahoo.co.jp/pickup/6602978?source=rss",
-      "published": "11/18 06:32",
+      "category": "経済",
+      "title": "NHK 職員に「飲み会22時頃まで」",
+      "link": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
+      "published": "11/18 06:19",
       "source": "Yahoo!ニュース",
-      "summary": "自民党の小渕優子元経済産業大臣が税制調査会の役職から更迭されたことについて、総務会で執行部への反発の声が上がりました。"
+      "summary": "飲酒に絡んだトラブルが相次ぎ対策を検討しているNHKが、飲酒を伴う会食を原則午後10時ごろまでとし、約3時間以内に収めるなど「節度ある飲酒のあり方」を求める通達を職員に出したことが17日、関係者への"
     },
     {
       "category": "AI・テクノロジー",
-      "title": "卵サンドつかむ客動画炎上 店説明",
-      "link": "https://news.yahoo.co.jp/pickup/6602840?source=rss",
-      "published": "11/16 22:31",
+      "title": "物議の選挙ポスター AIと認める",
+      "link": "https://news.yahoo.co.jp/pickup/6602918?source=rss",
+      "published": "11/17 16:58",
       "source": "Yahoo!ニュース",
-      "summary": "ボリュームのあるサンドイッチ店「こんなにデカいサンドイッチは反則だ」（大阪市）を紹介する動画がSNSで拡散し、批判の声が相次いでいる。"
+      "summary": "みなさん、選挙ポスターに実際の候補者とは、別人の顔が使われていたら、どう思いますか？"
     },
     {
       "category": "スポーツ",
@@ -323,35 +323,35 @@
     },
     {
       "category": "IT",
+      "title": "消えていた「Android版メルカリ」Google Playストアに復帰　約1日半で復活",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003292/",
+      "published": "11/18 14:25",
+      "source": "ITmedia",
+      "summary": "ストアから消えていた理由などは明らかにしていない。"
+    },
+    {
+      "category": "主要",
+      "title": "支援金 対象年収下限「56万円」案",
+      "link": "https://news.yahoo.co.jp/pickup/6603076?source=rss",
+      "published": "11/18 21:11",
+      "source": "Yahoo!ニュース",
+      "summary": "政府が来春の消費減税とセットで導入する方針の「就業者負担軽減支援金」（所得連動給付）について、政府・与党が支援金の対象者の年収下限を「56万円程度」とする案を検討していることが分かった。公明党が強く"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "MS大規模障害 幹部が原因を説明",
+      "link": "https://news.yahoo.co.jp/pickup/6602871?source=rss",
+      "published": "11/17 10:32",
+      "source": "Yahoo!ニュース",
+      "summary": "Microsoftは、11月12日に発生した「Microsoft 365」の大規模障害について、7月に展開を始めた更新に潜んでいた不具合に、通信負荷の増加とサーバ容量の減少が重なり、障害が連鎖的に拡"
+    },
+    {
+      "category": "IT",
       "title": "未成年の電動モビリティー事故、3カ月ごとに15?33％増　脳損傷は普通の自転車の2倍　米スタンフォード大が1.3万人分析",
       "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003265/",
       "published": "11/18 12:00",
       "source": "ITmedia",
       "summary": "米スタンフォード大学などに所属する研究者らが医学誌「JAMA」で発表した論文「Injuries From Electric Bicycles and Scooters Managed in Pediatric Health Systems」は、子どもや10代の若者における電動自転車および電動キックボードの事故による負傷率の推移や重症度を調査した研究報告だ。"
-    },
-    {
-      "category": "主要",
-      "title": "「あいのり」桃さん 第3子妊娠",
-      "link": "https://news.yahoo.co.jp/pickup/6603033?source=rss",
-      "published": "11/18 15:17",
-      "source": "Yahoo!ニュース",
-      "summary": "人気恋愛バラエティ番組「あいのり」（フジテレビ系）に出演していたブロガーの桃（４１）が１８日に自身のブログを更新し、第３子妊娠を発表した。"
-    },
-    {
-      "category": "社会",
-      "title": "政府広報 陰謀論系YouTuber起用",
-      "link": "https://news.yahoo.co.jp/pickup/6602941?source=rss",
-      "published": "11/17 20:20",
-      "source": "Yahoo!ニュース",
-      "summary": "政府が公開した政府広報にYouTuberの「ナオキマン」が起用されていることについて、木原官房長官は「わかりやすく伝える工夫を講じたもの」と説明しました。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "森保監督 涙のラストミーティング",
-      "link": "https://news.yahoo.co.jp/pickup/6602989?source=rss",
-      "published": "11/18 08:15",
-      "source": "Yahoo!ニュース",
-      "summary": "国際親善試合（17日、日本1－2パラグアイ、シンガポール・ナショナルスタジアム）国際サッカー連盟（FIFA）ランキング17位の日本代表は同33位のパラグアイと対戦も1-2で敗戦。これが年内最後の代表"
     },
     {
       "category": "IT",
@@ -448,14 +448,6 @@
       "published": "11/17 12:50",
       "source": "ITmedia",
       "summary": "米商務省は、中国企業などが第三国のデータセンターを経由して米国製先端AIチップを遠隔利用することを防ぐ暫定最終規則を発表した。物理的な輸出規制の抜け道をふさぐ狙いで、一定以上の計算資源を提供するデータセンターへのチップ輸出にライセンスを義務付ける。NVIDIAを巡る疑惑が背景にあるとみられる。"
-    },
-    {
-      "category": "IT",
-      "title": "モリサワや「mineo」など会員情報漏えい　マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども",
-      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003257/",
-      "published": "11/17 12:35",
-      "source": "ITmedia",
-      "summary": "企業向けマーケティングサービス「KARTE」（カルテ）が不正アクセスを受け、利用企業のアカウント情報や、利用企業から預かっている顧客情報の一部、利用企業が外部サービスとの連携に使うシークレットキーなどが漏えいした。"
     }
   ],
   "errors": [
