@@ -1,29 +1,77 @@
 {
-  "updated": "2026-11-19T07:59:02.304056+00:00",
+  "updated": "2026-11-19T17:25:17.818487+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "ハチミツ二郎 離婚後娘に泣かれた",
-      "link": "https://news.yahoo.co.jp/pickup/6603169?source=rss",
-      "published": "11/19 16:36",
+      "title": "アンソロピック 米ナスダック上場",
+      "link": "https://news.yahoo.co.jp/pickup/6603220?source=rss",
+      "published": "11/19 23:50",
       "source": "Yahoo!ニュース",
-      "summary": "2025年から電動車椅子生活を送っている芸人のハチミツ二郎（51）。一方、私生活では、娘と二人暮らしをするシングルファーザー生活も5年に。プロレスラーとしても活動するなど、豪快な人生を歩んできたハチ"
+      "summary": "人工知能（AI）モデル「クロード」などの開発を手がける米アンソロピックは19日、米ナスダック市場に株式を上場した。新規株式公開（IPO）による調達額は813億ドル（約13兆円）に上る。6月に上場した"
     },
     {
       "category": "社会",
-      "title": "催涙スプレー 学校トラブル相次ぐ",
-      "link": "https://news.yahoo.co.jp/pickup/6603174?source=rss",
-      "published": "11/19 16:56",
+      "title": "麻生氏 アジア大会トラブルに苦言",
+      "link": "https://news.yahoo.co.jp/pickup/6603218?source=rss",
+      "published": "11/19 23:16",
       "source": "Yahoo!ニュース",
-      "summary": "学校で催涙スプレーが噴射されるトラブルが相次いでいる。まいた生徒らは「遊びだった」と釈明するが、多くの生徒や教員が救急搬送される騒ぎになっている。防犯用に入手しやすい一方で、危険性を知らず、安易に使"
+      "summary": "自民党の麻生太郎副総裁は19日、愛知・名古屋アジア大会で相次いだ国歌の取り違えなどの運営トラブルについて「恥さらし」だったと、大会組織委員会に強く苦言を呈した。会長を務める超党派のスポーツ議員連盟総"
     },
     {
       "category": "経済",
-      "title": "スバル 米国製SUVを「逆輸入」",
-      "link": "https://news.yahoo.co.jp/pickup/6603150?source=rss",
-      "published": "11/19 13:05",
+      "title": "運転手の不適切動画 京急バス謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6603202?source=rss",
+      "published": "11/19 21:21",
       "source": "Yahoo!ニュース",
-      "summary": "9年ぶりスバルの「7人乗り」復活！ スバルは2026年11月19日、北米市場で展開する大型SUV「アセント」を日本に150台限定で導入すると発表しました。"
+      "summary": "京浜急行バス（横浜市）は19日、運転手が営業運行終了後のバス車内でつり革や手すりをなめるなどの不適切な行為をし、動画配信サイトで公開されたと明らかにした。SNSで拡散され批判が上がっており、同社は1"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "六花亭 セキュリティコード流出か",
+      "link": "https://news.yahoo.co.jp/pickup/6603168?source=rss",
+      "published": "11/19 16:20",
+      "source": "Yahoo!ニュース",
+      "summary": "北海道の菓子メーカー・六花亭（帯広市）は11月18日、通販サイト「六花亭オンラインショップ」が第三者による不正アクセスを受けて決済画面のプログラムが改ざんされ、顧客が入力したクレジットカード情報が外"
+    },
+    {
+      "category": "スポーツ",
+      "title": "AFC最優秀監督にJ1町田・黒田氏",
+      "link": "https://news.yahoo.co.jp/pickup/6603213?source=rss",
+      "published": "11/19 22:55",
+      "source": "Yahoo!ニュース",
+      "summary": "アジア・サッカー連盟（ＡＦＣ）の２０２６年の年間表彰式が１９日、タイ・バンコクで行われ、Ｊ１町田の黒田剛監督が男子最優秀監督に選ばれた。"
+    },
+    {
+      "category": "IT",
+      "title": "美少女ゲーム「NIKKE」経由でマルウェア感染　北海道2自治体、委託先が認める",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
+      "published": "11/19 20:04",
+      "source": "ITmedia",
+      "summary": "北海道岩見沢市と新得町で、業務の再委託先がマルウェアに感染し、個人情報が漏えいした恐れがある。委託先のGIS北海道は取材に対し、ゲーム「NIKKE」経由の感染を認めた。業務用PCでゲームを起動したかは回答を控えた。"
+    },
+    {
+      "category": "主要",
+      "title": "千葉3人切りつけ事件 男を再逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6603214?source=rss",
+      "published": "11/19 22:47",
+      "source": "Yahoo!ニュース",
+      "summary": "千葉県のJR馬橋駅周辺で先月、男性3人が切りつけられた事件で、コロンビア国籍の男が、殺人未遂の疑いで再逮捕されました。"
+    },
+    {
+      "category": "社会",
+      "title": "高市首相 トランプ氏と電話会談",
+      "link": "https://news.yahoo.co.jp/pickup/6603216?source=rss",
+      "published": "11/19 23:00",
+      "source": "Yahoo!ニュース",
+      "summary": "高市総理は先ほど、アメリカのトランプ大統領と電話で会談し、トランプ氏から今回の米中首脳会談や、米中ロ首脳会談について詳細に説明があったことを明らかにしました。"
+    },
+    {
+      "category": "経済",
+      "title": "NHK ラジオで関係ない音声を放送",
+      "link": "https://news.yahoo.co.jp/pickup/6603200?source=rss",
+      "published": "11/19 20:29",
+      "source": "Yahoo!ニュース",
+      "summary": "NHKが19日未明に熊本県内で最大震度5弱を観測した地震を報じたラジオのニュース内で、職員が「しょうもない原稿」と話す音声が流れた。NHKは取材に「関係のない音声が放送された」と認めた。"
     },
     {
       "category": "AI・テクノロジー",
@@ -35,27 +83,75 @@
     },
     {
       "category": "スポーツ",
-      "title": "HIKESHI賞のG船迫 消火器を持参",
-      "link": "https://news.yahoo.co.jp/pickup/6603172?source=rss",
-      "published": "11/19 16:38",
+      "title": "本田圭佑 森保一監督をねぎらう",
+      "link": "https://news.yahoo.co.jp/pickup/6603206?source=rss",
+      "published": "11/19 21:30",
       "source": "Yahoo!ニュース",
-      "summary": "チームの危機を最も救った救援投手を表彰する「損保ジャパン ＨＩＫＥＳＨＩ賞」の表彰式が１９日、都内の損保ジャパン新宿本社ビルで行われ、セ・リーグ部門で受賞した巨人・船迫大雅投手（３０）が出席した。"
+      "summary": "Ｗ杯３大会に出場し、現在はシンガポール１部ジュロンでプレーするＭＦ本田圭佑が１９日、都内で行われた自身が展開するブランド「ｍｇｈ」の新作発表パーティーに出席。イベント後に報道陣の取材に応じた。"
     },
     {
       "category": "IT",
-      "title": "nginx「緊急」脆弱性、官房長官が「必要な措置」呼び掛け",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003334/",
-      "published": "11/19 15:30",
+      "title": "「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止　予定を前倒し",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003344/",
+      "published": "11/19 18:53",
       "source": "ITmedia",
-      "summary": "nginx脆弱性を受け、木原稔官房長官は利用事業者に対して「必要な措置を取ることをお願いしたい」と呼び掛けた。"
+      "summary": "物語コーポレーションは11月19日、「焼肉きんぐ」「ゆず庵」などグループの公式アプリ計11本で、会員情報から氏名と電話番号の項目をなくしたとITmedia NEWSの取材に回答した。"
     },
     {
       "category": "主要",
-      "title": "六花亭 セキュリティコード流出か",
-      "link": "https://news.yahoo.co.jp/pickup/6603168?source=rss",
-      "published": "11/19 16:20",
+      "title": "丸山隆平 沢尻エリカと意気投合",
+      "link": "https://news.yahoo.co.jp/pickup/6603211?source=rss",
+      "published": "11/19 22:28",
       "source": "Yahoo!ニュース",
-      "summary": "北海道の菓子メーカー・六花亭（帯広市）は11月18日、通販サイト「六花亭オンラインショップ」が第三者による不正アクセスを受けて決済画面のプログラムが改ざんされ、顧客が入力したクレジットカード情報が外"
+      "summary": "丸山隆平と沢尻エリカがW主演を務める映画『薔薇の鎖』(12月11日公開)のジャパンプレミアが11月19日、TOHOシネマズ 日比谷で行われ、丸山と沢尻、佐藤佐吉監督が登壇。丸山と沢尻が初共演の印象を"
+    },
+    {
+      "category": "社会",
+      "title": "政府 配信者の発言全ては確認せず",
+      "link": "https://news.yahoo.co.jp/pickup/6603188?source=rss",
+      "published": "11/19 18:26",
+      "source": "Yahoo!ニュース",
+      "summary": "安全保障の重要性を説明する政府広報に、都市伝説などを扱うユーチューバーを起用したことをめぐり、政府側は国会で、このユーチューバーの過去の発信の内容について、全てを事前チェックはしていないと答弁しまし"
+    },
+    {
+      "category": "経済",
+      "title": "JT 露事業巡り1.3兆円の損失計上",
+      "link": "https://news.yahoo.co.jp/pickup/6603194?source=rss",
+      "published": "11/19 19:35",
+      "source": "Yahoo!ニュース",
+      "summary": "日本たばこ産業（JT）は19日、ロシア子会社の実質的な支配を喪失し、連結対象から除外したことに伴い、2026年12月期の連結決算で約1兆3770億円の損失を計上すると発表した。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "Anthropic IPO公開価格は83ドル",
+      "link": "https://news.yahoo.co.jp/pickup/6603117?source=rss",
+      "published": "11/19 09:34",
+      "source": "Yahoo!ニュース",
+      "summary": "米国の人工知能（AI）大手アンソロピックは18日、ナスダック市場で19日に予定されるIPO（新規株式公開）の公開価格を発表した。1株あたり83ドル（約1万3千円）で売り出す。企業の評価額は1.5兆ド"
+    },
+    {
+      "category": "スポーツ",
+      "title": "FIFA会長選 田嶋氏ら3人が届け出",
+      "link": "https://news.yahoo.co.jp/pickup/6603192?source=rss",
+      "published": "11/19 19:01",
+      "source": "Yahoo!ニュース",
+      "summary": "【ロンドン時事】来年3月に行われる国際サッカー連盟（FIFA）会長選は、18日に立候補が締め切られ、再選を目指すインファンティノ会長（56）の他、欧州連盟（UEFA）の推薦を受けたフランス連盟会長の"
+    },
+    {
+      "category": "IT",
+      "title": "楽天証券、アンソロピックIPOで「抽選対象外」の表示不具合　後から「当選」の報告相次ぐ　「想定より申し込み多く」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003347/",
+      "published": "11/19 18:40",
+      "source": "ITmedia",
+      "summary": "楽天証券で11月19日、米Anthropicの米国株式IPOの抽選結果の発表が遅れ、申込者の画面に一時「抽選対象外」の表示が出た。楽天証券は「想定よりお申込みが多く」処理に時間がかかったと説明しており、SNSでは表示が出た後に当選していたとの報告が相次いだ。"
+    },
+    {
+      "category": "主要",
+      "title": "APECが閉幕 AI活用の推進で一致",
+      "link": "https://news.yahoo.co.jp/pickup/6603210?source=rss",
+      "published": "11/19 22:23",
+      "source": "Yahoo!ニュース",
+      "summary": "中国・深圳で開かれていたアジア太平洋経済協力会議（APEC）首脳会議は19日、首脳宣言を採択して閉幕した。人工知能（AI）を重要な協力分野と位置付け、各産業への導入を進めていくことで一致した。世界貿"
     },
     {
       "category": "社会",
@@ -67,19 +163,115 @@
     },
     {
       "category": "経済",
-      "title": "タマホーム 高松以外も不正請求か",
-      "link": "https://news.yahoo.co.jp/pickup/6603142?source=rss",
-      "published": "11/19 12:05",
+      "title": "くら寿司 ちいかわ寿司皿再配布へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603187?source=rss",
+      "published": "11/19 18:35",
       "source": "Yahoo!ニュース",
-      "summary": "タマホーム社員による保険金の不正請求問題で、高松支店以外にも現時点で5つ以上の拠点で不正の疑いが見つかったことがわかりました。"
+      "summary": "くら寿司は19日、店舗従業員による景品の横領を受け、中止していた人気キャラクター「ちいかわ」とのコラボキャンペーンについて、未配布となっていたオリジナルすし皿を27日から再配布すると発表した。当初の"
     },
     {
       "category": "AI・テクノロジー",
-      "title": "Anthropic IPO公開価格は83ドル",
-      "link": "https://news.yahoo.co.jp/pickup/6603117?source=rss",
-      "published": "11/19 09:34",
+      "title": "サーバーソフト「nginx」に脆弱性",
+      "link": "https://news.yahoo.co.jp/pickup/6603112?source=rss",
+      "published": "11/19 09:01",
       "source": "Yahoo!ニュース",
-      "summary": "米国の人工知能（AI）大手アンソロピックは18日、ナスダック市場で19日に予定されるIPO（新規株式公開）の公開価格を発表した。1株あたり83ドル（約1万3千円）で売り出す。企業の評価額は1.5兆ド"
+      "summary": "ウェブサイトの設置、運用の際に使う重要なサーバーソフトウエア「エンジンエックス（nginx）」に深刻な脆弱性が見つかったことが19日分かった。開発元がホームページで明らかにし、修正プログラムを配布し"
+    },
+    {
+      "category": "スポーツ",
+      "title": "HIKESHI賞のG船迫 消火器を持参",
+      "link": "https://news.yahoo.co.jp/pickup/6603172?source=rss",
+      "published": "11/19 16:38",
+      "source": "Yahoo!ニュース",
+      "summary": "チームの危機を最も救った救援投手を表彰する「損保ジャパン ＨＩＫＥＳＨＩ賞」の表彰式が１９日、都内の損保ジャパン新宿本社ビルで行われ、セ・リーグ部門で受賞した巨人・船迫大雅投手（３０）が出席した。"
+    },
+    {
+      "category": "IT",
+      "title": "脆弱性で話題「nginx」なんて読む？　「ンギンクス」ではなく……",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003338/",
+      "published": "11/19 18:18",
+      "source": "ITmedia",
+      "summary": "素直に読むと「ンギンクス」だし、「エヌジーアイエヌエックス」「エヌジンクス」などと発音する人もいるようだが……。"
+    },
+    {
+      "category": "主要",
+      "title": "橋本環奈 おばを訪ね初の一人海外",
+      "link": "https://news.yahoo.co.jp/pickup/6603209?source=rss",
+      "published": "11/19 22:05",
+      "source": "Yahoo!ニュース",
+      "summary": "俳優の橋本環奈さんが、美容誌「美的」（小学館）の読者が“今年最も輝いている人”を選ぶ「美的ベストビューティウーマン」に選ばれ、11月19日に東京都内で行われた「2026美的ベストビューティウーマン＆"
+    },
+    {
+      "category": "社会",
+      "title": "21日頃にかけ 山地中心に積雪か",
+      "link": "https://news.yahoo.co.jp/pickup/6603162?source=rss",
+      "published": "11/19 15:19",
+      "source": "Yahoo!ニュース",
+      "summary": "19日(木)から21日(土)ごろにかけて、冬型の気圧配置が強まり、上空に強い寒気が流れ込みます。北日本日本海側を中心に雪が降り、風も強まって冬の嵐となるでしょう。また、東日本や西日本でも山地を中心に"
+    },
+    {
+      "category": "経済",
+      "title": "分厚い塊肉 ポークステーキ店拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6603181?source=rss",
+      "published": "11/19 18:01",
+      "source": "Yahoo!ニュース",
+      "summary": "マンガに出てきそうな、分厚い肉の塊。そんな豪快なポークステーキを看板商品に、店舗を急速に増やしているチェーンがある。それが「マロリーポークステーキ」だ。2020年に東京で開業し、2026年11月には3"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "顧客情報漏えいか 楽天証券が説明",
+      "link": "https://news.yahoo.co.jp/pickup/6603062?source=rss",
+      "published": "11/18 18:38",
+      "source": "Yahoo!ニュース",
+      "summary": "楽天証券が11月17日に公表した不正アクセスの問題を巡り、同社がテスト環境に本番の顧客データを保存していたことが問題視されている。ITmedia NEWSの取材に対し、同社は「社内システムのアップグ"
+    },
+    {
+      "category": "スポーツ",
+      "title": "年数はルーキー 東浜巨が入団会見",
+      "link": "https://news.yahoo.co.jp/pickup/6603163?source=rss",
+      "published": "11/19 15:35",
+      "source": "Yahoo!ニュース",
+      "summary": "ソフトバンクから無償トレードで広島に加入した東浜巨投手が１９日、マツダ内で入団会見を行った。背番号は「１２」。３６歳となったベテランは「（投手で）年齢は一番上だが、年数で言えばルーキー。（後輩たちに"
+    },
+    {
+      "category": "IT",
+      "title": "nginx「緊急」脆弱性、官房長官が「必要な措置」呼び掛け",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003334/",
+      "published": "11/19 15:30",
+      "source": "ITmedia",
+      "summary": "nginx脆弱性を受け、木原稔官房長官は利用事業者に対して「必要な措置を取ることをお願いしたい」と呼び掛けた。"
+    },
+    {
+      "category": "主要",
+      "title": "高市首相を「冷遇」? 中国が反論",
+      "link": "https://news.yahoo.co.jp/pickup/6603208?source=rss",
+      "published": "11/19 22:03",
+      "source": "Yahoo!ニュース",
+      "summary": "高市総理が中国に到着した際、｢冷遇｣されたとの指摘があることについて、中国外務省は｢すべての参加国に適切な儀礼上の手配を行っている｣と反論しました。"
+    },
+    {
+      "category": "社会",
+      "title": "戦車事故 陸自が原因を特定し公表",
+      "link": "https://news.yahoo.co.jp/pickup/6603159?source=rss",
+      "published": "11/19 14:58",
+      "source": "Yahoo!ニュース",
+      "summary": "陸上自衛隊日出生台（ひじゅうだい）演習場（大分県）で4月、戦車射撃訓練中に「10式戦車」の砲弾が破裂して隊員4人が死傷した事故で、陸自は19日、事故原因に関する調査結果を公表した。弾を撃ち出す円筒状"
+    },
+    {
+      "category": "経済",
+      "title": "スバル 米国製SUVを「逆輸入」",
+      "link": "https://news.yahoo.co.jp/pickup/6603150?source=rss",
+      "published": "11/19 13:05",
+      "source": "Yahoo!ニュース",
+      "summary": "9年ぶりスバルの「7人乗り」復活！ スバルは2026年11月19日、北米市場で展開する大型SUV「アセント」を日本に150台限定で導入すると発表しました。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "ネット繋がらない新機種 開発経緯",
+      "link": "https://news.yahoo.co.jp/pickup/6603060?source=rss",
+      "published": "11/18 18:30",
+      "source": "Yahoo!ニュース",
+      "summary": "KDDIと沖縄セルラーは18日、au Design projectの新機種として、インターネットに接続せず通話とSMSに特化したSIMフリー端末「INFOBAR ZERO」を発表した。価格は3万27"
     },
     {
       "category": "スポーツ",
@@ -99,35 +291,27 @@
     },
     {
       "category": "主要",
-      "title": "米露首脳が対面会談 ウ巡り協議",
-      "link": "https://news.yahoo.co.jp/pickup/6603170?source=rss",
-      "published": "11/19 16:19",
+      "title": "楽天証券に報告徴求命令 金融庁",
+      "link": "https://news.yahoo.co.jp/pickup/6603203?source=rss",
+      "published": "11/19 21:06",
       "source": "Yahoo!ニュース",
-      "summary": "【深セン共同】トランプ米大統領とロシアのプーチン大統領は19日、アジア太平洋経済協力会議（APEC）首脳会議が開かれた中国・深センで会談した。ロシアのウシャコフ大統領補佐官によると、両首脳はウクライ"
+      "summary": "楽天証券で顧客の年収や金融資産など最大で447万口座分の情報が漏えいした問題で、金融庁が楽天証券に対し、金融商品取引法に基づく報告徴求命令を出したことが関係者への取材で分かりました。"
     },
     {
       "category": "社会",
-      "title": "21日頃にかけ 山地中心に積雪か",
-      "link": "https://news.yahoo.co.jp/pickup/6603162?source=rss",
-      "published": "11/19 15:19",
+      "title": "小便器「丸見え」女性記者が驚き",
+      "link": "https://news.yahoo.co.jp/pickup/6603145?source=rss",
+      "published": "11/19 12:10",
       "source": "Yahoo!ニュース",
-      "summary": "19日(木)から21日(土)ごろにかけて、冬型の気圧配置が強まり、上空に強い寒気が流れ込みます。北日本日本海側を中心に雪が降り、風も強まって冬の嵐となるでしょう。また、東日本や西日本でも山地を中心に"
-    },
-    {
-      "category": "経済",
-      "title": "賃上げより手取り増 食事補助注目",
-      "link": "https://news.yahoo.co.jp/pickup/6603124?source=rss",
-      "published": "11/19 10:41",
-      "source": "Yahoo!ニュース",
-      "summary": "物価高騰が家計を直撃し、働く人々にとってランチ代のやりくりは切実な悩みだ。東京都心では外食で1000円超えが常態化した。そんな中、企業の福利厚生として食事補助サービスが注目を集めている。"
+      "summary": "「男性だって見られたくないですよ！」――。トイレの便器数の男女格差についての会議で、男性記者がそう言いました。え、男性の小便器って、そんなに「見えている」の？ 女性の筆者にとって、男性トイレは未知の"
     },
     {
       "category": "AI・テクノロジー",
-      "title": "サーバーソフト「nginx」に脆弱性",
-      "link": "https://news.yahoo.co.jp/pickup/6603112?source=rss",
-      "published": "11/19 09:01",
+      "title": "DHC 顧客氏名など1911万件漏えい",
+      "link": "https://news.yahoo.co.jp/pickup/6603058?source=rss",
+      "published": "11/18 17:51",
       "source": "Yahoo!ニュース",
-      "summary": "ウェブサイトの設置、運用の際に使う重要なサーバーソフトウエア「エンジンエックス（nginx）」に深刻な脆弱性が見つかったことが19日分かった。開発元がホームページで明らかにし、修正プログラムを配布し"
+      "summary": "化粧品大手ディーエイチシー（ＤＨＣ）は１８日、オンラインショップに登録する顧客の氏名やメールアドレス、生年月日など約１９１１万件が漏えいしたと発表した。マーケティング支援を手がけるプレイド（東京）の"
     },
     {
       "category": "スポーツ",
@@ -147,35 +331,19 @@
     },
     {
       "category": "主要",
-      "title": "JT 露の子会社7社を連結から除外",
-      "link": "https://news.yahoo.co.jp/pickup/6603167?source=rss",
-      "published": "11/19 16:03",
+      "title": "ちいかわ寿司皿 抽選配布の問題点",
+      "link": "https://news.yahoo.co.jp/pickup/6603182?source=rss",
+      "published": "11/19 20:23",
       "source": "Yahoo!ニュース",
-      "summary": "[東京 １９日 ロイター] - 日本た‌ばこ産業（ＪＴ）は１９日、⁠ロシアの現地連​結子会社７社を連結範囲か‌ら除外すると発表‌した。ロ‌シア大統​領令により一‌時管理の対象‌となった​ことで、実質‌的な経営⁠権"
+      "summary": "くら寿司は11月19日、従業員による不正行為を受けて9月に配布を中止していた「ちいかわ」のオリジナル寿司皿を、各店舗の公式LINEを通じた抽選で配布すると発表しました。 炎上によりちいかわコラボが中"
     },
     {
       "category": "社会",
-      "title": "小便器「丸見え」女性記者が驚き",
-      "link": "https://news.yahoo.co.jp/pickup/6603145?source=rss",
-      "published": "11/19 12:10",
+      "title": "首相 プーチン大統領と30分対話",
+      "link": "https://news.yahoo.co.jp/pickup/6603096?source=rss",
+      "published": "11/19 06:13",
       "source": "Yahoo!ニュース",
-      "summary": "「男性だって見られたくないですよ！」――。トイレの便器数の男女格差についての会議で、男性記者がそう言いました。え、男性の小便器って、そんなに「見えている」の？ 女性の筆者にとって、男性トイレは未知の"
-    },
-    {
-      "category": "経済",
-      "title": "NHK飲み会通達 記者が不満漏らす",
-      "link": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
-      "published": "11/19 00:00",
-      "source": "Yahoo!ニュース",
-      "summary": "NHKが11月17日、全職員に対して飲酒を伴う会食を原則午後10時ごろまでとする通達を出した。JALやANAなど大手航空会社でも飲酒に厳しい規定が設けられるなか、公共放送が踏み切った異例の“酒席改革"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "顧客情報漏えいか 楽天証券が説明",
-      "link": "https://news.yahoo.co.jp/pickup/6603062?source=rss",
-      "published": "11/18 18:38",
-      "source": "Yahoo!ニュース",
-      "summary": "楽天証券が11月17日に公表した不正アクセスの問題を巡り、同社がテスト環境に本番の顧客データを保存していたことが問題視されている。ITmedia NEWSの取材に対し、同社は「社内システムのアップグ"
+      "summary": "【深セン＝岡田遼介】高市首相は１８日夜、ＡＰＥＣ首脳会議の歓迎夕食会に合わせ、ロシアのプーチン大統領と約３０分間、意見交換した。日本政府が明らかにした。日露首脳が対話するのは、２０２２年２月のロシア"
     },
     {
       "category": "スポーツ",
@@ -194,92 +362,12 @@
       "summary": "日本のものづくりを支える職人の高齢化が進む中、経験や勘に頼ってきた技術を人工知能（AI）で「見える化」し、次世代に伝える取り組みが広がりつつある。"
     },
     {
-      "category": "主要",
-      "title": "年数はルーキー 東浜巨が入団会見",
-      "link": "https://news.yahoo.co.jp/pickup/6603163?source=rss",
-      "published": "11/19 15:35",
-      "source": "Yahoo!ニュース",
-      "summary": "ソフトバンクから無償トレードで広島に加入した東浜巨投手が１９日、マツダ内で入団会見を行った。背番号は「１２」。３６歳となったベテランは「（投手で）年齢は一番上だが、年数で言えばルーキー。（後輩たちに"
-    },
-    {
-      "category": "社会",
-      "title": "日露首脳対話 関係改善の道険しく",
-      "link": "https://news.yahoo.co.jp/pickup/6603135?source=rss",
-      "published": "11/19 11:34",
-      "source": "Yahoo!ニュース",
-      "summary": "【深セン（中国広東省）＝岡田遼介】日本政府は、高市首相とプーチン露大統領の直接対話を通じ、対露外交の行き詰まりを打破したい考えだ。両国の懸案について双方ともに譲歩は難しく、関係改善の道のりは険しい。"
-    },
-    {
-      "category": "経済",
-      "title": "SA・PAのゴミ箱 280カ所で廃止へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603078?source=rss",
-      "published": "11/18 21:17",
-      "source": "Yahoo!ニュース",
-      "summary": "計280か所で運用を廃止へ NEXCO東日本、NEXCO中日本、NEXCO西日本、本四高速の4社は2026年11月18日、管内路線の休憩施設のうち、レストランや売店といった営業施設のないエリアでゴミ"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "ネット繋がらない新機種 開発経緯",
-      "link": "https://news.yahoo.co.jp/pickup/6603060?source=rss",
-      "published": "11/18 18:30",
-      "source": "Yahoo!ニュース",
-      "summary": "KDDIと沖縄セルラーは18日、au Design projectの新機種として、インターネットに接続せず通話とSMSに特化したSIMフリー端末「INFOBAR ZERO」を発表した。価格は3万27"
-    },
-    {
-      "category": "スポーツ",
-      "title": "国枝慎吾さん 国際テニス殿堂入り",
-      "link": "https://news.yahoo.co.jp/pickup/6603125?source=rss",
-      "published": "11/19 10:49",
-      "source": "Yahoo!ニュース",
-      "summary": "テニスで世界的に偉大な功績を残した選手らをたたえる国際テニス殿堂は18日、パラリンピック金メダルと4大大会全制覇を合わせた「生涯ゴールデンスラム」を成し遂げた車いすテニスの国枝慎吾さん（42）を20"
-    },
-    {
       "category": "IT",
       "title": "ちまたの“格安GPT”、中身は偽物？　非公式APIのモデル偽装を調査した結果……",
       "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
       "published": "11/19 12:00",
       "source": "ITmedia",
       "summary": "ドイツのCISPAとカナダのウォータールー大学に所属する研究者らが発表した論文「Real Money, Fake Models: Deceptive Model Claims in Shadow APIs」は、LLM（大規模言語モデル）の公式APIを安価に仲介する非公式サービス「シャドーAPI」の実態を調査した研究報告だ。"
-    },
-    {
-      "category": "主要",
-      "title": "文科相進退 鍵を握る国民民主党",
-      "link": "https://news.yahoo.co.jp/pickup/6603165?source=rss",
-      "published": "11/19 15:32",
-      "source": "Yahoo!ニュース",
-      "summary": "関芳弘文部科学相は18日の参院特別委員会で、2024年3月にも経済産業省の課長を講師に招き、会費1人9万円の政治資金パーティーを開いていたことを明らかにした。 同年6月に議員会館で厚生労働省の幹部を"
-    },
-    {
-      "category": "社会",
-      "title": "首相 プーチン大統領と30分対話",
-      "link": "https://news.yahoo.co.jp/pickup/6603096?source=rss",
-      "published": "11/19 06:13",
-      "source": "Yahoo!ニュース",
-      "summary": "【深セン＝岡田遼介】高市首相は１８日夜、ＡＰＥＣ首脳会議の歓迎夕食会に合わせ、ロシアのプーチン大統領と約３０分間、意見交換した。日本政府が明らかにした。日露首脳が対話するのは、２０２２年２月のロシア"
-    },
-    {
-      "category": "経済",
-      "title": "Suica「紫のうさぎ」得票率51.7%",
-      "link": "https://news.yahoo.co.jp/pickup/6603054?source=rss",
-      "published": "11/18 17:26",
-      "source": "Yahoo!ニュース",
-      "summary": "JR東日本は11月18日、Suicaの新たなイメージキャラクターのデザインを「B案」（紫のうさぎ）に決定した。9月の一般投票では総数166万4399票のうち、86万152票（51.7％）を獲得。キャ"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "DHC 顧客氏名など1911万件漏えい",
-      "link": "https://news.yahoo.co.jp/pickup/6603058?source=rss",
-      "published": "11/18 17:51",
-      "source": "Yahoo!ニュース",
-      "summary": "化粧品大手ディーエイチシー（ＤＨＣ）は１８日、オンラインショップに登録する顧客の氏名やメールアドレス、生年月日など約１９１１万件が漏えいしたと発表した。マーケティング支援を手がけるプレイド（東京）の"
-    },
-    {
-      "category": "スポーツ",
-      "title": "FA新制度 ドラフト指名巡る特例",
-      "link": "https://news.yahoo.co.jp/pickup/6603111?source=rss",
-      "published": "11/19 08:59",
-      "source": "Yahoo!ニュース",
-      "summary": "プロ野球でフリーエージェント（FA）権を行使した選手の国内移籍に伴う「人的補償制度」が2027年シーズンオフから撤廃される中、未発表となっていた同一球団がAもしくはBランクのFA宣言選手を2人獲得し"
     },
     {
       "category": "IT",
@@ -290,52 +378,12 @@
       "summary": "第三者による不正アクセスを受け、最大約1125万口座分のIDや、約447万口座分の口座情報などが漏えいした可能性があると発表した楽天証券。テスト環境のシステム内で管理していた情報の一部が外部に漏えいした可能性があるという。ただ、識者はテスト環境で顧客情報を管理する状況を「一般的でない」と指摘する。"
     },
     {
-      "category": "主要",
-      "title": "戦車事故 陸自が原因を特定し公表",
-      "link": "https://news.yahoo.co.jp/pickup/6603159?source=rss",
-      "published": "11/19 14:58",
-      "source": "Yahoo!ニュース",
-      "summary": "陸上自衛隊日出生台（ひじゅうだい）演習場（大分県）で4月、戦車射撃訓練中に「10式戦車」の砲弾が破裂して隊員4人が死傷した事故で、陸自は19日、事故原因に関する調査結果を公表した。弾を撃ち出す円筒状"
-    },
-    {
-      "category": "経済",
-      "title": "Suica新キャラ A案とC案も活用へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603046?source=rss",
-      "published": "11/18 16:32",
-      "source": "Yahoo!ニュース",
-      "summary": "■「Suica」新キャラクターお披露目会 JR東日本は18日、都内で「Suicaのペンギン」卒業に伴う新キャラクターのお披露目会を開催。新たなイメージキャラクターの原案候補3案の中から新キャラクター"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "楽天証券 情報漏えいの確認方法",
-      "link": "https://news.yahoo.co.jp/pickup/6603030?source=rss",
-      "published": "11/18 14:06",
-      "source": "Yahoo!ニュース",
-      "summary": "楽天証券が11月17日に発表した、顧客の口座情報が漏えいした可能性について、「ログイン後の『重要なお知らせ』を見て初めて、自分が対象になったことを知った」という内容の投稿が、SNSで相次いでいる。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "マリナーズ 3対3の電撃トレード",
-      "link": "https://news.yahoo.co.jp/pickup/6603103?source=rss",
-      "published": "11/19 07:35",
-      "source": "Yahoo!ニュース",
-      "summary": "米大リーグ、マリナーズは18日、ロイヤルズと3対3のトレードで合意したと発表した。マリナーズは26歳のマイケル・ガルシア内野手、救援右腕ジェームズ・マッカーサー、マイナー投手を獲得。ロイヤルズにはブ"
-    },
-    {
       "category": "IT",
       "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？　428件を調べてわかった乗っ取り手口　暗号資産を盗む例も",
       "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
       "published": "11/19 12:00",
       "source": "ITmedia",
       "summary": "米カリフォルニア大学サンタバーバラ校（UCSB）などに所属する研究者らが発表した論文「Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain」は、AIエージェントと外部のAIモデルを仲介する「APIルーター」に潜む危険性を調査した研究報告だ。"
-    },
-    {
-      "category": "主要",
-      "title": "クマに追いかけられた 高校生通報",
-      "link": "https://news.yahoo.co.jp/pickup/6603160?source=rss",
-      "published": "11/19 14:48",
-      "source": "Yahoo!ニュース",
-      "summary": "19日朝、群馬県前橋市の住宅街で通学中の高校生がクマに追いかけられたと通報があり、警察などは17日に捕獲された子グマの親の可能性があるとみて警戒を続けています。"
     },
     {
       "category": "IT",
@@ -408,38 +456,6 @@
       "published": "11/18 20:16",
       "source": "ITmedia",
       "summary": "楽天証券の顧客情報漏えい問題で、同社が本番の顧客データをマスキングせずにテスト環境へ保存していたことが分かった。最大約1572万口座分が漏えいした可能性がある。"
-    },
-    {
-      "category": "IT",
-      "title": "日本で最も使われているパスワードは「pass1111」　NordPass調査",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003304/",
-      "published": "11/18 17:42",
-      "source": "ITmedia",
-      "summary": "パスワード管理ツールのNordPassは、よく使われているパスワードのランキング2026年版を公開した。日本の1位は「pass1111」で、世界1位の「123456」は日本では4位だった。"
-    },
-    {
-      "category": "IT",
-      "title": "NewsPicks漏えい、Metabase脆弱性が原因　パッチ適用前日にデータ窃取、JPCERT/CC公表「不審IPアドレス」で攻撃発覚",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003300/",
-      "published": "11/18 16:59",
-      "source": "ITmedia",
-      "summary": "Metabaseが脆弱性を公表した6日後（3営業日後）の8月12日に修正版に更新した。だが攻撃者はその前に侵入しており、情報を窃取していたという。"
-    },
-    {
-      "category": "IT",
-      "title": "ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？　「スマホが電話の再発明なら、これは再再発明」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
-      "published": "11/18 16:01",
-      "source": "ITmedia",
-      "summary": "KDDIは11月18日、インターネットにつながらない携帯電話「INFOBAR ZERO」を12月25日に発売すると発表した。LINEが連絡手段の中心になった日本で、誰が使うのか。発表会の質疑応答では、大きな市場を最初から狙う製品ではないなどの説明があった。"
-    },
-    {
-      "category": "IT",
-      "title": "AI脅威対処へ新枠組み　重要鉱物やエネルギーで連携　首相、ASEANとの首脳会議出席",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
-      "published": "11/18 15:10",
-      "source": "ITmedia",
-      "summary": "高市早苗首相は11月17日、訪問先のフィリピンで開かれた日本と東南アジア諸国連合（ASEAN）の首脳会議に出席した。高性能人工知能（AI）を巡る脅威に対処するため、各国と連携する新たな枠組みの創設を確認した。"
     }
   ],
   "errors": [
