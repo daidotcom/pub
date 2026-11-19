@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-18T18:10:42.998396+00:00",
+  "updated": "2026-11-19T00:26:57.280642+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "熊本県で震度5弱 津波の心配なし",
-      "link": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
-      "published": "11/19 02:27",
+      "title": "サーバーソフト「nginx」に脆弱性",
+      "link": "https://news.yahoo.co.jp/pickup/6603112?source=rss",
+      "published": "11/19 09:01",
       "source": "Yahoo!ニュース",
-      "summary": "19日午前2時22分ごろ、熊本県で最大震度5弱を観測する強い地震がありました。"
+      "summary": "ウェブサイトの設置、運用の際に使う重要なサーバーソフトウエア「エンジンエックス（nginx）」に深刻な脆弱性が見つかったことが19日分かった。開発元がホームページで明らかにし、修正プログラムを配布し"
     },
     {
       "category": "社会",
-      "title": "EVなどに新税 28年5月導入で調整",
-      "link": "https://news.yahoo.co.jp/pickup/6603065?source=rss",
-      "published": "11/18 18:40",
+      "title": "防衛費財務省案 自民内で異論噴出",
+      "link": "https://news.yahoo.co.jp/pickup/6603099?source=rss",
+      "published": "11/19 07:21",
       "source": "Yahoo!ニュース",
-      "summary": "政府、与党が2027年度税制改正で、電気自動車（EV）やプラグインハイブリッド車（PHV）などを対象とする新たな税金を28年5月に導入する方向で調整していることが18日、分かった。車業界は開始時期の"
+      "summary": "安全保障関連の3文書改定をめぐり、来年度から5年間の防衛費について財務省が50兆円台前半とする案を提示したことが分かりました。この案に自民党内からは“異論”が相次いでいます。"
     },
     {
       "category": "経済",
-      "title": "SA・PAのゴミ箱 280カ所で廃止へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603078?source=rss",
-      "published": "11/18 21:17",
+      "title": "ボージョレ 今年は「ふくよか」",
+      "link": "https://news.yahoo.co.jp/pickup/6603114?source=rss",
+      "published": "11/19 09:14",
       "source": "Yahoo!ニュース",
-      "summary": "計280か所で運用を廃止へ NEXCO東日本、NEXCO中日本、NEXCO西日本、本四高速の4社は2026年11月18日、管内路線の休憩施設のうち、レストランや売店といった営業施設のないエリアでゴミ"
+      "summary": "フランス産の新酒ワイン「ボージョレ・ヌーボー」の販売が１９日午前０時、解禁された。東京都内では解禁にあわせたイベントが開かれ、ワイン愛好家らが今年の味を楽しんだ。"
     },
     {
       "category": "AI・テクノロジー",
@@ -35,11 +35,107 @@
     },
     {
       "category": "スポーツ",
-      "title": "阪神・湯浅京己 来季育成で再出発",
-      "link": "https://news.yahoo.co.jp/pickup/6603077?source=rss",
-      "published": "11/18 21:15",
+      "title": "マリナーズ 3対3の電撃トレード",
+      "link": "https://news.yahoo.co.jp/pickup/6603103?source=rss",
+      "published": "11/19 07:35",
       "source": "Yahoo!ニュース",
-      "summary": "阪神湯浅京己投手（27）が18日、兵庫・西宮市内の球団事務所で契約更改交渉に臨み、1200万円ダウンの年俸4800万円でサインした。10月に「内視鏡下胸椎（きょうつい）黄色靱帯（じんたい）骨化切除術"
+      "summary": "米大リーグ、マリナーズは18日、ロイヤルズと3対3のトレードで合意したと発表した。マリナーズは26歳のマイケル・ガルシア内野手、救援右腕ジェームズ・マッカーサー、マイナー投手を獲得。ロイヤルズにはブ"
+    },
+    {
+      "category": "IT",
+      "title": "AIで仕事は速くなったのに、チームの成果につながらないのはなぜ？　9500人調査が示した「落とし穴」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003314/",
+      "published": "11/19 08:00",
+      "source": "ITmedia",
+      "summary": "生成AIを業務で使う企業は半数を超えた。個人の仕事は確かに速くなった。だが、そのスピードがチームや組織の成果に結びついているかというと、話は別だ。9500人超を対象にした海外調査からは、各自のチャット履歴に思考の過程が閉じ込められ、レビューの現場で時間を食いつぶしている姿が浮かび上がる。"
+    },
+    {
+      "category": "主要",
+      "title": "FA新制度 ドラフト指名巡る特例",
+      "link": "https://news.yahoo.co.jp/pickup/6603111?source=rss",
+      "published": "11/19 08:59",
+      "source": "Yahoo!ニュース",
+      "summary": "プロ野球でフリーエージェント（FA）権を行使した選手の国内移籍に伴う「人的補償制度」が2027年シーズンオフから撤廃される中、未発表となっていた同一球団がAもしくはBランクのFA宣言選手を2人獲得し"
+    },
+    {
+      "category": "社会",
+      "title": "首相 プーチン大統領と30分対話",
+      "link": "https://news.yahoo.co.jp/pickup/6603096?source=rss",
+      "published": "11/19 06:13",
+      "source": "Yahoo!ニュース",
+      "summary": "【深セン＝岡田遼介】高市首相は１８日夜、ＡＰＥＣ首脳会議の歓迎夕食会に合わせ、ロシアのプーチン大統領と約３０分間、意見交換した。日本政府が明らかにした。日露首脳が対話するのは、２０２２年２月のロシア"
+    },
+    {
+      "category": "経済",
+      "title": "NHK飲み会通達 記者が不満漏らす",
+      "link": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
+      "published": "11/19 00:00",
+      "source": "Yahoo!ニュース",
+      "summary": "NHKが11月17日、全職員に対して飲酒を伴う会食を原則午後10時ごろまでとする通達を出した。JALやANAなど大手航空会社でも飲酒に厳しい規定が設けられるなか、公共放送が踏み切った異例の“酒席改革"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "ネット繋がらない新機種 開発経緯",
+      "link": "https://news.yahoo.co.jp/pickup/6603060?source=rss",
+      "published": "11/18 18:30",
+      "source": "Yahoo!ニュース",
+      "summary": "KDDIと沖縄セルラーは18日、au Design projectの新機種として、インターネットに接続せず通話とSMSに特化したSIMフリー端末「INFOBAR ZERO」を発表した。価格は3万27"
+    },
+    {
+      "category": "スポーツ",
+      "title": "巨人 前ソフトB牧原巧汰ら獲得へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603097?source=rss",
+      "published": "11/19 06:30",
+      "source": "Yahoo!ニュース",
+      "summary": "巨人が前ソフトバンク育成選手の牧原巧汰捕手（２４）と、前ロッテ育成選手の勝又琉偉内野手（２２）の獲得に向けた最終段階に入っていることが１８日、分かった。ともに育成選手契約を検討している。松井監督就任"
+    },
+    {
+      "category": "IT",
+      "title": "Google、「Gemini 4 Neon」発表　「Carbon」と「Hydrogen」の中間を担うモデル、「Pro」プランでも利用可能",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003315/",
+      "published": "11/19 07:58",
+      "source": "ITmedia",
+      "summary": "Googleは、推論の深さと効率のバランスを重視した新AIモデル「Gemini 4 Neon」を発表し、同日より順次提供を開始した。上位の「Carbon」と軽量な「Hydrogen」の中間に位置付けられ、複雑なコーディングや企業業務に適する。APIやGoogle AI Pro／UltraプランのGeminiアプリから利用可能だ。"
+    },
+    {
+      "category": "主要",
+      "title": "21日にかけ風強まる 暴風など警戒",
+      "link": "https://news.yahoo.co.jp/pickup/6603109?source=rss",
+      "published": "11/19 08:35",
+      "source": "Yahoo!ニュース",
+      "summary": "21日(土)にかけて冬型の気圧配置が続き、全国的に風が強まるでしょう。日本海側では雪の範囲が広がり、北海道では猛吹雪になる所もありそうです。山陰など西日本では、今シーズンはじめての積雪となる所があり"
+    },
+    {
+      "category": "社会",
+      "title": "支援金 対象年収下限「56万円」案",
+      "link": "https://news.yahoo.co.jp/pickup/6603076?source=rss",
+      "published": "11/18 21:11",
+      "source": "Yahoo!ニュース",
+      "summary": "政府が来春の消費減税とセットで導入する方針の「就業者負担軽減支援金」（所得連動給付）について、政府・与党が支援金の対象者の年収下限を「56万円程度」とする案を検討していることが分かった。公明党が強く"
+    },
+    {
+      "category": "経済",
+      "title": "SA・PAのゴミ箱 280カ所で廃止へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603078?source=rss",
+      "published": "11/18 21:17",
+      "source": "Yahoo!ニュース",
+      "summary": "計280か所で運用を廃止へ NEXCO東日本、NEXCO中日本、NEXCO西日本、本四高速の4社は2026年11月18日、管内路線の休憩施設のうち、レストランや売店といった営業施設のないエリアでゴミ"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "DHC 顧客氏名など1911万件漏えい",
+      "link": "https://news.yahoo.co.jp/pickup/6603058?source=rss",
+      "published": "11/18 17:51",
+      "source": "Yahoo!ニュース",
+      "summary": "化粧品大手ディーエイチシー（ＤＨＣ）は１８日、オンラインショップに登録する顧客の氏名やメールアドレス、生年月日など約１９１１万件が漏えいしたと発表した。マーケティング支援を手がけるプレイド（東京）の"
+    },
+    {
+      "category": "スポーツ",
+      "title": "森保監督 海外から「打診」明かす",
+      "link": "https://news.yahoo.co.jp/pickup/6603091?source=rss",
+      "published": "11/18 23:08",
+      "source": "Yahoo!ニュース",
+      "summary": "サッカー日本代表の森保一監督が18日、退任前最後の活動となったシンガポール遠征を終えて羽田空港に帰国した。帰国後に取材に応じ「この8年間を振り返って、まずはあっという間に時間が過ぎたなと、そして幸せ"
     },
     {
       "category": "IT",
@@ -51,19 +147,19 @@
     },
     {
       "category": "主要",
-      "title": "NHK飲み会通達 記者が不満漏らす",
-      "link": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
-      "published": "11/19 00:00",
+      "title": "太田裕美さん死去 イルカが悼む",
+      "link": "https://news.yahoo.co.jp/pickup/6603106?source=rss",
+      "published": "11/19 08:05",
       "source": "Yahoo!ニュース",
-      "summary": "NHKが11月17日、全職員に対して飲酒を伴う会食を原則午後10時ごろまでとする通達を出した。JALやANAなど大手航空会社でも飲酒に厳しい規定が設けられるなか、公共放送が踏み切った異例の“酒席改革"
+      "summary": "シンガー・ソングライターのイルカ（75）が19日未明、Xを更新。「木綿のハンカチーフ」などで知られる歌手の太田裕美（おおた・ひろみ、本名福岡弘美＝ふくおか・ひろみ）さんが今月12日、乳がんのため71"
     },
     {
       "category": "社会",
-      "title": "関文科相 24年3月にもパーティー",
-      "link": "https://news.yahoo.co.jp/pickup/6603037?source=rss",
-      "published": "11/18 15:40",
+      "title": "EVなどに新税 28年5月導入で調整",
+      "link": "https://news.yahoo.co.jp/pickup/6603065?source=rss",
+      "published": "11/18 18:40",
       "source": "Yahoo!ニュース",
-      "summary": "関芳弘文部科学相は18日、2024年3月に経済産業省の課長を講師として招き、会費1人9万円の政治資金パーティーを開いたことを明らかにした。"
+      "summary": "政府、与党が2027年度税制改正で、電気自動車（EV）やプラグインハイブリッド車（PHV）などを対象とする新たな税金を28年5月に導入する方向で調整していることが18日、分かった。車業界は開始時期の"
     },
     {
       "category": "経済",
@@ -75,11 +171,11 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "ネット繋がらない新機種 開発経緯",
-      "link": "https://news.yahoo.co.jp/pickup/6603060?source=rss",
-      "published": "11/18 18:30",
+      "title": "楽天証券 情報漏えいの確認方法",
+      "link": "https://news.yahoo.co.jp/pickup/6603030?source=rss",
+      "published": "11/18 14:06",
       "source": "Yahoo!ニュース",
-      "summary": "KDDIと沖縄セルラーは18日、au Design projectの新機種として、インターネットに接続せず通話とSMSに特化したSIMフリー端末「INFOBAR ZERO」を発表した。価格は3万27"
+      "summary": "楽天証券が11月17日に発表した、顧客の口座情報が漏えいした可能性について、「ログイン後の『重要なお知らせ』を見て初めて、自分が対象になったことを知った」という内容の投稿が、SNSで相次いでいる。"
     },
     {
       "category": "スポーツ",
@@ -99,59 +195,11 @@
     },
     {
       "category": "主要",
-      "title": "森保監督 海外から「打診」明かす",
-      "link": "https://news.yahoo.co.jp/pickup/6603091?source=rss",
-      "published": "11/18 23:08",
+      "title": "秋田のアシカ・リオン 移動中死ぬ",
+      "link": "https://news.yahoo.co.jp/pickup/6603105?source=rss",
+      "published": "11/19 07:59",
       "source": "Yahoo!ニュース",
-      "summary": "サッカー日本代表の森保一監督が18日、退任前最後の活動となったシンガポール遠征を終えて羽田空港に帰国した。帰国後に取材に応じ「この8年間を振り返って、まずはあっという間に時間が過ぎたなと、そして幸せ"
-    },
-    {
-      "category": "社会",
-      "title": "受刑者の選挙権制限は合憲 最高裁",
-      "link": "https://news.yahoo.co.jp/pickup/6603035?source=rss",
-      "published": "11/18 15:17",
-      "source": "Yahoo!ニュース",
-      "summary": "受刑者の投票を制限した公職選挙法の規定が「選挙の保障」を定めた憲法に反するかが争われた訴訟の上告審判決で、最高裁大法廷（裁判長・今崎幸彦長官）は18日、「合憲」とする初の統一判断を示した。これまでは"
-    },
-    {
-      "category": "経済",
-      "title": "日本車の部品 一部共通化する方針",
-      "link": "https://news.yahoo.co.jp/pickup/6603047?source=rss",
-      "published": "11/18 16:40",
-      "source": "Yahoo!ニュース",
-      "summary": "日本の自動車業界が、メーカーの垣根を越えて素材や部品の一部を共通化する方針を固めたことが18日、分かった。日本自動車工業会（自工会）が、製造に使う鉄や樹脂の一部で種類や規格を統一する。コスト削減や開"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "DHC 顧客氏名など1911万件漏えい",
-      "link": "https://news.yahoo.co.jp/pickup/6603058?source=rss",
-      "published": "11/18 17:51",
-      "source": "Yahoo!ニュース",
-      "summary": "化粧品大手ディーエイチシー（ＤＨＣ）は１８日、オンラインショップに登録する顧客の氏名やメールアドレス、生年月日など約１９１１万件が漏えいしたと発表した。マーケティング支援を手がけるプレイド（東京）の"
-    },
-    {
-      "category": "スポーツ",
-      "title": "那須川天心 来年1/11に再起戦",
-      "link": "https://news.yahoo.co.jp/pickup/6603053?source=rss",
-      "published": "11/18 17:17",
-      "source": "Yahoo!ニュース",
-      "summary": "ボクシングの帝拳ジムは18日、公式YouTubeチャンネルでライブ配信を行い、WBC、WBA、IBF世界バンタム級3位の那須川天心（28＝帝拳）が同級10回戦で再起戦を行うと発表した。「PRIME"
-    },
-    {
-      "category": "IT",
-      "title": "日本で最も使われているパスワードは「pass1111」　NordPass調査",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003304/",
-      "published": "11/18 17:42",
-      "source": "ITmedia",
-      "summary": "パスワード管理ツールのNordPassは、よく使われているパスワードのランキング2026年版を公開した。日本の1位は「pass1111」で、世界1位の「123456」は日本では4位だった。"
-    },
-    {
-      "category": "主要",
-      "title": "川に展示の美術作品 さらに破壊か",
-      "link": "https://news.yahoo.co.jp/pickup/6603090?source=rss",
-      "published": "11/18 23:05",
-      "source": "Yahoo!ニュース",
-      "summary": "京都市内を流れる高瀬川の三条通-四条通間に立体美術作品を展示する「京都高瀬川アートフェスティバル」で、水中に置かれた作品が破損しているのが18日見つかった。11日には別の作品が壊されており、主催者は"
+      "summary": "秋田県男鹿市の水族館で生まれたカリフォルニアアシカのリオンが、引っ越し先の福岡に空路で移動中、死にました。"
     },
     {
       "category": "社会",
@@ -163,59 +211,11 @@
     },
     {
       "category": "経済",
-      "title": "Suica新キャラ A案とC案も活用へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603046?source=rss",
-      "published": "11/18 16:32",
+      "title": "日本車の部品 一部共通化する方針",
+      "link": "https://news.yahoo.co.jp/pickup/6603047?source=rss",
+      "published": "11/18 16:40",
       "source": "Yahoo!ニュース",
-      "summary": "■「Suica」新キャラクターお披露目会 JR東日本は18日、都内で「Suicaのペンギン」卒業に伴う新キャラクターのお披露目会を開催。新たなイメージキャラクターの原案候補3案の中から新キャラクター"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "楽天証券 情報漏えいの確認方法",
-      "link": "https://news.yahoo.co.jp/pickup/6603030?source=rss",
-      "published": "11/18 14:06",
-      "source": "Yahoo!ニュース",
-      "summary": "楽天証券が11月17日に発表した、顧客の口座情報が漏えいした可能性について、「ログイン後の『重要なお知らせ』を見て初めて、自分が対象になったことを知った」という内容の投稿が、SNSで相次いでいる。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "FIFA会長選 田嶋氏が立候補届け出",
-      "link": "https://news.yahoo.co.jp/pickup/6603025?source=rss",
-      "published": "11/18 13:38",
-      "source": "Yahoo!ニュース",
-      "summary": "FIFA＝国際サッカー連盟の会長選挙に出馬表明していた日本サッカー協会の田嶋幸三名誉会長が、立候補に必要な5つの協会の推薦を集め正式に立候補を届け出たことがわかりました。"
-    },
-    {
-      "category": "IT",
-      "title": "NewsPicks漏えい、Metabase脆弱性が原因　パッチ適用前日にデータ窃取、JPCERT/CC公表「不審IPアドレス」で攻撃発覚",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003300/",
-      "published": "11/18 16:59",
-      "source": "ITmedia",
-      "summary": "Metabaseが脆弱性を公表した6日後（3営業日後）の8月12日に修正版に更新した。だが攻撃者はその前に侵入しており、情報を窃取していたという。"
-    },
-    {
-      "category": "主要",
-      "title": "富士山で中国人遭難 捜索打ち切り",
-      "link": "https://news.yahoo.co.jp/pickup/6603089?source=rss",
-      "published": "11/18 22:52",
-      "source": "Yahoo!ニュース",
-      "summary": "閉山中の富士山に入山し連絡が取れなくなっている中国人男性について、18日、警察は捜索の打ち切りを決めました。在日中国大使館も今回の遭難事故を受けて、富士山など閉山期間中の登山をしないよう呼びかけてい"
-    },
-    {
-      "category": "社会",
-      "title": "小型船に緑ナンバー導入へ 国交省",
-      "link": "https://news.yahoo.co.jp/pickup/6602995?source=rss",
-      "published": "11/18 09:45",
-      "source": "Yahoo!ニュース",
-      "summary": "沖縄県名護市辺野古沖で小型船2隻が転覆し、同志社国際高校（京都府）の女子生徒ら2人が死亡した事故を受け、国土交通省は、事業登録・許可を受けた事業者の小型船舶の船舶番号を緑色に変更する方針を固めた。"
-    },
-    {
-      "category": "経済",
-      "title": "Suica新キャラは「紫のうさぎ」",
-      "link": "https://news.yahoo.co.jp/pickup/6603031?source=rss",
-      "published": "11/18 14:18",
-      "source": "Yahoo!ニュース",
-      "summary": "来年3月で「卒業」となるJR東日本の交通系ICカードのイメージキャラクター「Suicaのペンギン」。きょう、この後継となる新たなキャラクターが発表されました。"
+      "summary": "日本の自動車業界が、メーカーの垣根を越えて素材や部品の一部を共通化する方針を固めたことが18日、分かった。日本自動車工業会（自工会）が、製造に使う鉄や樹脂の一部で種類や規格を統一する。コスト削減や開"
     },
     {
       "category": "AI・テクノロジー",
@@ -235,35 +235,35 @@
     },
     {
       "category": "IT",
-      "title": "ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？　「スマホが電話の再発明なら、これは再再発明」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
-      "published": "11/18 16:01",
+      "title": "日本で最も使われているパスワードは「pass1111」　NordPass調査",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003304/",
+      "published": "11/18 17:42",
       "source": "ITmedia",
-      "summary": "KDDIは11月18日、インターネットにつながらない携帯電話「INFOBAR ZERO」を12月25日に発売すると発表した。LINEが連絡手段の中心になった日本で、誰が使うのか。発表会の質疑応答では、大きな市場を最初から狙う製品ではないなどの説明があった。"
+      "summary": "パスワード管理ツールのNordPassは、よく使われているパスワードのランキング2026年版を公開した。日本の1位は「pass1111」で、世界1位の「123456」は日本では4位だった。"
     },
     {
       "category": "主要",
-      "title": "日中首脳が握手 会談は見送りへ",
-      "link": "https://news.yahoo.co.jp/pickup/6603084?source=rss",
-      "published": "11/18 22:07",
+      "title": "少子化相 日本版DBS脆弱性を謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6603101?source=rss",
+      "published": "11/19 07:37",
       "source": "Yahoo!ニュース",
-      "summary": "アジア太平洋経済協力会議（APEC）首脳会議に出席するため、中国・深圳を訪れている高市早苗首相は18日、議長を務める中国の習近平国家主席と会議開幕の記念撮影に臨み、握手を交わした。昨年11月の台湾有"
+      "summary": "子どもと接する業務に就く人の性犯罪歴を確認する新制度「日本版ＤＢＳ」の専用システムに脆弱（ぜいじゃく）性が見つかった問題で、中司少子化相は１８日、東京都内で記者会見し「深刻な脆弱性が多数発見された」"
     },
     {
       "category": "社会",
-      "title": "転職組の教員免許を容易に 改革案",
-      "link": "https://news.yahoo.co.jp/pickup/6602984?source=rss",
-      "published": "11/18 07:41",
+      "title": "小型船に緑ナンバー導入へ 国交省",
+      "link": "https://news.yahoo.co.jp/pickup/6602995?source=rss",
+      "published": "11/18 09:45",
       "source": "Yahoo!ニュース",
-      "summary": "文部科学相の諮問機関である中央教育審議会（中教審）の教員養成部会は17日、教員の確保と質の向上に向けた答申案を取りまとめた。4年制大学を卒業したばかりの新卒者が教員の大半を占める中、企業などで勤務経"
+      "summary": "沖縄県名護市辺野古沖で小型船2隻が転覆し、同志社国際高校（京都府）の女子生徒ら2人が死亡した事故を受け、国土交通省は、事業登録・許可を受けた事業者の小型船舶の船舶番号を緑色に変更する方針を固めた。"
     },
     {
       "category": "経済",
-      "title": "横から見ると靴底に穴 人気の訳",
-      "link": "https://news.yahoo.co.jp/pickup/6602998?source=rss",
-      "published": "11/18 09:54",
+      "title": "Suica新キャラ A案とC案も活用へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603046?source=rss",
+      "published": "11/18 16:32",
       "source": "Yahoo!ニュース",
-      "summary": "横から見ると、靴底に穴がいくつも開いていて、向こう側まで見える。ちょっと変わった形だけれど、真っ黒なので、いつもの服にもすんなり合いそうだ。ミズノのスニーカー「ウエーブプロフェシーLS」（公式サイト"
+      "summary": "■「Suica」新キャラクターお披露目会 JR東日本は18日、都内で「Suicaのペンギン」卒業に伴う新キャラクターのお披露目会を開催。新たなイメージキャラクターの原案候補3案の中から新キャラクター"
     },
     {
       "category": "AI・テクノロジー",
@@ -283,27 +283,27 @@
     },
     {
       "category": "IT",
-      "title": "AI脅威対処へ新枠組み　重要鉱物やエネルギーで連携　首相、ASEANとの首脳会議出席",
-      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
-      "published": "11/18 15:10",
+      "title": "NewsPicks漏えい、Metabase脆弱性が原因　パッチ適用前日にデータ窃取、JPCERT/CC公表「不審IPアドレス」で攻撃発覚",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003300/",
+      "published": "11/18 16:59",
       "source": "ITmedia",
-      "summary": "高市早苗首相は11月17日、訪問先のフィリピンで開かれた日本と東南アジア諸国連合（ASEAN）の首脳会議に出席した。高性能人工知能（AI）を巡る脅威に対処するため、各国と連携する新たな枠組みの創設を確認した。"
+      "summary": "Metabaseが脆弱性を公表した6日後（3営業日後）の8月12日に修正版に更新した。だが攻撃者はその前に侵入しており、情報を窃取していたという。"
     },
     {
       "category": "主要",
-      "title": "太田裕美さん 夫明かす最期の様子",
-      "link": "https://news.yahoo.co.jp/pickup/6603082?source=rss",
-      "published": "11/18 22:05",
+      "title": "橋本愛が初教師役「楽しい現場」",
+      "link": "https://news.yahoo.co.jp/pickup/6603102?source=rss",
+      "published": "11/19 07:33",
       "source": "Yahoo!ニュース",
-      "summary": "「木綿のハンカチーフ」「さらばシベリア鉄道」などのヒット曲で知られる歌手の太田裕美（おおた・ひろみ、本名福岡弘美＝ふくおか・ひろみ）さんが12日に都内の自宅で死去した。71歳。東京都出身。"
+      "summary": "俳優・小栗旬、女優・橋本愛が、来年２月１１日公開の映画「リバイアサン」（道枝駿佑主演、藤井道人、新宮良平監督）に出演することが１９日、発表された。橋本は本作で教師役に初挑戦する。"
     },
     {
       "category": "経済",
-      "title": "NHK 職員に「飲み会22時頃まで」",
-      "link": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
-      "published": "11/18 06:19",
+      "title": "横から見ると靴底に穴 人気の訳",
+      "link": "https://news.yahoo.co.jp/pickup/6602998?source=rss",
+      "published": "11/18 09:54",
       "source": "Yahoo!ニュース",
-      "summary": "飲酒に絡んだトラブルが相次ぎ対策を検討しているNHKが、飲酒を伴う会食を原則午後10時ごろまでとし、約3時間以内に収めるなど「節度ある飲酒のあり方」を求める通達を職員に出したことが17日、関係者への"
+      "summary": "横から見ると、靴底に穴がいくつも開いていて、向こう側まで見える。ちょっと変わった形だけれど、真っ黒なので、いつもの服にもすんなり合いそうだ。ミズノのスニーカー「ウエーブプロフェシーLS」（公式サイト"
     },
     {
       "category": "AI・テクノロジー",
@@ -323,27 +323,43 @@
     },
     {
       "category": "IT",
+      "title": "ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？　「スマホが電話の再発明なら、これは再再発明」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003288/",
+      "published": "11/18 16:01",
+      "source": "ITmedia",
+      "summary": "KDDIは11月18日、インターネットにつながらない携帯電話「INFOBAR ZERO」を12月25日に発売すると発表した。LINEが連絡手段の中心になった日本で、誰が使うのか。発表会の質疑応答では、大きな市場を最初から狙う製品ではないなどの説明があった。"
+    },
+    {
+      "category": "主要",
+      "title": "トランプ氏 露大統領と個別会談へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603100?source=rss",
+      "published": "11/19 07:21",
+      "source": "Yahoo!ニュース",
+      "summary": "[ワシントン １８日 ロイター] - トランプ米大統領は１９日、ア‌ジア太平洋経済協力会⁠議（ＡＰＥＣ）首脳会議が開催されている中国で、ロ​シアのプーチン大統領と個別会談を行う‌見通し。米ロ両国の当局者"
+    },
+    {
+      "category": "経済",
+      "title": "NHK 職員に「飲み会22時頃まで」",
+      "link": "https://news.yahoo.co.jp/pickup/6602976?source=rss",
+      "published": "11/18 06:19",
+      "source": "Yahoo!ニュース",
+      "summary": "飲酒に絡んだトラブルが相次ぎ対策を検討しているNHKが、飲酒を伴う会食を原則午後10時ごろまでとし、約3時間以内に収めるなど「節度ある飲酒のあり方」を求める通達を職員に出したことが17日、関係者への"
+    },
+    {
+      "category": "IT",
+      "title": "AI脅威対処へ新枠組み　重要鉱物やエネルギーで連携　首相、ASEANとの首脳会議出席",
+      "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003294/",
+      "published": "11/18 15:10",
+      "source": "ITmedia",
+      "summary": "高市早苗首相は11月17日、訪問先のフィリピンで開かれた日本と東南アジア諸国連合（ASEAN）の首脳会議に出席した。高性能人工知能（AI）を巡る脅威に対処するため、各国と連携する新たな枠組みの創設を確認した。"
+    },
+    {
+      "category": "IT",
       "title": "消えていた「Android版メルカリ」Google Playストアに復帰　約1日半で復活",
       "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003292/",
       "published": "11/18 14:25",
       "source": "ITmedia",
       "summary": "ストアから消えていた理由などは明らかにしていない。"
-    },
-    {
-      "category": "主要",
-      "title": "支援金 対象年収下限「56万円」案",
-      "link": "https://news.yahoo.co.jp/pickup/6603076?source=rss",
-      "published": "11/18 21:11",
-      "source": "Yahoo!ニュース",
-      "summary": "政府が来春の消費減税とセットで導入する方針の「就業者負担軽減支援金」（所得連動給付）について、政府・与党が支援金の対象者の年収下限を「56万円程度」とする案を検討していることが分かった。公明党が強く"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "MS大規模障害 幹部が原因を説明",
-      "link": "https://news.yahoo.co.jp/pickup/6602871?source=rss",
-      "published": "11/17 10:32",
-      "source": "Yahoo!ニュース",
-      "summary": "Microsoftは、11月12日に発生した「Microsoft 365」の大規模障害について、7月に展開を始めた更新に潜んでいた不具合に、通信負荷の増加とサーバ容量の減少が重なり、障害が連鎖的に拡"
     },
     {
       "category": "IT",
@@ -432,22 +448,6 @@
       "published": "11/17 16:22",
       "source": "ITmedia",
       "summary": "両社は2025年12月に資本業務提携契約を結び、メルカリ上で駿河屋の商品を販売するなど連携してきた。新たに、米国での共同事業にも連携を広げる。"
-    },
-    {
-      "category": "IT",
-      "title": "ドコモ3度の通信障害「大変遺憾」と総務相　「構造的な課題、洗い出し求める」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003261/",
-      "published": "11/17 15:06",
-      "source": "ITmedia",
-      "summary": "総務省からドコモに対して、個別の障害の原因究明・再発防止策に加え、一連の障害の関係性を検証し、その根本原因を究明することを求めたという。"
-    },
-    {
-      "category": "IT",
-      "title": "米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ",
-      "link": "https://www.itmedia.co.jp/news/article/2611/17/2000003258/",
-      "published": "11/17 12:50",
-      "source": "ITmedia",
-      "summary": "米商務省は、中国企業などが第三国のデータセンターを経由して米国製先端AIチップを遠隔利用することを防ぐ暫定最終規則を発表した。物理的な輸出規制の抜け道をふさぐ狙いで、一定以上の計算資源を提供するデータセンターへのチップ輸出にライセンスを義務付ける。NVIDIAを巡る疑惑が背景にあるとみられる。"
     }
   ],
   "errors": [
