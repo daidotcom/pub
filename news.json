@@ -1,29 +1,221 @@
 {
-  "updated": "2026-11-20T07:24:10.196372+00:00",
+  "updated": "2026-11-20T16:25:07.638244+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "日経平均終値3007円安 AI巡り混乱",
-      "link": "https://news.yahoo.co.jp/pickup/6603296?source=rss",
-      "published": "11/20 15:48",
+      "title": "官僚参加パーティー5件に 文科相",
+      "link": "https://news.yahoo.co.jp/pickup/6603350?source=rss",
+      "published": "11/21 00:11",
       "source": "Yahoo!ニュース",
-      "summary": "20日の東京株式市場で、日経平均株価は19日に比べ3007円56銭安い5万6436円65銭で取引を終えました。"
+      "summary": "関芳弘文部科学相は20日夜、官僚を呼んで企業関係者に政策を説明させた2024年の政治資金パーティーを巡る問題について記者団の取材に応じ、同年に開いた別の3件のパーティーにも公正取引委員会や内閣府の職"
     },
     {
       "category": "社会",
-      "title": "日中会談はなし 難しい関係修復",
-      "link": "https://news.yahoo.co.jp/pickup/6603266?source=rss",
-      "published": "11/20 13:34",
+      "title": "自民党で関文科相の辞任論が浮上",
+      "link": "https://news.yahoo.co.jp/pickup/6603332?source=rss",
+      "published": "11/20 21:02",
       "source": "Yahoo!ニュース",
-      "summary": "中国・深圳で開かれたアジア太平洋経済協力会議（APEC）で、高市早苗首相と習近平国家主席は握手を交わした。高市氏は19日の会議終了後、習氏に会議運営への謝意を伝えたと説明した。日中首脳会談は開かれなか"
+      "summary": "自民党で20日、政治資金パーティーに官僚を呼び、企業関係者に政策を説明させた関芳弘文部科学相の辞任論が浮上した。野党が参院で問責決議案の提出を検討する中、高市政権が最重視する消費税減税関連法案の審議"
     },
     {
       "category": "経済",
-      "title": "置き配は玄関前で配達完了 指針案",
-      "link": "https://news.yahoo.co.jp/pickup/6603298?source=rss",
-      "published": "11/20 16:20",
+      "title": "ココイチ売却 米KKRに優先交渉権",
+      "link": "https://news.yahoo.co.jp/pickup/6603327?source=rss",
+      "published": "11/20 19:35",
       "source": "Yahoo!ニュース",
-      "summary": "置き配」に関するトラブルが相次ぐ中、国土交通省は、配達完了のタイミングや責任を明確化するためのガイドライン案を公表しました。"
+      "summary": "ハウス食品グループ本社が、子会社で「カレーハウスCoCo壱番屋（ココイチ）」を運営する壱番屋の売却をめぐって、米投資ファンドのKKRに優先交渉権を与えたことがわかった。売却が実現すれば壱番屋は株式非"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "ZOZOTOWN 1518万人の情報漏洩",
+      "link": "https://news.yahoo.co.jp/pickup/6603349?source=rss",
+      "published": "11/20 23:35",
+      "source": "Yahoo!ニュース",
+      "summary": "ZOZOは11月20日、外部サービス「KARTE」への不正アクセスにより、ZOZOTOWN会員（退会者含む）約1,518万人とWEAR by ZOZO会員約1,393万人の情報が漏えいしたと発表した"
+    },
+    {
+      "category": "スポーツ",
+      "title": "横綱・豊昇龍 勝ち越しで感極まる",
+      "link": "https://news.yahoo.co.jp/pickup/6603330?source=rss",
+      "published": "11/20 20:20",
+      "source": "Yahoo!ニュース",
+      "summary": "大相撲九州場所13日目（20日、福岡国際センター）、右ヒザ手術による全休明けの横綱豊昇龍（27＝立浪）が、大関安青錦（22＝安治川）を下して8勝目（5敗）。横綱としての負け越しを回避した。"
+    },
+    {
+      "category": "IT",
+      "title": "デジ庁、政府機関向けファイル共有サービスで漏えいか　7月末から第三者がアクセス",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
+      "published": "11/20 21:18",
+      "source": "ITmedia",
+      "summary": "デジタル庁は11月20日、政府共通の業務環境「GSS」のファイル共有サービスで、ファイルの一部が外部に漏えいした可能性があると発表した。7月30日から11月12日までの間、正規の共有相手先以外の者によるアクセスがあったことを確認したという。個人情報が含まれることも想定されるとして、個人情報保護委員会に報告した。"
+    },
+    {
+      "category": "主要",
+      "title": "EV補助金受け付け終了 予算枯渇",
+      "link": "https://news.yahoo.co.jp/pickup/6603347?source=rss",
+      "published": "11/20 23:58",
+      "source": "Yahoo!ニュース",
+      "summary": "経済産業省は20日、電気自動車（EV）や燃料電池車（FCV）などの購入を促す補助金の申請受け付けを同日付で終了したと発表した。確保した予算が枯渇する見通しとなったため。EV需要が想定より伸び、前倒し"
+    },
+    {
+      "category": "社会",
+      "title": "小中高生の自殺者数 最多ペース",
+      "link": "https://news.yahoo.co.jp/pickup/6603331?source=rss",
+      "published": "11/20 20:41",
+      "source": "Yahoo!ニュース",
+      "summary": "こども家庭庁は20日、今年1～10月の小中高生の自殺者数は暫定値で490人だったと明らかにした。過去最多だった2025年の538人を上回るペースで推移している。同年1～10月は453人だった。同日開"
+    },
+    {
+      "category": "経済",
+      "title": "ツルハHD シンガポール事業撤退",
+      "link": "https://news.yahoo.co.jp/pickup/6603315?source=rss",
+      "published": "11/20 18:13",
+      "source": "Yahoo!ニュース",
+      "summary": "ツルハホールディングス（HD）は11月20日、シンガポールのドラッグストア事業から撤退すると発表した。傘下のウエルシアホールディングス（HD）が保有する現地子会社ウエルシア・シンガポール（WELCI"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "「KARTE」情報漏えい延べ2200社",
+      "link": "https://news.yahoo.co.jp/pickup/6603339?source=rss",
+      "published": "11/20 22:09",
+      "source": "Yahoo!ニュース",
+      "summary": "メール配信やマーケティングの支援を手がける「プレイド」（東京）は20日、自社サービス「KARTE（カルテ）」が不正アクセスを受けた問題で、情報漏えいの対象となった取引先企業は延べ2200社に上ると公"
+    },
+    {
+      "category": "スポーツ",
+      "title": "巨人・坂本勇人が減俸更改 危機感",
+      "link": "https://news.yahoo.co.jp/pickup/6603319?source=rss",
+      "published": "11/20 18:24",
+      "source": "Yahoo!ニュース",
+      "summary": "通算300HR達成も打率.175と低迷 巨人の坂本勇人内野手は20日、都内の球団事務所で契約更改交渉に臨み、5000万円ダウンの2億5000万円で更改した。会見では「ダウンで。単年で契約しました」と"
+    },
+    {
+      "category": "IT",
+      "title": "韓国大学入試で電子機器不正111件摘発　AI受験疑惑巡り死者も発生",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003376/",
+      "published": "11/20 17:48",
+      "source": "ITmedia",
+      "summary": "韓国教育省は11月20日、19日に実施された大学修学能力試験（修能、日本の大学入学共通テストに相当）で、スマートグラス（AI眼鏡）など電子機器の扱いを巡り111件の不正行為が確認されたと明らかにした。"
+    },
+    {
+      "category": "主要",
+      "title": "一時100台ほど車が立ち往生 長野",
+      "link": "https://news.yahoo.co.jp/pickup/6603346?source=rss",
+      "published": "11/20 23:03",
+      "source": "Yahoo!ニュース",
+      "summary": "長野県長和町の新和田トンネル付近で20日、積雪に伴う事故などの影響で、車の立ち往生が発生しました。"
+    },
+    {
+      "category": "社会",
+      "title": "公認会計士 14歳が史上最年少合格",
+      "link": "https://news.yahoo.co.jp/pickup/6603321?source=rss",
+      "published": "11/20 18:38",
+      "source": "Yahoo!ニュース",
+      "summary": "公認会計士・監査審査会は20日、2026年の公認会計士試験の合格者を発表した。昨年より51人多い1687人が狭き門を突破し、史上最年少となる14歳の合格者が誕生した。これまでの最年少記録は10年と2"
+    },
+    {
+      "category": "経済",
+      "title": "明治「スーパーカップ」値上げへ",
+      "link": "https://news.yahoo.co.jp/pickup/6603309?source=rss",
+      "published": "11/20 17:40",
+      "source": "Yahoo!ニュース",
+      "summary": "明治（東京）は20日、アイス計24品を2027年1月1日出荷分から約5～12％値上げすると発表した。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "政府内部資料流出か 不正アクセス",
+      "link": "https://news.yahoo.co.jp/pickup/6603320?source=rss",
+      "published": "11/20 18:36",
+      "source": "Yahoo!ニュース",
+      "summary": "デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれているおそれがあり、漏洩したファイルの件数や内容な"
+    },
+    {
+      "category": "スポーツ",
+      "title": "田中将大が更改 年俸1億円下回る",
+      "link": "https://news.yahoo.co.jp/pickup/6603302?source=rss",
+      "published": "11/20 17:03",
+      "source": "Yahoo!ニュース",
+      "summary": "今季は13試合登板で4勝4敗だった 巨人の田中将大投手は20日、都内の球団事務所で契約更改交渉に臨み、2000万円ダウンの8000万円で更改した。会見では「単年契約、ダウンでサインしました」と言及。"
+    },
+    {
+      "category": "IT",
+      "title": "片山財務相、楽天証券は「顧客の不安解消に、できること全部していただきたい」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
+      "published": "11/20 17:13",
+      "source": "ITmedia",
+      "summary": "片山さつき財務相は、情報漏えいの可能性を発表した楽天証券について、「お客様等の相談に真摯に応じ、不安の解消についても、できる限りのことは全部やっていただきたい」と話した。"
+    },
+    {
+      "category": "主要",
+      "title": "ポーランドにミサイル 被害なし",
+      "link": "https://news.yahoo.co.jp/pickup/6603345?source=rss",
+      "published": "11/20 22:42",
+      "source": "Yahoo!ニュース",
+      "summary": "ポーランド政府は20日、ウクライナの国境からおよそ40キロの地点にロシアからとみられる巡航ミサイルなど3発が落下したと発表しました。被害は出ていないとしています。"
+    },
+    {
+      "category": "社会",
+      "title": "3連休前半 日本海側中心に冬の嵐",
+      "link": "https://news.yahoo.co.jp/pickup/6603306?source=rss",
+      "published": "11/20 17:07",
+      "source": "Yahoo!ニュース",
+      "summary": "あす(土)からの3連休は、前半は北陸から北の日本海側を中心に冬の嵐が続くおそれがあります。新たな積雪や路面凍結、ふぶきなどにご注意ください。北陸では大雨になる所もあるでしょう。晴れる関東など太平洋側"
+    },
+    {
+      "category": "経済",
+      "title": "「GTA6」発売 5日休み与えた会社",
+      "link": "https://news.yahoo.co.jp/pickup/6603292?source=rss",
+      "published": "11/20 15:16",
+      "source": "Yahoo!ニュース",
+      "summary": "世界中のゲームファンが「グランド・セフト・オート（GTA）6」を発売と同時に遊ぶため、上司にどう休みを切り出そうかと頭を悩ませる中、日本のあるゲーム会社は一歩先を行き、発売日の19日から5日間の休み"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "スマホ無限スクロール どう思う?",
+      "link": "https://news.yahoo.co.jp/pickup/6603307?source=rss",
+      "published": "11/20 17:24",
+      "source": "Yahoo!ニュース",
+      "summary": "スマートフォンで​SNSや​ニュース、​動画などを​見ている​うちに、​気づけば​思っていた以上に​時間が​たっていたと​いう​経験は​ありませんか？​"
+    },
+    {
+      "category": "スポーツ",
+      "title": "搬送の関原翔 RIZINに募金窓口",
+      "link": "https://news.yahoo.co.jp/pickup/6603305?source=rss",
+      "published": "11/20 16:55",
+      "source": "Yahoo!ニュース",
+      "summary": "◆「ご両親やジムへの直接の連絡はお控えください」 2026年11月8日（日）千葉・LaLa arena TOKYO-BAYにて開催された『abc presents RIZIN.55』の第2試合で3R"
+    },
+    {
+      "category": "IT",
+      "title": "H3ロケット打ち上げ、JAXAから三菱重工に移管　来年1月の11号機から",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
+      "published": "11/20 17:09",
+      "source": "ITmedia",
+      "summary": "27年1月11日に打ち上げ予定の11号機は、三菱重工が打ち上げを担う。"
+    },
+    {
+      "category": "主要",
+      "title": "丸井 EC顧客名など883万件漏えい",
+      "link": "https://news.yahoo.co.jp/pickup/6603344?source=rss",
+      "published": "11/20 22:31",
+      "source": "Yahoo!ニュース",
+      "summary": "丸井グループは２０日、自社のインターネット通販サイト「マルイウェブチャネル」を利用したことがある顧客の氏名やメールアドレスなど約８８３万件が漏えいしたと発表した。また、エポスカード利用者の顧客管理番"
+    },
+    {
+      "category": "社会",
+      "title": "首相が中国到着時 タラップに段差",
+      "link": "https://news.yahoo.co.jp/pickup/6603300?source=rss",
+      "published": "11/20 16:25",
+      "source": "Yahoo!ニュース",
+      "summary": "18日、APEC（アジア太平洋経済協力会議）首脳会議に参加するため、中国・深圳の空港に高市早苗首相が到着した際、政府専用機から降りる際のタラップの段差が40センチほどもあったことが、SNSで大きな話題"
+    },
+    {
+      "category": "経済",
+      "title": "ホンダ 新型3列SUVを世界初公開",
+      "link": "https://news.yahoo.co.jp/pickup/6603281?source=rss",
+      "published": "11/20 13:32",
+      "source": "Yahoo!ニュース",
+      "summary": "次世代ハイブリッドを初搭載する新型「アヴァンシア」ホンダは2026年11月20日、新型3列SUV「AVANCIER（アヴァンシア）」を世界初公開した。"
     },
     {
       "category": "AI・テクノロジー",
@@ -35,11 +227,11 @@
     },
     {
       "category": "スポーツ",
-      "title": "阪神・糸原 減額制限超えで契約",
-      "link": "https://news.yahoo.co.jp/pickup/6603275?source=rss",
-      "published": "11/20 13:11",
+      "title": "神宮大会 馬淵監督が悔やむ0.1秒",
+      "link": "https://news.yahoo.co.jp/pickup/6603290?source=rss",
+      "published": "11/20 15:12",
       "source": "Yahoo!ニュース",
-      "summary": "阪神・糸原健斗内野手（３４）が２０日、西宮市内の球団事務所で契約更改交渉に臨み、減額制限２５％を超える６０％減となる３３００万減の２２００万円でサインした。（金額は推定）。"
+      "summary": "神宮大会、二松学舎大附に1-4…百戦錬磨の名将が口にした敗因 第57回明治神宮野球大会は20日、2日目を行い、高校の部2回戦では明徳義塾（四国）が二松学舎大附（東京）に1-4で敗れた。明徳義塾を率い"
     },
     {
       "category": "IT",
@@ -51,27 +243,27 @@
     },
     {
       "category": "主要",
-      "title": "横浜市長の家賃42万円 9割市負担",
-      "link": "https://news.yahoo.co.jp/pickup/6603295?source=rss",
-      "published": "11/20 15:43",
+      "title": "サウジ原油 日本での備蓄3倍合意",
+      "link": "https://news.yahoo.co.jp/pickup/6603336?source=rss",
+      "published": "11/20 21:32",
       "source": "Yahoo!ニュース",
-      "summary": "横浜の新たな市長の住居について、家賃42万円のうち37万円を市が負担していることが分かりました。なぜ税金が使われることになったのでしょうか。"
+      "summary": "経済産業省は20日、中東の石油会社が日本で原油を保管する「産油国共同備蓄」について、サウジアラビアが従来の3倍に増やすことで合意したと発表した。日本国内で保管していた800万バレルを最大2400万バ"
     },
     {
       "category": "社会",
-      "title": "MSに再発防止を要請 デジタル相",
-      "link": "https://news.yahoo.co.jp/pickup/6603263?source=rss",
-      "published": "11/20 12:02",
+      "title": "虐待死受け緊急点検 こども家庭庁",
+      "link": "https://news.yahoo.co.jp/pickup/6603299?source=rss",
+      "published": "11/20 16:23",
       "source": "Yahoo!ニュース",
-      "summary": "古川俊治デジタル相は20日の記者会見で、業務ソフトなどで大規模障害が起きた米IT大手マイクロソフト（MS）に対し、十分な原因究明と再発防止を要請したことを明らかにした。政府の基盤システム「ガバメント"
+      "summary": "大阪府枚方市や兵庫県伊丹市で子どもが虐待死したとされる事案が相次いだことを受け、こども家庭庁は20日、全国の市区町村と児童相談所の連携状況を点検すると発表した。児相が設置されている自治体に対し、児相"
     },
     {
       "category": "経済",
-      "title": "駅にサンドイッチ自販機 人気理由",
-      "link": "https://news.yahoo.co.jp/pickup/6603282?source=rss",
-      "published": "11/20 13:35",
+      "title": "楽天証券へ訴訟準備 1.5万人登録",
+      "link": "https://news.yahoo.co.jp/pickup/6603257?source=rss",
+      "published": "11/20 11:29",
       "source": "Yahoo!ニュース",
-      "summary": "札幌に、わずか2店舗ながら8年で売上高を約8倍に伸ばしたサンドイッチ専門店がある。1978年創業の「サンドリア」だ。「行列のできる自販機」はもはや札幌駅の名物となり、ファミリーマートともコラボするな"
+      "summary": "ネット証券大手の楽天証券で最大で1572万件の顧客情報が流出した可能性がある問題で、都内の弁護士が集団訴訟を準備するウェブサイトを立ち上げました。"
     },
     {
       "category": "AI・テクノロジー",
@@ -83,11 +275,11 @@
     },
     {
       "category": "スポーツ",
-      "title": "FIFA会長選 田嶋幸三氏が抱負語る",
-      "link": "https://news.yahoo.co.jp/pickup/6603243?source=rss",
-      "published": "11/20 09:22",
+      "title": "阪神・糸原 減額制限超えで契約",
+      "link": "https://news.yahoo.co.jp/pickup/6603275?source=rss",
+      "published": "11/20 13:11",
       "source": "Yahoo!ニュース",
-      "summary": "FIFA会長選挙への立候補が受理された日本サッカー協会の田嶋幸三名誉会長が取材に応じ、「FIFAをよくしていく」と選挙戦に向けた抱負を述べました。"
+      "summary": "阪神・糸原健斗内野手（３４）が２０日、西宮市内の球団事務所で契約更改交渉に臨み、減額制限２５％を超える６０％減となる３３００万減の２２００万円でサインした。（金額は推定）。"
     },
     {
       "category": "IT",
@@ -99,27 +291,11 @@
     },
     {
       "category": "主要",
-      "title": "27年卒大学生の内定率73% 高水準",
-      "link": "https://news.yahoo.co.jp/pickup/6603291?source=rss",
-      "published": "11/20 15:21",
+      "title": "安保3文書素案 原潜「検討着手」",
+      "link": "https://news.yahoo.co.jp/pickup/6603335?source=rss",
+      "published": "11/20 21:31",
       "source": "Yahoo!ニュース",
-      "summary": "来年春に卒業予定の大学生の就職内定率は73.0％でした。前の年より0.4ポイントマイナスとなっています。"
-    },
-    {
-      "category": "社会",
-      "title": "徒競走に順位つけるべきか 論争",
-      "link": "https://news.yahoo.co.jp/pickup/6603258?source=rss",
-      "published": "11/20 11:29",
-      "source": "Yahoo!ニュース",
-      "summary": "Ｔｈｅ論点 運動会の徒競走といえば、この秋も多くの親御さんがわが子の順位に一喜一憂したことでしょう。学校現場では、子どもの成長には順位を付ける競争が必要との考え方が根強い一方で、着順を決めず、別の方"
-    },
-    {
-      "category": "経済",
-      "title": "東海道新幹線 1日で最多504本運行",
-      "link": "https://news.yahoo.co.jp/pickup/6603269?source=rss",
-      "published": "11/20 12:19",
-      "source": "Yahoo!ニュース",
-      "summary": "3連休を前にビジネスと観光で多くの利用客が見込まれる20日、JR東海は過去最多の新幹線を走行させます。"
+      "summary": "政府が年末に改定する安全保障関連3文書のうち、原子力潜水艦と非核三原則に関する記述の政府素案が判明した。原潜は「検討に着手し、早期に結論を得る」と明記。導入を前提に、2027年度から5年以内の早い時"
     },
     {
       "category": "AI・テクノロジー",
@@ -147,35 +323,11 @@
     },
     {
       "category": "主要",
-      "title": "「GTA6」発売 5日休み与えた会社",
-      "link": "https://news.yahoo.co.jp/pickup/6603292?source=rss",
-      "published": "11/20 15:16",
+      "title": "ハマ・オカモト 活動再開を報告",
+      "link": "https://news.yahoo.co.jp/pickup/6603334?source=rss",
+      "published": "11/20 21:24",
       "source": "Yahoo!ニュース",
-      "summary": "世界中のゲームファンが「グランド・セフト・オート（GTA）6」を発売と同時に遊ぶため、上司にどう休みを切り出そうかと頭を悩ませる中、日本のあるゲーム会社は一歩先を行き、発売日の19日から5日間の休み"
-    },
-    {
-      "category": "社会",
-      "title": "米国頼みの高市外交 限界浮き彫り",
-      "link": "https://news.yahoo.co.jp/pickup/6603256?source=rss",
-      "published": "11/20 11:24",
-      "source": "Yahoo!ニュース",
-      "summary": "高市早苗首相は就任後初の訪中で中国の習近平国家主席と握手を交わすにとどまり、短時間の会談も実現できなかった。関係改善への期待もあったが、中国側の空港での出迎えは各国首脳と比べて明らかに簡素で、首相周"
-    },
-    {
-      "category": "経済",
-      "title": "楽天証券へ訴訟準備 1.5万人登録",
-      "link": "https://news.yahoo.co.jp/pickup/6603257?source=rss",
-      "published": "11/20 11:29",
-      "source": "Yahoo!ニュース",
-      "summary": "ネット証券大手の楽天証券で最大で1572万件の顧客情報が流出した可能性がある問題で、都内の弁護士が集団訴訟を準備するウェブサイトを立ち上げました。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "街に広がるAI画像 どこまで許容?",
-      "link": "https://news.yahoo.co.jp/pickup/6603166?source=rss",
-      "published": "11/19 16:06",
-      "source": "Yahoo!ニュース",
-      "summary": "最近、飲食店の看板など街で目にする機会が増えた、“AI画像”。選挙ポスターにまで使われたのではという例もあり、物議を醸しています。日常に広がるAI画像、みなさんはどう思いますか?"
+      "summary": "ロックバンド「OKAMOTO'S」の元メンバーでベーシストのハマ・オカモト(35)が20日、自身のインスタグラムを更新。今月14日に行われた音楽フェス「OMURA BAY BEAT 2026」に出演"
     },
     {
       "category": "スポーツ",
@@ -194,76 +346,12 @@
       "summary": "奈良文化財研究所（奈文研、奈良市）が少子高齢化や人件費高騰が進む中、発掘調査方法の見直しを模索している。"
     },
     {
-      "category": "主要",
-      "title": "神宮大会 馬淵監督が悔やむ0.1秒",
-      "link": "https://news.yahoo.co.jp/pickup/6603290?source=rss",
-      "published": "11/20 15:12",
-      "source": "Yahoo!ニュース",
-      "summary": "神宮大会、二松学舎大附に1-4…百戦錬磨の名将が口にした敗因 第57回明治神宮野球大会は20日、2日目を行い、高校の部2回戦では明徳義塾（四国）が二松学舎大附（東京）に1-4で敗れた。明徳義塾を率い"
-    },
-    {
-      "category": "社会",
-      "title": "大学教員40歳はまだ「若手」背景",
-      "link": "https://news.yahoo.co.jp/pickup/6603234?source=rss",
-      "published": "11/20 08:15",
-      "source": "Yahoo!ニュース",
-      "summary": "40歳を過ぎ、白髪や健康診断の数値が気になり始めても、大学ではまだ「若手教員」。周りは年上の先生方ばかりで、筆者もつい若手のつもりで走り回っています。どうやら大学の年齢感覚は、世間とは少し違うようで"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "Anthropic IPO公開価格は83ドル",
-      "link": "https://news.yahoo.co.jp/pickup/6603117?source=rss",
-      "published": "11/19 09:34",
-      "source": "Yahoo!ニュース",
-      "summary": "米国の人工知能（AI）大手アンソロピックは18日、ナスダック市場で19日に予定されるIPO（新規株式公開）の公開価格を発表した。1株あたり83ドル（約1万3千円）で売り出す。企業の評価額は1.5兆ド"
-    },
-    {
-      "category": "スポーツ",
-      "title": "AFC最優秀監督にJ1町田・黒田氏",
-      "link": "https://news.yahoo.co.jp/pickup/6603213?source=rss",
-      "published": "11/19 22:55",
-      "source": "Yahoo!ニュース",
-      "summary": "アジア・サッカー連盟（ＡＦＣ）の２０２６年の年間表彰式が１９日、タイ・バンコクで行われ、Ｊ１町田の黒田剛監督が男子最優秀監督に選ばれた。"
-    },
-    {
       "category": "IT",
       "title": "Google、宇宙AIデータセンター構想「Project Suncatcher」でベゾス氏のBlue Originと提携　2029年に衛星打ち上げへ",
       "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003358/",
       "published": "11/20 09:25",
       "source": "ITmedia",
       "summary": "Googleは、衛星軌道上にAIデータセンターを構築する「Project Suncatcher」でジェフ・ベゾス氏率いる米Blue Originと提携したと発表した。2029年第1四半期を目標に、大型ロケット「New Glenn」で衛星を太陽同期軌道へ打ち上げる。各衛星はデータセンターのラック1本分程度の計算能力を持つとしている。"
-    },
-    {
-      "category": "主要",
-      "title": "3歳死亡 父のスマホに虐待の動画",
-      "link": "https://news.yahoo.co.jp/pickup/6603287?source=rss",
-      "published": "11/20 14:24",
-      "source": "Yahoo!ニュース",
-      "summary": "大阪府枚方市で3歳の女の子が死亡し、両親が逮捕された事件で、殺害容疑がもたれている父親のスマートフォンに女の子を虐待する様子を記録した動画が保存されていたことがわかりました。"
-    },
-    {
-      "category": "社会",
-      "title": "首相の中国訪問「新ヤルタ」警戒",
-      "link": "https://news.yahoo.co.jp/pickup/6603228?source=rss",
-      "published": "11/20 07:35",
-      "source": "Yahoo!ニュース",
-      "summary": "高市早苗首相が4日間の中国・フィリピン歴訪を終えた。 首相が中国・深センを飛び立ったのは、くしくも史上初の米中ロ首脳会談が行われていたさなか。中国が3カ国を「世界反ファシズム戦争」（第2次大戦）の戦"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "サーバーソフト「nginx」に脆弱性",
-      "link": "https://news.yahoo.co.jp/pickup/6603112?source=rss",
-      "published": "11/19 09:01",
-      "source": "Yahoo!ニュース",
-      "summary": "ウェブサイトの設置、運用の際に使う重要なサーバーソフトウエア「エンジンエックス（nginx）」に深刻な脆弱性が見つかったことが19日分かった。開発元がホームページで明らかにし、修正プログラムを配布し"
-    },
-    {
-      "category": "スポーツ",
-      "title": "本田圭佑 森保一監督をねぎらう",
-      "link": "https://news.yahoo.co.jp/pickup/6603206?source=rss",
-      "published": "11/19 21:30",
-      "source": "Yahoo!ニュース",
-      "summary": "Ｗ杯３大会に出場し、現在はシンガポール１部ジュロンでプレーするＭＦ本田圭佑が１９日、都内で行われた自身が展開するブランド「ｍｇｈ」の新作発表パーティーに出席。イベント後に報道陣の取材に応じた。"
     },
     {
       "category": "IT",
@@ -274,60 +362,12 @@
       "summary": "「PHP2Shell」への対応以降、脆弱性の修正に合わせ、サービスを止めてメンテナンスする流れができつつある。"
     },
     {
-      "category": "主要",
-      "title": "ホンダ 新型3列SUVを世界初公開",
-      "link": "https://news.yahoo.co.jp/pickup/6603281?source=rss",
-      "published": "11/20 13:32",
-      "source": "Yahoo!ニュース",
-      "summary": "次世代ハイブリッドを初搭載する新型「アヴァンシア」ホンダは2026年11月20日、新型3列SUV「AVANCIER（アヴァンシア）」を世界初公開した。"
-    },
-    {
-      "category": "社会",
-      "title": "麻生氏 アジア大会トラブルに苦言",
-      "link": "https://news.yahoo.co.jp/pickup/6603218?source=rss",
-      "published": "11/19 23:16",
-      "source": "Yahoo!ニュース",
-      "summary": "自民党の麻生太郎副総裁は19日、愛知・名古屋アジア大会で相次いだ国歌の取り違えなどの運営トラブルについて「恥さらし」だったと、大会組織委員会に強く苦言を呈した。会長を務める超党派のスポーツ議員連盟総"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "顧客情報漏えいか 楽天証券が説明",
-      "link": "https://news.yahoo.co.jp/pickup/6603062?source=rss",
-      "published": "11/18 18:38",
-      "source": "Yahoo!ニュース",
-      "summary": "楽天証券が11月17日に公表した不正アクセスの問題を巡り、同社がテスト環境に本番の顧客データを保存していたことが問題視されている。ITmedia NEWSの取材に対し、同社は「社内システムのアップグ"
-    },
-    {
-      "category": "スポーツ",
-      "title": "年数はルーキー 東浜巨が入団会見",
-      "link": "https://news.yahoo.co.jp/pickup/6603163?source=rss",
-      "published": "11/19 15:35",
-      "source": "Yahoo!ニュース",
-      "summary": "ソフトバンクから無償トレードで広島に加入した東浜巨投手が１９日、マツダ内で入団会見を行った。背番号は「１２」。３６歳となったベテランは「（投手で）年齢は一番上だが、年数で言えばルーキー。（後輩たちに"
-    },
-    {
       "category": "IT",
       "title": "日本で受け入れられるのか？　ネットにつながらない携帯「INFOBAR ZERO」　KDDIが語った発売の意図",
       "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003330/",
       "published": "11/20 08:45",
       "source": "ITmedia",
       "summary": "KDDIが11月18日に発表した、音声通話とSMSに機能を絞った携帯電話「INFOBAR ZERO」。スマートフォンが普及したいま、挑戦的とも思える商品だが、売れる見込みはあるのか。"
-    },
-    {
-      "category": "主要",
-      "title": "法務省とラヴ上等 タイアップ経緯",
-      "link": "https://news.yahoo.co.jp/pickup/6603265?source=rss",
-      "published": "11/20 12:05",
-      "source": "Yahoo!ニュース",
-      "summary": "Netflixの恋愛リアリティ番組「ラヴ上等」に出演していた女性が、風俗営業の店を無許可で経営した疑いで逮捕されたと報じられた。"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "ネット繋がらない新機種 開発経緯",
-      "link": "https://news.yahoo.co.jp/pickup/6603060?source=rss",
-      "published": "11/18 18:30",
-      "source": "Yahoo!ニュース",
-      "summary": "KDDIと沖縄セルラーは18日、au Design projectの新機種として、インターネットに接続せず通話とSMSに特化したSIMフリー端末「INFOBAR ZERO」を発表した。価格は3万27"
     },
     {
       "category": "IT",
@@ -400,38 +440,6 @@
       "published": "11/19 14:58",
       "source": "ITmedia",
       "summary": "MicrosoftのAIエージェント開発用SDK「Microsoft Agent Framework」のPythonパッケージが侵害され、認証情報を盗む不正版「1.26.1」「1.26.2」がPyPIで一時公開された。Python起動時に自動実行され、クラウドやGitHubの認証情報を外部へ送信する。両版は削除済みで、影響環境での認証情報再発行や環境再構築が呼び掛けられている。"
-    },
-    {
-      "category": "IT",
-      "title": "Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003325/",
-      "published": "11/19 14:11",
-      "source": "ITmedia",
-      "summary": "日本政府の国家サイバー統括室も19日に注意喚起し、速やかなアップデートの適用を呼び掛けた。"
-    },
-    {
-      "category": "IT",
-      "title": "職人の技、AIで見える化　工科高校でモーションキャプチャー　企業の8割超が継承に不安",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003324/",
-      "published": "11/19 12:16",
-      "source": "ITmedia",
-      "summary": "日本のものづくりを支える職人の高齢化が進む中、経験や勘に頼ってきた技術を人工知能（AI）で「見える化」し、次世代に伝える取り組みが広がりつつある。"
-    },
-    {
-      "category": "IT",
-      "title": "ちまたの“格安GPT”、中身は偽物？　非公式APIのモデル偽装を調査した結果……",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
-      "published": "11/19 12:00",
-      "source": "ITmedia",
-      "summary": "ドイツのCISPAとカナダのウォータールー大学に所属する研究者らが発表した論文「Real Money, Fake Models: Deceptive Model Claims in Shadow APIs」は、LLM（大規模言語モデル）の公式APIを安価に仲介する非公式サービス「シャドーAPI」の実態を調査した研究報告だ。"
-    },
-    {
-      "category": "IT",
-      "title": "楽天証券漏えい、“テスト環境に顧客情報”のマズさ　識者「一般的でない」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003312/",
-      "published": "11/19 12:00",
-      "source": "ITmedia",
-      "summary": "第三者による不正アクセスを受け、最大約1125万口座分のIDや、約447万口座分の口座情報などが漏えいした可能性があると発表した楽天証券。テスト環境のシステム内で管理していた情報の一部が外部に漏えいした可能性があるという。ただ、識者はテスト環境で顧客情報を管理する状況を「一般的でない」と指摘する。"
     }
   ],
   "errors": [
