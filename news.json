@@ -1,29 +1,77 @@
 {
-  "updated": "2026-11-21T19:50:08.657952+00:00",
+  "updated": "2026-11-22T00:22:48.565203+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "LED信号機に弱点 発熱少なく着雪",
-      "link": "https://news.yahoo.co.jp/pickup/6603485?source=rss",
-      "published": "11/21 23:41",
+      "title": "氷河期世代の正社員率改善も 格差",
+      "link": "https://news.yahoo.co.jp/pickup/6603504?source=rss",
+      "published": "11/22 08:49",
       "source": "Yahoo!ニュース",
-      "summary": "日本列島に強い寒気が流れ込み、11月21日にかけて北日本などでは大雪や吹雪への警戒が必要となっている。そんな雪の季節に、SNSで「雪がつきやすく吹雪では見えない」といった困惑の声が広がっているのが「"
+      "summary": "・日本の就職氷河期世代は正社員比率が改善も賃金や報酬に格差。・厚生年金の加入年数や平均報酬が低く将来の年金水準に不安がある。・実態把握や対策に向け厚労省の年金額分布推計の詳細開示が不可欠。"
     },
     {
       "category": "社会",
-      "title": "統一選で自民系推薦せず 公明方針",
-      "link": "https://news.yahoo.co.jp/pickup/6603469?source=rss",
-      "published": "11/21 21:19",
+      "title": "税収格差是正 都と地方せめぎ合い",
+      "link": "https://news.yahoo.co.jp/pickup/6603498?source=rss",
+      "published": "11/22 08:18",
       "source": "Yahoo!ニュース",
-      "summary": "公明党は、来年春の統一地方選で自民党系候補を推薦しない方針を固めた。高市内閣の閣僚に発覚した「政治とカネ」を巡る疑惑や、与党主導の衆院議員定数削減に反発した形。連立政権を離脱して1年以上経過しており"
+      "summary": "税収の格差是正を巡り、東京都とその他の自治体との間で激しいせめぎ合いが起きている。"
     },
     {
       "category": "経済",
-      "title": "なんちゃって海鮮丼 ドンキ販売へ",
-      "link": "https://news.yahoo.co.jp/pickup/6603439?source=rss",
-      "published": "11/21 18:25",
+      "title": "ホカロンのロゴ入り靴下 売れた訳",
+      "link": "https://news.yahoo.co.jp/pickup/6603506?source=rss",
+      "published": "11/22 09:12",
       "source": "Yahoo!ニュース",
-      "summary": "来月からドン・キホーテが販売するのが「なんちゃって海鮮丼」です。"
+      "summary": "靴下に、あの「ホカロン」の文字がどーんと入っている。携帯カイロの袋で見慣れたロゴだ。レンフロ・ジャパンは、ロッテから「ホカロン」の名前やロゴを使う許可を得て、防寒靴下をつくった。社内には「本当に売れ"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "推薦入試 不合格者に1秒間誤通知",
+      "link": "https://news.yahoo.co.jp/pickup/6603483?source=rss",
+      "published": "11/21 23:26",
+      "source": "Yahoo!ニュース",
+      "summary": "名古屋市立大学が、来年度の入学者の推薦型選抜の1次試験で、不合格となった一部の受験者に対し、誤って2次試験の通知案内をしていたことが分かりました。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "DeNA 広島FAの森下暢仁と交渉",
+      "link": "https://news.yahoo.co.jp/pickup/6603490?source=rss",
+      "published": "11/22 07:38",
+      "source": "Yahoo!ニュース",
+      "summary": "DeNAが広島から国内フリーエージェント（FA）権を行使した広島・森下暢仁投手（29）と交渉し、3年総額10億円規模の大型契約を提示したことが21日、分かった。最大の補強ポイントである先発投手の獲得"
+    },
+    {
+      "category": "IT",
+      "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
+      "link": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+      "published": "11/22 08:21",
+      "source": "ITmedia",
+      "summary": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。"
+    },
+    {
+      "category": "主要",
+      "title": "村上春樹さんが村上龍さんを追悼",
+      "link": "https://news.yahoo.co.jp/pickup/6603503?source=rss",
+      "published": "11/22 08:39",
+      "source": "Yahoo!ニュース",
+      "summary": "作家の村上春樹さん（77）が21日、京都市の同志社大で講演した。冒頭で、10月に死去した村上龍さん（74）について「僕と龍は同世代で、ほぼ半世紀にわたって書き続けた。時代を共有し、ある意味で並走した"
+    },
+    {
+      "category": "社会",
+      "title": "福間女流四冠が第2子妊娠公表",
+      "link": "https://news.yahoo.co.jp/pickup/6603488?source=rss",
+      "published": "11/22 07:22",
+      "source": "Yahoo!ニュース",
+      "summary": "将棋の福間香奈女流四冠（34）は21日、岡山県倉敷市でタイトル「倉敷藤花」の防衛を決めて記者会見し、第2子妊娠を公表した。「周囲の皆さまに助けていただくと思う。対局がかなう棋戦は全力を尽くす」と話し"
+    },
+    {
+      "category": "経済",
+      "title": "トコジラミ探知犬「ビート」引退",
+      "link": "https://news.yahoo.co.jp/pickup/6603497?source=rss",
+      "published": "11/22 08:16",
+      "source": "Yahoo!ニュース",
+      "summary": "犬の持つ嗅覚の鋭さを生かし、人間の目では見つけにくい害虫調査をする探知犬。トコジラミを探し出す「ビート」が10月下旬に引退を迎えた。シロアリ探知犬としてキャリアをスタートさせ、特に優れた嗅覚と集中力"
     },
     {
       "category": "AI・テクノロジー",
@@ -35,11 +83,11 @@
     },
     {
       "category": "スポーツ",
-      "title": "FA上林誠知 阪神との交渉認める",
-      "link": "https://news.yahoo.co.jp/pickup/6603478?source=rss",
-      "published": "11/21 22:49",
+      "title": "FC東京 10戦連続無失点でJ1記録",
+      "link": "https://news.yahoo.co.jp/pickup/6603487?source=rss",
+      "published": "11/22 07:26",
       "source": "Yahoo!ニュース",
-      "summary": "国内フリーエージェント（ＦＡ）権を行使した中日・上林誠知外野手が２１日、バンテリンドームでファンフェスタに参加した。移籍か残留かを悩んでいる身だが「１年の感謝を伝える場所。そういうこと（ＦＡ）は関係"
+      "summary": "◆明治安田Ｊ１リーグ ▽第１５節 ＦＣ東京３―０Ｃ大阪（２１日・ヤンマーハナサカスタジアム） ＦＣ東京は敵地でＣ大阪に３―０で勝利し、２位広島との勝ち点差を５に広げた。前節の鹿島戦で２１年の名古屋が"
     },
     {
       "category": "IT",
@@ -51,27 +99,27 @@
     },
     {
       "category": "主要",
-      "title": "推薦入試 不合格者に1秒間誤通知",
-      "link": "https://news.yahoo.co.jp/pickup/6603483?source=rss",
-      "published": "11/21 23:26",
+      "title": "「叱らない育児」を意識 悩む母",
+      "link": "https://news.yahoo.co.jp/pickup/6603500?source=rss",
+      "published": "11/22 08:22",
       "source": "Yahoo!ニュース",
-      "summary": "名古屋市立大学が、来年度の入学者の推薦型選抜の1次試験で、不合格となった一部の受験者に対し、誤って2次試験の通知案内をしていたことが分かりました。"
+      "summary": "叱（しか）って泣かせてしまったら、子どもの自己肯定感が下がってしまうのではーー。そんな不安を抱えながら子育てをしている人は、少なくないかもしれません。ポッドキャスト「親の『のろい』をとくラジオ」には"
     },
     {
       "category": "社会",
-      "title": "東大志望者が大幅増 27年入試予測",
-      "link": "https://news.yahoo.co.jp/pickup/6603468?source=rss",
-      "published": "11/21 21:08",
+      "title": "LED信号機に弱点 発熱少なく着雪",
+      "link": "https://news.yahoo.co.jp/pickup/6603485?source=rss",
+      "published": "11/21 23:41",
       "source": "Yahoo!ニュース",
-      "summary": "2027年度の国公立大入試では、東京大の志望者増をはじめ、難関大を目指す動きが強まっている。一方、医療系など志望者が減っている分野もある。河合塾教育研究開発本部主席研究員の近藤治さんに、最新の志望動"
+      "summary": "日本列島に強い寒気が流れ込み、11月21日にかけて北日本などでは大雪や吹雪への警戒が必要となっている。そんな雪の季節に、SNSで「雪がつきやすく吹雪では見えない」といった困惑の声が広がっているのが「"
     },
     {
       "category": "経済",
-      "title": "預金1億円超個人口座 00年比3.6倍",
-      "link": "https://news.yahoo.co.jp/pickup/6603415?source=rss",
-      "published": "11/21 16:27",
+      "title": "なんちゃって海鮮丼 ドンキ販売へ",
+      "link": "https://news.yahoo.co.jp/pickup/6603439?source=rss",
+      "published": "11/21 18:25",
       "source": "Yahoo!ニュース",
-      "summary": "残高1億円以上の個人の銀行預金口座が増えている。 日銀によると、今年9月末時点で前年同月末比4．2％増の計15万4200口座と、統計が残る2000年9月末時点と比べて3．6倍に増加。また、残高は前年"
+      "summary": "来月からドン・キホーテが販売するのが「なんちゃって海鮮丼」です。"
     },
     {
       "category": "AI・テクノロジー",
@@ -83,11 +131,11 @@
     },
     {
       "category": "スポーツ",
-      "title": "明治大 まさかの神宮大会初戦敗退",
-      "link": "https://news.yahoo.co.jp/pickup/6603472?source=rss",
-      "published": "11/21 21:40",
+      "title": "FA上林誠知 阪神との交渉認める",
+      "link": "https://news.yahoo.co.jp/pickup/6603478?source=rss",
+      "published": "11/21 22:49",
       "source": "Yahoo!ニュース",
-      "summary": "筑波大に1-2で敗れた「第57回明治神宮野球大会」は21日、大会第3日目が神宮球場で行われ、第3試合の大学の部・2回戦では過去7回の優勝を誇る明大が初登場。筑波大に1-2で敗れた。"
+      "summary": "国内フリーエージェント（ＦＡ）権を行使した中日・上林誠知外野手が２１日、バンテリンドームでファンフェスタに参加した。移籍か残留かを悩んでいる身だが「１年の感謝を伝える場所。そういうこと（ＦＡ）は関係"
     },
     {
       "category": "IT",
@@ -99,11 +147,59 @@
     },
     {
       "category": "主要",
-      "title": "危険運転で婚約者犠牲 にじむ無念",
-      "link": "https://news.yahoo.co.jp/pickup/6603481?source=rss",
-      "published": "11/21 23:11",
+      "title": "GTA6 売上で記録も賛否ある背景",
+      "link": "https://news.yahoo.co.jp/pickup/6603499?source=rss",
+      "published": "11/22 08:20",
       "source": "Yahoo!ニュース",
-      "summary": "「年内には結婚する予定でした」。１２日に判決公判があった危険運転致死事件で犠牲になった男性（３１）には、生涯を共にすると決めた女性（３２）がいた。「慎ちゃんを返して」。検察官が読み上げる女性の供述調"
+      "summary": "人気ゲーム『Grand Theft Auto VI』（GTA6）の売上高は、11月19日の発売初日だけで全世界合計推計37億9000万ドル（約6000億円）に及ぶと発表されました。映画を含む全エンタメ"
+    },
+    {
+      "category": "社会",
+      "title": "防衛費巡る財務省案 議論が過熱",
+      "link": "https://news.yahoo.co.jp/pickup/6603470?source=rss",
+      "published": "11/21 21:22",
+      "source": "Yahoo!ニュース",
+      "summary": "政府が年末に改定予定の安全保障関連3文書で定める防衛費を巡り、政府、与党内の議論が過熱している。2027年度からの5年間で70～80兆円の積み上げが必要と見積もる防衛省や与党議員に対し、財務省は増税"
+    },
+    {
+      "category": "経済",
+      "title": "預金1億円超個人口座 00年比3.6倍",
+      "link": "https://news.yahoo.co.jp/pickup/6603415?source=rss",
+      "published": "11/21 16:27",
+      "source": "Yahoo!ニュース",
+      "summary": "残高1億円以上の個人の銀行預金口座が増えている。 日銀によると、今年9月末時点で前年同月末比4．2％増の計15万4200口座と、統計が残る2000年9月末時点と比べて3．6倍に増加。また、残高は前年"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "「リーマン予想」生成AIが証明か",
+      "link": "https://news.yahoo.co.jp/pickup/6603360?source=rss",
+      "published": "11/21 07:51",
+      "source": "Yahoo!ニュース",
+      "summary": "【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩ「クロード」を使い、数学の難問「リーマン予想」を証明したと自身のウェブサイトで発表した。正しけ"
+    },
+    {
+      "category": "スポーツ",
+      "title": "バスケ元代表 石橋貴俊さん急逝",
+      "link": "https://news.yahoo.co.jp/pickup/6603449?source=rss",
+      "published": "11/21 19:09",
+      "source": "Yahoo!ニュース",
+      "summary": "バスケットボール男子Ｂリーグの東京八王子ビートレインズは２１日、元日本代表でチームアドバイザー、クラブアンバサダー兼Ｕ１５アソシエイトコーチを務める石橋貴俊氏が２０日に急逝したと発表した。５８歳だっ"
+    },
+    {
+      "category": "IT",
+      "title": "韓国大学入試で電子機器不正111件摘発　AI受験疑惑巡り死者も発生",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003376/",
+      "published": "11/20 17:48",
+      "source": "ITmedia",
+      "summary": "韓国教育省は11月20日、19日に実施された大学修学能力試験（修能、日本の大学入学共通テストに相当）で、スマートグラス（AI眼鏡）など電子機器の扱いを巡り111件の不正行為が確認されたと明らかにした。"
+    },
+    {
+      "category": "主要",
+      "title": "兵庫3歳死亡 家庭へ復帰なぜ判断",
+      "link": "https://news.yahoo.co.jp/pickup/6603495?source=rss",
+      "published": "11/22 08:04",
+      "source": "Yahoo!ニュース",
+      "summary": "兵庫県伊丹市で１月に３歳女児が死亡し、父親が傷害致死の疑いで逮捕された事件で、兵庫県川西こども家庭センター（児童相談所）が、施設に入所中の女児を自宅へ戻すことを決めた際、親子関係の良好さを根拠の一つ"
     },
     {
       "category": "社会",
@@ -123,107 +219,11 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "「リーマン予想」生成AIが証明か",
-      "link": "https://news.yahoo.co.jp/pickup/6603360?source=rss",
-      "published": "11/21 07:51",
-      "source": "Yahoo!ニュース",
-      "summary": "【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩ「クロード」を使い、数学の難問「リーマン予想」を証明したと自身のウェブサイトで発表した。正しけ"
-    },
-    {
-      "category": "スポーツ",
-      "title": "J1で人違い確認にVAR 退場者変更",
-      "link": "https://news.yahoo.co.jp/pickup/6603467?source=rss",
-      "published": "11/21 21:21",
-      "source": "Yahoo!ニュース",
-      "summary": "◇明治安田J1リーグ第15節 G大阪 ― 岡山（2026年11月21日 パナスタ） G大阪―岡山で珍しい退場劇が生まれた。0―0の前半43分、G大阪のDF佐々木翔悟とDF初瀬亮が、岡山FWブラウンノ"
-    },
-    {
-      "category": "IT",
-      "title": "韓国大学入試で電子機器不正111件摘発　AI受験疑惑巡り死者も発生",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003376/",
-      "published": "11/20 17:48",
-      "source": "ITmedia",
-      "summary": "韓国教育省は11月20日、19日に実施された大学修学能力試験（修能、日本の大学入学共通テストに相当）で、スマートグラス（AI眼鏡）など電子機器の扱いを巡り111件の不正行為が確認されたと明らかにした。"
-    },
-    {
-      "category": "主要",
-      "title": "金塊20kgなど盗まれる 兵庫の住宅",
-      "link": "https://news.yahoo.co.jp/pickup/6603477?source=rss",
-      "published": "11/21 22:43",
-      "source": "Yahoo!ニュース",
-      "summary": "２１日未明、兵庫県西宮市の住宅で、現金約２５００万円と金塊約２０キロなどが盗まれる事件がありました。"
-    },
-    {
-      "category": "社会",
-      "title": "東北や北陸の山で積雪増へ 注意",
-      "link": "https://news.yahoo.co.jp/pickup/6603445?source=rss",
-      "published": "11/21 18:51",
-      "source": "Yahoo!ニュース",
-      "summary": "東北や北陸周辺の山では今夜(21日)から明日22日の朝にかけて雪の降り方が強まる所があるでしょう。倒木による道路の通行止めや停電などにご注意ください。北陸の平地では雨の所が多いですが、ザーザー降りの"
-    },
-    {
-      "category": "経済",
-      "title": "なぜ実家暮らし 40代未婚者の答え",
-      "link": "https://news.yahoo.co.jp/pickup/6603379?source=rss",
-      "published": "11/21 10:20",
-      "source": "Yahoo!ニュース",
-      "summary": "近年、親と同居する40〜50代の未婚者が増加している。物価高や家賃高騰も相まって、この20年間で約2倍に膨らんでいるという。一方で、SNSなどでは「子ども部屋おじさん」と揶揄されるなど、「甘え」「自"
-    },
-    {
-      "category": "AI・テクノロジー",
       "title": "ZOZOTOWN 1518万人の情報漏洩",
       "link": "https://news.yahoo.co.jp/pickup/6603349?source=rss",
       "published": "11/20 23:35",
       "source": "Yahoo!ニュース",
       "summary": "ZOZOは11月20日、外部サービス「KARTE」への不正アクセスにより、ZOZOTOWN会員（退会者含む）約1,518万人とWEAR by ZOZO会員約1,393万人の情報が漏えいしたと発表した"
-    },
-    {
-      "category": "スポーツ",
-      "title": "バスケ元代表 石橋貴俊さん急逝",
-      "link": "https://news.yahoo.co.jp/pickup/6603449?source=rss",
-      "published": "11/21 19:09",
-      "source": "Yahoo!ニュース",
-      "summary": "バスケットボール男子Ｂリーグの東京八王子ビートレインズは２１日、元日本代表でチームアドバイザー、クラブアンバサダー兼Ｕ１５アソシエイトコーチを務める石橋貴俊氏が２０日に急逝したと発表した。５８歳だっ"
-    },
-    {
-      "category": "IT",
-      "title": "片山財務相、楽天証券は「顧客の不安解消に、できること全部していただきたい」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
-      "published": "11/20 17:13",
-      "source": "ITmedia",
-      "summary": "片山さつき財務相は、情報漏えいの可能性を発表した楽天証券について、「お客様等の相談に真摯に応じ、不安の解消についても、できる限りのことは全部やっていただきたい」と話した。"
-    },
-    {
-      "category": "主要",
-      "title": "M-1 ドンデコルテやエバース敗退",
-      "link": "https://news.yahoo.co.jp/pickup/6603474?source=rss",
-      "published": "11/21 22:17",
-      "source": "Yahoo!ニュース",
-      "summary": "漫才日本一決定戦「M－1グランプリ」（12月20日決勝）準決勝進出者30組が21日、TVerで発表された。"
-    },
-    {
-      "category": "社会",
-      "title": "文科相交代の可能性示唆 自民党",
-      "link": "https://news.yahoo.co.jp/pickup/6603410?source=rss",
-      "published": "11/21 15:31",
-      "source": "Yahoo!ニュース",
-      "summary": "自民党の鈴木俊一幹事長は21日、盛岡市で記者会見し、政治資金パーティーに官僚を呼び企業関係者に政策を説明させた関芳弘文部科学相を交代させる可能性を示唆した。野党が関氏の問責決議案提出を検討しているこ"
-    },
-    {
-      "category": "経済",
-      "title": "3万円超シャワーヘッド 売れる訳",
-      "link": "https://news.yahoo.co.jp/pickup/6603374?source=rss",
-      "published": "11/21 09:44",
-      "source": "Yahoo!ニュース",
-      "summary": "3万円超えの「高機能シャワーヘッド」が軒並み好調だ。2018年から販売実績があり、同市場を牽引するMTGの「ReFa」やサイエンスの「ミラブル」だけでなく、後発のリクシルやパナソニックの最新製品も想"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "丸井 EC顧客名など883万件漏えい",
-      "link": "https://news.yahoo.co.jp/pickup/6603344?source=rss",
-      "published": "11/20 22:31",
-      "source": "Yahoo!ニュース",
-      "summary": "丸井グループは２０日、自社のインターネット通販サイト「マルイウェブチャネル」を利用したことがある顧客の氏名やメールアドレスなど約８８３万件が漏えいしたと発表した。また、エポスカード利用者の顧客管理番"
     },
     {
       "category": "スポーツ",
@@ -235,43 +235,35 @@
     },
     {
       "category": "IT",
-      "title": "H3ロケット打ち上げ、JAXAから三菱重工に移管　来年1月の11号機から",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
-      "published": "11/20 17:09",
+      "title": "片山財務相、楽天証券は「顧客の不安解消に、できること全部していただきたい」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003371/",
+      "published": "11/20 17:13",
       "source": "ITmedia",
-      "summary": "27年1月11日に打ち上げ予定の11号機は、三菱重工が打ち上げを担う。"
+      "summary": "片山さつき財務相は、情報漏えいの可能性を発表した楽天証券について、「お客様等の相談に真摯に応じ、不安の解消についても、できる限りのことは全部やっていただきたい」と話した。"
     },
     {
       "category": "主要",
-      "title": "防衛費巡る財務省案 議論が過熱",
-      "link": "https://news.yahoo.co.jp/pickup/6603470?source=rss",
-      "published": "11/21 21:22",
+      "title": "チェルシーを撃破 田中碧に高評価",
+      "link": "https://news.yahoo.co.jp/pickup/6603494?source=rss",
+      "published": "11/22 07:52",
       "source": "Yahoo!ニュース",
-      "summary": "政府が年末に改定予定の安全保障関連3文書で定める防衛費を巡り、政府、与党内の議論が過熱している。2027年度からの5年間で70～80兆円の積み上げが必要と見積もる防衛省や与党議員に対し、財務省は増税"
-    },
-    {
-      "category": "社会",
-      "title": "首相中国到着時の段差 木原氏説明",
-      "link": "https://news.yahoo.co.jp/pickup/6603366?source=rss",
-      "published": "11/21 08:46",
-      "source": "Yahoo!ニュース",
-      "summary": "アジア太平洋経済連携協力会議（APEC）首脳会議に出席するため、高市総理大臣が中国・深センに到着した際、政府専用機のドアとタラップに大きな段差が生じたことについて、木原官房長官は「事前にそういう情報"
+      "summary": "イングランド・プレミアリーグ第11節が現地時間21日に行われ、日本代表MF田中碧が所属するリーズ・ユナイテッドは、敵地でチェルシーに4-1で勝利した。田中は先発出場し、86分までプレー。チームの逆転"
     },
     {
       "category": "経済",
-      "title": "ホテル歯ブラシ 返すとお菓子の訳",
-      "link": "https://news.yahoo.co.jp/pickup/6603372?source=rss",
-      "published": "11/21 09:37",
+      "title": "なぜ実家暮らし 40代未婚者の答え",
+      "link": "https://news.yahoo.co.jp/pickup/6603379?source=rss",
+      "published": "11/21 10:20",
       "source": "Yahoo!ニュース",
-      "summary": "ホテルを出る前に、洗面台に忘れ物がないか確かめる。目に入ったのは、袋に入ったままの歯ブラシ。自分の歯ブラシを使ったので、これはそのまま置いて帰ろう――。"
+      "summary": "近年、親と同居する40〜50代の未婚者が増加している。物価高や家賃高騰も相まって、この20年間で約2倍に膨らんでいるという。一方で、SNSなどでは「子ども部屋おじさん」と揶揄されるなど、「甘え」「自"
     },
     {
       "category": "AI・テクノロジー",
-      "title": "「KARTE」情報漏えい延べ2200社",
-      "link": "https://news.yahoo.co.jp/pickup/6603339?source=rss",
-      "published": "11/20 22:09",
+      "title": "丸井 EC顧客名など883万件漏えい",
+      "link": "https://news.yahoo.co.jp/pickup/6603344?source=rss",
+      "published": "11/20 22:31",
       "source": "Yahoo!ニュース",
-      "summary": "メール配信やマーケティングの支援を手がける「プレイド」（東京）は20日、自社サービス「KARTE（カルテ）」が不正アクセスを受けた問題で、情報漏えいの対象となった取引先企業は延べ2200社に上ると公"
+      "summary": "丸井グループは２０日、自社のインターネット通販サイト「マルイウェブチャネル」を利用したことがある顧客の氏名やメールアドレスなど約８８３万件が漏えいしたと発表した。また、エポスカード利用者の顧客管理番"
     },
     {
       "category": "スポーツ",
@@ -283,35 +275,35 @@
     },
     {
       "category": "IT",
-      "title": "ドンキのAI社員「近藤あい」が正式デビュー　販促POPや動画で活躍へ　運営元「すでに裏に20人ぐらいいる」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
-      "published": "11/20 15:11",
+      "title": "H3ロケット打ち上げ、JAXAから三菱重工に移管　来年1月の11号機から",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003374/",
+      "published": "11/20 17:09",
       "source": "ITmedia",
-      "summary": "ドン・キホーテのAI社員「近藤あい」が11月23日に正式デビューする。実は裏には約20人のAIキャラクターが控えているという。開発に約1年半を費やした舞台裏や、AI社員を導入した狙いを担当者に聞いた。"
+      "summary": "27年1月11日に打ち上げ予定の11号機は、三菱重工が打ち上げを担う。"
     },
     {
       "category": "主要",
-      "title": "ゼレンスキー氏 露大統領は人殺し",
-      "link": "https://news.yahoo.co.jp/pickup/6603464?source=rss",
-      "published": "11/21 20:51",
+      "title": "DIYで溶接中に出火か 男性が死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6603493?source=rss",
+      "published": "11/22 07:50",
       "source": "Yahoo!ニュース",
-      "summary": "（CNN） ウクライナのゼレンスキー大統領は20日、ロシアのプーチン大統領を「友人」と呼んだトランプ米大統領の発言に反応し、「我々にとっては人殺し」だと訴えた。"
+      "summary": "21日夕方、徳島県阿波市で倉庫の一部が燃える火事があり、83歳の男性が死亡しました。"
     },
     {
       "category": "経済",
-      "title": "米株式市場急落 ナスダック5%安",
-      "link": "https://news.yahoo.co.jp/pickup/6603352?source=rss",
-      "published": "11/21 07:30",
+      "title": "3万円超シャワーヘッド 売れる訳",
+      "link": "https://news.yahoo.co.jp/pickup/6603374?source=rss",
+      "published": "11/21 09:44",
       "source": "Yahoo!ニュース",
-      "summary": "［ニューヨーク ２０日 ロイター］ - 米国株式市場では売りが加速し、前日に続き主要３指数が軒並み急落して取引を終えた。人工知能（ＡＩ）開発企業アンソロピックの大型上場が市場の期待を支え‌るには至らず"
+      "summary": "3万円超えの「高機能シャワーヘッド」が軒並み好調だ。2018年から販売実績があり、同市場を牽引するMTGの「ReFa」やサイエンスの「ミラブル」だけでなく、後発のリクシルやパナソニックの最新製品も想"
     },
     {
       "category": "AI・テクノロジー",
-      "title": "政府内部資料流出か 不正アクセス",
-      "link": "https://news.yahoo.co.jp/pickup/6603320?source=rss",
-      "published": "11/20 18:36",
+      "title": "「KARTE」情報漏えい延べ2200社",
+      "link": "https://news.yahoo.co.jp/pickup/6603339?source=rss",
+      "published": "11/20 22:09",
       "source": "Yahoo!ニュース",
-      "summary": "デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれているおそれがあり、漏洩したファイルの件数や内容な"
+      "summary": "メール配信やマーケティングの支援を手がける「プレイド」（東京）は20日、自社サービス「KARTE（カルテ）」が不正アクセスを受けた問題で、情報漏えいの対象となった取引先企業は延べ2200社に上ると公"
     },
     {
       "category": "スポーツ",
@@ -323,35 +315,35 @@
     },
     {
       "category": "IT",
+      "title": "ドンキのAI社員「近藤あい」が正式デビュー　販促POPや動画で活躍へ　運営元「すでに裏に20人ぐらいいる」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003369/",
+      "published": "11/20 15:11",
+      "source": "ITmedia",
+      "summary": "ドン・キホーテのAI社員「近藤あい」が11月23日に正式デビューする。実は裏には約20人のAIキャラクターが控えているという。開発に約1年半を費やした舞台裏や、AI社員を導入した狙いを担当者に聞いた。"
+    },
+    {
+      "category": "主要",
+      "title": "関文科相の辞任論 与党内で拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6603489?source=rss",
+      "published": "11/22 07:35",
+      "source": "Yahoo!ニュース",
+      "summary": "関芳弘文部科学相が企業関係者を集めた複数の政治資金パーティーに利害関係にある省庁職員を同席させていた問題で、与党内で２１日、関氏の辞任論が広がった。少数与党の参院では、野党が関氏への問責決議案を提出"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "政府内部資料流出か 不正アクセス",
+      "link": "https://news.yahoo.co.jp/pickup/6603320?source=rss",
+      "published": "11/20 18:36",
+      "source": "Yahoo!ニュース",
+      "summary": "デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれているおそれがあり、漏洩したファイルの件数や内容な"
+    },
+    {
+      "category": "IT",
       "title": "Microsoft、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
       "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003368/",
       "published": "11/20 13:29",
       "source": "ITmedia",
       "summary": "米Microsoftは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。"
-    },
-    {
-      "category": "主要",
-      "title": "幻の植物の新種 ミャンマーで発見",
-      "link": "https://news.yahoo.co.jp/pickup/6603422?source=rss",
-      "published": "11/21 17:01",
-      "source": "Yahoo!ニュース",
-      "summary": "ランプのような見た目から「妖精のランプ」と呼ばれ、世界でも６種しか確認されていない珍しい植物「ヒナノボンボリ属」の新種をミャンマーで見つけたと、国立科学博物館などの研究チームが発表した。この植物の仲"
-    },
-    {
-      "category": "経済",
-      "title": "EV補助金受け付け終了 予算枯渇",
-      "link": "https://news.yahoo.co.jp/pickup/6603347?source=rss",
-      "published": "11/20 23:58",
-      "source": "Yahoo!ニュース",
-      "summary": "経済産業省は20日、電気自動車（EV）や燃料電池車（FCV）などの購入を促す補助金の申請受け付けを同日付で終了したと発表した。確保した予算が枯渇する見通しとなったため。EV需要が想定より伸び、前倒し"
-    },
-    {
-      "category": "スポーツ",
-      "title": "異例 大谷がNBと引退まで契約",
-      "link": "https://news.yahoo.co.jp/pickup/6603369?source=rss",
-      "published": "11/21 08:41",
-      "source": "Yahoo!ニュース",
-      "summary": "米スポーツ用品メーカー「ニューバランス」は20日、ドジャースの大谷翔平選手（32）とのスポンサー契約を現役引退まで延長することで合意したと発表した。また、最先端の研究開発施設を「ショウヘイ・オオタニ"
     },
     {
       "category": "IT",
@@ -376,46 +368,6 @@
       "published": "11/20 09:25",
       "source": "ITmedia",
       "summary": "Googleは、衛星軌道上にAIデータセンターを構築する「Project Suncatcher」でジェフ・ベゾス氏率いる米Blue Originと提携したと発表した。2029年第1四半期を目標に、大型ロケット「New Glenn」で衛星を太陽同期軌道へ打ち上げる。各衛星はデータセンターのラック1本分程度の計算能力を持つとしている。"
-    },
-    {
-      "category": "IT",
-      "title": "PHP「緊急」脆弱性、サービス一時停止の動き再び　ウマ娘やグラブル、イープラスなど緊急メンテ",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003357/",
-      "published": "11/20 09:17",
-      "source": "ITmedia",
-      "summary": "「PHP2Shell」への対応以降、脆弱性の修正に合わせ、サービスを止めてメンテナンスする流れができつつある。"
-    },
-    {
-      "category": "IT",
-      "title": "日本で受け入れられるのか？　ネットにつながらない携帯「INFOBAR ZERO」　KDDIが語った発売の意図",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003330/",
-      "published": "11/20 08:45",
-      "source": "ITmedia",
-      "summary": "KDDIが11月18日に発表した、音声通話とSMSに機能を絞った携帯電話「INFOBAR ZERO」。スマートフォンが普及したいま、挑戦的とも思える商品だが、売れる見込みはあるのか。"
-    },
-    {
-      "category": "IT",
-      "title": "Mac版「Gemini」にユーザーの代わりにアプリを操作する「computer use」機能追加　まず米国で",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003356/",
-      "published": "11/20 08:41",
-      "source": "ITmedia",
-      "summary": "Googleは、Mac版「Gemini」アプリにAIが画面を認識してアプリを自動操作する「computer use」機能を追加した。隔離されたバックグラウンドウィンドウで動作するため、ユーザーの作業を妨げずにファイルやWebをまたいだ複数手順の業務を代行できる。まずは米国の有料プラン加入者向けに英語版から提供を始める。"
-    },
-    {
-      "category": "IT",
-      "title": "湘南美容クリニックのSBC、162万人分の個人情報流出　パスワードは「暗号化せず保存していた」",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003355/",
-      "published": "11/20 08:17",
-      "source": "ITmedia",
-      "summary": "162万4000人分の氏名、性別、電話番号、メールアドレス、パスワード、住所、生年月日、などが流出。期間は2010年?2023年で、「当時は登録パスワードを暗号化せずに保存していた」という。"
-    },
-    {
-      "category": "IT",
-      "title": "AnthropicがNasdaq上場、IPO調達額は史上最大の813億ドル　初値は公開価格を34％上回る",
-      "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003354/",
-      "published": "11/20 06:38",
-      "source": "ITmedia",
-      "summary": "Anthropicは、Nasdaq市場に上場した（ティッカー：ANT）。公開価格は1株83ドルで、IPO調達額は約813億ドルとSpaceXを上回り史上最大規模となった。初値は公開価格を約34％上回る111.50ドルを付け、時価総額は初値ベースで約2兆ドルに達した。アモデイCEOは上場に際し、安全性を重視する姿勢を改めて表明した。"
     }
   ],
   "errors": [
