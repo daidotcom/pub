@@ -1,29 +1,77 @@
 {
-  "updated": "2026-11-23T10:51:42.175090+00:00",
+  "updated": "2026-11-23T22:41:53.901702+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "勤労感謝の日に70円ラーメン提供",
-      "link": "https://news.yahoo.co.jp/pickup/6603705?source=rss",
-      "published": "11/23 19:31",
+      "title": "木村文乃 日テレ系連ドラ初主演",
+      "link": "https://news.yahoo.co.jp/pickup/6603741?source=rss",
+      "published": "11/24 07:32",
       "source": "Yahoo!ニュース",
-      "summary": "11月23日は「勤労感謝の日」です。働く会社員などを応援しようと、静岡県磐田市のラーメン店が自慢の1杯を70円で提供しました。量や具材は普段のまま。物価高のなか赤字覚悟で挑んだ企画です。"
+      "summary": "「食」を通じた再生の物語 累計68万部を突破し、2025年本屋大賞を受賞した阿部暁子氏の小説『カフネ』（講談社文庫）が、2027年1月期の日本テレビ系土曜ドラマ（毎週土曜 後9：00）として放送され"
     },
     {
       "category": "社会",
-      "title": "気圧低下 24日は頭痛やめまい注意",
-      "link": "https://news.yahoo.co.jp/pickup/6603682?source=rss",
-      "published": "11/23 16:35",
+      "title": "3文書改定 経済安保の概要案判明",
+      "link": "https://news.yahoo.co.jp/pickup/6603742?source=rss",
+      "published": "11/24 07:36",
       "source": "Yahoo!ニュース",
-      "summary": "連休明けの明日24日は前線や低気圧が通過し、全国的に気圧低下による影響度が大きくなるでしょう。27日から28日も各地で気圧が低下する予想で、頭痛やめまいなどに注意が必要です。"
+      "summary": "政府が１２月に改定する安全保障３文書に盛り込む経済安保関連の概要案が判明した。長期戦に耐え抜くウクライナを念頭に、インフラ（社会基盤）が攻撃されても即座に立ち直る「復元力」を掲げる。「経済力・技術力"
     },
     {
       "category": "経済",
-      "title": "食べるポン酢「どろぽん」人気",
-      "link": "https://news.yahoo.co.jp/pickup/6603679?source=rss",
-      "published": "11/23 16:11",
+      "title": "フアン氏 エヌビディアCEOに復帰",
+      "link": "https://news.yahoo.co.jp/pickup/6603732?source=rss",
+      "published": "11/23 23:17",
       "source": "Yahoo!ニュース",
-      "summary": "和歌山県北山村特産のかんきつ類・ジャバラの加工品を手がける「じゃばらいず北山」（北山村七色）が開発した調味料「噂（うわさ）のどろぽん」が〈食べるポン酢〉として人気を集めている。ポン酢の製造工程で残り"
+      "summary": "[２３日 ロイター] - エヌビディアの取締役会は、トランプ米大統領の圧力を受け、ジェンスン・フアン氏を最高経営責任者（ＣＥＯ）に復帰させた。中国のスパイとされる人物を含む複数の相手との不倫が発覚し"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "タッチ決済改札 利用者が戸惑いも",
+      "link": "https://news.yahoo.co.jp/pickup/6603699?source=rss",
+      "published": "11/23 18:53",
+      "source": "Yahoo!ニュース",
+      "summary": "日々の通勤や移動で欠かせない鉄道の自動改札機に、いま大きな変化が起きている。駅の改札機にクレジットカードやデビットカード、スマートフォンなどをかざして通過する「タッチ決済改札」の導入が全国各地で急速"
+    },
+    {
+      "category": "スポーツ",
+      "title": "阪神 FAの上林誠知と契約合意",
+      "link": "https://news.yahoo.co.jp/pickup/6603734?source=rss",
+      "published": "11/24 06:15",
+      "source": "Yahoo!ニュース",
+      "summary": "阪神が、中日から国内フリーエージェント（FA）権を行使した上林誠知外野手（31）と契約合意に至ったことが23日、分かった。近日中にも正式発表される。今オフ、球団はリーグ3連覇を狙う来季へ向けて積極補"
+    },
+    {
+      "category": "IT",
+      "title": "CrowdStrike、Zscalerを約439億ドルで買収へ　狙いはAIエージェントの安全確保",
+      "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003398/",
+      "published": "11/24 07:20",
+      "source": "ITmedia",
+      "summary": "CrowdStrikeは、ネットワークセキュリティ大手のZscalerを全額株式交換で買収すると発表した。Zscalerの企業価値は約7兆円。Zscalerの「Zero Trust Exchange」などを「Falcon」基盤に統合し、AIエージェントの保護を強化する。統合後の年間経常収益は100億ドルを超える見込みだ。"
+    },
+    {
+      "category": "主要",
+      "title": "NY株大幅反発 フアン氏復帰好感",
+      "link": "https://news.yahoo.co.jp/pickup/6603740?source=rss",
+      "published": "11/24 07:21",
+      "source": "Yahoo!ニュース",
+      "summary": "【ニューヨーク時事】週明け23日のニューヨーク株式相場は、米半導体大手エヌビディアが不倫問題で辞任したジェンスン・フアン氏の最高経営責任者（CEO）復帰を発表したことを好感して、大幅反発した。"
+    },
+    {
+      "category": "社会",
+      "title": "考古学研究者の森岡秀人さん死去",
+      "link": "https://news.yahoo.co.jp/pickup/6603731?source=rss",
+      "published": "11/23 23:20",
+      "source": "Yahoo!ニュース",
+      "summary": "高松塚古墳（奈良県）の発掘や弥生土器研究などで知られた考古学研究者で奈良県立橿原考古学研究所特別指導研究員の森岡秀人（もりおか・ひでと）さんが19日、病気のため死去した。74歳。神戸市出身。葬儀は近"
+    },
+    {
+      "category": "経済",
+      "title": "地銀など定期預金金利を大幅上げ",
+      "link": "https://news.yahoo.co.jp/pickup/6603719?source=rss",
+      "published": "11/23 21:48",
+      "source": "Yahoo!ニュース",
+      "summary": "地方銀行やネット銀行で定期預金の金利を大幅に引き上げる動きが相次いでいる。賞与の支給時期などに合わせて預金量を増やし、貸出金の原資を確保する狙いがある。日本銀行が12月に政策金利を現行の1・25％程"
     },
     {
       "category": "AI・テクノロジー",
@@ -35,43 +83,43 @@
     },
     {
       "category": "スポーツ",
-      "title": "プロ野球OB戦 各地で負傷者続出",
-      "link": "https://news.yahoo.co.jp/pickup/6603706?source=rss",
-      "published": "11/23 19:32",
+      "title": "藤浪をなぜ獲得 オリ本部長が説明",
+      "link": "https://news.yahoo.co.jp/pickup/6603728?source=rss",
+      "published": "11/23 22:45",
       "source": "Yahoo!ニュース",
-      "summary": "各地でOB戦が行われた3連休 プロ野球はオフシーズンに入り、23日にかけた3連休では各地でOB戦が行われた。レジェンド集結にファンは大盛り上がり。一方で、故障者も続出してしまった。"
+      "summary": "藤浪を獲得したオリックス オリックスが獲得を発表した藤浪晋太郎投手が23日、大阪・舞洲の球団事務所で入団会見を行った。小浜裕一球団本部長は、藤浪獲得に至った理由について「1軍も2軍も、他の球場の試合"
     },
     {
       "category": "IT",
-      "title": "「Microsoft To Do」、2027年6月にアプリ提供終了　法人向けは「Planner」へ移行、個人向けは代替なし",
-      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003395/",
-      "published": "11/23 12:12",
+      "title": "NVIDIA、フアン氏のCEO復帰を発表　トランプ大統領「私がまとめた」と取締役会への働きかけ認める",
+      "link": "https://www.itmedia.co.jp/news/article/2611/24/2000003397/",
+      "published": "11/24 06:32",
       "source": "ITmedia",
-      "summary": "Microsoftは、タスク管理アプリ「Microsoft To Do」の全プラットフォーム向けアプリを2027年6月30日に提供終了すると発表した。職場・学校アカウント向けには「Microsoft Planner」を後継として案内するが、個人アカウントでは利用できず、代替アプリへの移行を勧めている。既存データは自動移行されない。"
+      "summary": "NVIDIAは、11月12日に退任したジェンスン・フアン氏の社長兼CEOおよび取締役への復帰を発表した。取締役会は米政府高官の意見を踏まえ、国家安全保障上のリスクはないと判断したという。トランプ大統領はCNBCの取材に対し、取締役会へ直接復帰を働きかけたことを認め、ウォーレン上院議員は「無謀な決定」と批判している。"
     },
     {
       "category": "主要",
-      "title": "野党 24日にも文科相問責案を協議",
-      "link": "https://news.yahoo.co.jp/pickup/6603704?source=rss",
-      "published": "11/23 19:12",
+      "title": "木村拓哉 観客と大合唱で感極まる",
+      "link": "https://news.yahoo.co.jp/pickup/6603739?source=rss",
+      "published": "11/24 07:21",
       "source": "Yahoo!ニュース",
-      "summary": "野党各党は、政治資金パーティーに官僚を呼び企業関係者に政策を説明させた関芳弘文部科学相について、24日にも参院での問責決議案提出に向けて協議し、辞任要求を強める方針だ。関氏は辞任を否定し、高市政権幹"
+      "summary": "ソウル、台北を含む5都市9公演を完走 俳優で歌手の木村拓哉が23日、千葉・ららアリーナ 東京ベイで「TAKUYA KIMURA Live Tour 2026 Checkpoint」の最終公演を開催し"
     },
     {
       "category": "社会",
-      "title": "謎の迷惑行為「少林寺」拡散背景",
-      "link": "https://news.yahoo.co.jp/pickup/6603654?source=rss",
-      "published": "11/23 12:12",
+      "title": "「演説妨害」規制への議論 焦点は",
+      "link": "https://news.yahoo.co.jp/pickup/6603729?source=rss",
+      "published": "11/23 23:08",
       "source": "Yahoo!ニュース",
-      "summary": "近頃見聞きするようになった「少林寺」という言葉。警察に対して迷惑行為をする際の掛け声として、少年たちの間で広まっているようだ。「少林寺」と聞くと、中国の仏教寺院「少林寺」や、日本発祥の武道である「少"
+      "summary": "与野党内で、選挙運動や街頭演説を妨害する行為の規制強化に向けた動きが活発化している。来春には統一地方選が控えており、今国会での法整備を求める声も出ている。具体的に規制の対象とする行為の範囲などを巡り"
     },
     {
       "category": "経済",
-      "title": "常識覆す JR東海の異端営業マン",
-      "link": "https://news.yahoo.co.jp/pickup/6603671?source=rss",
-      "published": "11/23 15:11",
+      "title": "勤労感謝の日に70円ラーメン提供",
+      "link": "https://news.yahoo.co.jp/pickup/6603705?source=rss",
+      "published": "11/23 19:31",
       "source": "Yahoo!ニュース",
-      "summary": "齋藤晋作さん（４３）は１５年前、リクルートに入社した。担当したのは「ホットペッパーグルメ」。仕事は飲食店にネット掲載の契約をしてもらうことだ。"
+      "summary": "11月23日は「勤労感謝の日」です。働く会社員などを応援しようと、静岡県磐田市のラーメン店が自慢の1杯を70円で提供しました。量や具材は普段のまま。物価高のなか赤字覚悟で挑んだ企画です。"
     },
     {
       "category": "AI・テクノロジー",
@@ -83,11 +131,59 @@
     },
     {
       "category": "スポーツ",
-      "title": "田中将 Gフェスで「投手・オレ」",
-      "link": "https://news.yahoo.co.jp/pickup/6603693?source=rss",
-      "published": "11/23 17:54",
+      "title": "朗希主催の学童大会 MLB仕様演出",
+      "link": "https://news.yahoo.co.jp/pickup/6603724?source=rss",
+      "published": "11/23 22:32",
       "source": "Yahoo!ニュース",
-      "summary": "◆ジャイアンツ・ファンフェスタ ２０２６ Ｐｒｅｓｅｎｔｅｄ ｂｙ Ｆａｎａｔｉｃｓ（２３日・東京ドーム） 巨人のファンフェスタで７年ぶりに野球対決が行われた。２０１９年以来の開催で、坂本勇人監督率"
+      "summary": "ドジャースの佐々木朗希投手（２５）が２３日、自身が故郷・大船渡市などで主催した学童野球大会「第１回Ｒｏｋｉ Ｓｅｒｉｅｓ」に登場し、決勝戦の後に取材に応じた。表彰式ではメジャーばりのセレモニーや、シ"
+    },
+    {
+      "category": "IT",
+      "title": "「Microsoft To Do」、2027年6月にアプリ提供終了　法人向けは「Planner」へ移行、個人向けは代替なし",
+      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003395/",
+      "published": "11/23 12:12",
+      "source": "ITmedia",
+      "summary": "Microsoftは、タスク管理アプリ「Microsoft To Do」の全プラットフォーム向けアプリを2027年6月30日に提供終了すると発表した。職場・学校アカウント向けには「Microsoft Planner」を後継として案内するが、個人アカウントでは利用できず、代替アプリへの移行を勧めている。既存データは自動移行されない。"
+    },
+    {
+      "category": "主要",
+      "title": "ロッククライミング中に滑落 死亡",
+      "link": "https://news.yahoo.co.jp/pickup/6603737?source=rss",
+      "published": "11/24 07:03",
+      "source": "Yahoo!ニュース",
+      "summary": "長野県栄村の布岩山で男性がロッククライミング中に滑落して、死亡しました。"
+    },
+    {
+      "category": "社会",
+      "title": "拘束の記者 駐露日本大使が面会",
+      "link": "https://news.yahoo.co.jp/pickup/6603725?source=rss",
+      "published": "11/23 22:33",
+      "source": "Yahoo!ニュース",
+      "summary": "ロシアのFSB（連邦保安庁）に身柄を拘束されている北海道新聞の今井裕紀記者に日本の駐ロシア大使が面会しました。"
+    },
+    {
+      "category": "経済",
+      "title": "常識覆す JR東海の異端営業マン",
+      "link": "https://news.yahoo.co.jp/pickup/6603671?source=rss",
+      "published": "11/23 15:11",
+      "source": "Yahoo!ニュース",
+      "summary": "齋藤晋作さん（４３）は１５年前、リクルートに入社した。担当したのは「ホットペッパーグルメ」。仕事は飲食店にネット掲載の契約をしてもらうことだ。"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "リーマン予想 AI証明巡り共同声明",
+      "link": "https://news.yahoo.co.jp/pickup/6603568?source=rss",
+      "published": "11/22 17:07",
+      "source": "Yahoo!ニュース",
+      "summary": "生成AI「Claude」を使って数学の難問「リーマン予想」を証明したとする研究成果について、数学の証明をコンピューターで検証するプログラミング言語「Lean」と数学ライブラリー「Mathlib」の開"
+    },
+    {
+      "category": "スポーツ",
+      "title": "プロ野球OB戦 各地で負傷者続出",
+      "link": "https://news.yahoo.co.jp/pickup/6603706?source=rss",
+      "published": "11/23 19:32",
+      "source": "Yahoo!ニュース",
+      "summary": "各地でOB戦が行われた3連休 プロ野球はオフシーズンに入り、23日にかけた3連休では各地でOB戦が行われた。レジェンド集結にファンは大盛り上がり。一方で、故障者も続出してしまった。"
     },
     {
       "category": "IT",
@@ -99,19 +195,19 @@
     },
     {
       "category": "主要",
-      "title": "ウがリビア沖で露軍艦を「撃沈」",
-      "link": "https://news.yahoo.co.jp/pickup/6603703?source=rss",
-      "published": "11/23 19:12",
+      "title": "巨人 織田翔希と26日に初対面",
+      "link": "https://news.yahoo.co.jp/pickup/6603738?source=rss",
+      "published": "11/24 07:03",
       "source": "Yahoo!ニュース",
-      "summary": "【カイロ、キーウ共同】ウクライナのゼレンスキー大統領は23日、リビア沖の地中海でロシアのコルベット艦をウクライナ製の無人艇7隻で攻撃し、「撃沈させた」とX（旧ツイッター）に投稿した。ロシアが武器輸送"
+      "summary": "巨人が１０月のドラフト会議で１位指名した横浜・織田翔希投手（１８）と２６日に面談することが２３日、分かった。生活拠点の米ニューヨークに滞在中の松井秀喜監督（５２）は出席しない見込みで、榑松伸介スカウ"
     },
     {
       "category": "社会",
-      "title": "首相の国会出席削減 自民が議論",
-      "link": "https://news.yahoo.co.jp/pickup/6603632?source=rss",
-      "published": "11/23 08:48",
+      "title": "野党 24日にも文科相問責案を協議",
+      "link": "https://news.yahoo.co.jp/pickup/6603704?source=rss",
+      "published": "11/23 19:12",
       "source": "Yahoo!ニュース",
-      "summary": "自民党が首相の国会出席削減に向けた議論を本格化させている。 関係者は公務に追われる首相の拘束時間を減らすべきだとする古くて新しい問題意識を前面に押し出すが、「国会嫌い」とされる高市早苗首相の意向も背"
+      "summary": "野党各党は、政治資金パーティーに官僚を呼び企業関係者に政策を説明させた関芳弘文部科学相について、24日にも参院での問責決議案提出に向けて協議し、辞任要求を強める方針だ。関氏は辞任を否定し、高市政権幹"
     },
     {
       "category": "経済",
@@ -123,11 +219,11 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "リーマン予想 AI証明巡り共同声明",
-      "link": "https://news.yahoo.co.jp/pickup/6603568?source=rss",
-      "published": "11/22 17:07",
+      "title": "既婚者専用マッチングアプリ 実態",
+      "link": "https://news.yahoo.co.jp/pickup/6603531?source=rss",
+      "published": "11/22 12:19",
       "source": "Yahoo!ニュース",
-      "summary": "生成AI「Claude」を使って数学の難問「リーマン予想」を証明したとする研究成果について、数学の証明をコンピューターで検証するプログラミング言語「Lean」と数学ライブラリー「Mathlib」の開"
+      "summary": "11月22日は「いい夫婦の日」。1988年に「夫婦ふたりの時間を大切にする日」として制定され、現在は経済産業省も後援する国民的な“記念日”として浸透しつつある。しかしながら、現実には夫婦仲が冷え切っ"
     },
     {
       "category": "スポーツ",
@@ -147,19 +243,19 @@
     },
     {
       "category": "主要",
-      "title": "異例 高校ラグビーAシードに7校",
-      "link": "https://news.yahoo.co.jp/pickup/6603702?source=rss",
-      "published": "11/23 18:55",
+      "title": "米正副大統領 フアン氏復帰に関与",
+      "link": "https://news.yahoo.co.jp/pickup/6603736?source=rss",
+      "published": "11/24 06:28",
       "source": "Yahoo!ニュース",
-      "summary": "第106回全国高校ラグビー大会（毎日新聞社、日本ラグビー協会、全国高校体育連盟、大阪府、大阪府教委主催）の実行委員会は23日、シード13校を発表した。評価の高いAシードは7校に決まり、今春の全国高校"
+      "summary": "Steve Holland Courtney Rozen Erin Banco[ワシントン ２３日 ロイター] - トランプ米大統領とバンス副大統領が半導体大手エヌビディアを巡る問題に個人的に関与し"
     },
     {
       "category": "社会",
-      "title": "参政党が首長選に積極擁立 狙い",
-      "link": "https://news.yahoo.co.jp/pickup/6603611?source=rss",
-      "published": "11/22 23:22",
+      "title": "気圧低下 24日は頭痛やめまい注意",
+      "link": "https://news.yahoo.co.jp/pickup/6603682?source=rss",
+      "published": "11/23 16:35",
       "source": "Yahoo!ニュース",
-      "summary": "参政党が首長選に積極的に取り組んでいる。 9月の沖縄県知事選で自民党系候補を推薦したのを手始めに、10月の横浜市長選、今月15日に投開票され再選挙となった福岡市長選と、毎月のように独自候補を擁立。1"
+      "summary": "連休明けの明日24日は前線や低気圧が通過し、全国的に気圧低下による影響度が大きくなるでしょう。27日から28日も各地で気圧が低下する予想で、頭痛やめまいなどに注意が必要です。"
     },
     {
       "category": "経済",
@@ -171,11 +267,11 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "既婚者専用マッチングアプリ 実態",
-      "link": "https://news.yahoo.co.jp/pickup/6603531?source=rss",
-      "published": "11/22 12:19",
+      "title": "AI兵器先行の米露 規制に消極姿勢",
+      "link": "https://news.yahoo.co.jp/pickup/6603522?source=rss",
+      "published": "11/22 11:31",
       "source": "Yahoo!ニュース",
-      "summary": "11月22日は「いい夫婦の日」。1988年に「夫婦ふたりの時間を大切にする日」として制定され、現在は経済産業省も後援する国民的な“記念日”として浸透しつつある。しかしながら、現実には夫婦仲が冷え切っ"
+      "summary": "【ジュネーブ＝船越翔】スイス・ジュネーブで開かれている特定通常兵器使用禁止制限条約（ＣＣＷ）の再検討会議は２１日、攻撃目標を人間の関与なく人工知能（ＡＩ）が決める「自律型致死兵器システム（ＬＡＷＳ＝"
     },
     {
       "category": "スポーツ",
@@ -195,75 +291,19 @@
     },
     {
       "category": "主要",
-      "title": "タッチ決済改札 利用者が戸惑いも",
-      "link": "https://news.yahoo.co.jp/pickup/6603699?source=rss",
-      "published": "11/23 18:53",
+      "title": "COP 脱化石遅れで農業へ影響深刻",
+      "link": "https://news.yahoo.co.jp/pickup/6603730?source=rss",
+      "published": "11/23 23:10",
       "source": "Yahoo!ニュース",
-      "summary": "日々の通勤や移動で欠かせない鉄道の自動改札機に、いま大きな変化が起きている。駅の改札機にクレジットカードやデビットカード、スマートフォンなどをかざして通過する「タッチ決済改札」の導入が全国各地で急速"
+      "summary": "国連気候変動枠組み条約第31回締約国会議（COP31）は化石燃料からの脱却を巡り決裂して閉幕し、気候変動を巡る各国・地域の足並みの乱れが鮮明になった。対策が遅れることで、特に深刻な影響が懸念されるの"
     },
     {
       "category": "社会",
-      "title": "文科相の「交代示唆」木原氏否定",
-      "link": "https://news.yahoo.co.jp/pickup/6603601?source=rss",
-      "published": "11/22 21:39",
+      "title": "謎の迷惑行為「少林寺」拡散背景",
+      "link": "https://news.yahoo.co.jp/pickup/6603654?source=rss",
+      "published": "11/23 12:12",
       "source": "Yahoo!ニュース",
-      "summary": "木原稔官房長官は22日、政治資金パーティー問題で批判を受けている関芳弘文部科学相について「しっかり説明することが重要だ」との認識を改めて示した。"
-    },
-    {
-      "category": "経済",
-      "title": "お湯注ぐだけ「カップご飯」好調",
-      "link": "https://news.yahoo.co.jp/pickup/6603656?source=rss",
-      "published": "11/23 12:34",
-      "source": "Yahoo!ニュース",
-      "summary": "カップラーメンのように、お湯を注いですぐに食べられるカップご飯が人気だ。麺に比べて食べ応えがあり、様々な食べ方を楽しめる。近年、種類が増えており、備蓄品としても注目されている。（加藤亮）"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "AI兵器先行の米露 規制に消極姿勢",
-      "link": "https://news.yahoo.co.jp/pickup/6603522?source=rss",
-      "published": "11/22 11:31",
-      "source": "Yahoo!ニュース",
-      "summary": "【ジュネーブ＝船越翔】スイス・ジュネーブで開かれている特定通常兵器使用禁止制限条約（ＣＣＷ）の再検討会議は２１日、攻撃目標を人間の関与なく人工知能（ＡＩ）が決める「自律型致死兵器システム（ＬＡＷＳ＝"
-    },
-    {
-      "category": "スポーツ",
-      "title": "塩貝健人が負傷で今季絶望か 報道",
-      "link": "https://news.yahoo.co.jp/pickup/6603646?source=rss",
-      "published": "11/23 10:44",
-      "source": "Yahoo!ニュース",
-      "summary": "途中出場から20分で無念の交代 ヴォルフスブルクの日本代表FW塩貝健人は、11月21日に開催されたブンデスリーガ２部第12節のホルシュタイン・キール戦（３－０）に65分から途中出場。チームの２点目を"
-    },
-    {
-      "category": "主要",
-      "title": "首里城正殿が一般公開 来場者感嘆",
-      "link": "https://news.yahoo.co.jp/pickup/6603691?source=rss",
-      "published": "11/23 17:33",
-      "source": "Yahoo!ニュース",
-      "summary": "那覇市の首里城公園で23日、火災による焼失から7年ぶりに復元された正殿の一般公開が始まった。"
-    },
-    {
-      "category": "社会",
-      "title": "三原則例外 被爆者「言語道断だ」",
-      "link": "https://news.yahoo.co.jp/pickup/6603573?source=rss",
-      "published": "11/22 17:45",
-      "source": "Yahoo!ニュース",
-      "summary": "政府が安全保障関連3文書の年内改定で、非核三原則の例外明記を検討していることを巡り、広島被爆者団体連絡会議の田中聡司事務局長（82）らが22日、「とにかく言語道断だ」と批判した。"
-    },
-    {
-      "category": "経済",
-      "title": "「ほぼ日手帳」海外で人気のワケ",
-      "link": "https://news.yahoo.co.jp/pickup/6603636?source=rss",
-      "published": "11/23 09:20",
-      "source": "Yahoo!ニュース",
-      "summary": "スマートフォンでスケジュールを管理する時代に、紙の手帳が売れ続けている。 ウェブサイト「ほぼ日」を運営するほぼ日の主力商品「ほぼ日手帳」だ。2025年9月に発売した2026年版の販売部数は114万部"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "推薦入試 不合格者に1秒間誤通知",
-      "link": "https://news.yahoo.co.jp/pickup/6603483?source=rss",
-      "published": "11/21 23:26",
-      "source": "Yahoo!ニュース",
-      "summary": "名古屋市立大学が、来年度の入学者の推薦型選抜の1次試験で、不合格となった一部の受験者に対し、誤って2次試験の通知案内をしていたことが分かりました。"
+      "summary": "近頃見聞きするようになった「少林寺」という言葉。警察に対して迷惑行為をする際の掛け声として、少年たちの間で広まっているようだ。「少林寺」と聞くと、中国の仏教寺院「少林寺」や、日本発祥の武道である「少"
     },
     {
       "category": "スポーツ",
@@ -275,43 +315,19 @@
     },
     {
       "category": "主要",
-      "title": "山本耕史 妻と来るスタバ前でイベ",
-      "link": "https://news.yahoo.co.jp/pickup/6603688?source=rss",
-      "published": "11/23 17:16",
+      "title": "年収1000万円 社内ニートの不安",
+      "link": "https://news.yahoo.co.jp/pickup/6603718?source=rss",
+      "published": "11/23 21:34",
       "source": "Yahoo!ニュース",
-      "summary": "■映画『BYE BYE LOVE 探偵はBARにいる』完成報告会 俳優の大泉洋、山本耕史が23日、東京・アーバンドック ららぽーと豊洲 シーサイドデッキで行われた映画『BYE BYE LOVE 探偵"
+      "summary": "毎朝決まった時間に出社し、パソコンを開く。だが、肝心の仕事がない。そんな「社内ニート」を名乗る女性の投稿が注目を集めている。仕事がなくても給料は振り込まれ、残業もない。一見うらやましい環境だが、当事"
     },
     {
       "category": "社会",
-      "title": "益永死刑囚が死亡 連続企業爆破",
-      "link": "https://news.yahoo.co.jp/pickup/6603563?source=rss",
-      "published": "11/22 16:31",
+      "title": "首相の国会出席削減 自民が議論",
+      "link": "https://news.yahoo.co.jp/pickup/6603632?source=rss",
+      "published": "11/23 08:48",
       "source": "Yahoo!ニュース",
-      "summary": "法務省は22日、8人が死亡した1974年の三菱重工業ビル爆破を含む連続企業爆破事件で殺人罪などに問われ、死刑が確定した「東アジア反日武装戦線」の益永（旧姓片岡）利明死刑囚（78）が同日、収容先の東京"
-    },
-    {
-      "category": "経済",
-      "title": "SOS見せず突然退職 企業どう防ぐ",
-      "link": "https://news.yahoo.co.jp/pickup/6603628?source=rss",
-      "published": "11/23 08:08",
-      "source": "Yahoo!ニュース",
-      "summary": "「1週間前まで『頑張ります！』と言っていたのに、突然辞めてしまった」「絶対に辞めないと思っていたので、かなりショックですね」「うちは他社より給料はかなり高いのに、なぜか辞めてしまう」「前日まで全く辞"
-    },
-    {
-      "category": "スポーツ",
-      "title": "中2でがん 20歳でプロゴルファー",
-      "link": "https://news.yahoo.co.jp/pickup/6603625?source=rss",
-      "published": "11/23 07:56",
-      "source": "Yahoo!ニュース",
-      "summary": "9か月入院、再発の恐怖と闘い 合格率2.76％。超難関の日本女子プロゴルフ協会（JLPGA）2026年度最終プロテストを突破した21人は、来季ツアー予選会（QT）を目前に控えている。今月24日からは"
-    },
-    {
-      "category": "主要",
-      "title": "ガソリン価格下落 米大統領恨み節",
-      "link": "https://news.yahoo.co.jp/pickup/6603686?source=rss",
-      "published": "11/23 16:50",
-      "source": "Yahoo!ニュース",
-      "summary": "【ワシントン共同】トランプ米大統領は22日、米国内でガソリンやディーゼル価格が下落傾向にあることを受け「有権者が投票する前にこのことを理解していなかったのが残念だ」と交流サイト（SNS）で述べた。3"
+      "summary": "自民党が首相の国会出席削減に向けた議論を本格化させている。 関係者は公務に追われる首相の拘束時間を減らすべきだとする古くて新しい問題意識を前面に押し出すが、「国会嫌い」とされる高市早苗首相の意向も背"
     }
   ],
   "errors": [
