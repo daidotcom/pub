@@ -1,13 +1,61 @@
 {
-  "updated": "2026-11-26T14:31:17.636330+00:00",
+  "updated": "2026-11-26T23:21:37.429895+00:00",
   "articles": [
     {
       "category": "主要",
-      "title": "福井の山中に遺体 殺人疑い再逮捕",
-      "link": "https://news.yahoo.co.jp/pickup/6604117?source=rss",
-      "published": "11/26 22:19",
+      "title": "JTなど 英たばこ大手買収検討か",
+      "link": "https://news.yahoo.co.jp/pickup/6604136?source=rss",
+      "published": "11/27 07:56",
       "source": "Yahoo!ニュース",
-      "summary": "福井県あわら市の山中で女性の遺体が見つかった事件で、石川県警は26日、女性に対する監禁、死体遺棄の容疑で逮捕していた広島市安佐南区の無職宇都宮孝司容疑者（49）を殺人容疑で再逮捕し、発表した。「中田"
+      "summary": "米ブルームバーグ通信は２６日、日本たばこ産業（ＪＴ）と米たばこ大手アルトリア・グループが、英たばこ大手インペリアル・ブランズの買収を検討していると報じた。インペリアルの株式時価総額は約５兆４０００億"
+    },
+    {
+      "category": "社会",
+      "title": "笹川環境相側 国契約企業から寄付",
+      "link": "https://news.yahoo.co.jp/pickup/6604111?source=rss",
+      "published": "11/26 20:53",
+      "source": "Yahoo!ニュース",
+      "summary": "笹川環境大臣が代表を務める選挙区の支部が、国の事業を請け負った企業からおととしの衆議院選挙の公示直前に、１０万円の寄付を受けていたことが分かりました。"
+    },
+    {
+      "category": "経済",
+      "title": "アメ横周辺の道に机 営業停止処分",
+      "link": "https://news.yahoo.co.jp/pickup/6604126?source=rss",
+      "published": "11/27 06:20",
+      "source": "Yahoo!ニュース",
+      "summary": "東京・上野のアメ横商店街周辺の路上で、飲食客のための机や椅子を並べ、道路を不正に使用したとして、東京都公安委員会が居酒屋「おきなわハイサイ酒場はなれ」（東京都台東区上野6丁目）に風俗営業法に基づき2"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "KDDI 米Xとデータ利用で包括契約",
+      "link": "https://news.yahoo.co.jp/pickup/6604066?source=rss",
+      "published": "11/26 15:18",
+      "source": "Yahoo!ニュース",
+      "summary": "KDDIは11月26日、SNS「X」のデータの利活用に関する包括的なパートナーシップ契約を、米Xと13日付で締結したと発表した。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "広島 ファビアンが今季限りで退団",
+      "link": "https://news.yahoo.co.jp/pickup/6604128?source=rss",
+      "published": "11/27 06:39",
+      "source": "Yahoo!ニュース",
+      "summary": "広島のサンドロ・ファビアン外野手（２８）が今季限りで退団することが２６日、分かった。"
+    },
+    {
+      "category": "IT",
+      "title": "X、「ペアレンタルコントロール」を導入　メッセージ内容は見られず",
+      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003506/",
+      "published": "11/27 07:25",
+      "source": "ITmedia",
+      "summary": "Xは、13?17歳のユーザーを対象とした「ペアレンタルコントロール」機能の提供を開始した。保護者は1日の利用上限時間や表示コンテンツ、フォロワー承認、DMの受信相手などを管理できる。設定変更はすべて記録され、子どもも確認可能だが、保護者は子どものメッセージ内容や閲覧履歴は閲覧できない。日本でも利用できる。"
+    },
+    {
+      "category": "主要",
+      "title": "製油所で爆発9人負傷 バンコク",
+      "link": "https://news.yahoo.co.jp/pickup/6604135?source=rss",
+      "published": "11/27 07:49",
+      "source": "Yahoo!ニュース",
+      "summary": "タイの首都バンコクの製油所で大規模な爆発があり、少なくとも9人がけがをしました。"
     },
     {
       "category": "社会",
@@ -27,19 +75,19 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "KDDI 米Xとデータ利用で包括契約",
-      "link": "https://news.yahoo.co.jp/pickup/6604066?source=rss",
-      "published": "11/26 15:18",
+      "title": "宇宙DC 米当局が条件付きで認可",
+      "link": "https://news.yahoo.co.jp/pickup/6604033?source=rss",
+      "published": "11/26 11:46",
       "source": "Yahoo!ニュース",
-      "summary": "KDDIは11月26日、SNS「X」のデータの利活用に関する包括的なパートナーシップ契約を、米Xと13日付で締結したと発表した。"
+      "summary": "米連邦通信委員会（FCC）は11月25日（現地時間）、米SpaceXがAIの計算処理を担う衛星を最大100万基打ち上げ、宇宙に大規模なデータセンターを構築する計画を条件付きで認可した。"
     },
     {
       "category": "スポーツ",
-      "title": "ボクシング武居由樹が結婚発表",
-      "link": "https://news.yahoo.co.jp/pickup/6604109?source=rss",
-      "published": "11/26 20:38",
+      "title": "織田に背番号55提示 松井氏の意向",
+      "link": "https://news.yahoo.co.jp/pickup/6604116?source=rss",
+      "published": "11/26 21:47",
       "source": "Yahoo!ニュース",
-      "summary": "ノンタイトルスーパーバンタム級8回戦 ボクシングのノンタイトルスーパーバンタム級8回戦が26日、東京・EBARA WAVE アリーナおおたで行われ、前WBO世界バンタム級王者・武居由樹（大橋）が日本"
+      "summary": "横浜市内で面談、榑松伸介スカウトディレクターらが訪問した 巨人は26日、ドラフト1位で指名した横浜高の織田翔希投手と横浜市内で初めての直接面談を行った。球団からは榑松伸介スカウトディレクターらが訪問"
     },
     {
       "category": "IT",
@@ -51,11 +99,11 @@
     },
     {
       "category": "主要",
-      "title": "中田乃愛さん死去 出演作は公開へ",
-      "link": "https://news.yahoo.co.jp/pickup/6604118?source=rss",
-      "published": "11/26 22:19",
+      "title": "女性死亡 飲酒しひき逃げ疑い逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6604132?source=rss",
+      "published": "11/27 07:39",
       "source": "Yahoo!ニュース",
-      "summary": "円谷プロダクションは、新作映画『劇場版ウルトラマンテオ 逆襲のメネシアス』を2027年2月23日に公開することを発表した。"
+      "summary": "26日、名古屋市西区で86歳の女性が死亡したひき逃げ事件で、49歳の男が逮捕されました。男は飲酒運転の発覚を免れようと逃げた疑いが持たれています。"
     },
     {
       "category": "社会",
@@ -67,19 +115,19 @@
     },
     {
       "category": "経済",
-      "title": "持ち帰り残業巡り 労災認める判決",
-      "link": "https://news.yahoo.co.jp/pickup/6604108?source=rss",
-      "published": "11/26 20:31",
+      "title": "スバル 4車種約18万台リコール",
+      "link": "https://news.yahoo.co.jp/pickup/6604115?source=rss",
+      "published": "11/26 21:29",
       "source": "Yahoo!ニュース",
-      "summary": "昨日（2026年11月25日）、東京地方裁判所は、大手半導体企業「株式会社アドバンテスト」のエンジニアである原告（40代・男性）のうつ病を労災と認めなかった国の処分を取り消す判決を言い渡した。本日、"
+      "summary": "エンジン部品の一部に不具合があったとして、スバルはSUVの「フォレスター」などおよそ18万台あまりのリコールを国土交通省に届け出ました。国土交通省によりますと、リコールの対象は2020年6月から今年"
     },
     {
       "category": "AI・テクノロジー",
-      "title": "宇宙DC 米当局が条件付きで認可",
-      "link": "https://news.yahoo.co.jp/pickup/6604033?source=rss",
-      "published": "11/26 11:46",
+      "title": "ファクトチェック組織 誤情報掲載",
+      "link": "https://news.yahoo.co.jp/pickup/6604032?source=rss",
+      "published": "11/26 11:40",
       "source": "Yahoo!ニュース",
-      "summary": "米連邦通信委員会（FCC）は11月25日（現地時間）、米SpaceXがAIの計算処理を担う衛星を最大100万基打ち上げ、宇宙に大規模なデータセンターを構築する計画を条件付きで認可した。"
+      "summary": "情報の真偽を検証する非営利組織「日本ファクトチェックセンター」（東京）は25日、衆院選期間中の2月5日にホームページに掲載した「各党党首の発言の真偽は 討論会をまとめて検証 【#衆院選ファクトチェッ"
     },
     {
       "category": "スポーツ",
@@ -99,11 +147,11 @@
     },
     {
       "category": "主要",
-      "title": "織田に背番号55提示 松井氏の意向",
-      "link": "https://news.yahoo.co.jp/pickup/6604116?source=rss",
-      "published": "11/26 21:47",
+      "title": "問責案きょう採決 可否は見通せず",
+      "link": "https://news.yahoo.co.jp/pickup/6604133?source=rss",
+      "published": "11/27 07:33",
       "source": "Yahoo!ニュース",
-      "summary": "横浜市内で面談、榑松伸介スカウトディレクターらが訪問した 巨人は26日、ドラフト1位で指名した横浜高の織田翔希投手と横浜市内で初めての直接面談を行った。球団からは榑松伸介スカウトディレクターらが訪問"
+      "summary": "立憲民主党など野党８党・会派は２６日、政治資金パーティーを巡って問題が相次ぎ指摘されている関文部科学相に対する問責決議案を参院に提出した。２７日の参院本会議で採決される。与野党は参院でいずれも過半数"
     },
     {
       "category": "社会",
@@ -115,19 +163,19 @@
     },
     {
       "category": "経済",
-      "title": "くら寿司 2つの施策に識者違和感",
-      "link": "https://news.yahoo.co.jp/pickup/6604102?source=rss",
-      "published": "11/26 19:55",
+      "title": "持ち帰り残業巡り 労災認める判決",
+      "link": "https://news.yahoo.co.jp/pickup/6604108?source=rss",
+      "published": "11/26 20:31",
       "source": "Yahoo!ニュース",
-      "summary": "くら寿司が11月25日に始めた「ちいかわ」の寿司皿の抽選は、全国100万枚の当選枠が埋まり、初日で終了した。寿司皿は９月に配布する予定だったが、従業員の不正を受けてコラボ企画が中止になっていた。９月の"
+      "summary": "昨日（2026年11月25日）、東京地方裁判所は、大手半導体企業「株式会社アドバンテスト」のエンジニアである原告（40代・男性）のうつ病を労災と認めなかった国の処分を取り消す判決を言い渡した。本日、"
     },
     {
       "category": "AI・テクノロジー",
-      "title": "ファクトチェック組織 誤情報掲載",
-      "link": "https://news.yahoo.co.jp/pickup/6604032?source=rss",
-      "published": "11/26 11:40",
+      "title": "中国で短尺ドラマ課金 被害相次ぐ",
+      "link": "https://news.yahoo.co.jp/pickup/6603921?source=rss",
+      "published": "11/25 14:34",
       "source": "Yahoo!ニュース",
-      "summary": "情報の真偽を検証する非営利組織「日本ファクトチェックセンター」（東京）は25日、衆院選期間中の2月5日にホームページに掲載した「各党党首の発言の真偽は 討論会をまとめて検証 【#衆院選ファクトチェッ"
+      "summary": "中国のショートドラマが人気だ。NHKスペシャルで取りあげられたこともあり、ドラマを見ない層にも話題となっている。NHKが描いた中国の縦型ショートドラマは、広告を見れば無料で見られるバイトダンスのアプリ"
     },
     {
       "category": "スポーツ",
@@ -147,11 +195,11 @@
     },
     {
       "category": "主要",
-      "title": "スバル 4車種約18万台リコール",
-      "link": "https://news.yahoo.co.jp/pickup/6604115?source=rss",
-      "published": "11/26 21:29",
+      "title": "MF鎌田大地 3ポジションで躍動",
+      "link": "https://news.yahoo.co.jp/pickup/6604131?source=rss",
+      "published": "11/27 07:33",
       "source": "Yahoo!ニュース",
-      "summary": "エンジン部品の一部に不具合があったとして、スバルはSUVの「フォレスター」などおよそ18万台あまりのリコールを国土交通省に届け出ました。国土交通省によりますと、リコールの対象は2020年6月から今年"
+      "summary": "[11.26 ELリーグフェーズ第5節 クリスタル・パレス 2-1 ソシエダ]UEFAヨーロッパリーグ(EL)は26日、リーグフェーズ第5節を各地で行い、MF鎌田大地所属のクリスタル・パレス(イング"
     },
     {
       "category": "社会",
@@ -171,19 +219,19 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "中国で短尺ドラマ課金 被害相次ぐ",
-      "link": "https://news.yahoo.co.jp/pickup/6603921?source=rss",
-      "published": "11/25 14:34",
+      "title": "Microsoft 障害受けコードレッド",
+      "link": "https://news.yahoo.co.jp/pickup/6603903?source=rss",
+      "published": "11/25 12:02",
       "source": "Yahoo!ニュース",
-      "summary": "中国のショートドラマが人気だ。NHKスペシャルで取りあげられたこともあり、ドラマを見ない層にも話題となっている。NHKが描いた中国の縦型ショートドラマは、広告を見れば無料で見られるバイトダンスのアプリ"
+      "summary": "Jaspreet Singh[２４日 ロイター] - 米マイクロソフトは今月発生した同社サービスの世界的な大規模障害を受け、障‌害の防止および危機対応体制を全面的に見直⁠す「コードレッド（最も深刻かつ"
     },
     {
       "category": "スポーツ",
-      "title": "大野雄大 2.1億円で契約更改",
-      "link": "https://news.yahoo.co.jp/pickup/6604070?source=rss",
-      "published": "11/26 15:25",
+      "title": "大谷 新人王逃した村上らに言及",
+      "link": "https://news.yahoo.co.jp/pickup/6604035?source=rss",
+      "published": "11/26 11:43",
       "source": "Yahoo!ニュース",
-      "summary": "中日大野雄大投手（38）が26日、ナゴヤ球場に隣接する「昇竜館」で契約更改交渉に臨み、2年連続アップとなる4000万増の2億1000万円でサインした。「規定投球回を目標にしていましたが、まさかもう一"
+      "summary": "ドジャースの大谷翔平投手（32）が25日（日本時間26日）、報道各社のオンライン合同インタビューに対応。他の日本選手に言及した。"
     },
     {
       "category": "IT",
@@ -195,11 +243,11 @@
     },
     {
       "category": "主要",
-      "title": "汚水が混入か 飲食店ビルで食中毒",
-      "link": "https://news.yahoo.co.jp/pickup/6604114?source=rss",
-      "published": "11/26 21:14",
+      "title": "バスケ男子 レバノンに逆転勝利",
+      "link": "https://news.yahoo.co.jp/pickup/6604130?source=rss",
+      "published": "11/27 07:07",
       "source": "Yahoo!ニュース",
-      "summary": "札幌市中央区すすきのの飲食店ビルで、地下の受水槽から供給された水がノロウイルスに汚染され、飲食店の利用客や従業員あわせて16人が食中毒になりました。"
+      "summary": "11月26日、「FIBAバスケットボールワールドカップ2027 アジア地区予選」のWindow5がスタート。日本代表（FIBAランキング22位）は敵地のヌハド・ナウファル・スポーツ・コンプレックスに"
     },
     {
       "category": "社会",
@@ -219,99 +267,11 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "Microsoft 障害受けコードレッド",
-      "link": "https://news.yahoo.co.jp/pickup/6603903?source=rss",
-      "published": "11/25 12:02",
-      "source": "Yahoo!ニュース",
-      "summary": "Jaspreet Singh[２４日 ロイター] - 米マイクロソフトは今月発生した同社サービスの世界的な大規模障害を受け、障‌害の防止および危機対応体制を全面的に見直⁠す「コードレッド（最も深刻かつ"
-    },
-    {
-      "category": "スポーツ",
-      "title": "楽天・辰己 独自スタイルで表彰式",
-      "link": "https://news.yahoo.co.jp/pickup/6604059?source=rss",
-      "published": "11/26 14:21",
-      "source": "Yahoo!ニュース",
-      "summary": "楽天・辰己涼介外野手が２６日、都内のホテルで行われた第５５回「三井ゴールデン・グラブ賞」の表彰式に参加した。"
-    },
-    {
-      "category": "IT",
-      "title": "脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
-      "published": "11/26 14:04",
-      "source": "ITmedia",
-      "summary": "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいのか。"
-    },
-    {
-      "category": "主要",
-      "title": "笹川環境相側 国契約企業から寄付",
-      "link": "https://news.yahoo.co.jp/pickup/6604111?source=rss",
-      "published": "11/26 20:53",
-      "source": "Yahoo!ニュース",
-      "summary": "笹川環境大臣が代表を務める選挙区の支部が、国の事業を請け負った企業からおととしの衆議院選挙の公示直前に、１０万円の寄付を受けていたことが分かりました。"
-    },
-    {
-      "category": "社会",
-      "title": "米国の新関税案 木原氏「遺憾」",
-      "link": "https://news.yahoo.co.jp/pickup/6604050?source=rss",
-      "published": "11/26 12:49",
-      "source": "Yahoo!ニュース",
-      "summary": "USTR＝アメリカ通商代表部は25日、日本や中国など14の国と地域に対し、新たな関税を課す案を発表しました。日本への関税は既存の税率も含めて最大15％が提案されています。"
-    },
-    {
-      "category": "経済",
-      "title": "ホンダ 逆輸入のアキュラ来月発売",
-      "link": "https://news.yahoo.co.jp/pickup/6604052?source=rss",
-      "published": "11/26 13:25",
-      "source": "Yahoo!ニュース",
-      "summary": "『米国製乗用車の認定制度』を活用し、輸入、販売11月26日、本田技研工業（以下ホンダ）は米国で生産される『アキュラ・インテグラ・タイプS』の日本導入を発表。同日に公式ホームページも開設し、購入申込を"
-    },
-    {
-      "category": "AI・テクノロジー",
       "title": "AI登場「創造性」問い直す機会に",
       "link": "https://news.yahoo.co.jp/pickup/6603882?source=rss",
       "published": "11/25 09:55",
       "source": "Yahoo!ニュース",
       "summary": "［ニッポンクライシス］第４部「デジタル」＜３＞ 「９５％ＡＩ（人工知能）で書いた」 作家の九段理江さん（３６）は昨年３月、衝撃的な惹句（じゃっく）を掲げた小説「影の雨」を雑誌「広告」に発表した。人の"
-    },
-    {
-      "category": "スポーツ",
-      "title": "大谷 新人王逃した村上らに言及",
-      "link": "https://news.yahoo.co.jp/pickup/6604035?source=rss",
-      "published": "11/26 11:43",
-      "source": "Yahoo!ニュース",
-      "summary": "ドジャースの大谷翔平投手（32）が25日（日本時間26日）、報道各社のオンライン合同インタビューに対応。他の日本選手に言及した。"
-    },
-    {
-      "category": "IT",
-      "title": "Character.AIのチャット履歴競売に41州とワシントンD.C.が異議　未成年者の約210万アカウント分も対象",
-      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003479/",
-      "published": "11/26 13:32",
-      "source": "ITmedia",
-      "summary": "米カリフォルニアやコネチカットなど41州とワシントンD.C.の司法長官は、破産申請した「Character.AI」の資産競売に異議を申し立てた。競売には未成年者の210万以上を含む2100万超のチャット履歴が含まれるが、買い手にデータ保護の義務がなく、プライバシー法に反するとして売却の却下を求めている。"
-    },
-    {
-      "category": "主要",
-      "title": "中国 アメリカの新関税案に反発",
-      "link": "https://news.yahoo.co.jp/pickup/6604107?source=rss",
-      "published": "11/26 20:37",
-      "source": "Yahoo!ニュース",
-      "summary": "［北京 ２６日 ロイター］ - 中国政府は２６日、トランプ米政権による最新‌の関税措置を受け、両国は対等、⁠相互尊重、互恵の原則に基づく協議を通じて貿易問題を​解決すべきだと述べた。"
-    },
-    {
-      "category": "社会",
-      "title": "問責案受け 文科相「説明尽くす」",
-      "link": "https://news.yahoo.co.jp/pickup/6604038?source=rss",
-      "published": "11/26 11:53",
-      "source": "Yahoo!ニュース",
-      "summary": "参議院で関文部科学大臣に対する問責決議案が提出されたことを受け、先ほど、関大臣が記者団の取材に応じました。"
-    },
-    {
-      "category": "経済",
-      "title": "若者が注目「フリース」再ブーム",
-      "link": "https://news.yahoo.co.jp/pickup/6604026?source=rss",
-      "published": "11/26 11:26",
-      "source": "Yahoo!ニュース",
-      "summary": "1990年代後半に一大ブームとなった「フリース」が再び注目され、“着る断熱材”と呼ばれるものや、“1着1097円”という驚きの安さを実現した商品も登場しています。"
     },
     {
       "category": "スポーツ",
@@ -323,19 +283,51 @@
     },
     {
       "category": "IT",
+      "title": "脆弱性の発見数、1年で2倍超　Microsoft製品も月100件から1000件超に……AIで一変",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+      "published": "11/26 14:04",
+      "source": "ITmedia",
+      "summary": "米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいのか。"
+    },
+    {
+      "category": "主要",
+      "title": "ちいかわイベ グッズ早期完売謝罪",
+      "link": "https://news.yahoo.co.jp/pickup/6604129?source=rss",
+      "published": "11/27 06:56",
+      "source": "Yahoo!ニュース",
+      "summary": "現在行われている人気キャラクター「ちいかわ」のクリスマスイベントで、グッズが早い時間に完売し入場料を支払ったにもかかわらず、購入できない人が続出しています。こうした状況に、26日夜、主催者側は27日"
+    },
+    {
+      "category": "社会",
+      "title": "米国の新関税案 木原氏「遺憾」",
+      "link": "https://news.yahoo.co.jp/pickup/6604050?source=rss",
+      "published": "11/26 12:49",
+      "source": "Yahoo!ニュース",
+      "summary": "USTR＝アメリカ通商代表部は25日、日本や中国など14の国と地域に対し、新たな関税を課す案を発表しました。日本への関税は既存の税率も含めて最大15％が提案されています。"
+    },
+    {
+      "category": "IT",
+      "title": "Character.AIのチャット履歴競売に41州とワシントンD.C.が異議　未成年者の約210万アカウント分も対象",
+      "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003479/",
+      "published": "11/26 13:32",
+      "source": "ITmedia",
+      "summary": "米カリフォルニアやコネチカットなど41州とワシントンD.C.の司法長官は、破産申請した「Character.AI」の資産競売に異議を申し立てた。競売には未成年者の210万以上を含む2100万超のチャット履歴が含まれるが、買い手にデータ保護の義務がなく、プライバシー法に反するとして売却の却下を求めている。"
+    },
+    {
+      "category": "主要",
+      "title": "中田乃愛さん死去 出演作は公開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604118?source=rss",
+      "published": "11/26 22:19",
+      "source": "Yahoo!ニュース",
+      "summary": "円谷プロダクションは、新作映画『劇場版ウルトラマンテオ 逆襲のメネシアス』を2027年2月23日に公開することを発表した。"
+    },
+    {
+      "category": "IT",
       "title": "GitHubに「人には見えない隠し文字」　小型AIの操作狙うものも……1億4500万件を調査",
       "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003460/",
       "published": "11/26 12:00",
       "source": "ITmedia",
       "summary": "イスラエルのセキュリティ会社Radwareとテクニオン・イスラエル工科大学に所属する研究者らが発表した論文「Who Is Prompt-Injecting Coding Agents? An Empirical Study of Hidden AI-Directed Text on GitHub」は、GitHub上に潜むAI向けの隠しテキストが、誰によってどのような目的で埋め込まれているのかを分析した研究報告だ。"
-    },
-    {
-      "category": "主要",
-      "title": "介護やケア 長女に頼った母の後悔",
-      "link": "https://news.yahoo.co.jp/pickup/6604104?source=rss",
-      "published": "11/26 20:10",
-      "source": "Yahoo!ニュース",
-      "summary": "難病ALSの夫の介護と4人の子育て、さらに正社員としての仕事に追われ、限界を迎えていた宮本雅代さん。余裕を失うなかで、中高一貫校に通う「頼もしい長女」に父の通訳やダウン症の弟の世話、白血病の次男の骨"
     },
     {
       "category": "IT",
@@ -432,14 +424,6 @@
       "published": "11/25 14:08",
       "source": "ITmedia",
       "summary": "漏えいした可能性がある顧客情報は、保護者の氏名、子どもの氏名、兄弟姉妹情報、住所、電話番号、メールアドレスなど。"
-    },
-    {
-      "category": "IT",
-      "title": "タワレコ、会員情報約1100万件流出　「3年以内の退会者」も対象　通販サイト停止続く",
-      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003439/",
-      "published": "11/25 13:27",
-      "source": "ITmedia",
-      "summary": "退会後3年以内の人の情報も含まれているという。"
     }
   ],
   "errors": [
