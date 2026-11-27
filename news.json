@@ -1,13 +1,61 @@
 {
-  "updated": "2026-11-27T15:38:18.434288+00:00",
+  "updated": "2026-11-27T23:45:37.786411+00:00",
   "articles": [
     {
       "category": "主要",
+      "title": "2遺体 不明生徒誘拐疑いで男逮捕",
+      "link": "https://news.yahoo.co.jp/pickup/6604260?source=rss",
+      "published": "11/28 08:20",
+      "source": "Yahoo!ニュース",
+      "summary": "神奈川県警は28日、宮城県七ケ宿町の山中で2人の性別不明の遺体を発見したと発表した。10月下旬から横浜市泉区の高校1年の女子生徒が行方不明になっており、このうちの1人の遺体が女子生徒の可能性があると"
+    },
+    {
+      "category": "社会",
       "title": "防衛相ら 献金報道巡り違法性否定",
       "link": "https://news.yahoo.co.jp/pickup/6604248?source=rss",
       "published": "11/28 00:15",
       "source": "Yahoo!ニュース",
       "summary": "政治とカネをめぐり、小泉防衛大臣ら3人の閣僚にも新たな報道が。"
+    },
+    {
+      "category": "経済",
+      "title": "米ネトフリ 日本作品への投資拡大",
+      "link": "https://news.yahoo.co.jp/pickup/6604237?source=rss",
+      "published": "11/27 21:24",
+      "source": "Yahoo!ニュース",
+      "summary": "動画配信サービス「Netflix」は27日、日本のクリエイターとともに作品を製作し、世界へ届けるための複数年にわたる取り組み「ウィズ・ジャパン～コンテンツ産業の未来を、ともに～」を発表した。日本作品"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "マイナアプリ 旧Ver.に脆弱性",
+      "link": "https://news.yahoo.co.jp/pickup/6604215?source=rss",
+      "published": "11/27 18:12",
+      "source": "Yahoo!ニュース",
+      "summary": "Japan Vulnerability Notes（JVN）は11月27日、デジタル庁が提供するスマートフォンアプリ「マイナアプリ（旧マイナポータルアプリ）」の脆弱性情報を公開した。"
+    },
+    {
+      "category": "スポーツ",
+      "title": "カブスが佐藤輝明と契約 正式発表",
+      "link": "https://news.yahoo.co.jp/pickup/6604265?source=rss",
+      "published": "11/28 08:41",
+      "source": "Yahoo!ニュース",
+      "summary": "カブスは27日、阪神からポスティングシステムを利用した佐藤輝明選手（27）と６年契約を結んだと発表した。複数の米メディアによれば、総額１億2000万ドル（約191億1000万円）。吉田正尚外野手が2"
+    },
+    {
+      "category": "IT",
+      "title": "顧客情報を守るため、売上15％の自社ECを閉店　ドールメーカーが明かした「決断」の背景",
+      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003518/",
+      "published": "11/27 16:47",
+      "source": "ITmedia",
+      "summary": "個人情報保護のため、全社売上高の約15％を占める自社ECサイトの閉店を決めたアゾンインターナショナル。AIによるサイバー攻撃の高度化をどう捉え、なぜ個人情報を「持たない」方針に転換したのか。経営陣に聞いた。"
+    },
+    {
+      "category": "主要",
+      "title": "政治資金パーティーの収入 37%増",
+      "link": "https://news.yahoo.co.jp/pickup/6604259?source=rss",
+      "published": "11/28 07:58",
+      "source": "Yahoo!ニュース",
+      "summary": "総務省は27日、2025年分の政治資金収支報告書（総務相所管の中央分）を公開した。政治資金パーティー収入は、前年比で半減した24年から37.3％増の63億5千万円となり、自民党派閥裏金事件後の自粛ム"
     },
     {
       "category": "社会",
@@ -27,35 +75,35 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "マイナアプリ 旧Ver.に脆弱性",
-      "link": "https://news.yahoo.co.jp/pickup/6604215?source=rss",
-      "published": "11/27 18:12",
+      "title": "新INFOBAR 日本の若者に刺さるか",
+      "link": "https://news.yahoo.co.jp/pickup/6604193?source=rss",
+      "published": "11/27 15:51",
       "source": "Yahoo!ニュース",
-      "summary": "Japan Vulnerability Notes（JVN）は11月27日、デジタル庁が提供するスマートフォンアプリ「マイナアプリ（旧マイナポータルアプリ）」の脆弱性情報を公開した。"
+      "summary": "KDDIは11月18日、au Design projectの新機種として「INFOBAR ZERO」を発表しました。Webサイトの閲覧やSNSには対応しておらず、使えるのは通話、SMS、カメラ、端末"
     },
     {
       "category": "スポーツ",
-      "title": "ライン際の球への息吹きNG 野球",
-      "link": "https://news.yahoo.co.jp/pickup/6604234?source=rss",
-      "published": "11/27 20:54",
+      "title": "森下暢仁 去就巡り「悩んでいる」",
+      "link": "https://news.yahoo.co.jp/pickup/6604240?source=rss",
+      "published": "11/27 21:37",
       "source": "Yahoo!ニュース",
-      "summary": "プロ、アマの審判員や記録員で構成されている日本野球規則委員会は２７日、２０２７年度の野球規則改正を発表した。"
+      "summary": "国内フリーエージェント（ＦＡ）権を行使し、去就が注目されている広島の森下暢仁投手が２７日、広島・廿日市市内でバッテリー会ゴルフに参加した。注目の去就について「今すぐにでも答え出したいんですけど、悩ん"
     },
     {
       "category": "IT",
-      "title": "顧客情報を守るため、売上15％の自社ECを閉店　ドールメーカーが明かした「決断」の背景",
-      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003518/",
-      "published": "11/27 16:47",
+      "title": "「AI関連の需要強い」京セラ　5年で設備投資9000億円、データセンター需要狙う",
+      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003521/",
+      "published": "11/27 16:19",
       "source": "ITmedia",
-      "summary": "個人情報保護のため、全社売上高の約15％を占める自社ECサイトの閉店を決めたアゾンインターナショナル。AIによるサイバー攻撃の高度化をどう捉え、なぜ個人情報を「持たない」方針に転換したのか。経営陣に聞いた。"
+      "summary": "京セラは26日、2031年3月期までの5年間で設備投資に計9000億円を投じると発表した。人工知能（AI）の普及に伴って拡大するデータセンターや半導体関連の需要の取り込みを狙う。これとは別に研究開発にも5年間で6500億円を投資する。"
     },
     {
       "category": "主要",
-      "title": "山中に2遺体 1人は不明の高校生か",
-      "link": "https://news.yahoo.co.jp/pickup/6604246?source=rss",
-      "published": "11/27 23:27",
+      "title": "文科相の問責案否決 火種消えず",
+      "link": "https://news.yahoo.co.jp/pickup/6604258?source=rss",
+      "published": "11/28 07:51",
       "source": "Yahoo!ニュース",
-      "summary": "きょう（27日）、宮城県の山中で2人の遺体が見つかりました。先月から横浜市の高校1年の女子生徒が行方不明となっていて、警察は、この女子生徒を誘拐したとして33歳の男を逮捕していて、警察は見つかった遺"
+      "summary": "「政治とカネ」の問題が相次いで浮上する関芳弘文部科学相の問責決議案は4票の僅差で否決された。"
     },
     {
       "category": "社会",
@@ -75,35 +123,35 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "新INFOBAR 日本の若者に刺さるか",
-      "link": "https://news.yahoo.co.jp/pickup/6604193?source=rss",
-      "published": "11/27 15:51",
+      "title": "AIの果実を国民へ 米台韓で動き",
+      "link": "https://news.yahoo.co.jp/pickup/6604165?source=rss",
+      "published": "11/27 13:24",
       "source": "Yahoo!ニュース",
-      "summary": "KDDIは11月18日、au Design projectの新機種として「INFOBAR ZERO」を発表しました。Webサイトの閲覧やSNSには対応しておらず、使えるのは通話、SMS、カメラ、端末"
+      "summary": "高まるAI需要を背景に半導体やサーバーの輸出が急増している台湾で20日、1人当たり2万台湾ドル（約10万円）を全民に給付する特別条例が可決されました。これとは別に、頼清徳総統は8月、「AI紅利（AI配"
     },
     {
       "category": "スポーツ",
-      "title": "「三笘の1mm」野球ではファウルに",
-      "link": "https://news.yahoo.co.jp/pickup/6604209?source=rss",
-      "published": "11/27 17:20",
+      "title": "ライン際の球への息吹きNG 野球",
+      "link": "https://news.yahoo.co.jp/pickup/6604234?source=rss",
+      "published": "11/27 20:54",
       "source": "Yahoo!ニュース",
-      "summary": "プロ、アマの審判員や記録員で構成されている日本野球規則委員会は２７日、２０２７年度の野球規則改正を発表した。 例年通り、改正点の多くは前年の米国での規則改正に準拠したもの。「フェアボールの定義」の一"
+      "summary": "プロ、アマの審判員や記録員で構成されている日本野球規則委員会は２７日、２０２７年度の野球規則改正を発表した。"
     },
     {
       "category": "IT",
-      "title": "「AI関連の需要強い」京セラ　5年で設備投資9000億円、データセンター需要狙う",
-      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003521/",
-      "published": "11/27 16:19",
+      "title": "「時給1280円?」「在宅勤務」　ローソンが募集する「アバターオペレーター」という謎のお仕事",
+      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003511/",
+      "published": "11/27 15:42",
       "source": "ITmedia",
-      "summary": "京セラは26日、2031年3月期までの5年間で設備投資に計9000億円を投じると発表した。人工知能（AI）の普及に伴って拡大するデータセンターや半導体関連の需要の取り込みを狙う。これとは別に研究開発にも5年間で6500億円を投資する。"
+      "summary": "ローソンは10月16日、在宅でアバターを操作して接客する「ローソンアバターオペレーター」の募集を始めた。導入店舗の数や効果、接客をAIではなく人が担う理由などを同社に聞いた。"
     },
     {
       "category": "主要",
-      "title": "関氏18年食事会で300万円収入計上",
-      "link": "https://news.yahoo.co.jp/pickup/6604244?source=rss",
-      "published": "11/27 23:08",
+      "title": "高橋光成Dバックスと合意 米報道",
+      "link": "https://news.yahoo.co.jp/pickup/6604256?source=rss",
+      "published": "11/28 07:44",
       "source": "Yahoo!ニュース",
-      "summary": "関芳弘文科大臣（61）が主催する少人数の食事会で、総額300万円もの政治資金パーティとしての収入が計上されていたことが 「週刊文春」 の取材で分かった。政治資金パーティではなく実質的には寄附を集める"
+      "summary": "複数の米メディアは27日、西武から海外FAとなった高橋光成（29）がアリゾナ・ダイヤモンドバックスと単年契約で合意したと報じた。代理人のジョエル・ウルフ氏は今月のGM会議で、高橋について「12月1日"
     },
     {
       "category": "社会",
@@ -123,54 +171,6 @@
     },
     {
       "category": "AI・テクノロジー",
-      "title": "AIの果実を国民へ 米台韓で動き",
-      "link": "https://news.yahoo.co.jp/pickup/6604165?source=rss",
-      "published": "11/27 13:24",
-      "source": "Yahoo!ニュース",
-      "summary": "高まるAI需要を背景に半導体やサーバーの輸出が急増している台湾で20日、1人当たり2万台湾ドル（約10万円）を全民に給付する特別条例が可決されました。これとは別に、頼清徳総統は8月、「AI紅利（AI配"
-    },
-    {
-      "category": "スポーツ",
-      "title": "ぱんちゃん璃奈 契約イベ出場停止",
-      "link": "https://news.yahoo.co.jp/pickup/6604189?source=rss",
-      "published": "11/27 15:18",
-      "source": "Yahoo!ニュース",
-      "summary": "12月30日「KNOCK OUT.71」に出場予定だった 格闘技イベント「KNOCK OUT」は27日、ぱんちゃん璃奈の逮捕報道を受けて、公式SNSなどで「事実関係が明らかになるまでの間、同選手の当"
-    },
-    {
-      "category": "IT",
-      "title": "「時給1280円?」「在宅勤務」　ローソンが募集する「アバターオペレーター」という謎のお仕事",
-      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003511/",
-      "published": "11/27 15:42",
-      "source": "ITmedia",
-      "summary": "ローソンは10月16日、在宅でアバターを操作して接客する「ローソンアバターオペレーター」の募集を始めた。導入店舗の数や効果、接客をAIではなく人が担う理由などを同社に聞いた。"
-    },
-    {
-      "category": "主要",
-      "title": "舞妓を狙う観光客の迷惑行為 拍車",
-      "link": "https://news.yahoo.co.jp/pickup/6604239?source=rss",
-      "published": "11/27 22:00",
-      "source": "Yahoo!ニュース",
-      "summary": "紅葉シーズンを迎え、国内外の観光客でにぎわう京都。人気の観光スポット「祇園」では、舞妓（まいこ）さんたちが移動するタイミングを狙った迷惑行為が相次いでいます。"
-    },
-    {
-      "category": "社会",
-      "title": "文科相の問責決議案 紙一重の否決",
-      "link": "https://news.yahoo.co.jp/pickup/6604218?source=rss",
-      "published": "11/27 18:13",
-      "source": "Yahoo!ニュース",
-      "summary": "関文部科学大臣に出されていた問責決議案。きょう、わずか4票差で否決されました。"
-    },
-    {
-      "category": "経済",
-      "title": "マック 休止の新チキン商品再開へ",
-      "link": "https://news.yahoo.co.jp/pickup/6604171?source=rss",
-      "published": "11/27 12:20",
-      "source": "Yahoo!ニュース",
-      "summary": "■待っていたファンに「心より御礼申し上げます」 日本マクドナルドは27日、一時販売を休止していたチキンバーガーの「ザクザクジューシーマック」シリーズおよびサイドメニューの「ザクザクジューシーももチキ"
-    },
-    {
-      "category": "AI・テクノロジー",
       "title": "「ひとり情シス」役場職員の不安",
       "link": "https://news.yahoo.co.jp/pickup/6604146?source=rss",
       "published": "11/27 08:57",
@@ -179,11 +179,11 @@
     },
     {
       "category": "スポーツ",
-      "title": "紀平緊張も笑顔 りかしん自己最高",
-      "link": "https://news.yahoo.co.jp/pickup/6604186?source=rss",
-      "published": "11/27 14:28",
+      "title": "「三笘の1mm」野球ではファウルに",
+      "link": "https://news.yahoo.co.jp/pickup/6604209?source=rss",
+      "published": "11/27 17:20",
       "source": "Yahoo!ニュース",
-      "summary": "◇フィギュアスケート グランプリ（ＧＰ）シリーズ第６戦 ＮＨＫ杯 第１日（２７日、京王アリーナ東京） アイスダンスのリズムダンス（ＲＤ）が行われ、紀平梨花（鹿島）、西山真瑚（オリエンタルバイオ）組が"
+      "summary": "プロ、アマの審判員や記録員で構成されている日本野球規則委員会は２７日、２０２７年度の野球規則改正を発表した。 例年通り、改正点の多くは前年の米国での規則改正に準拠したもの。「フェアボールの定義」の一"
     },
     {
       "category": "IT",
@@ -195,59 +195,11 @@
     },
     {
       "category": "主要",
-      "title": "森下暢仁 去就巡り「悩んでいる」",
-      "link": "https://news.yahoo.co.jp/pickup/6604240?source=rss",
-      "published": "11/27 21:37",
+      "title": "北島三郎 白組演歌「0」に理解",
+      "link": "https://news.yahoo.co.jp/pickup/6604257?source=rss",
+      "published": "11/28 07:42",
       "source": "Yahoo!ニュース",
-      "summary": "国内フリーエージェント（ＦＡ）権を行使し、去就が注目されている広島の森下暢仁投手が２７日、広島・廿日市市内でバッテリー会ゴルフに参加した。注目の去就について「今すぐにでも答え出したいんですけど、悩ん"
-    },
-    {
-      "category": "社会",
-      "title": "関東など 朝にかけ大雨になる所も",
-      "link": "https://news.yahoo.co.jp/pickup/6604206?source=rss",
-      "published": "11/27 17:15",
-      "source": "Yahoo!ニュース",
-      "summary": "けさは、沖縄で大雨になり、線状降水帯も発生しました。大雨のピークは過ぎましたが、引き続き、土砂災害などに注意が必要です。あす28日(土)にかけては雨の中心が本州付近へと移り、関東など大雨になる所もあ"
-    },
-    {
-      "category": "経済",
-      "title": "「バブみ」メイク 下まぶたがキモ",
-      "link": "https://news.yahoo.co.jp/pickup/6604169?source=rss",
-      "published": "11/27 12:12",
-      "source": "Yahoo!ニュース",
-      "summary": "目の下から上唇までの範囲をさす「中顔面」（ちゅうがんめん）。イマこの中顔面を“短くする”メイクや専用メガネが話題になっています。一体どうやって顔の余白をなくすのか?"
-    },
-    {
-      "category": "AI・テクノロジー",
-      "title": "実刑判決 AIとの会話履歴が証拠に",
-      "link": "https://news.yahoo.co.jp/pickup/6604140?source=rss",
-      "published": "11/27 08:28",
-      "source": "Yahoo!ニュース",
-      "summary": "ドイツから合成麻薬「ＭＤＭＡ」を密輸したとして、麻薬取締法違反などに問われた被告の男（３５）に対し、東京地裁は２６日、拘禁刑８年、罰金５００万円（求刑・拘禁刑１４年、罰金８００万円）の判決を言い渡し"
-    },
-    {
-      "category": "スポーツ",
-      "title": "年俸347%増 カープ辰見鴻之介更改",
-      "link": "https://news.yahoo.co.jp/pickup/6604185?source=rss",
-      "published": "11/27 14:09",
-      "source": "Yahoo!ニュース",
-      "summary": "広島・辰見鴻之介内野手が２７日、マツダ内の球団事務所で契約更改交渉に臨み、１６３０万円アップの２１００万円でサインした（金額は推定）。昇給分は愛車のカスタム費用に使う予定。「カスタムが楽しい車なので"
-    },
-    {
-      "category": "IT",
-      "title": "聴覚障害の社員にスマートグラス支給　会話をリアルタイムに文字表示　ソフトバンク、連携アプリも独自開発",
-      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003516/",
-      "published": "11/27 13:41",
-      "source": "ITmedia",
-      "summary": "外部のサーバを介さずにスマホ内で音声認識処理と文字起こしを完結させ、文字起こしした内容をスマートグラスに表示する。"
-    },
-    {
-      "category": "主要",
-      "title": "米ネトフリ 日本作品への投資拡大",
-      "link": "https://news.yahoo.co.jp/pickup/6604237?source=rss",
-      "published": "11/27 21:24",
-      "source": "Yahoo!ニュース",
-      "summary": "動画配信サービス「Netflix」は27日、日本のクリエイターとともに作品を製作し、世界へ届けるための複数年にわたる取り組み「ウィズ・ジャパン～コンテンツ産業の未来を、ともに～」を発表した。日本作品"
+      "summary": "演歌歌手の北島三郎（90）が27日、東京・J：COMホール八王子で行われたコンサート「令和・歌の祭典2026」に出演した。公演には北島ファミリーの弟子や歌仲間ら23人が駆けつけて“北島まつり”となっ"
     },
     {
       "category": "社会",
@@ -259,11 +211,51 @@
     },
     {
       "category": "経済",
-      "title": "JTなど 英たばこ大手買収検討か",
-      "link": "https://news.yahoo.co.jp/pickup/6604136?source=rss",
-      "published": "11/27 07:56",
+      "title": "マック 休止の新チキン商品再開へ",
+      "link": "https://news.yahoo.co.jp/pickup/6604171?source=rss",
+      "published": "11/27 12:20",
       "source": "Yahoo!ニュース",
-      "summary": "米ブルームバーグ通信は２６日、日本たばこ産業（ＪＴ）と米たばこ大手アルトリア・グループが、英たばこ大手インペリアル・ブランズの買収を検討していると報じた。インペリアルの株式時価総額は約５兆４０００億"
+      "summary": "■待っていたファンに「心より御礼申し上げます」 日本マクドナルドは27日、一時販売を休止していたチキンバーガーの「ザクザクジューシーマック」シリーズおよびサイドメニューの「ザクザクジューシーももチキ"
+    },
+    {
+      "category": "AI・テクノロジー",
+      "title": "実刑判決 AIとの会話履歴が証拠に",
+      "link": "https://news.yahoo.co.jp/pickup/6604140?source=rss",
+      "published": "11/27 08:28",
+      "source": "Yahoo!ニュース",
+      "summary": "ドイツから合成麻薬「ＭＤＭＡ」を密輸したとして、麻薬取締法違反などに問われた被告の男（３５）に対し、東京地裁は２６日、拘禁刑８年、罰金５００万円（求刑・拘禁刑１４年、罰金８００万円）の判決を言い渡し"
+    },
+    {
+      "category": "スポーツ",
+      "title": "ぱんちゃん璃奈 契約イベ出場停止",
+      "link": "https://news.yahoo.co.jp/pickup/6604189?source=rss",
+      "published": "11/27 15:18",
+      "source": "Yahoo!ニュース",
+      "summary": "12月30日「KNOCK OUT.71」に出場予定だった 格闘技イベント「KNOCK OUT」は27日、ぱんちゃん璃奈の逮捕報道を受けて、公式SNSなどで「事実関係が明らかになるまでの間、同選手の当"
+    },
+    {
+      "category": "IT",
+      "title": "聴覚障害の社員にスマートグラス支給　会話をリアルタイムに文字表示　ソフトバンク、連携アプリも独自開発",
+      "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003516/",
+      "published": "11/27 13:41",
+      "source": "ITmedia",
+      "summary": "外部のサーバを介さずにスマホ内で音声認識処理と文字起こしを完結させ、文字起こしした内容をスマートグラスに表示する。"
+    },
+    {
+      "category": "主要",
+      "title": "「かっぱ寿司」なぜ赤字に転落",
+      "link": "https://news.yahoo.co.jp/pickup/6604250?source=rss",
+      "published": "11/28 07:26",
+      "source": "Yahoo!ニュース",
+      "summary": "回転すしチェーンの「かっぱ寿司」は、業界のパイオニアとして知られている。同社は1979年に長野市で1号店を出店し、1皿100円ですしを提供する低価格路線で成長。1984年に関東へ進出し、1990年代"
+    },
+    {
+      "category": "経済",
+      "title": "「バブみ」メイク 下まぶたがキモ",
+      "link": "https://news.yahoo.co.jp/pickup/6604169?source=rss",
+      "published": "11/27 12:12",
+      "source": "Yahoo!ニュース",
+      "summary": "目の下から上唇までの範囲をさす「中顔面」（ちゅうがんめん）。イマこの中顔面を“短くする”メイクや専用メガネが話題になっています。一体どうやって顔の余白をなくすのか?"
     },
     {
       "category": "AI・テクノロジー",
@@ -275,11 +267,11 @@
     },
     {
       "category": "スポーツ",
-      "title": "うたまさNHK杯棄権 森田が涙",
-      "link": "https://news.yahoo.co.jp/pickup/6604173?source=rss",
-      "published": "11/27 12:28",
+      "title": "紀平緊張も笑顔 りかしん自己最高",
+      "link": "https://news.yahoo.co.jp/pickup/6604186?source=rss",
+      "published": "11/27 14:28",
       "source": "Yahoo!ニュース",
-      "summary": "◆フィギュアスケート グランプリ（ＧＰ）シリーズ第６戦 ＮＨＫ杯 第１日（２７日、京王アリーナ東京）日本スケート連盟は２７日、アイスダンスでミラノ・コルティナ五輪団体銀メダルの吉田唄菜、森田真沙也（"
+      "summary": "◇フィギュアスケート グランプリ（ＧＰ）シリーズ第６戦 ＮＨＫ杯 第１日（２７日、京王アリーナ東京） アイスダンスのリズムダンス（ＲＤ）が行われ、紀平梨花（鹿島）、西山真瑚（オリエンタルバイオ）組が"
     },
     {
       "category": "IT",
@@ -291,19 +283,19 @@
     },
     {
       "category": "主要",
-      "title": "Suicaペンギンの銅像 春にも撤去",
-      "link": "https://news.yahoo.co.jp/pickup/6604221?source=rss",
-      "published": "11/27 18:49",
+      "title": "阪神 FAの中川圭太と契約合意",
+      "link": "https://news.yahoo.co.jp/pickup/6604249?source=rss",
+      "published": "11/28 07:20",
       "source": "Yahoo!ニュース",
-      "summary": "JR新宿駅前の待ち合わせスポットとして親しまれてきたペンギンの銅像（東京都渋谷区）が、来春にも撤去されることがわかった。ペンギンは四半世紀にわたってJR東日本のICカード「Suica（スイカ）」のイ"
+      "summary": "阪神が、オリックスから国内フリーエージェント（ＦＡ）権を行使した中川圭太内野手（３０）と契約合意に至ったことが２７日、分かった。近く正式発表される。今オフ、球団は８年ぶりにＦＡ市場に参戦。今月２４日"
     },
     {
       "category": "経済",
-      "title": "アメ横周辺の道に机 営業停止処分",
-      "link": "https://news.yahoo.co.jp/pickup/6604126?source=rss",
-      "published": "11/27 06:20",
+      "title": "JTなど 英たばこ大手買収検討か",
+      "link": "https://news.yahoo.co.jp/pickup/6604136?source=rss",
+      "published": "11/27 07:56",
       "source": "Yahoo!ニュース",
-      "summary": "東京・上野のアメ横商店街周辺の路上で、飲食客のための机や椅子を並べ、道路を不正に使用したとして、東京都公安委員会が居酒屋「おきなわハイサイ酒場はなれ」（東京都台東区上野6丁目）に風俗営業法に基づき2"
+      "summary": "米ブルームバーグ通信は２６日、日本たばこ産業（ＪＴ）と米たばこ大手アルトリア・グループが、英たばこ大手インペリアル・ブランズの買収を検討していると報じた。インペリアルの株式時価総額は約５兆４０００億"
     },
     {
       "category": "AI・テクノロジー",
@@ -312,14 +304,6 @@
       "published": "11/26 11:46",
       "source": "Yahoo!ニュース",
       "summary": "米連邦通信委員会（FCC）は11月25日（現地時間）、米SpaceXがAIの計算処理を担う衛星を最大100万基打ち上げ、宇宙に大規模なデータセンターを構築する計画を条件付きで認可した。"
-    },
-    {
-      "category": "スポーツ",
-      "title": "元広島・田村俊介 オイシックスへ",
-      "link": "https://news.yahoo.co.jp/pickup/6604170?source=rss",
-      "published": "11/27 12:19",
-      "source": "Yahoo!ニュース",
-      "summary": "オイシックスが発表した ファーム・リーグ東地区に所属するオイシックス新潟アルビレックス・ベースボール・クラブは27日、元広島の田村俊介外野手と契約合意に至ったと発表した。背番号などは未定。23歳の若"
     },
     {
       "category": "IT",
@@ -331,11 +315,11 @@
     },
     {
       "category": "主要",
-      "title": "露指示とされる破壊工作 欧州激化",
-      "link": "https://news.yahoo.co.jp/pickup/6604208?source=rss",
-      "published": "11/27 17:37",
+      "title": "関氏18年食事会で300万円収入計上",
+      "link": "https://news.yahoo.co.jp/pickup/6604244?source=rss",
+      "published": "11/27 23:08",
       "source": "Yahoo!ニュース",
-      "summary": "（CNN） ロシアの指示によるものとされる破壊工作が欧州で激化している。ロシア政府は鉄道路線や空港、エネルギー供給網のようなインフラを標的にしているとされ、英国際戦略研究所（IISS）は26日の報告"
+      "summary": "関芳弘文科大臣（61）が主催する少人数の食事会で、総額300万円もの政治資金パーティとしての収入が計上されていたことが 「週刊文春」 の取材で分かった。政治資金パーティではなく実質的には寄附を集める"
     },
     {
       "category": "AI・テクノロジー",
